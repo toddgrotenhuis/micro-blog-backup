@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/19/this-is-a.html",
+				
+				"content_html": "<p><a href=\"https://www.theguardian.com/us-news/ng-interactive/2021/jun/17/tree-rings-america-megadrought-visual\">this is a helpful visualization about the drought in the US West</a> 🌲🌳</p>\n",
+				"content_text": "[this is a helpful visualization about the drought in the US West](https://www.theguardian.com/us-news/ng-interactive/2021/jun/17/tree-rings-america-megadrought-visual) 🌲🌳\n",
+				"date_published": "2021-06-19T08:49:40-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/19/this-is-a.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/18/new-fear-factory.html",
+				
+				"content_html": "<p><a href=\"https://music.youtube.com/playlist?list=OLAK5uy_kgAKSptYQL4755KctHIyDkYkwJzO4gOnE&amp;feature=share\">New Fear Factory</a> sounds more like the old stuff. 🎶👍</p>\n",
+				"content_text": "[New Fear Factory](https://music.youtube.com/playlist?list=OLAK5uy_kgAKSptYQL4755KctHIyDkYkwJzO4gOnE&feature=share) sounds more like the old stuff. 🎶👍\n",
+				"date_published": "2021-06-18T10:59:33-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/18/new-fear-factory.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/16/these-new-uswnt.html",
+				
+				"content_html": "<p>These new USWNT ⚽️ jerseys are rad</p>\n\n<p><img src=\"uploads/2021/f4c18272da.png\" width=\"540\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "These new USWNT ⚽️ jerseys are rad\n\n<img src=\"uploads/2021/f4c18272da.png\" width=\"540\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-06-16T22:18:46-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/16/these-new-uswnt.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/06/13/when-i-put.html",
 				
 				"content_html": "<p>When I put my sun shirt on to go play outside, my spouse calls me “her Aiel” 😆☀️🍃</p>\n",
@@ -25,42 +52,6 @@
 				"tags": ["Books","micro posts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/12/industrial-didnt-make.html",
-				
-				"content_html": "<p>Industrial didn&rsquo;t make my top 5 music styles last week. What? 🎶 #MetalMennonite</p>\n\n<ol>\n<li>Metalcore</li>\n<li>Metal</li>\n<li>Rock</li>\n<li>New Age</li>\n<li>Progressive Metal</li>\n</ol>\n\n<p><img src=\"uploads/2021/26939c1134.jpg\" width=\"600\" height=\"455\" alt=\"\" /></p>\n",
-				"content_text": "Industrial didn't make my top 5 music styles last week. What? 🎶 #MetalMennonite\n\n1. Metalcore\n2. Metal\n3. Rock\n4. New Age\n5. Progressive Metal\n\n\n\n<img src=\"uploads/2021/26939c1134.jpg\" width=\"600\" height=\"455\" alt=\"\" />\n",
-				"date_published": "2021-06-12T16:36:41-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/12/industrial-didnt-make.html",
-				"tags": ["Music","micro posts","MetalMennonite"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/12/just-now-realizing.html",
-				
-				"content_html": "<p>Just now realizing that Orangina is basically a non-alcoholic mimosa. 🍊🍾</p>\n",
-				"content_text": "Just now realizing that Orangina is basically a non-alcoholic mimosa. 🍊🍾\n",
-				"date_published": "2021-06-12T13:28:36-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/12/just-now-realizing.html",
-				"tags": ["micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/11/ways-i-compliment.html",
-				
-				"content_html": "<p>Ways I compliment my wife, part 24533:</p>\n\n<blockquote>\n<p>“thanks for not being an ‘Instagram person’”</p>\n</blockquote>\n",
-				"content_text": "Ways I compliment my wife, part 24533:\n\n> “thanks for not being an ‘Instagram person’”\n",
-				"date_published": "2021-06-11T18:09:30-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/11/ways-i-compliment.html",
-				"tags": ["micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/10/were-finally-getting.html",
-				
-				"content_html": "<p>We’re finally getting our cicada party going 🎉📢</p>\n",
-				"content_text": "We’re finally getting our cicada party going 🎉📢\n",
-				"date_published": "2021-06-10T17:47:03-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/10/were-finally-getting.html",
-				"tags": ["micro posts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/06/09/finished-reading-a.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780312614164\">A Rule Against Murder</a> by Louise Penny 📚 ⭐⭐⭐</p>\n",
@@ -68,24 +59,6 @@
 				"date_published": "2021-06-09T20:54:55-04:00",
 				"url": "https://blog.grotenhuis.info/2021/06/09/finished-reading-a.html",
 				"tags": ["Books","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/08/enjoying-the-fireflies.html",
-				
-				"content_html": "<p>Enjoying the fireflies as I take the dogs out, tonight.</p>\n",
-				"content_text": "Enjoying the fireflies as I take the dogs out, tonight.\n",
-				"date_published": "2021-06-08T21:53:25-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/08/enjoying-the-fireflies.html",
-				"tags": ["micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/07/wearing-my-nd.html",
-				
-				"content_html": "<p>Wearing my 2nd favorite #USMNT ⚽️ jersey to work today.</p>\n",
-				"content_text": "Wearing my 2nd favorite #USMNT ⚽️ jersey to work today.\n",
-				"date_published": "2021-06-07T07:43:36-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/07/wearing-my-nd.html",
-				"tags": ["Soccer","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/06/07/what-a-game.html",
@@ -106,33 +79,6 @@
 				"tags": ["Soccer","micro posts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/06/wrong-dos-a.html",
-				
-				"content_html": "<p>Wrong dos a cero, guys ⚽️ #USMNT</p>\n",
-				"content_text": "Wrong dos a cero, guys ⚽️ #USMNT\n",
-				"date_published": "2021-06-06T22:00:44-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/06/wrong-dos-a.html",
-				"tags": ["Soccer","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/06/lets-go-usmnt.html",
-				
-				"content_html": "<p>Let’s go #USMNT. Let’s have a dos a cero ⚽️</p>\n",
-				"content_text": "Let’s go #USMNT. Let’s have a dos a cero ⚽️\n",
-				"date_published": "2021-06-06T21:35:05-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/06/lets-go-usmnt.html",
-				"tags": ["Soccer","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/06/i-would-like.html",
-				
-				"content_html": "<p>I would like to get the Kobo Elipsa but the <a href=\"https://help.readwise.io/article/82-does-readwise-support-kobo-highlights\">lack of Readwise support</a> makes it a no-go.</p>\n",
-				"content_text": "I would like to get the Kobo Elipsa but the [lack of Readwise support](https://help.readwise.io/article/82-does-readwise-support-kobo-highlights) makes it a no-go.\n",
-				"date_published": "2021-06-06T16:14:46-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/06/i-would-like.html",
-				"tags": ["micro posts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/06/06/decent-spot-to.html",
 				
 				"content_html": "<p>Decent spot to start <a href=\"https://micro.blog/books/9781922267306\">The Backyard Adventurer</a> 📚</p>\n\n<p>Lots of runoff creeks and urban ponds in my &ldquo;backyard&rdquo; area.</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/7719465f07.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
@@ -140,15 +86,6 @@
 				"date_published": "2021-06-06T10:11:14-04:00",
 				"url": "https://blog.grotenhuis.info/2021/06/06/decent-spot-to.html",
 				"tags": ["Books","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/03/way-to-go.html",
-				
-				"content_html": "<p>Way to go #USMNT ⚽️</p>\n",
-				"content_text": "Way to go #USMNT ⚽️\n",
-				"date_published": "2021-06-03T21:30:17-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/03/way-to-go.html",
-				"tags": ["Soccer","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/06/03/im-surprised-that.html",
@@ -205,15 +142,6 @@
 				"tags": ["full posts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/05/25/best-way-to.html",
-				
-				"content_html": "<p>Best way to get Australian books in the USA? Specifically interested in <a href=\"https://micro.blog/books/9781925589672\">The Backyard Adventurer</a> by Beau Miles 📚</p>\n",
-				"content_text": "Best way to get Australian books in the USA? Specifically interested in [The Backyard Adventurer](https://micro.blog/books/9781925589672) by Beau Miles 📚\n",
-				"date_published": "2021-05-25T07:55:51-04:00",
-				"url": "https://blog.grotenhuis.info/2021/05/25/best-way-to.html",
-				"tags": ["Books","micro posts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/05/24/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780525657217\">The Resisters: A novel</a> by Gish Jen 📚</p>\n\n<p>⭐️⭐️⭐️⭐️ Really fun book about baseball that&rsquo;s not about baseball at all.</p>\n",
@@ -261,29 +189,11 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/05/18/i-like-to.html",
 				
-				"content_html": "<p>🎶 I like to listen to albums. But I also just like to shuffle…sort of. This is how I “smart shuffle”:</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/2b7cfec9dd.jpg\" width=\"600\" height=\"182\" alt=\"\" /></p>\n",
-				"content_text": "🎶 I like to listen to albums. But I also just like to shuffle…sort of. This is how I “smart shuffle”:\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/2b7cfec9dd.jpg\" width=\"600\" height=\"182\" alt=\"\" />\n",
+				"content_html": "<p>🎶 I like to listen to albums. But I also just like to shuffle…sort of. This is how I “smart shuffle”:</p>\n\n<p><img src=\"uploads/2021/2b7cfec9dd.jpg\" width=\"600\" height=\"182\" alt=\"\" /></p>\n",
+				"content_text": "🎶 I like to listen to albums. But I also just like to shuffle…sort of. This is how I “smart shuffle”:\n\n<img src=\"uploads/2021/2b7cfec9dd.jpg\" width=\"600\" height=\"182\" alt=\"\" />\n",
 				"date_published": "2021-05-18T12:32:18-04:00",
 				"url": "https://blog.grotenhuis.info/2021/05/18/i-like-to.html",
 				"tags": ["Music","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/05/18/currently-reading-noise.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316451406\">Noise: A Flaw in Human Judgment</a> by Daniel Kahneman 📚</p>\n",
-				"content_text": "Currently reading: [Noise: A Flaw in Human Judgment](https://micro.blog/books/9780316451406) by Daniel Kahneman 📚\n",
-				"date_published": "2021-05-18T09:44:04-04:00",
-				"url": "https://blog.grotenhuis.info/2021/05/18/currently-reading-noise.html",
-				"tags": ["Books","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/05/16/where-blood-and.html",
-				
-				"content_html": "<p><a href=\"https://officialzao.bandcamp.com/album/where-blood-and-fire-bring-rest\">Where Blood And Fire Bring Rest - Zao</a> is still one of a few rare perfect albums. #MetalMennonite 🎶</p>\n",
-				"content_text": "[Where Blood And Fire Bring Rest - Zao](https://officialzao.bandcamp.com/album/where-blood-and-fire-bring-rest) is still one of a few rare perfect albums. #MetalMennonite 🎶\n",
-				"date_published": "2021-05-16T19:57:29-04:00",
-				"url": "https://blog.grotenhuis.info/2021/05/16/where-blood-and.html",
-				"tags": ["Music","micro posts","MetalMennonite"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/05/15/finished-reading-interior.html",
@@ -293,24 +203,6 @@
 				"date_published": "2021-05-15T19:32:51-04:00",
 				"url": "https://blog.grotenhuis.info/2021/05/15/finished-reading-interior.html",
 				"tags": ["Books","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/05/14/there-were-some.html",
-				
-				"content_html": "<p>🎶 There were some great music releases today, so I&rsquo;m trying a new thing. <a href=\"https://music.youtube.com/playlist?list=PL29hHkiUaATcExuhxr_ZfEMMgPmFmFSmD&amp;feature=share\">Here&rsquo;s a micro playlist I threw together</a> with some tracks from each of the releases. #MetalMennonite</p>\n",
-				"content_text": "🎶 There were some great music releases today, so I'm trying a new thing. [Here's a micro playlist I threw together](https://music.youtube.com/playlist?list=PL29hHkiUaATcExuhxr_ZfEMMgPmFmFSmD&feature=share) with some tracks from each of the releases. #MetalMennonite\n",
-				"date_published": "2021-05-14T14:41:23-04:00",
-				"url": "https://blog.grotenhuis.info/2021/05/14/there-were-some.html",
-				"tags": ["Music","micro posts","MetalMennonite"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/05/10/there-are-so.html",
-				
-				"content_html": "<p>There are so many <a href=\"https://en.wikipedia.org/wiki/Ad_Noiseam\">Ad Noiseam</a> albums I missed out on, and are now virtually impossible to find except on streaming sites. Wish the full back catalog could be made available for purchase. There&rsquo;s never been a label like this, and probably never will be again. 🎶</p>\n",
-				"content_text": "There are so many [Ad Noiseam](https://en.wikipedia.org/wiki/Ad_Noiseam) albums I missed out on, and are now virtually impossible to find except on streaming sites. Wish the full back catalog could be made available for purchase. There's never been a label like this, and probably never will be again. 🎶\n",
-				"date_published": "2021-05-10T23:12:16-04:00",
-				"url": "https://blog.grotenhuis.info/2021/05/10/there-are-so.html",
-				"tags": ["Music","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/05/09/finished-reading-gods.html",
@@ -328,15 +220,6 @@
 				"content_text": "Finished reading: [Parable of the Sower (Earthseed #1) ⭐️⭐️⭐️⭐️](https://micro.blog/books/9781538732182) by Octavia Butler ([my notes](https://www.craft.do/s/vstvg5xSpaJxwl)) 📚\n",
 				"date_published": "2021-05-09T19:56:50-04:00",
 				"url": "https://blog.grotenhuis.info/2021/05/09/finished-reading-parable.html",
-				"tags": ["Books","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/05/09/finished-reading-rhythm.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765326386\">Rhythm of War (⭐️⭐️)</a> by Brandon Sanderson 📚 (<a href=\"https://www.craft.do/s/EkWEexa1gymsT2\">notes</a>)</p>\n",
-				"content_text": "Finished reading: [Rhythm of War (⭐️⭐️)](https://micro.blog/books/9780765326386) by Brandon Sanderson 📚 ([notes](https://www.craft.do/s/EkWEexa1gymsT2))\n",
-				"date_published": "2021-05-09T14:08:00-04:00",
-				"url": "https://blog.grotenhuis.info/2021/05/09/finished-reading-rhythm.html",
 				"tags": ["Books","micro posts"]
 			},
 			{
