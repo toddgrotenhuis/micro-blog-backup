@@ -7,6 +7,114 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/28/that-was-a.html",
+				
+				"content_html": "<p>That was a great header from &ldquo;Dave&rdquo; #ESP #CFC ⚽️</p>\n",
+				"content_text": "That was a great header from \"Dave\" #ESP #CFC ⚽️\n",
+				"date_published": "2021-06-28T13:33:15-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/28/that-was-a.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/28/have-i-mentioned.html",
+				
+				"content_html": "<p>🎶 Have I mentioned <em>Oceans of Slumber</em> lately? If you&rsquo;re not familiar, go check out <a href=\"https://music.youtube.com/playlist?list=OLAK5uy_mI_PsczQ7NoIY_MabWQqUmNRMd8E6Qd5Y&amp;feature=share\">The Banished Heart</a> #MetalMennonite</p>\n",
+				"content_text": "🎶 Have I mentioned _Oceans of Slumber_ lately? If you're not familiar, go check out [The Banished Heart](https://music.youtube.com/playlist?list=OLAK5uy_mI_PsczQ7NoIY_MabWQqUmNRMd8E6Qd5Y&feature=share) #MetalMennonite \n",
+				"date_published": "2021-06-28T09:33:45-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/28/have-i-mentioned.html",
+				"tags": ["Music","micro posts","MetalMennonite"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/28/the-enhancementsintegrations-in.html",
+				
+				"content_html": "<p>The enhancements/integrations in the Google Suite lately have been really good. e.g.:</p>\n\n<ul>\n<li>“@&rdquo; linking enhancements, including across docs</li>\n<li>chat.google.com integrations</li>\n</ul>\n\n<p>Unfortunately their track record is to repeatedly kill off good things, or this would make that suite enticing.</p>\n",
+				"content_text": "The enhancements/integrations in the Google Suite lately have been really good. e.g.:\n\n* “@\" linking enhancements, including across docs\n* chat.google.com integrations\n\nUnfortunately their track record is to repeatedly kill off good things, or this would make that suite enticing.\n",
+				"date_published": "2021-06-28T09:19:45-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/28/the-enhancementsintegrations-in.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/27/ronaldo-is-such.html",
+				
+				"content_html": "<p>Ronaldo is such a diva.</p>\n",
+				"content_text": "Ronaldo is such a diva.\n",
+				"date_published": "2021-06-27T15:23:27-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/27/ronaldo-is-such.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/27/lets-go-bel.html",
+				
+				"content_html": "<p>Let&rsquo;s go #BEL. Bring it back for Benelux ⚽️</p>\n",
+				"content_text": "Let's go #BEL. Bring it back for Benelux ⚽️\n",
+				"date_published": "2021-06-27T15:02:47-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/27/lets-go-bel.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/27/feeling-de-jekted.html",
+				
+				"content_html": "<p>Feeling De Jekted about this game so far ⚽️ #NED</p>\n",
+				"content_text": "Feeling De Jekted about this game so far ⚽️ #NED\n",
+				"date_published": "2021-06-27T13:38:51-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/27/feeling-de-jekted.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/27/lets-go-ned.html",
+				
+				"content_html": "<p>Let&rsquo;s go #NED ⚽️</p>\n",
+				"content_text": "Let's go #NED ⚽️\n",
+				"date_published": "2021-06-27T12:02:48-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/27/lets-go-ned.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/26/woohoo-i-broke.html",
+				
+				"content_html": "<p>Woohoo! I broke #50 on the <a href=\"https://readwise.io/i/todd54\">readwise.io</a> leaderboard! 📚</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/83c4eaeeb0.png\" width=\"600\" height=\"592\" alt=\"\" /></p>\n",
+				"content_text": "Woohoo! I broke #50 on the [readwise.io](https://readwise.io/i/todd54) leaderboard! 📚\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/83c4eaeeb0.png\" width=\"600\" height=\"592\" alt=\"\" />\n",
+				"date_published": "2021-06-26T14:45:40-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/26/woohoo-i-broke.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/26/simple-ddg-vs.html",
+				
+				"content_html": "<p>Simple DDG vs Brave search engine test:</p>\n\n<p>Searched for my name on both. Brave gave more “commercial” results (services to look me up or that try to aggregate my info for sales). DDG gave more “personal” results (my sites and profiles on some services).</p>\n",
+				"content_text": "Simple DDG vs Brave search engine test:\n\nSearched for my name on both. Brave gave more “commercial” results (services to look me up or that try to aggregate my info for sales). DDG gave more “personal” results (my sites and profiles on some services).\n",
+				"date_published": "2021-06-26T07:24:51-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/26/simple-ddg-vs.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/24/from-on-conspiracy.html",
+				
+				"content_html": "<p><img src=\"uploads/2021/920588f53b.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n\n<p>From <a href=\"http://experimentaltheology.blogspot.com/2021/06/on-conspiracy-theories-and-christianity_01850058872.html\">On Conspiracy Theories and Christianity: Part 7, We All Want to Live a Heroic Life</a>.</p>\n\n<p>Reminds me of how I&rsquo;ve never met any &ldquo;double-predestination&rdquo; folks who think they aren&rsquo;t one of the elect.</p>\n",
+				"content_text": "<img src=\"uploads/2021/920588f53b.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n\nFrom [On Conspiracy Theories and Christianity: Part 7, We All Want to Live a Heroic Life](http://experimentaltheology.blogspot.com/2021/06/on-conspiracy-theories-and-christianity_01850058872.html).\n\nReminds me of how I've never met any \"double-predestination\" folks who think they aren't one of the elect.\n",
+				"date_published": "2021-06-24T08:36:00-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/24/from-on-conspiracy.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/22/got-started-with.html",
+				
+				"content_html": "<p>Got started with a CGM tonight. Hoping to find the patterns in the foods and stressors that give me trouble and the foods and activities that help me out. 💪</p>\n",
+				"content_text": "Got started with a CGM tonight. Hoping to find the patterns in the foods and stressors that give me trouble and the foods and activities that help me out. 💪\n",
+				"date_published": "2021-06-22T22:33:32-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/22/got-started-with.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/21/still-so-dystopian.html",
+				
+				"content_html": "<p>Still so dystopian that the way we “confirm we are human” is to train Google to detect relevant visual data points for autonomous driving.</p>\n",
+				"content_text": "Still so dystopian that the way we “confirm we are human” is to train Google to detect relevant visual data points for autonomous driving.\n",
+				"date_published": "2021-06-21T20:21:06-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/21/still-so-dystopian.html",
+				"tags": ["micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/06/19/this-is-a.html",
 				
 				"content_html": "<p><a href=\"https://www.theguardian.com/us-news/ng-interactive/2021/jun/17/tree-rings-america-megadrought-visual\">this is a helpful visualization about the drought in the US West</a> 🌲🌳</p>\n",
@@ -16,31 +124,13 @@
 				"tags": ["micro posts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/18/new-fear-factory.html",
-				
-				"content_html": "<p><a href=\"https://music.youtube.com/playlist?list=OLAK5uy_kgAKSptYQL4755KctHIyDkYkwJzO4gOnE&amp;feature=share\">New Fear Factory</a> sounds more like the old stuff. 🎶👍</p>\n",
-				"content_text": "[New Fear Factory](https://music.youtube.com/playlist?list=OLAK5uy_kgAKSptYQL4755KctHIyDkYkwJzO4gOnE&feature=share) sounds more like the old stuff. 🎶👍\n",
-				"date_published": "2021-06-18T10:59:33-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/18/new-fear-factory.html",
-				"tags": ["Music","micro posts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/06/16/these-new-uswnt.html",
 				
-				"content_html": "<p>These new USWNT ⚽️ jerseys are rad</p>\n\n<p><img src=\"uploads/2021/f4c18272da.png\" width=\"540\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "These new USWNT ⚽️ jerseys are rad\n\n<img src=\"uploads/2021/f4c18272da.png\" width=\"540\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>These new USWNT ⚽️ jerseys are rad</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/f4c18272da.png\" width=\"540\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "These new USWNT ⚽️ jerseys are rad\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/f4c18272da.png\" width=\"540\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-16T22:18:46-04:00",
 				"url": "https://blog.grotenhuis.info/2021/06/16/these-new-uswnt.html",
 				"tags": ["Soccer","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/13/when-i-put.html",
-				
-				"content_html": "<p>When I put my sun shirt on to go play outside, my spouse calls me “her Aiel” 😆☀️🍃</p>\n",
-				"content_text": "When I put my sun shirt on to go play outside, my spouse calls me “her Aiel” 😆☀️🍃\n",
-				"date_published": "2021-06-13T14:50:56-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/13/when-i-put.html",
-				"tags": ["micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/06/12/finished-reading-cibola.html",
@@ -189,8 +279,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/05/18/i-like-to.html",
 				
-				"content_html": "<p>🎶 I like to listen to albums. But I also just like to shuffle…sort of. This is how I “smart shuffle”:</p>\n\n<p><img src=\"uploads/2021/2b7cfec9dd.jpg\" width=\"600\" height=\"182\" alt=\"\" /></p>\n",
-				"content_text": "🎶 I like to listen to albums. But I also just like to shuffle…sort of. This is how I “smart shuffle”:\n\n<img src=\"uploads/2021/2b7cfec9dd.jpg\" width=\"600\" height=\"182\" alt=\"\" />\n",
+				"content_html": "<p>🎶 I like to listen to albums. But I also just like to shuffle…sort of. This is how I “smart shuffle”:</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/2b7cfec9dd.jpg\" width=\"600\" height=\"182\" alt=\"\" /></p>\n",
+				"content_text": "🎶 I like to listen to albums. But I also just like to shuffle…sort of. This is how I “smart shuffle”:\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/2b7cfec9dd.jpg\" width=\"600\" height=\"182\" alt=\"\" />\n",
 				"date_published": "2021-05-18T12:32:18-04:00",
 				"url": "https://blog.grotenhuis.info/2021/05/18/i-like-to.html",
 				"tags": ["Music","micro posts"]
