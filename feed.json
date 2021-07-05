@@ -7,66 +7,111 @@
 	"items": [
 		
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/28/that-was-a.html",
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/05/one-of-the.html",
 				
-				"content_html": "<p>That was a great header from &ldquo;Dave&rdquo; #ESP #CFC ⚽️</p>\n",
-				"content_text": "That was a great header from \"Dave\" #ESP #CFC ⚽️\n",
-				"date_published": "2021-06-28T13:33:15-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/28/that-was-a.html",
-				"tags": ["Soccer","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/28/have-i-mentioned.html",
-				
-				"content_html": "<p>🎶 Have I mentioned <em>Oceans of Slumber</em> lately? If you&rsquo;re not familiar, go check out <a href=\"https://music.youtube.com/playlist?list=OLAK5uy_mI_PsczQ7NoIY_MabWQqUmNRMd8E6Qd5Y&amp;feature=share\">The Banished Heart</a> #MetalMennonite</p>\n",
-				"content_text": "🎶 Have I mentioned _Oceans of Slumber_ lately? If you're not familiar, go check out [The Banished Heart](https://music.youtube.com/playlist?list=OLAK5uy_mI_PsczQ7NoIY_MabWQqUmNRMd8E6Qd5Y&feature=share) #MetalMennonite \n",
-				"date_published": "2021-06-28T09:33:45-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/28/have-i-mentioned.html",
-				"tags": ["Music","micro posts","MetalMennonite"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/28/the-enhancementsintegrations-in.html",
-				
-				"content_html": "<p>The enhancements/integrations in the Google Suite lately have been really good. e.g.:</p>\n\n<ul>\n<li>“@&rdquo; linking enhancements, including across docs</li>\n<li>chat.google.com integrations</li>\n</ul>\n\n<p>Unfortunately their track record is to repeatedly kill off good things, or this would make that suite enticing.</p>\n",
-				"content_text": "The enhancements/integrations in the Google Suite lately have been really good. e.g.:\n\n* “@\" linking enhancements, including across docs\n* chat.google.com integrations\n\nUnfortunately their track record is to repeatedly kill off good things, or this would make that suite enticing.\n",
-				"date_published": "2021-06-28T09:19:45-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/28/the-enhancementsintegrations-in.html",
+				"content_html": "<p>One of the things I do on Monday mornings is to review my <em>Guiding Principles</em>. At the top of the page, I have a couple reminders for how to use them:</p>\n\n<ul>\n<li>&ldquo;I have a rule&hellip;&rdquo;</li>\n<li>&ldquo;I am the kind of person who&hellip;&rdquo;</li>\n</ul>\n\n<p>Because ultimately they are about habit/identity formation.</p>\n",
+				"content_text": "One of the things I do on Monday mornings is to review my _Guiding Principles_. At the top of the page, I have a couple reminders for how to use them:\n\n* \"I have a rule...\"\n* \"I am the kind of person who...\"\n\nBecause ultimately they are about habit/identity formation.\n",
+				"date_published": "2021-07-05T08:29:52-04:00",
+				"url": "https://blog.grotenhuis.info/2021/07/05/one-of-the.html",
 				"tags": ["micro posts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/27/ronaldo-is-such.html",
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/05/im-a-delegate.html",
 				
-				"content_html": "<p>Ronaldo is such a diva.</p>\n",
-				"content_text": "Ronaldo is such a diva.\n",
-				"date_published": "2021-06-27T15:23:27-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/27/ronaldo-is-such.html",
+				"content_html": "<p>I&rsquo;m a delegate at Mennonite Church USA convention later this week. Feel free to mute or <a href=\"https://blog.grotenhuis.info/categories/anabaptism/feed.xml\">follow</a> the 🕊.</p>\n",
+				"content_text": "I'm a delegate at Mennonite Church USA convention later this week. Feel free to mute or [follow](https://blog.grotenhuis.info/categories/anabaptism/feed.xml) the 🕊.\n",
+				"date_published": "2021-07-05T07:58:08-04:00",
+				"url": "https://blog.grotenhuis.info/2021/07/05/im-a-delegate.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/04/adversity-is-such.html",
+				
+				"content_html": "<blockquote>\n<p>“Adversity is such a wonderful teacher”</p>\n</blockquote>\n\n<p>-<a href=\"https://science.iupui.edu/people-directory/people/sarkar-jyoti.html\">Jyotirmoy Sarkar</a>, sharing his story today 🕊</p>\n",
+				"content_text": "> “Adversity is such a wonderful teacher”\n\n-[Jyotirmoy Sarkar](https://science.iupui.edu/people-directory/people/sarkar-jyoti.html), sharing his story today 🕊\n",
+				"date_published": "2021-07-04T10:04:34-04:00",
+				"url": "https://blog.grotenhuis.info/2021/07/04/adversity-is-such.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/04/today-first-service.html",
+				
+				"content_html": "<p>Today: first service back in the building for me as pastor’s husband. 🕊</p>\n",
+				"content_text": "Today: first service back in the building for me as pastor’s husband. 🕊\n",
+				"date_published": "2021-07-04T08:28:31-04:00",
+				"url": "https://blog.grotenhuis.info/2021/07/04/today-first-service.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/03/nice-to-pick.html",
+				
+				"content_html": "<p>Nice to pick up a book with contributions from a number of people I’ve met. 🎲📚</p>\n\n<p><img src=\"uploads/2021/af8529a3b8.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Nice to pick up a book with contributions from a number of people I’ve met. 🎲📚\n\n<img src=\"uploads/2021/af8529a3b8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-07-03T09:22:53-04:00",
+				"url": "https://blog.grotenhuis.info/2021/07/03/nice-to-pick.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/02/lot-of-great.html",
+				
+				"content_html": "<p>Lot of great book-tracking alternatives coming out. Really hoping they will expose APIs and then we can create tools to update across different places. 📚</p>\n",
+				"content_text": "Lot of great book-tracking alternatives coming out. Really hoping they will expose APIs and then we can create tools to update across different places. 📚\n",
+				"date_published": "2021-07-02T15:23:40-04:00",
+				"url": "https://blog.grotenhuis.info/2021/07/02/lot-of-great.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/02/good-luck-to.html",
+				
+				"content_html": "<p>Good luck to the ex-Chelsea union (#BEL) over #ITA ⚽️</p>\n",
+				"content_text": "Good luck to the ex-Chelsea union (#BEL) over #ITA ⚽️\n",
+				"date_published": "2021-07-02T15:03:21-04:00",
+				"url": "https://blog.grotenhuis.info/2021/07/02/good-luck-to.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/01/enjoyed-this-nostalgia.html",
+				
+				"content_html": "<p>Enjoyed this nostalgia trip about Cornerstone Music festival. 🎶</p>\n\n<ul>\n<li><a href=\"https://overcast.fm/+I2NP24WwI\">The Rise of Cornerstone</a></li>\n<li><a href=\"https://overcast.fm/+I2NO4DVcA\">The End of Cornerstone</a></li>\n</ul>\n\n<p>Thanks to <a href=\"https://micro.blog/6400099180\">@6400099180</a> for the tip.</p>\n",
+				"content_text": "Enjoyed this nostalgia trip about Cornerstone Music festival. 🎶\n\n* [The Rise of Cornerstone](https://overcast.fm/+I2NP24WwI)\n* [The End of Cornerstone](https://overcast.fm/+I2NO4DVcA)\n\nThanks to [@6400099180](https://micro.blog/6400099180) for the tip.\n",
+				"date_published": "2021-07-01T07:54:43-04:00",
+				"url": "https://blog.grotenhuis.info/2021/07/01/enjoyed-this-nostalgia.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/30/what-i-learned.html",
+				"title": "What I learned during my first week with a continuous glucose monitor (CGM)",
+				"content_html": "<div class=\"trix-content\">\n  <div>About a week ago, <a href=\"https://blog.grotenhuis.info/2021/06/22/got-started-with.html\">I got started with a continuous glucose monitor</a>. &quot;Glucose monitor&quot; means it's a device that records and reports blood sugar. &quot;Continuous&quot; means it is collecting data throughout the day and night.<br> <br>You might be wondering:<br><br></div><blockquote><em>Why? Are you diabetic or pre-diabetic? </em></blockquote><div><br>No, thankfully I am not!<br><br>However, data is growing showing a link between metabolic health and many major diseases, from the more well-known links like heart disease to the lesser-obvious ones like dementia and certain types of cancer. I want to reduce my risk for these chronic diseases and also increase my likelihood of being able to continue the types of activities that I enjoy. This is one part of broader habits meant to benefit my health (e.g. <a href=\"https://www.craft.do/s/5VEculvEDoTT8x\">good sleep habits</a>, healthy eating, mental &amp; physical exercise, stress management, etc.).<br><br></div><blockquote><em>But can't you just eat keto or vegan or whatever my preferred diet is?</em></blockquote><div><em> </em></div><div>Turns out there can be great difference in people's genetics and biomes, leading to different responses to different foods. I have some simple eating habits that help me a great deal, but one reason I'm doing this is to see what is healthiest <em>for me</em>.<br><br></div><h1>About the CGM:</h1><div>I acquired my CGM through <a href=\"https://www.levelshealth.com/join?partner=RZUESFCY\">Levels</a>, as part of their beta. They do not manufacture the CGM device, but instead make an app and service that works with the CGM data.<br>The CGM is applied to the upper arm and stays there for up to 14 days. It's held on by an adhesive patch. While there, it records and holds up 8 hours worth of data. A mobile phone is held up to the CGM to pull in the data to the CGM manufacturer's default app.<br> Levels has developed an additional app and service that enhances the base data from the CGM manufacturer. It links with Apple Health data and the CGM app data to perform enhanced reporting.<br> The Levels app takes my notes about food/drink, exercise, or other events (like stressors) and uses these data points to score those actions by looking at the blood sugar for the 2 hours following the activity (they call this a &quot;zone&quot;). Zones are scored 1-10 based on blood sugar response. Days also get a rating of 1-100, and then daily, weekly, (and it looks like) monthly reports are provided. <br><br>The three main scoring factors Levels uses are:<br><br></div><ul><li>Glucose Variability (lower scores better)</li><li>Average Glucose (lower scores better)</li><li>Time in Target (higher is better, with &quot;target&quot; being 70-110 mg/dL)</li></ul><div><br>The app also builds a catalog of zone scores so that I start to get a profile of healthier activities (10/9/8) and less healthy ones, based on my unique metabolism. It also offers &quot;challenges&quot; of things to try different ways to see what my scores will be, to help me make informed decisions.</div><div><br></div><h1>What I've Learned:</h1><ul><li><strong><em>Mornings must start right</em></strong><strong>: </strong>I see that my days often start on my higher end for blood sugar. In addition, if I have carbs in the morning, it is easier to spike. Prevailing wisdom about this is that our bodies are ramping up cortisol in the morning as we prep for the day (and perhaps start experiencing stressors). One of my friends who is a doctor said this cortisol response is why many heart attacks happen in the early morning! What I've learned is I should skip breakfast, have a very-low (or no-carb) breakfast, or have a mild workout and then have a light-carb breakfast.</li><li><strong><em>Exercise makes even more difference than I thought: </em></strong>I already knew <a href=\"https://www.craft.do/s/wTiEurDggfjFE3\">that taking a walk after a meal</a> is helpful, but I didn't realize <em>just how much</em>. I had a pretty terrible dinner one night (pizza, sport drink, cake, ice cream), and some fun exercise before and afterwards, and my blood sugar wasn't too bad! Conversely (see bullet #1), I've had morning meals that registered as really bad (a #3 score), even when they didn't include sweets.</li><li><strong><em>Order of operations - not just for math:</em></strong> what order I have my meal in makes a difference. Putting the fiber, fat, and protein at the front of a meal leads to better results than having bread, etc. up front. If there's something a little bad in the meal, having it last really does help. This is likely because the absorption rate of carbs is slowed down by the fiber, fat, and protein.</li><li><strong><em>Ice cream isn't so bad: </em></strong>Likely a corollary of the above bullet, ice cream doesn't affect my blood sugar too much. This may be my best option when having an occasional treat.</li></ul><div><br></div><div>I'm looking to see what I learn about more food, exercise, and stressor events in the coming weeks. Which food pairings work for me and which do not? Does meditation counteract stressors sufficiently? Do I do ok with sweet potatoes? Bananas? Rice? Much more to learn!<br><br>---<br>Have you used a CGM? Do you have questions for me or ideas for experiments? I'd love to <a href=\"https://blog.grotenhuis.info/contact\">hear from you</a>.</div>\n</div>\n",
+				"content_text": "<div class=\"trix-content\">\n  <div>About a week ago, <a href=\"https://blog.grotenhuis.info/2021/06/22/got-started-with.html\">I got started with a continuous glucose monitor</a>. &quot;Glucose monitor&quot; means it's a device that records and reports blood sugar. &quot;Continuous&quot; means it is collecting data throughout the day and night.<br> <br>You might be wondering:<br><br></div><blockquote><em>Why? Are you diabetic or pre-diabetic? </em></blockquote><div><br>No, thankfully I am not!<br><br>However, data is growing showing a link between metabolic health and many major diseases, from the more well-known links like heart disease to the lesser-obvious ones like dementia and certain types of cancer. I want to reduce my risk for these chronic diseases and also increase my likelihood of being able to continue the types of activities that I enjoy. This is one part of broader habits meant to benefit my health (e.g. <a href=\"https://www.craft.do/s/5VEculvEDoTT8x\">good sleep habits</a>, healthy eating, mental &amp; physical exercise, stress management, etc.).<br><br></div><blockquote><em>But can't you just eat keto or vegan or whatever my preferred diet is?</em></blockquote><div><em> </em></div><div>Turns out there can be great difference in people's genetics and biomes, leading to different responses to different foods. I have some simple eating habits that help me a great deal, but one reason I'm doing this is to see what is healthiest <em>for me</em>.<br><br></div><h1>About the CGM:</h1><div>I acquired my CGM through <a href=\"https://www.levelshealth.com/join?partner=RZUESFCY\">Levels</a>, as part of their beta. They do not manufacture the CGM device, but instead make an app and service that works with the CGM data.<br>The CGM is applied to the upper arm and stays there for up to 14 days. It's held on by an adhesive patch. While there, it records and holds up 8 hours worth of data. A mobile phone is held up to the CGM to pull in the data to the CGM manufacturer's default app.<br> Levels has developed an additional app and service that enhances the base data from the CGM manufacturer. It links with Apple Health data and the CGM app data to perform enhanced reporting.<br> The Levels app takes my notes about food/drink, exercise, or other events (like stressors) and uses these data points to score those actions by looking at the blood sugar for the 2 hours following the activity (they call this a &quot;zone&quot;). Zones are scored 1-10 based on blood sugar response. Days also get a rating of 1-100, and then daily, weekly, (and it looks like) monthly reports are provided. <br><br>The three main scoring factors Levels uses are:<br><br></div><ul><li>Glucose Variability (lower scores better)</li><li>Average Glucose (lower scores better)</li><li>Time in Target (higher is better, with &quot;target&quot; being 70-110 mg/dL)</li></ul><div><br>The app also builds a catalog of zone scores so that I start to get a profile of healthier activities (10/9/8) and less healthy ones, based on my unique metabolism. It also offers &quot;challenges&quot; of things to try different ways to see what my scores will be, to help me make informed decisions.</div><div><br></div><h1>What I've Learned:</h1><ul><li><strong><em>Mornings must start right</em></strong><strong>: </strong>I see that my days often start on my higher end for blood sugar. In addition, if I have carbs in the morning, it is easier to spike. Prevailing wisdom about this is that our bodies are ramping up cortisol in the morning as we prep for the day (and perhaps start experiencing stressors). One of my friends who is a doctor said this cortisol response is why many heart attacks happen in the early morning! What I've learned is I should skip breakfast, have a very-low (or no-carb) breakfast, or have a mild workout and then have a light-carb breakfast.</li><li><strong><em>Exercise makes even more difference than I thought: </em></strong>I already knew <a href=\"https://www.craft.do/s/wTiEurDggfjFE3\">that taking a walk after a meal</a> is helpful, but I didn't realize <em>just how much</em>. I had a pretty terrible dinner one night (pizza, sport drink, cake, ice cream), and some fun exercise before and afterwards, and my blood sugar wasn't too bad! Conversely (see bullet #1), I've had morning meals that registered as really bad (a #3 score), even when they didn't include sweets.</li><li><strong><em>Order of operations - not just for math:</em></strong> what order I have my meal in makes a difference. Putting the fiber, fat, and protein at the front of a meal leads to better results than having bread, etc. up front. If there's something a little bad in the meal, having it last really does help. This is likely because the absorption rate of carbs is slowed down by the fiber, fat, and protein.</li><li><strong><em>Ice cream isn't so bad: </em></strong>Likely a corollary of the above bullet, ice cream doesn't affect my blood sugar too much. This may be my best option when having an occasional treat.</li></ul><div><br></div><div>I'm looking to see what I learn about more food, exercise, and stressor events in the coming weeks. Which food pairings work for me and which do not? Does meditation counteract stressors sufficiently? Do I do ok with sweet potatoes? Bananas? Rice? Much more to learn!<br><br>---<br>Have you used a CGM? Do you have questions for me or ideas for experiments? I'd love to <a href=\"https://blog.grotenhuis.info/contact\">hear from you</a>.</div>\n</div>\n",
+				"date_published": "2021-06-30T19:18:27-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/30/what-i-learned.html",
+				"tags": ["full posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/30/a-ordering-of.html",
+				
+				"content_html": "<p>A+ ordering of the options, here 🤣</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/267f2ffd8f.png\" width=\"537\" height=\"329\" alt=\"\" /></p>\n",
+				"content_text": "A+ ordering of the options, here 🤣\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/267f2ffd8f.png\" width=\"537\" height=\"329\" alt=\"\" />\n",
+				"date_published": "2021-06-30T17:34:36-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/30/a-ordering-of.html",
 				"tags": ["micro posts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/27/lets-go-bel.html",
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/30/may-survey-data.html",
 				
-				"content_html": "<p>Let&rsquo;s go #BEL. Bring it back for Benelux ⚽️</p>\n",
-				"content_text": "Let's go #BEL. Bring it back for Benelux ⚽️\n",
-				"date_published": "2021-06-27T15:02:47-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/27/lets-go-bel.html",
-				"tags": ["Soccer","micro posts"]
+				"content_html": "<p>🔒 May 2021 survey data from a ISACA, courtesy of IANS:</p>\n\n<ul>\n<li>61% believe their cybersecurity teams are understaffed</li>\n<li>55% have unfilled cybersecurity positions</li>\n<li>53% had difficulty retaining talent during the pandemic</li>\n<li>50% say their cyber applicants are not well-qualified</li>\n<li>43% are training non-security staff to take on security roles</li>\n<li>31% believe HR understands their cybersecurity hiring needs</li>\n<li>22% are increasing their reliance on AI/automation</li>\n</ul>\n",
+				"content_text": "🔒 May 2021 survey data from a ISACA, courtesy of IANS:\n \n* 61% believe their cybersecurity teams are understaffed\n* 55% have unfilled cybersecurity positions\n* 53% had difficulty retaining talent during the pandemic\n* 50% say their cyber applicants are not well-qualified\n* 43% are training non-security staff to take on security roles\n* 31% believe HR understands their cybersecurity hiring needs\n* 22% are increasing their reliance on AI/automation\n",
+				"date_published": "2021-06-30T09:55:00-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/30/may-survey-data.html",
+				"tags": ["Resilience","micro posts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/27/feeling-de-jekted.html",
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/29/so-my-teams.html",
 				
-				"content_html": "<p>Feeling De Jekted about this game so far ⚽️ #NED</p>\n",
-				"content_text": "Feeling De Jekted about this game so far ⚽️ #NED\n",
-				"date_published": "2021-06-27T13:38:51-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/27/feeling-de-jekted.html",
-				"tags": ["Soccer","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/27/lets-go-ned.html",
-				
-				"content_html": "<p>Let&rsquo;s go #NED ⚽️</p>\n",
-				"content_text": "Let's go #NED ⚽️\n",
-				"date_published": "2021-06-27T12:02:48-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/27/lets-go-ned.html",
+				"content_html": "<p>So my teams are: 2/3rds out (#NED, #GER) and 1/3rd in (#ENG). Guess it&rsquo;s #ENG the rest of the way! ⚽️</p>\n\n<p>(Context: the Euros are moving towards the semifinals.)</p>\n",
+				"content_text": "So my teams are: 2/3rds out (#NED, #GER) and 1/3rd in (#ENG). Guess it's #ENG the rest of the way! ⚽️\n\n(Context: the Euros are moving towards the semifinals.)\n",
+				"date_published": "2021-06-29T14:00:00-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/29/so-my-teams.html",
 				"tags": ["Soccer","micro posts"]
 			},
 			{
@@ -153,19 +198,10 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/06/07/what-a-game.html",
 				
-				"content_html": "<p>What a game! ⚽️ I think I need a Horvath jersey.</p>\n",
-				"content_text": "What a game! ⚽️ I think I need a Horvath jersey.\n",
-				"date_published": "2021-06-07T00:26:31-04:00",
+				"content_html": "<p>What a game! ⚽️ I think I need a Horvath jersey.</p>\n\n<p>(context: USMNT beat Mexico to win the CONCACAF Nations League)</p>\n",
+				"content_text": "What a game! ⚽️ I think I need a Horvath jersey.\n\n(context: USMNT beat Mexico to win the CONCACAF Nations League)\n",
+				"date_published": "2021-06-07T00:26:00-04:00",
 				"url": "https://blog.grotenhuis.info/2021/06/07/what-a-game.html",
-				"tags": ["Soccer","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/07/pulisic.html",
-				
-				"content_html": "<p>Pulisic!!!!!!!! ⚽️</p>\n",
-				"content_text": "Pulisic!!!!!!!! ⚽️\n",
-				"date_published": "2021-06-07T00:08:04-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/07/pulisic.html",
 				"tags": ["Soccer","micro posts"]
 			},
 			{
@@ -178,15 +214,6 @@
 				"tags": ["Books","micro posts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/06/03/im-surprised-that.html",
-				
-				"content_html": "<p>I’m surprised that the chair arm was held together by just one screw/bolt…which has snapped. #HermanMiller</p>\n\n<p>Hope product support is good!</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/c36d560f55.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "I’m surprised that the chair arm was held together by just one screw/bolt…which has snapped. #HermanMiller\n\nHope product support is good!\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/c36d560f55.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2021-06-03T09:58:51-04:00",
-				"url": "https://blog.grotenhuis.info/2021/06/03/im-surprised-that.html",
-				"tags": ["micro posts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/06/01/its-hard-to.html",
 				"title": "\"it's hard to decry Constantinianism when you're trying your damnedest to win every election\"",
 				"content_html": "<div class=\"trix-content\">\n  <div>Longer quote:<br><br></div><blockquote>During the years of the Iraq War and during the 2008 election, Christian blogs spent a lot of time writing about Constantinianism in voicing their opposition to the war in Iraq. Christian blogs were very Anabaptist during the golden era of blogging. Not so much anymore.<br><br>Why the change? <br><br>My argument, made in 2016, is that the post-evangelical Christians who inveighed again Constantinianism during the Bush years weren't really Anabaptists. They were, rather, Christian realists in the tradition of Reinhold Niebuhr. That is to say, progressive Christians, as witnessed in the 2008 election of Barack Obama, actually <em>wanted</em> and <em>desired</em> to win and weld the power of the nation state. You saw this hypocrisy in how post-evangelical bloggers hammered Bush with Constantine but said nary a word about Obama's drone war. Turns out, it's okay to pull the trigger when it's your guy holding the gun. And we saw again the thirst to win back and weld power among progressive Christians in the election of 2020. <br><br>All that to say, it's hard to decry Constantinianism when you're trying your damnedest to win every election. </blockquote><div><br>This is from the <a href=\"http://experimentaltheology.blogspot.com/2021/06/will-real-christianity-please-stand-up.html\">second post</a> in a new Experimental Theology series called &quot;<a href=\"http://experimentaltheology.blogspot.com/2021/05/will-real-christianity-please-stand-up.html\">Will the Real Christianity Please Stand Up</a>&quot;.<br><br>Now, as one of those folks who started blogging in the early 2000s, <a href=\"https://blog.grotenhuis.info/2020/01/28/yr-mennonite.html\"><em>became</em></a> Anabaptist during that &quot;golden era&quot;, and then <em>maintained</em> that anabaptist perspective, this whole post (ugly parts and all) rings true to me. <br><br>Richard Beck's key blog series have become some of my favorite books: <a href=\"https://bookshop.org/a/10222/9781608992423\"><em>Unclean</em></a><em>, </em><a href=\"https://bookshop.org/a/10222/9781620327777\"><em>The Slavery of Death</em></a><em>, </em>and many more. I'm very interested to see where this series will go, and how Beck will deal with the &quot;<a href=\"https://en.wikipedia.org/wiki/No_true_Scotsman\">No True Scotsman</a>&quot; problem in the analysis.<br><br>---<br>Thoughts? <a href=\"https://blog.grotenhuis.info/contact\">Let me know!</a></div>\n</div>\n",
@@ -194,15 +221,6 @@
 				"date_published": "2021-06-01T12:18:18-04:00",
 				"url": "https://blog.grotenhuis.info/2021/06/01/its-hard-to.html",
 				"tags": ["full posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/05/31/i-seem-unable.html",
-				
-				"content_html": "<p>I seem unable to find a tall enough reading chair that doesn’t push my shoulders forward. Even in the large Stressless chairs the head comes forward just a little too quickly. Other Talls have any leads?</p>\n",
-				"content_text": "I seem unable to find a tall enough reading chair that doesn’t push my shoulders forward. Even in the large Stressless chairs the head comes forward just a little too quickly. Other Talls have any leads?\n",
-				"date_published": "2021-05-31T15:39:15-04:00",
-				"url": "https://blog.grotenhuis.info/2021/05/31/i-seem-unable.html",
-				"tags": ["micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/05/30/another-good-reflection.html",
@@ -252,8 +270,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/05/22/ixi-vs-sporting.html",
 				
-				"content_html": "<p>⚽️ #IXI vs Sporting KC II</p>\n\n<p>Hoping for some 🍻victory (not vengeance 🎶)</p>\n\n<p><img src=\"uploads/2021/41d2757a0f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/d60efc2d5e.jpg\" width=\"355\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/867c77d92c.jpg\" width=\"553\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "⚽️ #IXI vs Sporting KC II\n\nHoping for some 🍻victory (not vengeance 🎶) \n\n<img src=\"uploads/2021/41d2757a0f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/d60efc2d5e.jpg\" width=\"355\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/867c77d92c.jpg\" width=\"553\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>⚽️ #IXI vs Sporting KC II</p>\n\n<p>Hoping for some 🍻victory (not vengeance 🎶)</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/41d2757a0f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://blog.grotenhuis.info/uploads/2021/d60efc2d5e.jpg\" width=\"355\" height=\"600\" alt=\"\" /><img src=\"https://blog.grotenhuis.info/uploads/2021/867c77d92c.jpg\" width=\"553\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "⚽️ #IXI vs Sporting KC II\n\nHoping for some 🍻victory (not vengeance 🎶) \n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/41d2757a0f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://blog.grotenhuis.info/uploads/2021/d60efc2d5e.jpg\" width=\"355\" height=\"600\" alt=\"\" /><img src=\"https://blog.grotenhuis.info/uploads/2021/867c77d92c.jpg\" width=\"553\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-22T18:22:13-04:00",
 				"url": "https://blog.grotenhuis.info/2021/05/22/ixi-vs-sporting.html",
 				"tags": ["Soccer","Music","micro posts"]
