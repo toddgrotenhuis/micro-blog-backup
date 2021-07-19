@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/19/every-craft-update.html",
+				
+				"content_html": "<p>Every <a href=\"https://www.craft.do\">craft</a> update contains some really great enhancements. Every time I pour through it hoping it&rsquo;s the one that includes notifications for comments.</p>\n",
+				"content_text": "Every [craft](https://www.craft.do) update contains some really great enhancements. Every time I pour through it hoping it's the one that includes notifications for comments.\n",
+				"date_published": "2021-07-19T08:16:11-04:00",
+				"url": "https://blog.grotenhuis.info/2021/07/19/every-craft-update.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/18/wow-wow-wow.html",
+				
+				"content_html": "<p>🎶 wow wow wow</p>\n\n<p>I just learned about <a href=\"https://clppng.bandcamp.com/music\">Clppng</a>.</p>\n\n<p>Ingredients:</p>\n\n<ul>\n<li>2 experimental/noise DJ/producers</li>\n<li>Daveed Diggs (of Hamilton fame)</li>\n<li>concept albums (horror, afrofuturist, and more)</li>\n<li>special guests</li>\n</ul>\n\n<p>I just got a pile of albums.</p>\n",
+				"content_text": "🎶 wow wow wow\n\nI just learned about [Clppng](https://clppng.bandcamp.com/music).\n\nIngredients:\n\n* 2 experimental/noise DJ/producers\n* Daveed Diggs (of Hamilton fame)\n* concept albums (horror, afrofuturist, and more)\n* special guests\n\nI just got a pile of albums.\n",
+				"date_published": "2021-07-18T08:36:12-04:00",
+				"url": "https://blog.grotenhuis.info/2021/07/18/wow-wow-wow.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/17/there-was-a.html",
+				
+				"content_html": "<p>There was a paperback sale, and we only bought 10 books. #temperance 😅🕊📚</p>\n\n<p><img src=\"uploads/2021/96e38db325.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "There was a paperback sale, and we only bought 10 books. #temperance 😅🕊📚\n\n<img src=\"uploads/2021/96e38db325.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-07-17T16:14:20-04:00",
+				"url": "https://blog.grotenhuis.info/2021/07/17/there-was-a.html",
+				"tags": ["Anabaptism","Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/12/super-academics.html",
+				
+				"content_html": "<p><a href=\"https://existentialcomics.com/comic/402\">Super Academics</a></p>\n\n<p><img src=\"uploads/2021/a8b2793f0b.png\" width=\"400\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "[Super Academics](https://existentialcomics.com/comic/402)\n\n<img src=\"uploads/2021/a8b2793f0b.png\" width=\"400\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-07-12T21:00:41-04:00",
+				"url": "https://blog.grotenhuis.info/2021/07/12/super-academics.html",
+				"tags": ["micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/07/12/apple-watch-users.html",
 				
 				"content_html": "<p>⌚️Apple watch users:</p>\n\n<p>Is there a way to start an exercise and then say &ldquo;alert me if my heart rate goes outside $DefinedRange”?</p>\n\n<p>If so, is that native or do you use another app?</p>\n",
@@ -14,15 +50,6 @@
 				"date_published": "2021-07-12T08:39:08-04:00",
 				"url": "https://blog.grotenhuis.info/2021/07/12/apple-watch-users.html",
 				"tags": ["micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/07/11/not-a-great.html",
-				
-				"content_html": "<p>Not a great start for the Gold Cup / Copa Oro, but a successful one. There’s so much chaos on the roster and team. Hope it starts shaping up. ⚽️ #USMNT</p>\n",
-				"content_text": "Not a great start for the Gold Cup / Copa Oro, but a successful one. There’s so much chaos on the roster and team. Hope it starts shaping up. ⚽️ #USMNT\n",
-				"date_published": "2021-07-11T22:54:14-04:00",
-				"url": "https://blog.grotenhuis.info/2021/07/11/not-a-great.html",
-				"tags": ["Soccer","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/07/11/another-trip-down.html",
@@ -36,8 +63,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/07/10/fun-to-hear.html",
 				
-				"content_html": "<p>🎶 Fun to hear <a href=\"https://overcast.fm/+I2NNXhPww\">about August Burns Red’s drummer getting into the scene</a> with <em>Embodyment - One Less Addiction</em>. That was (and is) one of my faves, too. #MetalMennonite</p>\n\n<p><img src=\"uploads/2021/7706f26b27.png\" width=\"378\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "🎶 Fun to hear [about August Burns Red’s drummer getting into the scene](https://overcast.fm/+I2NNXhPww) with _Embodyment - One Less Addiction_. That was (and is) one of my faves, too. #MetalMennonite\n\n<img src=\"uploads/2021/7706f26b27.png\" width=\"378\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>🎶 Fun to hear <a href=\"https://overcast.fm/+I2NNXhPww\">about August Burns Red’s drummer getting into the scene</a> with <em>Embodyment - One Less Addiction</em>. That was (and is) one of my faves, too. #MetalMennonite</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/7706f26b27.png\" width=\"378\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🎶 Fun to hear [about August Burns Red’s drummer getting into the scene](https://overcast.fm/+I2NNXhPww) with _Embodyment - One Less Addiction_. That was (and is) one of my faves, too. #MetalMennonite\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/7706f26b27.png\" width=\"378\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-10T18:13:13-04:00",
 				"url": "https://blog.grotenhuis.info/2021/07/10/fun-to-hear.html",
 				"tags": ["Music","micro posts","MetalMennonite"]
@@ -133,15 +160,6 @@
 				"tags": ["Soccer","micro posts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/07/05/lets-go-uswnt.html",
-				
-				"content_html": "<p>Let’s go #USWNT ⚽️</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/cd332dada7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Let’s go #USWNT ⚽️\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/cd332dada7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-07-05T16:59:54-04:00",
-				"url": "https://blog.grotenhuis.info/2021/07/05/lets-go-uswnt.html",
-				"tags": ["Soccer","micro posts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/07/05/one-of-the.html",
 				
 				"content_html": "<p>One of the things I do on Monday mornings is to review my <em>Guiding Principles</em>. At the top of the page, I have a couple reminders for how to use them:</p>\n\n<ul>\n<li>&ldquo;I have a rule&hellip;&rdquo;</li>\n<li>&ldquo;I am the kind of person who&hellip;&rdquo;</li>\n</ul>\n\n<p>Because ultimately they are about habit/identity formation.</p>\n",
@@ -157,7 +175,7 @@
 				"content_text": "> “Adversity is such a wonderful teacher”\n\n-[Jyotirmoy Sarkar](https://science.iupui.edu/people-directory/people/sarkar-jyoti.html), sharing his story today 🕊\n",
 				"date_published": "2021-07-04T10:04:34-04:00",
 				"url": "https://blog.grotenhuis.info/2021/07/04/adversity-is-such.html",
-				"tags": ["Anabaptism","micro posts"]
+				"tags": ["Resilience","Anabaptism","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/07/04/today-first-service.html",
