@@ -7,6 +7,96 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/26/some-guy-at.html",
+				
+				"content_html": "<p>Some guy at the car dealership making a lot of <a href=\"https://youtu.be/7d6NmnUYXIA\">dad noises</a>. Don’t you know you can’t do that anymore? 😷</p>\n",
+				"content_text": "Some guy at the car dealership making a lot of [dad noises](https://youtu.be/7d6NmnUYXIA). Don’t you know you can’t do that anymore? 😷\n",
+				"date_published": "2021-07-26T11:17:05-05:00",
+				"url": "https://blog.grotenhuis.info/2021/07/26/some-guy-at.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/25/still-not-fully.html",
+				
+				"content_html": "<p>Still not fully convincing, but #USMNT are on to the semis with the final expected three (MEX/USA/CAN) plus the visiting team (Qatar). ⚽️</p>\n",
+				"content_text": "Still not fully convincing, but #USMNT are on to the semis with the final expected three (MEX/USA/CAN) plus the visiting team (Qatar). ⚽️\n",
+				"date_published": "2021-07-25T23:01:06-05:00",
+				"url": "https://blog.grotenhuis.info/2021/07/25/still-not-fully.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/25/hoppe-and-lletget.html",
+				
+				"content_html": "<p>Hoppe and Lletget were getting disappointing, but I guess I have to take it back about Hoppe! ⚽️ #USMNT</p>\n",
+				"content_text": "Hoppe and Lletget were getting disappointing, but I guess I have to take it back about Hoppe! ⚽️ #USMNT\n",
+				"date_published": "2021-07-25T22:44:22-05:00",
+				"url": "https://blog.grotenhuis.info/2021/07/25/hoppe-and-lletget.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/25/finished-reading-echo.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780439874021\">Echo</a> by Pam Munoz Ryan 📚 ⭐⭐⭐⭐</p>\n\n<p>Charming. Recommend listening to it as an audiobook, as the instruments and ensemble contribute to the experience. Better execution than <em>Cloud Atlas</em>.</p>\n",
+				"content_text": "Finished reading: [Echo](https://micro.blog/books/9780439874021) by Pam Munoz Ryan 📚 ⭐⭐⭐⭐\r\n\r\nCharming. Recommend listening to it as an audiobook, as the instruments and ensemble contribute to the experience. Better execution than _Cloud Atlas_.\n",
+				"date_published": "2021-07-25T13:52:05-05:00",
+				"url": "https://blog.grotenhuis.info/2021/07/25/finished-reading-echo.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/25/sunday-quote.html",
+				
+				"content_html": "<p>Sunday Quote 📑</p>\n\n<p><img src=\"uploads/2021/4c9d03b542.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "Sunday Quote 📑\n\n<img src=\"uploads/2021/4c9d03b542.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2021-07-25T07:47:13-05:00",
+				"url": "https://blog.grotenhuis.info/2021/07/25/sunday-quote.html",
+				"tags": ["Sunday Quotes","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/24/alright-uswnt-lets.html",
+				
+				"content_html": "<p>Alright #USWNT, let’s get back on track ⚽️</p>\n",
+				"content_text": "Alright #USWNT, let’s get back on track ⚽️\n",
+				"date_published": "2021-07-24T06:23:16-05:00",
+				"url": "https://blog.grotenhuis.info/2021/07/24/alright-uswnt-lets.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/22/for-my-birthday.html",
+				
+				"content_html": "<p>For my birthday (not today), my wife got me a hammock-stand, hammock, and a canvas print of my favorite painting. Feeling pretty awesome.</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/282a2f7121.jpg\" width=\"468\" height=\"600\" alt=\"\" /><img src=\"https://blog.grotenhuis.info/uploads/2021/ed7046848d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "For my birthday (not today), my wife got me a hammock-stand, hammock, and a canvas print of my favorite painting. Feeling pretty awesome.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/282a2f7121.jpg\" width=\"468\" height=\"600\" alt=\"\" /><img src=\"https://blog.grotenhuis.info/uploads/2021/ed7046848d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-07-22T16:18:43-05:00",
+				"url": "https://blog.grotenhuis.info/2021/07/22/for-my-birthday.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/22/ive-been-looking.html",
+				
+				"content_html": "<p>I&rsquo;ve been looking at all these book-tracking sites, and the first to be open to my &ldquo;hey, can we have an API?&rdquo; request has been <a href=\"https://literal.club/invite/UC2NGCB\">@literalclub.</a></p>\n\n<p>It should be possible for a person to update a book status on their own site and then hit APIs to update on book profile sites. 📚</p>\n",
+				"content_text": "I've been looking at all these book-tracking sites, and the first to be open to my \"hey, can we have an API?\" request has been [@literalclub.](https://literal.club/invite/UC2NGCB)\n\nIt should be possible for a person to update a book status on their own site and then hit APIs to update on book profile sites. 📚\n",
+				"date_published": "2021-07-22T11:27:13-05:00",
+				"url": "https://blog.grotenhuis.info/2021/07/22/ive-been-looking.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/22/mcsweeneys-nobody-wants.html",
+				
+				"content_html": "<p>McSweeney&rsquo;s: <a href=\"https://www.mcsweeneys.net/articles/nobody-wants-to-be-a-serf-anymore\">Nobody Wants to Be a Serf Anymore</a></p>\n\n<blockquote>\n<p>&ldquo;How can they value their lives so much when we’ve always valued them so little?&rdquo;</p>\n</blockquote>\n",
+				"content_text": "McSweeney's: [Nobody Wants to Be a Serf Anymore](https://www.mcsweeneys.net/articles/nobody-wants-to-be-a-serf-anymore)\n\n> \"How can they value their lives so much when we’ve always valued them so little?\"\n",
+				"date_published": "2021-07-22T10:58:09-04:00",
+				"url": "https://blog.grotenhuis.info/2021/07/22/mcsweeneys-nobody-wants.html",
+				"tags": ["Humor","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/07/21/anybody-else-have.html",
+				
+				"content_html": "<p>Anybody else have an issue with Apple Health freezing/crashing frequently and you need to restart?</p>\n\n<p>Don&rsquo;t know where to start on debugging this. Could be related to one of the apps that&rsquo;s trying to sync with it.</p>\n",
+				"content_text": "Anybody else have an issue with Apple Health freezing/crashing frequently and you need to restart?\n\nDon't know where to start on debugging this. Could be related to one of the apps that's trying to sync with it.\n",
+				"date_published": "2021-07-21T13:05:00-05:00",
+				"url": "https://blog.grotenhuis.info/2021/07/21/anybody-else-have.html",
+				"tags": ["micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/07/19/every-craft-update.html",
 				
 				"content_html": "<p>Every <a href=\"https://www.craft.do\">craft</a> update contains some really great enhancements. Every time I pour through it hoping it&rsquo;s the one that includes notifications for comments.</p>\n",
@@ -27,8 +117,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/07/17/there-was-a.html",
 				
-				"content_html": "<p>There was a paperback sale, and we only bought 10 books. #temperance 😅🕊📚</p>\n\n<p><img src=\"uploads/2021/96e38db325.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "There was a paperback sale, and we only bought 10 books. #temperance 😅🕊📚\n\n<img src=\"uploads/2021/96e38db325.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>There was a paperback sale, and we only bought 10 books. #temperance 😅🕊📚</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/96e38db325.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "There was a paperback sale, and we only bought 10 books. #temperance 😅🕊📚\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/96e38db325.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-17T16:14:20-04:00",
 				"url": "https://blog.grotenhuis.info/2021/07/17/there-was-a.html",
 				"tags": ["Anabaptism","Books","micro posts"]
@@ -36,8 +126,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/07/12/super-academics.html",
 				
-				"content_html": "<p><a href=\"https://existentialcomics.com/comic/402\">Super Academics</a></p>\n\n<p><img src=\"uploads/2021/a8b2793f0b.png\" width=\"400\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "[Super Academics](https://existentialcomics.com/comic/402)\n\n<img src=\"uploads/2021/a8b2793f0b.png\" width=\"400\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://existentialcomics.com/comic/402\">Super Academics</a></p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/a8b2793f0b.png\" width=\"400\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "[Super Academics](https://existentialcomics.com/comic/402)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/a8b2793f0b.png\" width=\"400\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-12T21:00:41-04:00",
 				"url": "https://blog.grotenhuis.info/2021/07/12/super-academics.html",
 				"tags": ["micro posts"]
@@ -173,7 +263,7 @@
 				
 				"content_html": "<blockquote>\n<p>“Adversity is such a wonderful teacher”</p>\n</blockquote>\n\n<p>-<a href=\"https://science.iupui.edu/people-directory/people/sarkar-jyoti.html\">Jyotirmoy Sarkar</a>, sharing his story today 🕊</p>\n",
 				"content_text": "> “Adversity is such a wonderful teacher”\n\n-[Jyotirmoy Sarkar](https://science.iupui.edu/people-directory/people/sarkar-jyoti.html), sharing his story today 🕊\n",
-				"date_published": "2021-07-04T10:04:34-04:00",
+				"date_published": "2021-07-04T09:04:34-05:00",
 				"url": "https://blog.grotenhuis.info/2021/07/04/adversity-is-such.html",
 				"tags": ["Resilience","Anabaptism","micro posts"]
 			},
@@ -236,7 +326,7 @@
 				
 				"content_html": "<p><img src=\"uploads/2021/920588f53b.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n\n<p>From <a href=\"http://experimentaltheology.blogspot.com/2021/06/on-conspiracy-theories-and-christianity_01850058872.html\">On Conspiracy Theories and Christianity: Part 7, We All Want to Live a Heroic Life</a>.</p>\n\n<p>Reminds me of how I&rsquo;ve never met any &ldquo;double-predestination&rdquo; folks who think they aren&rsquo;t one of the elect.</p>\n",
 				"content_text": "<img src=\"uploads/2021/920588f53b.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n\nFrom [On Conspiracy Theories and Christianity: Part 7, We All Want to Live a Heroic Life](http://experimentaltheology.blogspot.com/2021/06/on-conspiracy-theories-and-christianity_01850058872.html).\n\nReminds me of how I've never met any \"double-predestination\" folks who think they aren't one of the elect.\n",
-				"date_published": "2021-06-24T08:36:00-04:00",
+				"date_published": "2021-06-24T07:36:00-05:00",
 				"url": "https://blog.grotenhuis.info/2021/06/24/from-on-conspiracy.html",
 				"tags": ["micro posts"]
 			},
@@ -281,7 +371,7 @@
 				
 				"content_html": "<p>What a game! ⚽️ I think I need a Horvath jersey.</p>\n\n<p>(context: USMNT beat Mexico to win the CONCACAF Nations League)</p>\n",
 				"content_text": "What a game! ⚽️ I think I need a Horvath jersey.\n\n(context: USMNT beat Mexico to win the CONCACAF Nations League)\n",
-				"date_published": "2021-06-07T00:26:00-04:00",
+				"date_published": "2021-06-06T23:26:00-05:00",
 				"url": "https://blog.grotenhuis.info/2021/06/07/what-a-game.html",
 				"tags": ["Soccer","micro posts"]
 			},
@@ -335,7 +425,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780525657217\">The Resisters: A novel</a> by Gish Jen 📚</p>\n\n<p>⭐️⭐️⭐️⭐️ Really fun book about baseball that&rsquo;s not about baseball at all.</p>\n",
 				"content_text": "Finished reading: [The Resisters: A novel](https://micro.blog/books/9780525657217) by Gish Jen 📚\n\n⭐️⭐️⭐️⭐️ Really fun book about baseball that's not about baseball at all.\n",
-				"date_published": "2021-05-24T12:52:28-04:00",
+				"date_published": "2021-05-24T11:52:28-05:00",
 				"url": "https://blog.grotenhuis.info/2021/05/24/finished-reading-the.html",
 				"tags": ["Books","micro posts"]
 			},
