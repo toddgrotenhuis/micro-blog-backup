@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/17/admit-all-the.html",
+				
+				"content_html": "<p>Admit All the Refugees 🕊</p>\n",
+				"content_text": "Admit All the Refugees 🕊\n",
+				"date_published": "2021-08-17T08:35:18-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/17/admit-all-the.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/16/i-like-this.html",
+				
+				"content_html": "<p>I like <a href=\"https://www.oliverburkeman.com/donelist\">this approach</a> to tracking lists and will try it.</p>\n\n<p>Probably works best paired with clarity on your values &amp; priorities, and time-blocking to focus on your priorities.</p>\n\n<p>H/T <a href=\"https://micro.blog/jmaxb\">@jmaxb</a></p>\n",
+				"content_text": "I like [this approach](https://www.oliverburkeman.com/donelist) to tracking lists and will try it.\n\nProbably works best paired with clarity on your values & priorities, and time-blocking to focus on your priorities.\n\nH/T [@jmaxb](https://micro.blog/jmaxb) \n",
+				"date_published": "2021-08-16T11:39:14-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/16/i-like-this.html",
+				"tags": ["Digital Minimalism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/15/new-idiom-from.html",
+				
+				"content_html": "<p>New idiom from my spouse:</p>\n\n<blockquote>\n<p>“He’s just making a stink so he can smell himself.”</p>\n</blockquote>\n\n<p>Or</p>\n\n<blockquote>\n<p>“You’re just making a stink so you can smell yourself.”</p>\n</blockquote>\n",
+				"content_text": "New idiom from my spouse:\n\n> “He’s just making a stink so he can smell himself.”\n\nOr\n\n> “You’re just making a stink so you can smell yourself.”\n",
+				"date_published": "2021-08-15T20:56:45-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/15/new-idiom-from.html",
+				"tags": ["Humor","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/15/sunday-quote.html",
+				
+				"content_html": "<p>📑 Sunday Quote</p>\n\n<p><img src=\"uploads/2021/1e420203ff.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "📑 Sunday Quote\n\n<img src=\"uploads/2021/1e420203ff.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2021-08-15T08:07:14-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/15/sunday-quote.html",
+				"tags": ["Sunday Quotes","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/14/my-onematchfire-streak.html",
+				
+				"content_html": "<p>My one-match-fire streak continues 🔥 #EagleScout</p>\n\n<p><img src=\"uploads/2021/8b360cc375.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My one-match-fire streak continues 🔥 #EagleScout\n\n<img src=\"uploads/2021/8b360cc375.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-14T18:49:43-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/14/my-onematchfire-streak.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/12/talented-loopers-are.html",
+				
+				"content_html": "<p>Talented loopers are fascinating, and this duo just play off of each other incredibly well. <a href=\"https://youtu.be/pKtEJ9-GVoE\">So many magical moments in this recording, and you can see their delight.</a> 🎶 <a href=\"https://www.craft.do/s/dksNGpFZrOuv0l\">#watched</a></p>\n",
+				"content_text": "Talented loopers are fascinating, and this duo just play off of each other incredibly well. [So many magical moments in this recording, and you can see their delight.](https://youtu.be/pKtEJ9-GVoE) 🎶 [#watched](https://www.craft.do/s/dksNGpFZrOuv0l)\n",
+				"date_published": "2021-08-12T23:05:20-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/12/talented-loopers-are.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/12/see-lots-of.html",
+				
+				"content_html": "<p>See lots of folks talking about fall.</p>\n\n<p>Strange to me because the worst part of Indiana summer is August.</p>\n",
+				"content_text": "See lots of folks talking about fall. \n\nStrange to me because the worst part of Indiana summer is August.\n",
+				"date_published": "2021-08-12T08:55:27-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/12/see-lots-of.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/10/anybody-manage-their.html",
+				
+				"content_html": "<p>Anybody manage their song library in plex and also scrobble? 🎶</p>\n\n<p>I remember trying this years ago and there was a plug-in that was fiddly and flaky. Any better options, now?</p>\n",
+				"content_text": "Anybody manage their song library in plex and also scrobble? 🎶\r\n\r\nI remember trying this years ago and there was a plug-in that was fiddly and flaky. Any better options, now?\n",
+				"date_published": "2021-08-10T08:23:14-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/10/anybody-manage-their.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/08/09/top-artists-the.html",
 				
-				"content_html": "<p>🎶 Top artists the last 90 days, via last.fm</p>\n\n<p>Clipping. is the new one, the rest are mainstays. (and some of you may recognize 3 bands in the second row are all projects from the same person.) #MetalMennonite</p>\n\n<p><img src=\"uploads/2021/f1b6d1641b.jpg\" width=\"600\" height=\"303\" alt=\"\" /></p>\n",
-				"content_text": "🎶 Top artists the last 90 days, via last.fm\n\nClipping. is the new one, the rest are mainstays. (and some of you may recognize 3 bands in the second row are all projects from the same person.) #MetalMennonite\n\n<img src=\"uploads/2021/f1b6d1641b.jpg\" width=\"600\" height=\"303\" alt=\"\" />\n",
+				"content_html": "<p>🎶 Top artists the last 90 days, via last.fm</p>\n\n<p>Clipping. is the new one, the rest are mainstays. (and some of you may recognize 3 bands in the second row are all projects from the same person.) #MetalMennonite</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/f1b6d1641b.jpg\" width=\"600\" height=\"303\" alt=\"\" /></p>\n",
+				"content_text": "🎶 Top artists the last 90 days, via last.fm\n\nClipping. is the new one, the rest are mainstays. (and some of you may recognize 3 bands in the second row are all projects from the same person.) #MetalMennonite\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/f1b6d1641b.jpg\" width=\"600\" height=\"303\" alt=\"\" />\n",
 				"date_published": "2021-08-09T08:14:28-04:00",
 				"url": "https://blog.grotenhuis.info/2021/08/09/top-artists-the.html",
 				"tags": ["Music","micro posts","MetalMennonite"]
@@ -23,15 +95,6 @@
 				"date_published": "2021-08-08T11:27:34-04:00",
 				"url": "https://blog.grotenhuis.info/2021/08/08/pastoral-candidate-a.html",
 				"tags": ["Anabaptism","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/08/04/the-ixi-continue.html",
-				
-				"content_html": "<p>The #IXI continue to do well on the road. Hope we can get Moore of that joy at home! ⚽️</p>\n",
-				"content_text": "The #IXI continue to do well on the road. Hope we can get Moore of that joy at home! ⚽️\n",
-				"date_published": "2021-08-04T21:56:27-04:00",
-				"url": "https://blog.grotenhuis.info/2021/08/04/the-ixi-continue.html",
-				"tags": ["Soccer","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/08/04/currently-reading-dedicated.html",
@@ -97,15 +160,6 @@
 				"tags": ["Sunday Quotes","micro posts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/07/30/beautiful-teamgoalie-work.html",
-				
-				"content_html": "<p>Beautiful #TeamGoalie work for the #USWNT. Happy for Rapinoe to get the final shot needed to seal the win. ⚽️</p>\n",
-				"content_text": "Beautiful #TeamGoalie work for the #USWNT. Happy for Rapinoe to get the final shot needed to seal the win. ⚽️\n",
-				"date_published": "2021-07-30T09:47:56-04:00",
-				"url": "https://blog.grotenhuis.info/2021/07/30/beautiful-teamgoalie-work.html",
-				"tags": ["Soccer","micro posts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/07/29/curiosity-is-a.html",
 				
 				"content_html": "<p><a href=\"https://world.hey.com/samradford/a-curious-idiot-eb0edc9d\">Curiosity is a superpower</a>.</p>\n",
@@ -158,15 +212,6 @@
 				"date_published": "2021-07-22T10:58:09-04:00",
 				"url": "https://blog.grotenhuis.info/2021/07/22/mcsweeneys-nobody-wants.html",
 				"tags": ["Humor","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/07/21/anybody-else-have.html",
-				
-				"content_html": "<p>Anybody else have an issue with Apple Health freezing/crashing frequently and you need to restart?</p>\n\n<p>Don&rsquo;t know where to start on debugging this. Could be related to one of the apps that&rsquo;s trying to sync with it.</p>\n",
-				"content_text": "Anybody else have an issue with Apple Health freezing/crashing frequently and you need to restart?\n\nDon't know where to start on debugging this. Could be related to one of the apps that's trying to sync with it.\n",
-				"date_published": "2021-07-21T14:05:00-04:00",
-				"url": "https://blog.grotenhuis.info/2021/07/21/anybody-else-have.html",
-				"tags": ["micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/07/18/wow-wow-wow.html",
@@ -367,6 +412,15 @@
 				"tags": ["full posts"]
 			},
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/29/we-had-a.html",
+				
+				"content_html": "<p>We had a going away party for the MYF (Mennonite Youth Fellowship, our high school youth group) seniors that were off to college. Good to celebrate and reminisce, and I got schooled at spikeball.</p>\n\n<p><img src=\"uploads/2021/db29187bf7.jpg\" width=\"320\" height=\"240\" alt=\"\" /></p>\n",
+				"content_text": "We had a going away party for the MYF (Mennonite Youth Fellowship, our high school youth group) seniors that were off to college. Good to celebrate and reminisce, and I got schooled at spikeball.\n\n<img src=\"uploads/2021/db29187bf7.jpg\" width=\"320\" height=\"240\" alt=\"\" />\n",
+				"date_published": "2021-06-29T21:00:00-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/29/we-had-a.html",
+				"tags": ["Games","Anabaptism","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/06/26/woohoo-i-broke.html",
 				
 				"content_html": "<p>Woohoo! I broke #50 on the <a href=\"https://readwise.io/i/todd54\">readwise.io</a> leaderboard! 📚</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/83c4eaeeb0.png\" width=\"600\" height=\"592\" alt=\"\" /></p>\n",
@@ -378,8 +432,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/06/24/from-on-conspiracy.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/920588f53b.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n\n<p>From <a href=\"http://experimentaltheology.blogspot.com/2021/06/on-conspiracy-theories-and-christianity_01850058872.html\">On Conspiracy Theories and Christianity: Part 7, We All Want to Live a Heroic Life</a>.</p>\n\n<p>Reminds me of how I&rsquo;ve never met any &ldquo;double-predestination&rdquo; folks who think they aren&rsquo;t one of the elect.</p>\n",
-				"content_text": "<img src=\"uploads/2021/920588f53b.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n\nFrom [On Conspiracy Theories and Christianity: Part 7, We All Want to Live a Heroic Life](http://experimentaltheology.blogspot.com/2021/06/on-conspiracy-theories-and-christianity_01850058872.html).\n\nReminds me of how I've never met any \"double-predestination\" folks who think they aren't one of the elect.\n",
+				"content_html": "<p><img src=\"https://blog.grotenhuis.info/uploads/2021/920588f53b.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n\n<p>From <a href=\"http://experimentaltheology.blogspot.com/2021/06/on-conspiracy-theories-and-christianity_01850058872.html\">On Conspiracy Theories and Christianity: Part 7, We All Want to Live a Heroic Life</a>.</p>\n\n<p>Reminds me of how I&rsquo;ve never met any &ldquo;double-predestination&rdquo; folks who think they aren&rsquo;t one of the elect.</p>\n",
+				"content_text": "<img src=\"https://blog.grotenhuis.info/uploads/2021/920588f53b.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n\nFrom [On Conspiracy Theories and Christianity: Part 7, We All Want to Live a Heroic Life](http://experimentaltheology.blogspot.com/2021/06/on-conspiracy-theories-and-christianity_01850058872.html).\n\nReminds me of how I've never met any \"double-predestination\" folks who think they aren't one of the elect.\n",
 				"date_published": "2021-06-24T08:36:00-04:00",
 				"url": "https://blog.grotenhuis.info/2021/06/24/from-on-conspiracy.html",
 				"tags": ["micro posts"]
@@ -403,6 +457,15 @@
 				"tags": ["micro posts"]
 			},
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/18/180000.html",
+				
+				"content_html": "<p>My nephew did this when he knew I was coming to visit.</p>\n\n<p><img src=\"uploads/2021/f4d8d59d72.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My nephew did this when he knew I was coming to visit.\n\n<img src=\"uploads/2021/f4d8d59d72.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-06-18T18:00:00-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/18/180000.html",
+				"tags": ["Humor","Dear Kiddos","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/06/12/finished-reading-cibola.html",
 				
 				"content_html": "<p>📚 Finished reading: <a href=\"https://micro.blog/books/9780316334686\">Cibola Burn (The Expanse (4))</a> by James S. A. Corey ⭐️⭐️⭐️⭐️ (<a href=\"https://www.craft.do/s/cHjK7sNvrgQ0KO\">fiction</a>)</p>\n",
@@ -419,6 +482,15 @@
 				"date_published": "2021-06-09T20:54:55-04:00",
 				"url": "https://blog.grotenhuis.info/2021/06/09/finished-reading-a.html",
 				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/06/08/for-those-wondering.html",
+				
+				"content_html": "<p>🥃 For those wondering, this is the &ldquo;authentic&rdquo; recipe for a &ldquo;Cool Toddy&rdquo;:</p>\n\n<ul>\n<li>2 fingers of Costco/Kirkland 12-yr big-bottle blended scotch</li>\n<li>1 finger of Brown County port</li>\n<li>2 large cubes of ice</li>\n</ul>\n\n<p>If you want to diverge a bit you can use different whiskys/whiskies and different ports (I prefer tawny if diverging), but part of the point is to keep it reasonably priced rather than buying rare sherry- or port-casked whisky.</p>\n\n<p>Pic from a friend who just stocked up.</p>\n\n<p><img src=\"uploads/2021/f04cfe0120.jpg\" width=\"512\" height=\"682\" alt=\"\" /></p>\n",
+				"content_text": "🥃 For those wondering, this is the \"authentic\" recipe for a \"Cool Toddy\":\n\n* 2 fingers of Costco/Kirkland 12-yr big-bottle blended scotch\n* 1 finger of Brown County port\n* 2 large cubes of ice\n\nIf you want to diverge a bit you can use different whiskys/whiskies and different ports (I prefer tawny if diverging), but part of the point is to keep it reasonably priced rather than buying rare sherry- or port-casked whisky.\n\nPic from a friend who just stocked up.\n\n<img src=\"uploads/2021/f04cfe0120.jpg\" width=\"512\" height=\"682\" alt=\"\" />\n",
+				"date_published": "2021-06-08T13:00:00-04:00",
+				"url": "https://blog.grotenhuis.info/2021/06/08/for-those-wondering.html",
+				"tags": ["micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/06/07/what-a-game.html",
@@ -1139,6 +1211,15 @@
 				"date_published": "2021-01-31T08:06:01-04:00",
 				"url": "https://blog.grotenhuis.info/2021/01/31/sunday-quote.html",
 				"tags": ["Review","Sunday Quotes","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/01/30/goofy-coloring-from.html",
+				
+				"content_html": "<p>Goofy coloring from the book I got for our 2015 trip with colored pencils from our 2018 trip.</p>\n\n<p><img src=\"uploads/2021/a98dcee2d8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Goofy coloring from the book I got for our 2015 trip with colored pencils from our 2018 trip.\n\n<img src=\"uploads/2021/a98dcee2d8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-01-30T19:26:00-04:00",
+				"url": "https://blog.grotenhuis.info/2021/01/30/goofy-coloring-from.html",
+				"tags": ["micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/01/30/been-thinking-about.html",
