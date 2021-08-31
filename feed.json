@@ -1,11 +1,83 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Todd Grotenhuis",
+	"title": "Groten Stuff",
 	"icon": "https://micro.blog/toddgrotenhuis/avatar.jpg",
 	"home_page_url": "https://blog.grotenhuis.info/",
 	"feed_url": "https://blog.grotenhuis.info/feed.json",
 	"items": [
 		
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/31/check-on-your.html",
+				
+				"content_html": "<p>⚽️ Check on your Arsenal-supporting friends.</p>\n",
+				"content_text": "⚽️ Check on your Arsenal-supporting friends.\n",
+				"date_published": "2021-08-31T07:59:22-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/31/check-on-your.html",
+				"tags": ["Soccer","Humor","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/30/listening-lately-clipping.html",
+				
+				"content_html": "<p>🎶 Listening lately.</p>\n\n<ul>\n<li>clipping.</li>\n<li>Zao</li>\n<li>Front Line Assembly</li>\n<li>Circle of Dust</li>\n<li>Living Sacrifice</li>\n<li>Juno Reactor</li>\n<li>Killswitch Engage</li>\n<li>August Burns Red</li>\n</ul>\n\n<p><img src=\"uploads/2021/1420a17849.jpg\" width=\"600\" height=\"306\" alt=\"\" /></p>\n",
+				"content_text": "🎶 Listening lately.\n\n* clipping.\n* Zao\n* Front Line Assembly\n* Circle of Dust\n* Living Sacrifice\n* Juno Reactor\n* Killswitch Engage\n* August Burns Red\n\n<img src=\"uploads/2021/1420a17849.jpg\" width=\"600\" height=\"306\" alt=\"\" />\n",
+				"date_published": "2021-08-30T08:55:46-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/30/listening-lately-clipping.html",
+				"tags": ["Music","micro posts","MetalMennonite"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/29/great-episode-of.html",
+				
+				"content_html": "<p>🎙<a href=\"https://overcast.fm/+oiPWCGKHM\">Great episode of the Ezra Klein show, on Foreign policy</a> 🕊</p>\n",
+				"content_text": "🎙[Great episode of the Ezra Klein show, on Foreign policy](https://overcast.fm/+oiPWCGKHM) 🕊\n",
+				"date_published": "2021-08-29T11:45:16-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/29/great-episode-of.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/28/nice-thing-about.html",
+				
+				"content_html": "<p>🏕 Nice thing about hiking a trail that hasn’t been used it a bit: you get to see things fresh, and sometimes life that hasn’t scurried away.</p>\n\n<p>Not-so-nice thing: you end up clearing a lot of beautiful 🕸.</p>\n",
+				"content_text": "🏕 Nice thing about hiking a trail that hasn’t been used it a bit: you get to see things fresh, and sometimes life that hasn’t scurried away.\n\nNot-so-nice thing: you end up clearing a lot of beautiful 🕸.\n",
+				"date_published": "2021-08-28T09:15:32-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/28/nice-thing-about.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/27/could-we-agree.html",
+				
+				"content_html": "<p>Could we agree to ditch long goofy names like “math-y progressive djent metal” and just call it “jazz metal”? 🎶</p>\n",
+				"content_text": "Could we agree to ditch long goofy names like “math-y progressive djent metal” and just call it “jazz metal”? 🎶\n",
+				"date_published": "2021-08-27T19:52:33-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/27/could-we-agree.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/26/feel-good-about.html",
+				
+				"content_html": "<p>⚽️ Feel good about this group #CFC</p>\n\n<blockquote>\n<p>GROUP H: Chelsea (England), Juventus (Italy), Zenit St. Petersburg (Russia), Malmo (Sweden).</p>\n</blockquote>\n",
+				"content_text": "⚽️ Feel good about this group #CFC\n\n> GROUP H: Chelsea (England), Juventus (Italy), Zenit St. Petersburg (Russia), Malmo (Sweden).\n",
+				"date_published": "2021-08-26T13:42:48-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/26/feel-good-about.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/25/enjoyed-a-game.html",
+				
+				"content_html": "<p>🎲 Enjoyed a game night with some folks from church.</p>\n\n<p>Totally unplanned, but also perfectly appropriate for Mennonites, we ended up mostly playing collaborative games and Dutch Blitz.</p>\n\n<ul>\n<li><a href=\"https://boardgamegeek.com/boardgame/146312/ghost-fightin-treasure-hunters\">Ghost Fightin’ Treasure Hunters</a> - light game, great with kids, excellent production/pieces/art</li>\n<li><a href=\"https://boardgamegeek.com/boardgame/43443/castle-panic\">Castle Panic</a> - it’s tower defense: the board game</li>\n<li><a href=\"https://boardgamegeek.com/boardgame/148203/dutch-blitz\">Dutch Blitz</a> - a staple among many Mennonite families, hailing from back when regular playing cards were not permitted</li>\n<li><a href=\"https://boardgamegeek.com/boardgame/133473/sushi-go\">Sushi Go!</a> - I hadn’t played this in many years, but came back from last place 2nd round to win 3rd due to some strategic pudding reserves</li>\n<li><a href=\"https://boardgamegeek.com/boardgame/220517/shipwreck-arcana\">Shipwreck Arcana</a> - I love love love this game for the deductive gameplay, intriguing art, cooperative play, and small game size</li>\n</ul>\n",
+				"content_text": "🎲 Enjoyed a game night with some folks from church.\n\nTotally unplanned, but also perfectly appropriate for Mennonites, we ended up mostly playing collaborative games and Dutch Blitz.\n\n* [Ghost Fightin’ Treasure Hunters](https://boardgamegeek.com/boardgame/146312/ghost-fightin-treasure-hunters) - light game, great with kids, excellent production/pieces/art\n* [Castle Panic](https://boardgamegeek.com/boardgame/43443/castle-panic) - it’s tower defense: the board game\n* [Dutch Blitz](https://boardgamegeek.com/boardgame/148203/dutch-blitz) - a staple among many Mennonite families, hailing from back when regular playing cards were not permitted\n* [Sushi Go!](https://boardgamegeek.com/boardgame/133473/sushi-go) - I hadn’t played this in many years, but came back from last place 2nd round to win 3rd due to some strategic pudding reserves\n* [Shipwreck Arcana](https://boardgamegeek.com/boardgame/220517/shipwreck-arcana) - I love love love this game for the deductive gameplay, intriguing art, cooperative play, and small game size\n \n",
+				"date_published": "2021-08-25T23:17:41-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/25/enjoyed-a-game.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/25/sprinklers-on-a.html",
+				
+				"content_html": "<p>Sprinklers on a roundabout, running in the rain - the most Carmel thing I can think of</p>\n",
+				"content_text": "Sprinklers on a roundabout, running in the rain - the most Carmel thing I can think of\n",
+				"date_published": "2021-08-25T08:33:20-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/25/sprinklers-on-a.html",
+				"tags": ["Humor","micro posts"]
+			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/08/23/see-where-a.html",
 				
@@ -1269,8 +1341,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/01/30/goofy-coloring-from.html",
 				
-				"content_html": "<p>Goofy coloring from the book I got for our 2015 trip with colored pencils from our 2018 trip.</p>\n\n<p><img src=\"uploads/2021/a98dcee2d8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Goofy coloring from the book I got for our 2015 trip with colored pencils from our 2018 trip.\n\n<img src=\"uploads/2021/a98dcee2d8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Goofy coloring from the book I got for our 2015 trip with colored pencils from our 2018 trip.</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/a98dcee2d8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Goofy coloring from the book I got for our 2015 trip with colored pencils from our 2018 trip.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/a98dcee2d8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-30T19:26:00-04:00",
 				"url": "https://blog.grotenhuis.info/2021/01/30/goofy-coloring-from.html",
 				"tags": ["micro posts"]
@@ -1753,6 +1825,15 @@
 				"tags": ["Review","Resilience","micro posts"]
 			},
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2020/12/29/my-spouse-and.html",
+				
+				"content_html": "<p>My spouse and I are singing the Tantric (original) album and having fun making cat-singing noises for all the parts that sound like meows.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Tantric Album Cover.jpg\" src=\"https://blog.grotenhuis.info/uploads/2021/a9f1879343.jpg\" alt=\"Tantric Album Cover\" width=\"220\" height=\"219\" border=\"0\" /></p>\n",
+				"content_text": "<p>My spouse and I are singing the Tantric (original) album and having fun making cat-singing noises for all the parts that sound like meows.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Tantric Album Cover.jpg\" src=\"https://blog.grotenhuis.info/uploads/2021/a9f1879343.jpg\" alt=\"Tantric Album Cover\" width=\"220\" height=\"219\" border=\"0\" /></p>\n",
+				"date_published": "2020-12-29T17:00:00-04:00",
+				"url": "https://blog.grotenhuis.info/2020/12/29/my-spouse-and.html",
+				"tags": ["Humor","Music","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/12/29/142837.html",
 				"title": "2020: 📺 \u0026 🎥 Review",
 				"content_html": "<p><em>To view other 2020 review posts, visit the <a href=\"https://blog.grotenhuis.info/2020/12/29/review.html\">main post here</a>.</em></p>\n\n<hr />\n\n<p>When it comes to screens, I prefer to do something that requires engagement from me. Thus, when I&rsquo;m in front of a screen for enjoyment, I&rsquo;m often reading or playing. When I&rsquo;m watching, I prefer something humorous, challenging, or both. I generally don&rsquo;t like passive entertainment.</p>\n\n<p>With the diffusion of shows and movies across streaming services (and Netflix &amp; Apple TV not playing nice together), I started using <a href=\"https://www.justwatch.com/\">JustWatch</a> to track &ldquo;to watch&rdquo; lists. JustWatch let&rsquo;s me have a single watch list, and go to wherever I can stream (or rent or buy) the show or movie.</p>\n\n<p>This year, I continued my quixotic quest to &ldquo;watch all the sketch comedy&rdquo;. Here are some of the new (to me) ones I that I recommend:</p>\n\n<ul>\n<li><a href=\"https://www.hbo.com/a-black-lady-sketch-show\">A Black Lady Sketch Show</a></li>\n<li><a href=\"https://www.netflix.com/title/81036255\">The Iliza Shlesinger Sketch Show</a></li>\n<li><a href=\"https://www.netflix.com/title/81087498\">Astronomy Club</a></li>\n</ul>\n\n<p>We like to watch &ldquo;funny news&rdquo; at our house. My favorites are:</p>\n\n<ul>\n<li><a href=\"https://www.hbo.com/last-week-tonight-with-john-oliver\">Last Week Tonight with John Oliver</a>: the in-depth segments cut deep but also discuss opportunities to do something about it.</li>\n<li><a href=\"https://www.netflix.com/title/80239931\">Patriot Act with Hasan Minhaj</a>: a little less what-can-you-do-about-it and a little more in-depth. These could be heavy, which is probably why it&rsquo;s now cancelled.</li>\n<li><a href=\"https://www.cbs.com/shows/the-late-show-with-stephen-colbert/\">The Late Show with Stephen Colbert</a>: I would occasionally watch the previous night&rsquo;s intro portion of this show while having my breakfast. I find Colbert (&amp; his writers) to be the funniest of the late night hosts. Also, lately, the moments where you can hear his wife (or their interactions) are charming.</li>\n<li><a href=\"https://www.nbc.com/late-night-with-seth-meyers\">Late Night with Seth Meyers</a>:  Like the above, it was an occasional morning watch of the intro portion of the show. He pulled no punches on calling out problems in the USA presidential administration, to the point where I&rsquo;m frankly surprised he&rsquo;s been able to stay on the air.</li>\n</ul>\n\n<p>At our house, we also enjoy some murder mysteries and &ldquo;police procedurals&rdquo;. Here are the couple that stood out for me this year:</p>\n\n<ul>\n<li><a href=\"https://www.pbs.org/show/endeavour/\">Endeavour</a>: It&rsquo;s Inspector Morse when he was younger, and they do a brilliant job of creating the setting of each episode (which is really a movie): visually, historically, and audibly.</li>\n<li><a href=\"https://www.netflix.com/title/80216172\">Criminal</a>: the premise of these series  is that it&rsquo;s a very sparse set of the interview rooms and a couple hallways, yet they are able to do so much with it. ( <em>note: check for 4 different countries and languages; there are multiple versions with different stories</em>)</li>\n</ul>\n\n<p>Here are other shows that I recommend:</p>\n\n<ul>\n<li><a href=\"https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy\">Ted Lasso</a>: this is my <strong>top recommendation</strong> from this year. On top of being very funny, I appreciate how much maturity and humanity people show each other, even in the face of most of the characters going through something incredibly difficult.</li>\n<li><a href=\"https://www.bbc.co.uk/programmes/b08l581p\">The Repair Shop</a>: this is an incredibly charming show about a shop where people bring in their antiques, family heirlooms, and broken items to be reconditioned. It&rsquo;s a brilliant spot of light in a throwaway consumerist culture, and there are wonderful moments of joy.</li>\n<li><a href=\"https://www.nbc.com/the-good-place\">The Good Place</a>: a hilarious show that introduces and mashes up a lot of philosophical concepts and questions</li>\n<li><a href=\"https://www.hbo.com/watchmen\">Watchmen</a>: full disclosure, I hadn&rsquo;t seen the movie or read the comics before watching this spinoff TV show, but am familiar with their basic story line and themes. This was an incredible production that explores a number of both contemporary and timeless problems.</li>\n<li><a href=\"https://www.fxnetworks.com/shows/fargo\">Fargo</a>: like Watchmen, I haven&rsquo;t seen the movie, but I am riveted to every season of this show. What I like most about this show is the juxtapositions: beauty &amp; horror, fortune &amp; reversal, education &amp; gallows humor, and much more.</li>\n<li><a href=\"https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD\">The Mandalorian</a>: yes, it&rsquo;s full of fan service, but it&rsquo;s <em>really well-done fan service</em> that re-explores many tropes in fresh ways.</li>\n<li><a href=\"https://www.amazon.com/The-Boys-Season-1/dp/B07QNJCXZK\">The Boys</a>: these comedy-horror comic book characters made it to TV, and it presents a scathing critique of various power structures.</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Community_(TV_series)\">Community</a>: I wrapped up this series this year. It&rsquo;s intelligent and funny, but you really do have to watch from the beginning in order to understand the characters and their dynamic. Troy &amp; Abed will always have a special place in my heart for the way they portrayed nerdiness in a more authentic and <em>laughing-with</em> rather than <em>laughing-at</em> way.</li>\n<li><a href=\"https://www.history.com/shows/alone\">Alone</a>: I generally shy away from &ldquo;Reality Shows&rdquo; due to vapidity, repetition, and manufactured melodrama. I will often check out survival shows, though (hey, Eagle Scout here!).  What I like about this one compared to some others is that you can see how they setup for the long haul, giving us a chance to see how challenges and priorities shift over the duration of their stay. (Of course, it&rsquo;s also relevant to my theme of <a href=\"https://resilient.substack.com/\">Resilience</a>.)</li>\n</ul>\n\n<p>The Big Screen: I didn&rsquo;t watch a lot of movies this year (who did?), but here are the two that stuck with me:</p>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/Knives_Out\">Knives Out</a>: as I mentioned earlier, we enjoy murder mysteries in this house. This was a great twist on those tropes. (I feel like it&rsquo;s this generation&rsquo;s <em>Clue</em>)</li>\n<li><a href=\"https://en.wikipedia.org/wiki/The_Platform_(film)\">El Hoyo (The Platform)</a>: this minimalist dystopian horror film offers several critiques of the current age.</li>\n</ul>\n\n<hr />\n\n<p>What did you watch this year? Any recommendations?</p>\n",
@@ -1913,6 +1994,15 @@
 				"date_published": "2020-12-16T00:30:00-04:00",
 				"url": "https://blog.grotenhuis.info/2020/12/15/i-dont-preach.html",
 				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2020/12/13/playing-elder-scrolls.html",
+				
+				"content_html": "<p>Playing Elder Scrolls Online with my niece and nephew. I'm stopping along the way all the time to grab the crafting supplies we come across so I can make stuff.<br />\"You're becoming grandma” my niece says.</p>\n",
+				"content_text": "<p>Playing Elder Scrolls Online with my niece and nephew. I'm stopping along the way all the time to grab the crafting supplies we come across so I can make stuff.<br />\"You're becoming grandma” my niece says.</p>\n",
+				"date_published": "2020-12-13T21:38:00-04:00",
+				"url": "https://blog.grotenhuis.info/2020/12/13/playing-elder-scrolls.html",
+				"tags": ["Games","Humor","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/12/13/internet-hive-mind.html",
@@ -3083,6 +3173,15 @@
 				"date_published": "2020-09-01T12:29:44-04:00",
 				"url": "https://blog.grotenhuis.info/2020/09/01/be-like-banksy.html",
 				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2020/08/30/this-light-at.html",
+				
+				"content_html": "<p>This light at our rental was clearly made from Big Bird.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"bigbird.jpg\" src=\"https://blog.grotenhuis.info/uploads/2021/8368771801.jpg\" alt=\"118357400 10100119350367993 1469403942425032468 n\" width=\"600\" height=\"600\" border=\"0\" /></p>\n",
+				"content_text": "<p>This light at our rental was clearly made from Big Bird.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"bigbird.jpg\" src=\"https://blog.grotenhuis.info/uploads/2021/8368771801.jpg\" alt=\"118357400 10100119350367993 1469403942425032468 n\" width=\"600\" height=\"600\" border=\"0\" /></p>\n",
+				"date_published": "2020-08-30T15:19:00-04:00",
+				"url": "https://blog.grotenhuis.info/2020/08/30/this-light-at.html",
+				"tags": ["Humor","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/08/30/sunday-quote.html",
