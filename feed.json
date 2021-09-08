@@ -1,19 +1,37 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Groten Stuff",
+	"title": "Todd Grotenhuis",
 	"icon": "https://micro.blog/toddgrotenhuis/avatar.jpg",
 	"home_page_url": "https://blog.grotenhuis.info/",
 	"feed_url": "https://blog.grotenhuis.info/feed.json",
 	"items": [
 		
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/08/31/check-on-your.html",
+				"id": "http://toddgrotenhuis.micro.blog/2021/09/02/online-or-inperson.html",
 				
-				"content_html": "<p>⚽️ Check on your Arsenal-supporting friends.</p>\n",
-				"content_text": "⚽️ Check on your Arsenal-supporting friends.\n",
-				"date_published": "2021-08-31T07:59:22-04:00",
-				"url": "https://blog.grotenhuis.info/2021/08/31/check-on-your.html",
-				"tags": ["Soccer","Humor","micro posts"]
+				"content_html": "<p>🎲 <a href=\"https://takeonrules.com/2021/09/02/do-i-now-favor-online-over-face-to-face/\">online or in-person for games</a> asks Jeremy.</p>\n\n<p>I love the convenience of online, and the tools have become very good. It&rsquo;s amazing as a GM.</p>\n\n<p>As a player, I find it can be distracting, as other things are constantly trying to grab my attention. At the table, I can put my phone away. It&rsquo;s a little more complicated online, but I&rsquo;ve developed steps to limit distractions when playing that way.</p>\n",
+				"content_text": "🎲 [online or in-person for games](https://takeonrules.com/2021/09/02/do-i-now-favor-online-over-face-to-face/) asks Jeremy.\n\nI love the convenience of online, and the tools have become very good. It's amazing as a GM. \n\nAs a player, I find it can be distracting, as other things are constantly trying to grab my attention. At the table, I can put my phone away. It's a little more complicated online, but I've developed steps to limit distractions when playing that way.\n",
+				"date_published": "2021-09-02T08:31:31-04:00",
+				"url": "https://blog.grotenhuis.info/2021/09/02/online-or-inperson.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/31/i-got-to.html",
+				
+				"content_html": "<p>🔒 I got to announce that I&rsquo;m <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6838518307507728385/\">expanding my team</a> today. Feel free to refer people or apply! #ProdSec #AppSec</p>\n",
+				"content_text": "🔒 I got to announce that I'm [expanding my team](https://www.linkedin.com/feed/update/urn:li:activity:6838518307507728385/) today. Feel free to refer people or apply! #ProdSec #AppSec\n",
+				"date_published": "2021-08-31T13:20:10-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/31/i-got-to.html",
+				"tags": ["Resilience","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/08/31/you-can-tell.html",
+				
+				"content_html": "<p>🎶 you can tell this is an awesome track based on what Plex thinks is &ldquo;sonically similar&rdquo;</p>\n\n<p><img src=\"uploads/2021/14639c1b5f.jpg\" width=\"600\" height=\"236\" alt=\"\" /></p>\n",
+				"content_text": "🎶 you can tell this is an awesome track based on what Plex thinks is \"sonically similar\"\n\n<img src=\"uploads/2021/14639c1b5f.jpg\" width=\"600\" height=\"236\" alt=\"\" />\n",
+				"date_published": "2021-08-31T11:57:59-04:00",
+				"url": "https://blog.grotenhuis.info/2021/08/31/you-can-tell.html",
+				"tags": ["Music","micro posts","MetalMennonite"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/08/30/listening-lately-clipping.html",
@@ -6179,15 +6197,6 @@
 				"date_published": "2019-04-28T16:20:46-04:00",
 				"url": "https://blog.grotenhuis.info/2019/04/28/first-podcast-up.html",
 				"tags": ["Resilience","Ideas","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2019/04/25/based-on-recent.html",
-				
-				"content_html": "<p>Based on recent feedback, I am starting a podcast!</p>\n\n<p><a href=\"https://forms.gle/fycaoLvpSDyWGget7\">Quick Survey</a>: What topics would you want me to cover in a podcast and newsletter?</p>\n\n<p><strong>I’ll give a free lifetime membership to the first 50 full responses.</strong></p>\n",
-				"content_text": "Based on recent feedback, I am starting a podcast!\n\n[Quick Survey](https://forms.gle/fycaoLvpSDyWGget7): What topics would you want me to cover in a podcast and newsletter? \n\n**I’ll give a free lifetime membership to the first 50 full responses.**\n",
-				"date_published": "2019-04-25T10:40:00-04:00",
-				"url": "https://blog.grotenhuis.info/2019/04/25/based-on-recent.html",
-				"tags": ["Games","Review","Resilience","Ideas","Soccer","Humor","Digital Minimalism","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/04/24/quick-pollwhere-would.html",
