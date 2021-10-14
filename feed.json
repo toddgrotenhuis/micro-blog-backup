@@ -7,19 +7,63 @@
 	"items": [
 		
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/10/06/anybody-in-the.html",
+				"id": "http://toddgrotenhuis.micro.blog/2021/10/12/is-there-a.html",
 				
-				"content_html": "<p>Anybody in the Indy area have a <a href=\"https://www.berkeyfilters.com\">Berkey</a> filter that you aren&rsquo;t using anymore, and I could buy? I understand that it may need a new or cleaned filter.</p>\n",
-				"content_text": "Anybody in the Indy area have a [Berkey](https://www.berkeyfilters.com) filter that you aren't using anymore, and I could buy? I understand that it may need a new or cleaned filter.\n",
-				"date_published": "2021-10-06T14:10:29-04:00",
-				"url": "https://blog.grotenhuis.info/2021/10/06/anybody-in-the.html",
+				"content_html": "<p>Is there a name for the speaking pattern where a person usually ends their sentences up, like a question, despite not being questions?</p>\n\n<p><em>(I’m also not sure if this is a pattern outside English, but that’s another question.)</em></p>\n",
+				"content_text": "Is there a name for the speaking pattern where a person usually ends their sentences up, like a question, despite not being questions?\n\n_(I’m also not sure if this is a pattern outside English, but that’s another question.)_\n",
+				"date_published": "2021-10-12T07:37:45-04:00",
+				"url": "https://blog.grotenhuis.info/2021/10/12/is-there-a.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/10/10/long-shot-for.html",
+				
+				"content_html": "<p>⚽️ Long shot for #IXI but let’s go!</p>\n",
+				"content_text": "⚽️ Long shot for #IXI but let’s go!\n",
+				"date_published": "2021-10-10T17:08:28-04:00",
+				"url": "https://blog.grotenhuis.info/2021/10/10/long-shot-for.html"
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/10/10/plexs-sonically-similar.html",
+				
+				"content_html": "<p>🎶 Plex’s “sonically similar” feature is pretty cool. In this picture, the top row represents some “obvious” answers to KMFDM-related bands in my collection, but the bottom row shows accurate-but-not-typically-related ones.</p>\n\n<p><img src=\"uploads/2021/4bff356632.png\" width=\"587\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🎶 Plex’s “sonically similar” feature is pretty cool. In this picture, the top row represents some “obvious” answers to KMFDM-related bands in my collection, but the bottom row shows accurate-but-not-typically-related ones.\n\n<img src=\"uploads/2021/4bff356632.png\" width=\"587\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-10T16:22:58-04:00",
+				"url": "https://blog.grotenhuis.info/2021/10/10/plexs-sonically-similar.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/10/10/sunday-quote.html",
+				
+				"content_html": "<p>Sunday Quote:</p>\n\n<p><img src=\"uploads/2021/9faab93280.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "Sunday Quote:\n\n<img src=\"uploads/2021/9faab93280.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2021-10-10T07:53:20-04:00",
+				"url": "https://blog.grotenhuis.info/2021/10/10/sunday-quote.html",
+				"tags": ["Anabaptism","Sunday Quotes","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/10/09/if-you-claim.html",
+				
+				"content_html": "<p>If you claim to be a “conscientious objector” to vaccination, what <em>alternative service</em> are you performing to alleviate or end the pandemic?</p>\n",
+				"content_text": "If you claim to be a “conscientious objector” to vaccination, what _alternative service_ are you performing to alleviate or end the pandemic?\n",
+				"date_published": "2021-10-09T10:03:59-04:00",
+				"url": "https://blog.grotenhuis.info/2021/10/09/if-you-claim.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/10/07/update-picked-a.html",
+				
+				"content_html": "<p>🍄 <a href=\"https://blog.grotenhuis.info/2021/10/05/mushroom-shoes-are.html\">Update</a>: picked a giant puffball on my morning walk. Gonna cook it up at lunch. Wish me luck!</p>\n\n<p><em>Note: I checked it against <strong><a href=\"https://bookshop.org/a/10222/9781602391604\">Mushrooming Without Fear</a></strong></em></p>\n",
+				"content_text": "🍄 [Update](https://blog.grotenhuis.info/2021/10/05/mushroom-shoes-are.html): picked a giant puffball on my morning walk. Gonna cook it up at lunch. Wish me luck!\n\n_Note: I checked it against **[Mushrooming Without Fear](https://bookshop.org/a/10222/9781602391604)**_\n",
+				"date_published": "2021-10-07T08:18:14-04:00",
+				"url": "https://blog.grotenhuis.info/2021/10/07/update-picked-a.html",
 				"tags": ["micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/10/05/mushroom-shoes-are.html",
 				
-				"content_html": "<p>Mushroom</p>\n\n<p>(Shoes are size 13)</p>\n\n<p><img src=\"uploads/2021/1a7235aec7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Mushroom \n\n(Shoes are size 13)\n\n<img src=\"uploads/2021/1a7235aec7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Mushroom</p>\n\n<p>(Shoes are size 13)</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/1a7235aec7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Mushroom \n\n(Shoes are size 13)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/1a7235aec7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-05T07:39:23-04:00",
 				"url": "https://blog.grotenhuis.info/2021/10/05/mushroom-shoes-are.html",
 				"tags": ["micro posts"]
@@ -133,15 +177,6 @@
 				"tags": ["Music","micro posts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/09/22/league-cup-day.html",
-				
-				"content_html": "<p>League cup day. Let&rsquo;s go #CFC ⚽️</p>\n",
-				"content_text": "League cup day. Let's go #CFC ⚽️\n",
-				"date_published": "2021-09-22T14:50:23-04:00",
-				"url": "https://blog.grotenhuis.info/2021/09/22/league-cup-day.html",
-				"tags": ["Soccer","micro posts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/09/22/took-a-break.html",
 				
 				"content_html": "<p>🎲 Took a break from GMing our long-running Burning Wheel setting, and we&rsquo;re doing a little #DND5E</p>\n\n<p>I&rsquo;m playing a hobbitses merchant who accidentally made a deal with a fey. (Warlock) Gonna be pretty fun.</p>\n",
@@ -185,33 +220,6 @@
 				"date_published": "2021-09-17T17:21:48-04:00",
 				"url": "https://blog.grotenhuis.info/2021/09/17/my-spouse-just.html",
 				"tags": ["Humor","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/09/16/can-we-please.html",
-				
-				"content_html": "<p>⚽️⚽️⚽️⚽️⚽️⚽️⚽️⚽️⚽️ - 0</p>\n\n<p>Can we please pay the #USWNT ?</p>\n",
-				"content_text": "⚽️⚽️⚽️⚽️⚽️⚽️⚽️⚽️⚽️ - 0\n\nCan we please pay the #USWNT ?\n",
-				"date_published": "2021-09-16T21:28:02-04:00",
-				"url": "https://blog.grotenhuis.info/2021/09/16/can-we-please.html",
-				"tags": ["Soccer","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/09/16/happy-for-carli.html",
-				
-				"content_html": "<p>Happy for Carli Lloyd ⚽️ #USWNT</p>\n",
-				"content_text": "Happy for Carli Lloyd ⚽️ #USWNT\n",
-				"date_published": "2021-09-16T20:16:33-04:00",
-				"url": "https://blog.grotenhuis.info/2021/09/16/happy-for-carli.html",
-				"tags": ["Soccer","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2021/09/14/watching-the-golazo.html",
-				
-				"content_html": "<p>Watching the &ldquo;Golazo&rdquo; show, and wondering if this is what NFL Red Zone is like? ⚽️🏈</p>\n",
-				"content_text": "Watching the \"Golazo\" show, and wondering if this is what NFL Red Zone is like? ⚽️🏈\n",
-				"date_published": "2021-09-14T15:40:46-04:00",
-				"url": "https://blog.grotenhuis.info/2021/09/14/watching-the-golazo.html",
-				"tags": ["Soccer","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/09/14/happy-champions-leauge.html",
@@ -2669,42 +2677,6 @@
 				"date_published": "2020-11-09T09:17:13-04:00",
 				"url": "https://blog.grotenhuis.info/2020/11/09/as-trumps-creditors.html",
 				"tags": ["Resilience","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2020/11/08/finished-reading-battle.html",
-				
-				"content_html": "<p>📚 <a href=\"https://blog.grotenhuis.info/reading/\">Finished Reading</a>: <em><a href=\"https://bookshop.org/books/battle-ground-9780593199305/9780593199305\">Battle Ground</a></em> by Jim Butcher ⭐️⭐️⭐️⭐️</p>\n\n<p>Gets an extra star because River Shoulders and Butters.</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2020/78d2af1172.jpg\" width=\"397\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "📚 [Finished Reading](https://blog.grotenhuis.info/reading/): _[Battle Ground](https://bookshop.org/books/battle-ground-9780593199305/9780593199305)_ by Jim Butcher ⭐️⭐️⭐️⭐️\n\nGets an extra star because River Shoulders and Butters.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/78d2af1172.jpg\" width=\"397\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-11-08T19:53:17-04:00",
-				"url": "https://blog.grotenhuis.info/2020/11/08/finished-reading-battle.html",
-				"tags": ["Books","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2020/11/08/sunday-quote.html",
-				
-				"content_html": "<p>Sunday Quote</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2020/513cc94f34.jpg\" width=\"600\" height=\"274\" alt=\"\" /></p>\n",
-				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/513cc94f34.jpg\" width=\"600\" height=\"274\" alt=\"\" />\n",
-				"date_published": "2020-11-08T08:08:46-04:00",
-				"url": "https://blog.grotenhuis.info/2020/11/08/sunday-quote.html",
-				"tags": ["Sunday Quotes","micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2020/11/07/like-many-i.html",
-				
-				"content_html": "<p>Like many, I had to bring my office home during #COVID-19. I got my first office shelf setup today, and we now have bookshelves in 5 rooms.</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2020/6768a5f178.jpg\" width=\"488\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Like many, I had to bring my office home during #COVID-19. I got my first office shelf setup today, and we now have bookshelves in 5 rooms.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/6768a5f178.jpg\" width=\"488\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-11-07T13:55:58-04:00",
-				"url": "https://blog.grotenhuis.info/2020/11/07/like-many-i.html",
-				"tags": ["micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2020/11/06/as-i-watch.html",
-				
-				"content_html": "<p>As I watch coverage of different Trump supporter crowds chant “stop the count&rdquo; or “count the vote” depending on their state and how he is doing there, it&rsquo;s another painful reminder of how effective targeted, scaled advertising/manipulation/influence has become in our modern age.</p>\n",
-				"content_text": "As I watch coverage of different Trump supporter crowds chant “stop the count\" or “count the vote” depending on their state and how he is doing there, it's another painful reminder of how effective targeted, scaled advertising/manipulation/influence has become in our modern age.\n",
-				"date_published": "2020-11-06T10:13:00-04:00",
-				"url": "https://blog.grotenhuis.info/2020/11/06/as-i-watch.html",
-				"tags": ["micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/11/06/several-media-outlets.html",
