@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/12/16/week-in-review.html",
+				"title": "Week in Review 2021-12-10....err 2021-12-16",
+				"content_html": "<p>I started writing this on Friday the 10th, but am just now posting, because&hellip;</p>\n\n<p>🔒 <a href=\"https://arstechnica.com/information-technology/2021/12/hackers-launch-over-840000-attacks-through-log4j-flaw/\">The Log4j issue</a> is <em>really bad</em>. Security and engineering teams are scrambling to protect against attacks. The best teams started last week or weekend, but many organizations waited until Monday or later to get going. The vulnerability is once again hitting the hard problems of inventory management, 3rd-party software component management, and vendor management. I don&rsquo;t think I&rsquo;ve seen something this bad in 20 years of being a security practitioner. The vulnerability is easy to exploit, has the worst kind of impact (it runs the attacker&rsquo;s code), and is present in many common technologies. In addition, there have been several follow-on problems identified, such as additional attacks, or weaknesses in the fixes for the attack! If you&rsquo;d like a laugh instead of cry, check <a href=\"https://log4jmemes.com\">log4j memes</a>.</p>\n\n<p>⚽️ After a really great start to the Premiere League (where they were recently top of the table) and Champions League (where they are reigning champions), <a href=\"https://www.chelseafc.com/en\">Chelsea</a> are leaking goals and struggling at this point in the seasons. 3-3 vs. Zenit in the CL means they take 2nd spot (below Juventus), but are on to the round of 16 and matched up with Lille. They got a little lucky in the Leeds PL game to win 3-2, but tied 1-1 in what should have been an easy win at home against Everton.</p>\n\n<p>🛩 I recently had my 2nd business travel since &ldquo;the beforetimes&rdquo;. I tested when I got back and am luckily safe. I welcomed my new team members (direct and indirect reports) and honed 2022 strategy with the leaders on my team. It was good getting people together, but still feels a little strange getting back to it! In other work news, I also got the promotion I had been hoping for, bringing me to only 1 to 2 levels below my internal customers and working peers 😆. (Outside my team, I primarily work with SVPs and VPs, and am now an AVP.) Joking aside, I am thankful for the support of my leaders, who have shown trust in me and helped find funding and assistance for the important initiatives I&rsquo;ve been pushing.</p>\n\n<p>📚 My spouse and I registered for a new library. To be honest, we mostly did it to have another library in <a href=\"https://www.overdrive.com/apps/libby/\">Libby/Overdive</a>, but it turns out the library is lovely, too. There&rsquo;s no public funding in the town for a library and kids had to pay high fees to get access to a library in one of the neighboring towns. So, one family donated the land, funds for the building, and funds for the initial collection of materials. The library stays afloat with donations and a modest yearly fee for patrons. We were charmed by the library, especially their themed puzzle 🧩 collection that you can borrow like books!</p>\n\n<p>🌟🎄 I&rsquo;m looking forward to a break, soon. We&rsquo;ll be hosting my spouse&rsquo;s side of the family, again. All (who can be) are vaccinated (and boosted) and we will be testing before we get together. We have folks with compromised immune systems and/or who are too young to be vaccinated, but we are being safe for each other. We&rsquo;re very much looking forward to time together, as there has been so little of that in the last two years.</p>\n",
+				"content_text": "I started writing this on Friday the 10th, but am just now posting, because...\n\n🔒 [The Log4j issue](https://arstechnica.com/information-technology/2021/12/hackers-launch-over-840000-attacks-through-log4j-flaw/) is *really bad*. Security and engineering teams are scrambling to protect against attacks. The best teams started last week or weekend, but many organizations waited until Monday or later to get going. The vulnerability is once again hitting the hard problems of inventory management, 3rd-party software component management, and vendor management. I don't think I've seen something this bad in 20 years of being a security practitioner. The vulnerability is easy to exploit, has the worst kind of impact (it runs the attacker's code), and is present in many common technologies. In addition, there have been several follow-on problems identified, such as additional attacks, or weaknesses in the fixes for the attack! If you'd like a laugh instead of cry, check [log4j memes](https://log4jmemes.com).\n\n⚽️ After a really great start to the Premiere League (where they were recently top of the table) and Champions League (where they are reigning champions), [Chelsea](https://www.chelseafc.com/en) are leaking goals and struggling at this point in the seasons. 3-3 vs. Zenit in the CL means they take 2nd spot (below Juventus), but are on to the round of 16 and matched up with Lille. They got a little lucky in the Leeds PL game to win 3-2, but tied 1-1 in what should have been an easy win at home against Everton.\n\n🛩 I recently had my 2nd business travel since \"the beforetimes\". I tested when I got back and am luckily safe. I welcomed my new team members (direct and indirect reports) and honed 2022 strategy with the leaders on my team. It was good getting people together, but still feels a little strange getting back to it! In other work news, I also got the promotion I had been hoping for, bringing me to only 1 to 2 levels below my internal customers and working peers 😆. (Outside my team, I primarily work with SVPs and VPs, and am now an AVP.) Joking aside, I am thankful for the support of my leaders, who have shown trust in me and helped find funding and assistance for the important initiatives I've been pushing. \n\n📚 My spouse and I registered for a new library. To be honest, we mostly did it to have another library in [Libby/Overdive](https://www.overdrive.com/apps/libby/), but it turns out the library is lovely, too. There's no public funding in the town for a library and kids had to pay high fees to get access to a library in one of the neighboring towns. So, one family donated the land, funds for the building, and funds for the initial collection of materials. The library stays afloat with donations and a modest yearly fee for patrons. We were charmed by the library, especially their themed puzzle 🧩 collection that you can borrow like books!\n\n🌟🎄 I'm looking forward to a break, soon. We'll be hosting my spouse's side of the family, again. All (who can be) are vaccinated (and boosted) and we will be testing before we get together. We have folks with compromised immune systems and/or who are too young to be vaccinated, but we are being safe for each other. We're very much looking forward to time together, as there has been so little of that in the last two years.\n",
+				"date_published": "2021-12-16T18:51:00-05:00",
+				"url": "https://blog.grotenhuis.info/2021/12/16/week-in-review.html",
+				"tags": ["Resilience","Soccer","Books","full posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/12/15/i-have-a.html",
+				
+				"content_html": "<p>🎶 I have a lot of &ldquo;weird music&rdquo;, but as I&rsquo;ve said before&hellip;<a href=\"https://www.discogs.com/master/235759-Sanctum-Clarify\">Sanctum</a> really wins on the weird-and-amazing front.</p>\n\n<p>In the picture, this &ldquo;related tracks&rdquo; section is basically never empty.</p>\n\n<p><img src=\"uploads/2021/17f6c03245.jpg\" width=\"222\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🎶 I have a lot of \"weird music\", but as I've said before...[Sanctum](https://www.discogs.com/master/235759-Sanctum-Clarify) really wins on the weird-and-amazing front.\n\nIn the picture, this \"related tracks\" section is basically never empty.\n\n<img src=\"uploads/2021/17f6c03245.jpg\" width=\"222\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-15T10:25:18-05:00",
+				"url": "https://blog.grotenhuis.info/2021/12/15/i-have-a.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/12/15/love-starting-the.html",
+				
+				"content_html": "<p>🕹 <a href=\"https://www.powerlanguage.co.uk/wordle/\">Love starting the day with a 2-guess</a></p>\n\n<p><img src=\"uploads/2021/26ae879adb.png\" width=\"393\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🕹 [Love starting the day with a 2-guess](https://www.powerlanguage.co.uk/wordle/)\n\n<img src=\"uploads/2021/26ae879adb.png\" width=\"393\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-15T07:04:06-05:00",
+				"url": "https://blog.grotenhuis.info/2021/12/15/love-starting-the.html",
+				"tags": ["Games","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/12/14/is-anybody-trying.html",
+				
+				"content_html": "<p>Is anybody trying <a href=\"https://www.ponymessenger.com\">pony messenger?</a></p>\n\n<p>I’m the name I am basically everywhere.</p>\n",
+				"content_text": "Is anybody trying [pony messenger?](https://www.ponymessenger.com)\n\nI’m the name I am basically everywhere.\n",
+				"date_published": "2021-12-14T20:25:51-05:00",
+				"url": "https://blog.grotenhuis.info/2021/12/14/is-anybody-trying.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/12/13/seeming-go-small.html",
+				
+				"content_html": "<p>🎶 <a href=\"https://seeming.bandcamp.com/track/go-small\">Seeming - Go Small</a> was one of my big jams last year. Ressurected again today in my playlist.</p>\n",
+				"content_text": "🎶 [Seeming - Go Small](https://seeming.bandcamp.com/track/go-small) was one of my big jams last year. Ressurected again today in my playlist.\n",
+				"date_published": "2021-12-13T11:40:12-05:00",
+				"url": "https://blog.grotenhuis.info/2021/12/13/seeming-go-small.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/12/12/know-any-java.html",
+				
+				"content_html": "<p>🔒 Know any java developers or cybersecurity folks? Check in on them, maybe bring them some soup or something.</p>\n",
+				"content_text": "🔒 Know any java developers or cybersecurity folks? Check in on them, maybe bring them some soup or something.\n",
+				"date_published": "2021-12-12T10:11:53-05:00",
+				"url": "https://blog.grotenhuis.info/2021/12/12/know-any-java.html",
+				"tags": ["Resilience","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/12/10/cheris-tips-for.html",
 				
 				"content_html": "<p><p><a href=\"https://hypertext.monster/2021/12/10/a-better-relationship.html\">Cheri&rsquo;s tips for a better relationship with the Internet:</a></p>\n<blockquote>\n<p>1. I abstain from ad-supported and/or algorithmically manipulated social media.<br /><br />2. I avoid websites with an endless scroll. Aka “doomscrolling.”<br /><br />3. The only notifications I allow on my phone are calendar appointments.<br /><br />4. I use privacy-respecting hardware and software, when they exist. When they don’t, I make do with the next best thing. (I’m looking at you, Apple!)<br /><br />5. I minimize opinion-checking. That is, I form my own conclusions rather than caring what “the internet thinks” about a topic.<br /><br />6. I don’t frequent places where assholes thrive.</p>\n</blockquote></p>\n",
@@ -27,8 +81,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/12/09/new-streak.html",
 				
-				"content_html": "<p>🕹 <a href=\"https://www.powerlanguage.co.uk/wordle/\">new streak</a></p>\n\n<p><img src=\"uploads/2021/224b3f0e28.png\" width=\"490\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "🕹 [new streak](https://www.powerlanguage.co.uk/wordle/)\n\n<img src=\"uploads/2021/224b3f0e28.png\" width=\"490\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>🕹 <a href=\"https://www.powerlanguage.co.uk/wordle/\">new streak</a></p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/224b3f0e28.png\" width=\"490\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🕹 [new streak](https://www.powerlanguage.co.uk/wordle/)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/224b3f0e28.png\" width=\"490\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-09T03:17:37-05:00",
 				"url": "https://blog.grotenhuis.info/2021/12/09/new-streak.html",
 				"tags": ["Games","micro posts"]
@@ -45,8 +99,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/12/07/this-quote-from.html",
 				
-				"content_html": "<p>📑 This quote from today&rsquo;s highlight review reminded me of <a href=\"https://micro.blog/frostedechoes\">@frostedechoes</a>&rsquo;s <a href=\"https://frostedechoes.com/2021/12/06/asymmetric-possibilities.html\">recent post</a></p>\n\n<p><img src=\"uploads/2021/58cfb0c99e.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
-				"content_text": "📑 This quote from today's highlight review reminded me of [@frostedechoes](https://micro.blog/frostedechoes)'s [recent post](https://frostedechoes.com/2021/12/06/asymmetric-possibilities.html)\n\n<img src=\"uploads/2021/58cfb0c99e.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_html": "<p>📑 This quote from today&rsquo;s highlight review reminded me of <a href=\"https://micro.blog/frostedechoes\">@frostedechoes</a>&rsquo;s <a href=\"https://frostedechoes.com/2021/12/06/asymmetric-possibilities.html\">recent post</a></p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/58cfb0c99e.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "📑 This quote from today's highlight review reminded me of [@frostedechoes](https://micro.blog/frostedechoes)'s [recent post](https://frostedechoes.com/2021/12/06/asymmetric-possibilities.html)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/58cfb0c99e.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-12-07T11:54:24-05:00",
 				"url": "https://blog.grotenhuis.info/2021/12/07/this-quote-from.html",
 				"tags": ["Sunday Quotes","micro posts","Quotes"]
@@ -81,8 +135,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/12/05/sunday-quote-from.html",
 				
-				"content_html": "<p>📑 🕊 Sunday Quote</p>\n\n<p>(from <a href=\"https://micro.blog/dswanson\">@dswanson</a> on micro.blog)</p>\n\n<p><img src=\"uploads/2021/65b527b3b5.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
-				"content_text": "📑 🕊 Sunday Quote\n\n(from [@dswanson](https://micro.blog/dswanson) on micro.blog)\n\n<img src=\"uploads/2021/65b527b3b5.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_html": "<p>📑 🕊 Sunday Quote</p>\n\n<p>(from <a href=\"https://micro.blog/dswanson\">@dswanson</a> on micro.blog)</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/65b527b3b5.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "📑 🕊 Sunday Quote\n\n(from [@dswanson](https://micro.blog/dswanson) on micro.blog)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/65b527b3b5.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-12-05T09:46:15-05:00",
 				"url": "https://blog.grotenhuis.info/2021/12/05/sunday-quote-from.html",
 				"tags": ["Anabaptism","Sunday Quotes","micro posts","Quotes"]
@@ -90,8 +144,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/12/05/its-pretty-ok.html",
 				
-				"content_html": "<p>It’s pretty ok this morning I guess</p>\n\n<p><img src=\"uploads/2021/b7203d88b7.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "It’s pretty ok this morning I guess\n\n<img src=\"uploads/2021/b7203d88b7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>It’s pretty ok this morning I guess</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/b7203d88b7.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "It’s pretty ok this morning I guess\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/b7203d88b7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-05T07:38:23-05:00",
 				"url": "https://blog.grotenhuis.info/2021/12/05/its-pretty-ok.html",
 				"tags": ["Humor","micro posts"]
@@ -99,8 +153,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/12/04/courtesy-of-alans.html",
 				
-				"content_html": "<p>🎶 <a href=\"https://deardestiny.shinyapps.io/tuneR/\">Courtesy of <a href=\"https://micro.blog/alans\">@alans</a> on micro.blog</a></p>\n\n<p>Blue are new in my top 50 list this year.</p>\n\n<p><img src=\"uploads/2021/270b825ead.png\" width=\"517\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "🎶 [Courtesy of [@alans](https://micro.blog/alans) on micro.blog](https://deardestiny.shinyapps.io/tuneR/)\n\nBlue are new in my top 50 list this year.\n\n<img src=\"uploads/2021/270b825ead.png\" width=\"517\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>🎶 <a href=\"https://deardestiny.shinyapps.io/tuneR/\">Courtesy of <a href=\"https://micro.blog/alans\">@alans</a> on micro.blog</a></p>\n\n<p>Blue are new in my top 50 list this year.</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2021/270b825ead.png\" width=\"517\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🎶 [Courtesy of [@alans](https://micro.blog/alans) on micro.blog](https://deardestiny.shinyapps.io/tuneR/)\n\nBlue are new in my top 50 list this year.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/270b825ead.png\" width=\"517\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-04T18:37:25-05:00",
 				"url": "https://blog.grotenhuis.info/2021/12/04/courtesy-of-alans.html",
 				"tags": ["Music","micro posts"]
@@ -184,7 +238,7 @@
 				"content_text": "🕹 Suggestion for [Wordle](https://www.powerlanguage.co.uk/wordle/):\n\nStart with “RECTO”\n\nBased on my letter frequency analysis (so far) this continues to be the top five for 5-letter words.\n\nWe got it in 2 tries today!\n",
 				"date_published": "2021-12-02T07:33:49-05:00",
 				"url": "https://blog.grotenhuis.info/2021/12/02/suggestion-for-wordle.html",
-				"tags": ["micro posts"]
+				"tags": ["Games","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/12/01/just-learned-umek.html",
@@ -211,7 +265,7 @@
 				"content_text": "🕹This is a fun game: [wordle](https://www.powerlanguage.co.uk/wordle/)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/3094b8cbda.png\" width=\"380\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-28T07:57:54-05:00",
 				"url": "https://blog.grotenhuis.info/2021/11/28/this-is-a.html",
-				"tags": ["micro posts"]
+				"tags": ["Games","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/11/28/sunday-quote-have.html",
@@ -220,7 +274,7 @@
 				"content_text": "Sunday Quote 📚\n\nHave you tried this method? 🔒\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/62a1b2cfd6.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-11-28T07:45:28-05:00",
 				"url": "https://blog.grotenhuis.info/2021/11/28/sunday-quote-have.html",
-				"tags": ["Resilience","Sunday Quotes","Books","micro posts"]
+				"tags": ["Resilience","Sunday Quotes","Books","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/11/25/i-want-a.html",
@@ -229,7 +283,7 @@
 				"content_text": "🎲 I want a role-playing game where [Dixit](https://www.libellud.com/dixit/?lang=en) cards are the spells.\n",
 				"date_published": "2021-11-25T15:23:09-05:00",
 				"url": "https://blog.grotenhuis.info/2021/11/25/i-want-a.html",
-				"tags": ["micro posts"]
+				"tags": ["Games","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/11/24/just-found-out.html",
@@ -247,7 +301,7 @@
 				"content_text": "🎲 First official RPG credits and the collection is gorgeous!\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/87c8dc8f40.jpg\" width=\"446\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-23T20:10:41-05:00",
 				"url": "https://blog.grotenhuis.info/2021/11/23/first-official-rpg.html",
-				"tags": ["micro posts"]
+				"tags": ["Games","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/11/23/torchbearer-nd-ed.html",
@@ -256,7 +310,7 @@
 				"content_text": "🎲 Torchbearer 2nd ed. set showed up, but won’t have a chance to look at it til tomorrow. Ob 4 Will test.\n",
 				"date_published": "2021-11-23T14:49:21-05:00",
 				"url": "https://blog.grotenhuis.info/2021/11/23/torchbearer-nd-ed.html",
-				"tags": ["micro posts"]
+				"tags": ["Games","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/11/21/sunday-quote-may.html",
@@ -265,7 +319,7 @@
 				"content_text": "📑 Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/5e13da141f.png\" width=\"600\" height=\"336\" alt=\"\" />\n\nMay this be a reminder to us over the holidays and always.\n",
 				"date_published": "2021-11-21T08:00:46-05:00",
 				"url": "https://blog.grotenhuis.info/2021/11/21/sunday-quote-may.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/11/20/out-exploring-and.html",
@@ -328,7 +382,7 @@
 				"content_text": "📑 Sunday Quote (and reminder for myself)\n\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/c84974d6c7.png\" width=\"600\" height=\"337\" alt=\"\" /><img src=\"https://blog.grotenhuis.info/uploads/2021/28f3cbd975.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-11-14T06:58:52-05:00",
 				"url": "https://blog.grotenhuis.info/2021/11/14/sunday-quote-and.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/11/13/looking-for-some.html",
@@ -400,7 +454,7 @@
 				"content_text": "🎲 Played D&D and didn’t roll the dice once.\n\nDoing it wrong?\n\nor\n\nDoing it very right?\n",
 				"date_published": "2021-11-09T22:41:59-05:00",
 				"url": "https://blog.grotenhuis.info/2021/11/09/played-dd-and.html",
-				"tags": ["micro posts"]
+				"tags": ["Games","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/11/08/todays-stew-can.html",
@@ -634,7 +688,7 @@
 				"content_text": "📑 Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/b3434359fb.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-10-17T07:13:07-05:00",
 				"url": "https://blog.grotenhuis.info/2021/10/17/sunday-quote.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/10/15/i-keep-thinking.html",
@@ -679,7 +733,7 @@
 				"content_text": "Sunday Quote:\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/9faab93280.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-10-10T06:53:20-05:00",
 				"url": "https://blog.grotenhuis.info/2021/10/10/sunday-quote.html",
-				"tags": ["Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/10/09/if-you-claim.html",
@@ -823,7 +877,7 @@
 				"content_text": "📑 Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/f5bfeb98cc.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-09-19T07:42:19-05:00",
 				"url": "https://blog.grotenhuis.info/2021/09/19/sunday-quote.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/09/19/our-friends-kids.html",
@@ -922,7 +976,7 @@
 				"content_text": "🎲 [online or in-person for games](https://takeonrules.com/2021/09/02/do-i-now-favor-online-over-face-to-face/) asks Jeremy.\n\nI love the convenience of online, and the tools have become very good. It's amazing as a GM. \n\nAs a player, I find it can be distracting, as other things are constantly trying to grab my attention. At the table, I can put my phone away. It's a little more complicated online, but I've developed steps to limit distractions when playing that way.\n",
 				"date_published": "2021-09-02T07:31:31-05:00",
 				"url": "https://blog.grotenhuis.info/2021/09/02/online-or-inperson.html",
-				"tags": ["micro posts"]
+				"tags": ["Games","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/08/31/i-got-to.html",
@@ -994,7 +1048,7 @@
 				"content_text": "🎲 Enjoyed a game night with some folks from church.\n\nTotally unplanned, but also perfectly appropriate for Mennonites, we ended up mostly playing collaborative games and Dutch Blitz.\n\n* [Ghost Fightin’ Treasure Hunters](https://boardgamegeek.com/boardgame/146312/ghost-fightin-treasure-hunters) - light game, great with kids, excellent production/pieces/art\n* [Castle Panic](https://boardgamegeek.com/boardgame/43443/castle-panic) - it’s tower defense: the board game\n* [Dutch Blitz](https://boardgamegeek.com/boardgame/148203/dutch-blitz) - a staple among many Mennonite families, hailing from back when regular playing cards were not permitted\n* [Sushi Go!](https://boardgamegeek.com/boardgame/133473/sushi-go) - I hadn’t played this in many years, but came back from last place 2nd round to win 3rd due to some strategic pudding reserves\n* [Shipwreck Arcana](https://boardgamegeek.com/boardgame/220517/shipwreck-arcana) - I love love love this game for the deductive gameplay, intriguing art, cooperative play, and small game size\n \n",
 				"date_published": "2021-08-25T22:17:41-05:00",
 				"url": "https://blog.grotenhuis.info/2021/08/25/enjoyed-a-game.html",
-				"tags": ["micro posts"]
+				"tags": ["Games","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/08/25/sprinklers-on-a.html",
@@ -1030,7 +1084,7 @@
 				"content_text": "<div class=\"trix-content\">\n<div>\n<figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\"><a title=\"Download IMG_1045.PNG\" href=\"https://world.hey.com/toddg/93743caf/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSGRFTVI0PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f589231eb86cdf4af059c833bb196bf613471ce4/IMG_1045.PNG?disposition=attachment\" download=\"IMG_1045.PNG\" data-click-proxy-target=\"lightbox_link_blob_506545271\"><img src=\"https://world.hey.com/toddg/93743caf/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSGRFTVI0PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f589231eb86cdf4af059c833bb196bf613471ce4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--dd7e8d4e014c74917f5830797206baeac25baa96/IMG_1045.PNG\" srcset=\"https://world.hey.com/toddg/93743caf/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSGRFTVI0PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f589231eb86cdf4af059c833bb196bf613471ce4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2b4a1098bef0baeffc3f758cab3e92c383d4a5e2/IMG_1045.PNG 2x, https://world.hey.com/toddg/93743caf/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSGRFTVI0PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f589231eb86cdf4af059c833bb196bf613471ce4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--b6cb909c9117de90e016999d5e258da7afad5a54/IMG_1045.PNG 3x\" alt=\"IMG_1045.PNG\" /></a></figure>\n<br /><br /></div>\n<div>This quote comes from one of my favorite podcasts, the <a href=\"https://peterattiamd.com/podcast/\">Peter Attia Drive</a>, a podcast focused on health science and longevity.<br /><br />In this episode, they were discussing accumulated results regarding insulin and insulin resistance.<br /><br />Thankfully, I’m not insulin resistant, but I am working on improving my metabolic health and weight. As I’m now in my second month of <a href=\"https://blog.grotenhuis.info/2021/06/30/what-i-learned.html\">using a continuous glucose monitor</a>, and having conducted some self-experiments, I can see the effects of the above quote in my own body.<br /><br />For example: I participated in a coke challenge, where we had a coke after fasting compared to a coke after fasting <em>followed by walking for half an hour or more</em>. Walking improved my glucose response by 5 points on a 10-point scale (from a 2 to a 7). Here’s another way they say it in the podcast episode notes:</div>\n</div>\n<div> </div>\n<div><img title=\"AMA #20_ Simplifying the complexities of insulin resistance_ how it's measured, how it manifests in the muscle and liver, and what we can do about it.png\" src=\"https://blog.grotenhuis.info/uploads/2021/f82ecd38ca.png\" alt=\"AMA  20 Simplifying the complexities of insulin resistance how it s measured how it manifests in the muscle and liver and what we can do about it\" width=\"800\" height=\"450\" border=\"0\" /></div>\n<div> </div>\n<div class=\"trix-content\">\n<div>I’m continuing to work with a trainer a couple times a week, doing a fun activity at least once a week, and am moving (walking, hiking, biking, etc.) almost every day. I <em>particularly </em>get moving after having a meal that would be a bit higher in carbs. It makes a significant difference on my results.<br /><br />To explain “to your tolerance”: we are all different in our hormonal setup (insulin, cortisol) as well as our muscle mass/distribution, both of which are major deciders of how much our body will burn glucose (and use glycogen) versus store it as fat (as triglycerides in adipose tissue).<br /><br />So their point there is that if we are getting good exercise, good muscle but not getting good metabolic results, then we also can limit simple carbs (especially fructose, which has particular effects beyond glucose) to get to where we want to be.<br /><br />This is really promising for preventing or reversing the issues listed, such as non-alcoholic fatty liver disease and other metabolic disorders.<br /><br />—<br /><br />Tagged: <a href=\"https://www.craft.do/s/LZW0VVmGykLNYG\">Resilient -&gt; Self</a></div>\n<div> </div>\n</div>\n",
 				"date_published": "2021-08-22T07:40:08-05:00",
 				"url": "https://blog.grotenhuis.info/2021/08/22/sunday-quote.html",
-				"tags": ["Sunday Quotes","full posts"]
+				"tags": ["Sunday Quotes","full posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/08/20/heres-another-goodie.html",
@@ -1093,7 +1147,7 @@
 				"content_text": "📑 Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/1e420203ff.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-08-15T07:07:14-05:00",
 				"url": "https://blog.grotenhuis.info/2021/08/15/sunday-quote.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/08/14/my-onematchfire-streak.html",
@@ -1210,7 +1264,7 @@
 				"content_text": "📑 Sunday quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/32725dd25d.png\" width=\"600\" height=\"337\" alt=\"\" />\n\nWe were just talking about this phenomena last night.\n",
 				"date_published": "2021-08-01T07:25:32-05:00",
 				"url": "https://blog.grotenhuis.info/2021/08/01/sunday-quote-we.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/07/29/curiosity-is-a.html",
@@ -1237,7 +1291,7 @@
 				"content_text": "Sunday Quote 📑\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/4c9d03b542.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-07-25T07:47:13-05:00",
 				"url": "https://blog.grotenhuis.info/2021/07/25/sunday-quote.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/07/22/for-my-birthday.html",
@@ -1435,7 +1489,7 @@
 				"content_text": "Nice to pick up a book with contributions from a number of people I’ve met. 🎲📚\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/af8529a3b8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-03T08:22:53-05:00",
 				"url": "https://blog.grotenhuis.info/2021/07/03/nice-to-pick.html",
-				"tags": ["Books","micro posts"]
+				"tags": ["Games","Books","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/07/02/lot-of-great.html",
@@ -1615,7 +1669,7 @@
 				"content_text": "<div class=\"trix-content\">\n  <div>Today we’ve got another 3-part quote. All of these arrived in my <a href=\"https://readwise.io/i/todd54\">Readwise</a> review today, and they tell a story.<br><br>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"A Farewell to Mars.png\" title=\"Download A Farewell to Mars.png\" data-click-proxy-target=\"lightbox_link_blob_403391611\" href=\"https://world.hey.com/toddg/bcb78feb/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSHRFQ3hnPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ea9a3761e40403237725b0964d1852868b51f25/A%20Farewell%20to%20Mars.png?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/bcb78feb/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSHRFQ3hnPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ea9a3761e40403237725b0964d1852868b51f25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--9333ff4f088aa9239bed4b0a224e37f2c7bab42d/A%20Farewell%20to%20Mars.png\" alt=\"A Farewell to Mars.png\" srcset=\"https://world.hey.com/toddg/bcb78feb/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSHRFQ3hnPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ea9a3761e40403237725b0964d1852868b51f25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--435325a84611f9b4e2210760d04bed2a88c1f429/A%20Farewell%20to%20Mars.png 2x, https://world.hey.com/toddg/bcb78feb/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSHRFQ3hnPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ea9a3761e40403237725b0964d1852868b51f25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--c01f3983c1786fbe1f418ce337eaa6c9bbc6125e/A%20Farewell%20to%20Mars.png 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure></div><div>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"Fight.png\" title=\"Download Fight.png\" data-click-proxy-target=\"lightbox_link_blob_403440435\" href=\"https://world.hey.com/toddg/bcb78feb/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRE1EREJnPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--090b679a74548d1d75e8344a039cdb0d0500c9ee/Fight.png?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/bcb78feb/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRE1EREJnPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--090b679a74548d1d75e8344a039cdb0d0500c9ee/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--9333ff4f088aa9239bed4b0a224e37f2c7bab42d/Fight.png\" alt=\"Fight.png\" srcset=\"https://world.hey.com/toddg/bcb78feb/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRE1EREJnPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--090b679a74548d1d75e8344a039cdb0d0500c9ee/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--435325a84611f9b4e2210760d04bed2a88c1f429/Fight.png 2x, https://world.hey.com/toddg/bcb78feb/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRE1EREJnPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--090b679a74548d1d75e8344a039cdb0d0500c9ee/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--c01f3983c1786fbe1f418ce337eaa6c9bbc6125e/Fight.png 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure> <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"The Naked Anabaptist.png\" title=\"Download The Naked Anabaptist.png\" data-click-proxy-target=\"lightbox_link_blob_403391704\" href=\"https://world.hey.com/toddg/bcb78feb/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTmhFQ3hnPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--00b2b4ccb1e4f418e080bdf1d1b05152164dc657/The%20Naked%20Anabaptist.png?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/bcb78feb/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTmhFQ3hnPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--00b2b4ccb1e4f418e080bdf1d1b05152164dc657/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--9333ff4f088aa9239bed4b0a224e37f2c7bab42d/The%20Naked%20Anabaptist.png\" alt=\"The Naked Anabaptist.png\" srcset=\"https://world.hey.com/toddg/bcb78feb/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTmhFQ3hnPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--00b2b4ccb1e4f418e080bdf1d1b05152164dc657/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--435325a84611f9b4e2210760d04bed2a88c1f429/The%20Naked%20Anabaptist.png 2x, https://world.hey.com/toddg/bcb78feb/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTmhFQ3hnPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--00b2b4ccb1e4f418e080bdf1d1b05152164dc657/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--c01f3983c1786fbe1f418ce337eaa6c9bbc6125e/The%20Naked%20Anabaptist.png 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure></div><div><br>The third quote here is an important follow-up to the first two.<br><br>The reign of Christ does not mean that Christians take Caesar's place in ruling over others. Rather, we are called to embody another way of living together: bound together with love &amp; service rather than power &amp; violence.<br><br>Peace to you as you enter this week.</div>\n</div>\n",
 				"date_published": "2021-05-23T16:18:30-05:00",
 				"url": "https://blog.grotenhuis.info/2021/05/23/sunday-quote.html",
-				"tags": ["Sunday Quotes","full posts"]
+				"tags": ["Sunday Quotes","full posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/05/22/ixi-vs-sporting.html",
@@ -1687,7 +1741,7 @@
 				"content_text": "<div class=\"trix-content\">\n  <div>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"IMG_0670.PNG\" title=\"Download IMG_0670.PNG\" data-click-proxy-target=\"lightbox_link_blob_386780189\" href=\"https://world.hey.com/toddg/bb5d33a7/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQjNNRFJjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--757227b011938524d8000520c8a024791f652f26/IMG_0670.PNG?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/bb5d33a7/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQjNNRFJjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--757227b011938524d8000520c8a024791f652f26/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--dd7e8d4e014c74917f5830797206baeac25baa96/IMG_0670.PNG\" alt=\"IMG_0670.PNG\" srcset=\"https://world.hey.com/toddg/bb5d33a7/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQjNNRFJjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--757227b011938524d8000520c8a024791f652f26/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2b4a1098bef0baeffc3f758cab3e92c383d4a5e2/IMG_0670.PNG 2x, https://world.hey.com/toddg/bb5d33a7/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQjNNRFJjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--757227b011938524d8000520c8a024791f652f26/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--b6cb909c9117de90e016999d5e258da7afad5a54/IMG_0670.PNG 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure><br><br>This is great advice for many behavior changes, not just procrastination. (<em>Make the healthy food visible, put away distractions, place practice music sheets out, etc.)</em><br><br>Here’s where I’d take a little issue, however:<br><br></div><blockquote><strong>Environment and habit change </strong><strong><em>is</em></strong><strong> </strong><strong><em>how</em></strong><strong> we change ourselves.</strong></blockquote><div><br>Willpower is limited, situational, and varying. The way we make lasting change is to exercise willpower when it is strong in order to set ourselves up for success when our willpower is diminished.<br><br>When we do that, we keep taking actions we planned to take, building up habits and reinforcing our sense of identity as someone who is the kind of person we’d hoped to be. This is how change endures.<br><br>It’s there something you can change in your environment this week?<br><br></div><div>---<br>-<a href=\"https://todd.grotenhuis.info/\">Todd</a></div><div><br></div>\n</div>\n",
 				"date_published": "2021-05-09T08:18:31-05:00",
 				"url": "https://blog.grotenhuis.info/2021/05/09/sunday-quote.html",
-				"tags": ["Sunday Quotes","full posts"]
+				"tags": ["Sunday Quotes","full posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/05/08/lets-go-ixi.html",
@@ -1723,7 +1777,7 @@
 				"content_text": "<div class=\"trix-content\">\n  <div>Let's make my biases clear up front: <br><br>I'm part of a tradition (<a href=\"https://blog.grotenhuis.info/2020/01/28/yr-mennonite.html\">Anabaptism</a>) that has a long history of pacifism and has collected the stories of how they were murdered due to their faith (it's a giant book and not a great read, <a href=\"https://bookshop.org/a/10222/9780836113907\">but you can still find copies</a>).<br><br>Also, I live a pretty comfortable life. I grew up in a wealthy country, didn't experience serious health conditions, and have not had to worry about if I would be able to find my next meal. I had access to good education. I haven't been harassed, harmed, or neglected due to the color of my skin. And most importantly <em>for this topic</em>, I grew up in <a href=\"https://en.wikipedia.org/wiki/Christendom\">Christendom</a>, a part of the world where Christian belief has been a dominant force in public opinion and even in governance.<br><br> It's in these areas of Christendom where I am surprised (and frankly, embarrassed) when Christians talk about being \"persecuted\". Christians in Christendom often read Bible stories and see themselves in the narratives as the Israelites enslaved in Egypt, or the early Christians under Rome. But what we must realize is we are more likely to be on the side of Pharaoh, Herod, or Caesar.<br><br>When you dig into it what \"persecution\" these Christendom-Christians are facing, it usually ends up being one of two things:<br><br></div><ul><li>Social consequences for conservative ideology and/or for bigotry</li><li>An underlying fear that we are moving into a post-Christendom world</li></ul><div><br>Neither of these are persecution. Let's talk about them in order.<br><br></div><h1>Social Consequences</h1><div>To understand this one, we need to step back a bit.<br><br>One of the problems with Christendom is that Christianity syncretizes with the government, with the dominant political beliefs, the dominant economic order, and/or with nationalism. Christians begin to conflate being part of a party, ideology, or nation with being a Christian. We can end up working as hard (or harder) for those beliefs than we do trying to follow the Lamb.<br><br>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"The Naked Anabaptist (1).png\" title=\"Download The Naked Anabaptist (1).png\" data-click-proxy-target=\"lightbox_link_blob_378387804\" href=\"https://world.hey.com/toddg/c5a80848/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRnk5alJZPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eb6b39b2382c8f9c7990f1962da363b90e6eb2ce/The%20Naked%20Anabaptist%20(1).png?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/c5a80848/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRnk5alJZPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eb6b39b2382c8f9c7990f1962da363b90e6eb2ce/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--9333ff4f088aa9239bed4b0a224e37f2c7bab42d/The%20Naked%20Anabaptist%20(1).png\" alt=\"The Naked Anabaptist (1).png\" srcset=\"https://world.hey.com/toddg/c5a80848/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRnk5alJZPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eb6b39b2382c8f9c7990f1962da363b90e6eb2ce/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--435325a84611f9b4e2210760d04bed2a88c1f429/The%20Naked%20Anabaptist%20(1).png 2x, https://world.hey.com/toddg/c5a80848/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRnk5alJZPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eb6b39b2382c8f9c7990f1962da363b90e6eb2ce/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--c01f3983c1786fbe1f418ce337eaa6c9bbc6125e/The%20Naked%20Anabaptist%20(1).png 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure></div><div><br>Specifically, far too many Christians in Christendom have an unhealthy (and frankly, heretical) confusion of social conservatism and Christianity. They attempt to wield the power & violence of the state to control non-Christians' personal beliefs and actions, most egregiously and notably in issues of sexuality. This isn't the gospel, and it's not behaving like the one they proclaim to follow (<a href=\"https://netbible.org/bible/Luke+4\"><em>who specifically refused power-over temptations when Satan put them to him!</em></a>). And when people react to this controlling (and often bigoted) behavior with condemnation, social sanctions, or defensive legislation, it's not \"persecuting\" the Christian. The Christian was the aggressor, here.</div><div><br></div><h1>Post-Christendom</h1><div>It's true, many parts of the world are on the move from Christendom to post-Christendom. (<em>Note: this is partly due to Christians acting as pretty terrible representatives of the good news, as I alluded to earlier...but that's a whole other post</em>). In Post-Christendom, Christianity has a waning influence on public opinion and governance, as a plurality of voices emerges or a new perspective becomes most common.<br><br>This is unsettling for Christians who enjoyed (whether they realized it or not) being in the seats of prestige and power. But as the saying goes, <em>\"</em><strong><em>When You're Accustomed to Privilege, Equality Feels Like Oppression</em></strong><em>\" </em>In other words, losing privilege is not the same thing as being persecuted. <em><br></em><br></div><h1>Ok, But What About Real Persecution?</h1><div>If a Christian should suffer real persecution, the gospels and epistles offer us instructions and hope:<br><br></div><ul><li><strong>Mat 5:44</strong> But I say to you, love your enemy and pray for those who persecute you</li><li><strong>Rom 12:14</strong> Bless those who persecute you, bless and do not curse.</li><li><strong>1Co 4:12</strong> When we are verbally abused, we respond with a blessing, when persecuted, we endure</li><li><strong>Heb 10:33</strong> At times you were publicly exposed to abuse and afflictions, and at other times you came to share with others who were treated in that way.</li><li><strong>2Co 4:9</strong> we are persecuted, but not abandoned; we are knocked down, but not destroyed</li><li><strong>Gal 1:23</strong> They were only hearing, “The one who once persecuted us is now proclaiming the good news of the faith he once tried to destroy.”</li><li>...and many more</li></ul><div><br>Jesus and early followers of the Way were very clear about not returning evil for evil. In fact, the church has often grown the most in places and times of persecution!<br><br>While we don't desire persecution, the duty of a Christian is to follow <a href=\"https://cpt.org/files/BN%20-%20Jesus'%20Third%20Way.pdf\">the third way</a> when encountering it, to bear witness to shared humanity, to goodness, and to a God who loves all people.<br><br>---<br>Have thoughts? <a href=\"https://blog.grotenhuis.info/contact\">Here's how to respond.</a></div>\n</div>\n",
 				"date_published": "2021-05-02T09:38:00-05:00",
 				"url": "https://blog.grotenhuis.info/2021/05/02/sunday-quote-and.html",
-				"tags": ["Sunday Quotes","full posts"]
+				"tags": ["Sunday Quotes","full posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/04/28/had-a-repeat.html",
@@ -1750,7 +1804,7 @@
 				"content_text": "<div class=\"trix-content\">\n  <div>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"IMG_0601.PNG\" title=\"Download IMG_0601.PNG\" data-click-proxy-target=\"lightbox_link_blob_369554705\" href=\"https://world.hey.com/toddg/261ebd68/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQkgxQmhZPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bed65c649cc098a98df231066f94652306450d28/IMG_0601.PNG?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/261ebd68/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQkgxQmhZPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bed65c649cc098a98df231066f94652306450d28/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--dd7e8d4e014c74917f5830797206baeac25baa96/IMG_0601.PNG\" alt=\"IMG_0601.PNG\" srcset=\"https://world.hey.com/toddg/261ebd68/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQkgxQmhZPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bed65c649cc098a98df231066f94652306450d28/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2b4a1098bef0baeffc3f758cab3e92c383d4a5e2/IMG_0601.PNG 2x, https://world.hey.com/toddg/261ebd68/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQkgxQmhZPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bed65c649cc098a98df231066f94652306450d28/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--b6cb909c9117de90e016999d5e258da7afad5a54/IMG_0601.PNG 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure><br><br>Have you heard of <a href=\"https://bookshop.org/a/10222/9781942788768\">The Unicorn Project</a>? It's the follow-up to the great <a href=\"https://bookshop.org/a/10222/9781942788294\">Phoenix Project</a>. As I said in my <a href=\"https://blog.grotenhuis.info/2021/01/02/nonfiction-review.html\">2021 book review</a>:<br><br></div><blockquote>&quot;what Kim did for Ops &amp; DevOps in the Phoenix project, he has continued for product development in this work&quot;</blockquote><div><br>Both of these books use narrative to demonstrate the move to agile ways of working and devops transformations within an auto-parts selling business.<br><br>These five ideals are very helpful for looking at ways to enhance a technology practice.<br><br>---<br><br>Here's where I'm going to &quot;think out loud&quot; again. As I read these, I realized they'd make a better framing for how I've been approaching some challenges my team faces at work. I've been communicating with my manager using the perspective of &quot;accountability without authority or responsibility&quot;, and while that's true, the <em>Unicorn Project</em> ideals might be an even better lens by which to view the problems.<br><br>Let me work through them to see what we are doing or could do in each area.<br><br></div><h1>Locality and Simplicity</h1><div>This is the core issue, as I've recently been thinking about it. My team relies on data, processes, instructions, and approval for almost everything from another team (and primarily one team). Work comes in from the other team, work goes back to that team. This disincentivizes problem ownership by either team, as things get &quot;tossed over the wall&quot;. Further, because of the back and forth, there are steps that don't necessarily add value.<br><br>To solve these, we need to create local ownership and reduce waste &amp; complexity. Instead of there-&gt;here-&gt;there work, we can improve this in one of the following ways:<br><br></div><ul><li>here-&gt;here-&gt;there: meaning that my team sets the direction, rather than receiving it, but the other team still manages the result</li><li>there-&gt;here-&gt;here: meaning that my team still receives the direction, but has more capability to finish the work on their own</li><li>there-&gt;there-&gt;there or here-&gt;here-&gt;here: meaning that one team has full ownership for direction, results, and problems for an area of work</li></ul><div><br></div><div>For us, the most appropriate short term answer is here-&gt;here-&gt;there, with a potential move eventually to a true locality where one team manages something all the way through the lifecycle. I've been advocating for this two-step approach, but now have a different way to talk about it.<br><br></div><h1>Focus, Flow, and Joy</h1><div>We have a culture of meetings. This is especially true for our New York office (where my boss and my peers are originally from). During covidtide, this has ramped up even further. Added to that, my team is working with a great number of stakeholders (often working with with many leaders and over 250 internal customers, each), has many sources of incoming requests, and encounters many &quot;squirrels&quot; caused by hot topics or VIP perspectives.<br><br>Altogether, those equate to very little time for focus or deep work. That results in less satisfaction and joy as people feel like they are constantly juggling instead of achieving momentum through wins.<br><br>We've got a few irons in the fire on this, too:<br><br></div><ul><li>&quot;No Meeting Wednesdays&quot;: we instituted this recently, and while not perfect (due to stakeholder meetings and increased interruptions from people who know we are &quot;free&quot;), it helps there be the chance for blocks of time for focus</li><li>&quot;Ways of Working&quot; agile alignment: I've been proposing that we get all our work visible under one mechanism, so that we can better manage priority, work-in-progress, etc. It would also help to have requests come in a common way, reducing interruptions. We've got buy-in now to get some agile coaches working with our broader org on a group transformation.</li><li>Using collaborative tools: Many interruptions can go away if we have standard means to keep one another up-to-date or make decisions. I'm helping push adoption of these ways. (Kanban boards instead of status meetings and inquiries, asynchronous work out of the same document rather than a meeting for committee-editing, decision-records and next-actions captured in writing, etc.)</li></ul><div><br></div><h1>Improvement of Daily Work</h1><div>There isn't a lot additional to say here, as so much of it is dependent on the above two areas. If my team doesn't have much ownership of their work, nor the time to focus on changes, it's very difficult to focus on daily improvements.<br><br>Instead, I try to make up for some of this deficit by spending a lot of <strong><em>my time</em></strong> on this, looking for ways to help the team. Creating clarity. Creating or sharing resources that make things easier. Promoting the internal sharing of best practices, wins, and lessons-learned. Cutting waste. Eliminating blockers. Etc.<br><br></div><h1>Psychological Safety</h1><div>The idea of psychological safety is this: Team members have to feel that it's ok to speak up, that their concerns won't be dismissed and they won't be retaliated against. Team members have to feel that it's ok to learn, make mistakes, clean up after themselves, and grow; that they won't be penalized for trying something new. <br><br>It wouldn't be appropriate to say much here (as it could affect psychological safety!), but I will say that I seek to promote psychological safety by being transparent, authentic, and non-defensive. I look to give opportunities for people to stretch themselves in a safe manner. I aim to make sensitive constructive comments in private and heap praise in public. <br><br></div><h1>Customer Focus</h1><div>We can think about customer focus in two ways.<br><br>The first is the most important: the <em>end</em> costumer of the product or service. Do we know what they need, and is our work ultimately serving them? Or are we creating waste and doing pet projects?<br><br>The second is the <em>internal</em> customer, or stakeholder. This one is easy to overlook, especially if a team isn't used to thinking about <em>having</em> customers, which is an all-too-common occurrence in the technology world. <br><br>To help with this, what I do is to advocate for customer and stakeholder perspectives up front and every step along the way, both in my team and for the teams where <em>we</em> are the internal customer.<br><br></div><ul><li>Who will use the product or service?</li><li>What do they need?</li><li>How does that inform our requirements?</li><li>Is somebody getting their perspective and feedback?</li><li>Do you need to get their buy-in for the solution?</li><li>Is there an easy way for them to give you feedback and see that you are doing something about it?</li><li>etc.</li></ul><div><br>If your org has a product-owner type role, this helps a great deal!</div><div><br></div><div>---<br><br>I hope taking a look at these 5 ideals was helpful for you. If you've used them to examine some ways of working, <a href=\"https://blog.grotenhuis.info/contact\">tell me about it</a>!</div>\n</div>\n<br><hr><i>Originally posted at <a href=\"https://world.hey.com/toddg/sunday-quote-261ebd68\">Hey World</a></i>\n",
 				"date_published": "2021-04-25T14:18:35-05:00",
 				"url": "https://blog.grotenhuis.info/2021/04/25/sunday-quote.html",
-				"tags": ["Sunday Quotes","full posts"]
+				"tags": ["Sunday Quotes","full posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/04/24/finished-reading-ursula.html",
@@ -1831,7 +1885,7 @@
 				"content_text": "<div class=\"trix-content\">\n  <div>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"IMG_0571.PNG\" title=\"Download IMG_0571.PNG\" data-click-proxy-target=\"lightbox_link_blob_360947233\" href=\"https://world.hey.com/toddg/dfb28354/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ0dlZ3hVPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--393346a6b909d010bfde53e110cb21a53e508b6c/IMG_0571.PNG?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/dfb28354/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ0dlZ3hVPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--393346a6b909d010bfde53e110cb21a53e508b6c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--dd7e8d4e014c74917f5830797206baeac25baa96/IMG_0571.PNG\" alt=\"IMG_0571.PNG\" srcset=\"https://world.hey.com/toddg/dfb28354/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ0dlZ3hVPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--393346a6b909d010bfde53e110cb21a53e508b6c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2b4a1098bef0baeffc3f758cab3e92c383d4a5e2/IMG_0571.PNG 2x, https://world.hey.com/toddg/dfb28354/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ0dlZ3hVPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--393346a6b909d010bfde53e110cb21a53e508b6c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--b6cb909c9117de90e016999d5e258da7afad5a54/IMG_0571.PNG 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure><br><br>There’s this tendency in modern conversations of justice to look at everything as zero-sum, winner-or-loser, exploiting-or-exploited.<br><br>It’s been exacerbated by celebrity figures who push this line of thinking, as well as by advertising-driven social media algorithms picking “winners” in virality wars.<br><br>But we have to do better than that. We have to want a better world for everyone. We have to look at how improvements can make things better overall.<br><br>We don’t get there simply by being anti-. We don’t get there by treating others as enemies to be defeated. Rather, we can look to others as potential co-conspirators ready to tackle challenges together.<br><br>One way to step out of the enemy-making view is to look at a level level above the individual. What is the mood of the group? What is the spirit of the organization? What is the faith of the locality? What is the tone of the structure?<br><br>You can mix and match these words, too. The Christian Bible talks about the “principalities and the powers”. German philosophers talk about “the zeitgeist”. You may have another metaphor.<br><br>However we think about it, before we go after people, let’s take a moment to think about the overarching system affecting the problem. What powers are at work, and with that in mind, how can we work with others to make things better?<br><br></div><div>---<br>-<a href=\"https://todd.grotenhuis.info/\">Todd</a></div>\n</div>\n<br><hr><i>Originally posted at <a href=\"https://world.hey.com/toddg/sunday-quote-dfb28354\">Hey World</a></i>\n",
 				"date_published": "2021-04-18T08:18:27-05:00",
 				"url": "https://blog.grotenhuis.info/2021/04/18/sunday-quote.html",
-				"tags": ["Sunday Quotes","full posts"]
+				"tags": ["Sunday Quotes","full posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/04/12/finished-reading-the.html",
@@ -1849,7 +1903,7 @@
 				"content_text": "<div class=\"trix-content\">\n  <div>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"IMG_0548.PNG\" title=\"Download IMG_0548.PNG\" data-click-proxy-target=\"lightbox_link_blob_352380804\" href=\"https://world.hey.com/toddg/5295be8a/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVRuQUJVPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cdbbf0bc9c547013a71734ad6fc3c01939004808/IMG_0548.PNG?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/5295be8a/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVRuQUJVPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cdbbf0bc9c547013a71734ad6fc3c01939004808/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--9333ff4f088aa9239bed4b0a224e37f2c7bab42d/IMG_0548.PNG\" alt=\"IMG_0548.PNG\" srcset=\"https://world.hey.com/toddg/5295be8a/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVRuQUJVPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cdbbf0bc9c547013a71734ad6fc3c01939004808/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--435325a84611f9b4e2210760d04bed2a88c1f429/IMG_0548.PNG 2x, https://world.hey.com/toddg/5295be8a/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVRuQUJVPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cdbbf0bc9c547013a71734ad6fc3c01939004808/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--c01f3983c1786fbe1f418ce337eaa6c9bbc6125e/IMG_0548.PNG 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure><br><br><a href=\"https://bookshop.org/a/10222/9780071771320\"><em>Crucial Conversations</em></a> is an important book with a very helpful perspective.<br><br>If I go into an challenging discussion just trying to get my way, I’m not helping the situation. If I go into a challenging discussion <em>acting</em> like I care about the other person’s perspective, I’m still not helping the situation. It’s only when I <em>actually care </em>about their perspective that we can find a wise path forward.<br><br>Are there discussions you’ve been avoiding? Do you have the capacity to care about their perspective? Do you have courage to have the talk?<br><br>May you live a bold and caring week ahead!<br><br>—<br>Tagged: <a href=\"https://www.craft.do/s/ikZSY9wn9sAD2C\">Grow</a></div>\n</div>\n<br><hr><i>Originally posted at <a href=\"https://world.hey.com/toddg/sunday-quote-5295be8a\">Hey World</a></i>\n",
 				"date_published": "2021-04-11T08:19:14-05:00",
 				"url": "https://blog.grotenhuis.info/2021/04/11/sunday-quote.html",
-				"tags": ["Sunday Quotes","full posts"]
+				"tags": ["Sunday Quotes","full posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/04/10/saturday-creek-stomping.html",
@@ -1885,7 +1939,7 @@
 				"content_text": "<div class=\"trix-content\">\n  <div>Both of these came up in my Favorites review, today:<br><br>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"IMG_0529.PNG\" title=\"Download IMG_0529.PNG\" data-click-proxy-target=\"lightbox_link_blob_343950743\" href=\"https://world.hey.com/toddg/ed869db2/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSmRGZ0JRPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9b29edb09a7b36b80e76e44f1fd6c2fe7be104d2/IMG_0529.PNG?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/ed869db2/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSmRGZ0JRPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9b29edb09a7b36b80e76e44f1fd6c2fe7be104d2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBJZ2xxY0dWbk9oUnlaWE5wZW1WZmRHOWZiR2x0YVhSYkIya0NnQWRwQWdBRk9neHhkV0ZzYVhSNWFVczZDMnh2WVdSbGNuc0dPZ2x3WVdkbE1Eb05ZMjloYkdWelkyVlUiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--932a4d51dc94afaaa9b29e9b05b78ddd48c3117f/IMG_0529.PNG\" alt=\"IMG_0529.PNG\" srcset=\"https://world.hey.com/toddg/ed869db2/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSmRGZ0JRPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9b29edb09a7b36b80e76e44f1fd6c2fe7be104d2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBJZ2xxY0dWbk9oUnlaWE5wZW1WZmRHOWZiR2x0YVhSYkIya0NBQTlwQWdBS09neHhkV0ZzYVhSNWFVRTZDMnh2WVdSbGNuc0dPZ2x3WVdkbE1Eb05ZMjloYkdWelkyVlUiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--e20c261f0de2ab1b0574a4fabd3c713676d4153b/IMG_0529.PNG 2x, https://world.hey.com/toddg/ed869db2/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSmRGZ0JRPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9b29edb09a7b36b80e76e44f1fd6c2fe7be104d2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBJZ2xxY0dWbk9oUnlaWE5wZW1WZmRHOWZiR2x0YVhSYkIya0NnQlpwQWdBUE9neHhkV0ZzYVhSNWFUdzZDMnh2WVdSbGNuc0dPZ2x3WVdkbE1Eb05ZMjloYkdWelkyVlUiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--6c2e2e4eb7520058a48e77fedf34753accfc9223/IMG_0529.PNG 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure><br>Hallelujah! Jesus has conquered the forces of death.<br><br>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"IMG_0530.PNG\" title=\"Download IMG_0530.PNG\" data-click-proxy-target=\"lightbox_link_blob_343951605\" href=\"https://world.hey.com/toddg/ed869db2/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCUFZJZ0JRPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--179cd4f835b48a101eb3acbd36a71a7ed100ef5f/IMG_0530.PNG?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/ed869db2/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCUFZJZ0JRPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--179cd4f835b48a101eb3acbd36a71a7ed100ef5f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--dd7e8d4e014c74917f5830797206baeac25baa96/IMG_0530.PNG\" alt=\"IMG_0530.PNG\" srcset=\"https://world.hey.com/toddg/ed869db2/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCUFZJZ0JRPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--179cd4f835b48a101eb3acbd36a71a7ed100ef5f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2b4a1098bef0baeffc3f758cab3e92c383d4a5e2/IMG_0530.PNG 2x, https://world.hey.com/toddg/ed869db2/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCUFZJZ0JRPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--179cd4f835b48a101eb3acbd36a71a7ed100ef5f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--b6cb909c9117de90e016999d5e258da7afad5a54/IMG_0530.PNG 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure><br>So let us do our part to keep the resurrection going, to keep redeeming, to keep bringing life.<br><br>Happy Easter!</div>\n</div>\n<br><hr><i>Originally posted at <a href=\"https://world.hey.com/toddg/sunday-quote-easter-edition-ed869db2\">Hey World</a></i>\n",
 				"date_published": "2021-04-04T08:18:47-05:00",
 				"url": "https://blog.grotenhuis.info/2021/04/04/sunday-quote-easter.html",
-				"tags": ["Sunday Quotes","full posts"]
+				"tags": ["Sunday Quotes","full posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/04/03/jelly-bean-prayer.html",
@@ -1957,7 +2011,7 @@
 				"content_text": "<div class=\"trix-content\">\n  <div>A political-theology story in five quotes:<br><br>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"separate.png\" title=\"Download separate.png\" data-click-proxy-target=\"lightbox_link_blob_335462422\" href=\"https://world.hey.com/toddg/86a4c484/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQmJBL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--08b0728b847d03dfeefbbb4fa1847308995cfb2f/separate.png?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQmJBL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--08b0728b847d03dfeefbbb4fa1847308995cfb2f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--9333ff4f088aa9239bed4b0a224e37f2c7bab42d/separate.png\" alt=\"separate.png\" srcset=\"https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQmJBL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--08b0728b847d03dfeefbbb4fa1847308995cfb2f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--435325a84611f9b4e2210760d04bed2a88c1f429/separate.png 2x, https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQmJBL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--08b0728b847d03dfeefbbb4fa1847308995cfb2f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--c01f3983c1786fbe1f418ce337eaa6c9bbc6125e/separate.png 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure></div><div>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\"><br>\n      <a download=\"dualism.png\" title=\"Download dualism.png\" data-click-proxy-target=\"lightbox_link_blob_335462541\" href=\"https://world.hey.com/toddg/86a4c484/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSTNBL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7bedc60c85579aa50430268116dec2ae2a517d32/dualism.png?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSTNBL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7bedc60c85579aa50430268116dec2ae2a517d32/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--9333ff4f088aa9239bed4b0a224e37f2c7bab42d/dualism.png\" alt=\"dualism.png\" srcset=\"https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSTNBL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7bedc60c85579aa50430268116dec2ae2a517d32/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--435325a84611f9b4e2210760d04bed2a88c1f429/dualism.png 2x, https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSTNBL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7bedc60c85579aa50430268116dec2ae2a517d32/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--c01f3983c1786fbe1f418ce337eaa6c9bbc6125e/dualism.png 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure><br>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"anarchist.png\" title=\"Download anarchist.png\" data-click-proxy-target=\"lightbox_link_blob_335465874\" href=\"https://world.hey.com/toddg/86a4c484/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkxOL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8d1c9d9425f20af998ddf47c302779994cfd1e3a/anarchist.png?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkxOL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8d1c9d9425f20af998ddf47c302779994cfd1e3a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--9333ff4f088aa9239bed4b0a224e37f2c7bab42d/anarchist.png\" alt=\"anarchist.png\" srcset=\"https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkxOL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8d1c9d9425f20af998ddf47c302779994cfd1e3a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--435325a84611f9b4e2210760d04bed2a88c1f429/anarchist.png 2x, https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkxOL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8d1c9d9425f20af998ddf47c302779994cfd1e3a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--c01f3983c1786fbe1f418ce337eaa6c9bbc6125e/anarchist.png 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure></div><div>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\"><br>\n      <a download=\"That Holy Anarchist.png\" title=\"Download That Holy Anarchist.png\" data-click-proxy-target=\"lightbox_link_blob_335462832\" href=\"https://world.hey.com/toddg/86a4c484/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTERCL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a1d9a04a0ca2c1b9314b04f41de901ba1610c67/That%20Holy%20Anarchist.png?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTERCL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a1d9a04a0ca2c1b9314b04f41de901ba1610c67/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--9333ff4f088aa9239bed4b0a224e37f2c7bab42d/That%20Holy%20Anarchist.png\" alt=\"That Holy Anarchist.png\" srcset=\"https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTERCL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a1d9a04a0ca2c1b9314b04f41de901ba1610c67/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--435325a84611f9b4e2210760d04bed2a88c1f429/That%20Holy%20Anarchist.png 2x, https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTERCL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a1d9a04a0ca2c1b9314b04f41de901ba1610c67/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--c01f3983c1786fbe1f418ce337eaa6c9bbc6125e/That%20Holy%20Anarchist.png 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure><br>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"subversive.png\" title=\"Download subversive.png\" data-click-proxy-target=\"lightbox_link_blob_335462721\" href=\"https://world.hey.com/toddg/86a4c484/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRUhCL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ab29fdfa0ff0ee43085047c087a412eb4ce3e595/subversive.png?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRUhCL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ab29fdfa0ff0ee43085047c087a412eb4ce3e595/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--9333ff4f088aa9239bed4b0a224e37f2c7bab42d/subversive.png\" alt=\"subversive.png\" srcset=\"https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRUhCL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ab29fdfa0ff0ee43085047c087a412eb4ce3e595/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--435325a84611f9b4e2210760d04bed2a88c1f429/subversive.png 2x, https://world.hey.com/toddg/86a4c484/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRUhCL2hNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ab29fdfa0ff0ee43085047c087a412eb4ce3e595/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--c01f3983c1786fbe1f418ce337eaa6c9bbc6125e/subversive.png 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure></div><div><br><br></div><div>---<br>-<a href=\"https://todd.grotenhuis.info/\">Todd</a></div>\n</div>\n<br><hr><i>Originally posted at <a href=\"https://world.hey.com/toddg/sunday-quote-86a4c484\">Hey World</a></i>\n",
 				"date_published": "2021-03-28T11:18:00-05:00",
 				"url": "https://blog.grotenhuis.info/2021/03/28/sunday-quote.html",
-				"tags": ["Sunday Quotes","full posts"]
+				"tags": ["Sunday Quotes","full posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/03/24/security-tax.html",
@@ -1993,7 +2047,7 @@
 				"content_text": "<div class=\"trix-content\">\n  <div>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--jpg\">\n      <a download=\"third bite.jpg\" title=\"Download third bite.jpg\" data-click-proxy-target=\"lightbox_link_blob_326800567\" href=\"https://world.hey.com/toddg/4da30cc7/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTGVVZWhNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--839f4a822ebeb1a3ac3ea9d50139b1396fb1d9ad/third%20bite.jpg?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/4da30cc7/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTGVVZWhNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--839f4a822ebeb1a3ac3ea9d50139b1396fb1d9ad/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--e2b7e3d9ad63061a4461ddc0db7057b9f1ddfa3e/third%20bite.jpg\" alt=\"third bite.jpg\" srcset=\"https://world.hey.com/toddg/4da30cc7/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTGVVZWhNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--839f4a822ebeb1a3ac3ea9d50139b1396fb1d9ad/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a2042af011076e1a343861d7ec0e409c3224e82c/third%20bite.jpg 2x, https://world.hey.com/toddg/4da30cc7/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTGVVZWhNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--839f4a822ebeb1a3ac3ea9d50139b1396fb1d9ad/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--1e5be4972192d568a049e436fa48cca61f737ba1/third%20bite.jpg 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure><br><br>This is a quote I have in my favorites simply so that I get the reminder frequently.<br><br>In another of his books (<a href=\"https://bookshop.org/a/10222/9780143116387\">Food Rules</a>) Pollan also says:<br><br></div><blockquote>The banquet is in the first bite</blockquote><div><br>and<br><br></div><blockquote>No other bite will taste as good as the first, and every subsequent bite will progressively diminish in satisfaction.</blockquote><div><br>and<br><br></div><blockquote>...as you go on, you’ll be getting more calories, but not necessarily more pleasure.</blockquote><div><br>In many attentive eating paradigms (the works of Michael Pollan, mindful eating, intuitive eating, <a href=\"https://www.naturallyslim.com/home\">Naturally Slim</a>, etc.), there is a focus on really paying attention to and enjoying what we are eating. <br><br>Part of the unhealthy habits many of us have learned around food contribute to food moving from something to savor to something to <em>consume</em>. Like other parts of consumer culture, we look for the latest \"advances\", the best bang-for-our-buck, the quickest thing, the most popular thing, the best advertised thing, or the super-utilitarian-just-get-the-nutrients-in-me thing.<br><br>Whichever of these we drift towards, our relationship with food moves away from thinking of food as something to enjoy in-and-of-itself, shifts away from cultural food traditions (with all their accumulated wisdom), and shifts away from (non-performative) eating with our community.<br><br>This reminder, then, is a simple call back to paying attention to what is being eaten. <br><br></div><blockquote>Take a small bite.<br>How does it smell?<br>How does it feel?<br>How does it taste?<br>Does it change as I chew or as it lingers in my mouth?</blockquote><div><br>Following this paradigm, a few things happen:<br><br></div><ol><li>I enjoy my food much more</li><li>I'm amazed how the tiniest of bites can give as much (or more) satisfaction as a large one</li><li>I realize that after more than a few bites of anything, I'm not enjoying anymore, but merely <em>consuming</em></li><li>I realize my fullness much more quickly</li><li>I can eat my foods in any order I want, because I won't overdue it with anything on my plate, but know I will move on once I am no longer enjoying that item</li></ol><div><br>Now, there is one big exception to this \"intuitive\" approach to eating. Some of these programs handle it, others may not. <br><br></div><pre>SUGAR is basically a drug.</pre><div><br>Sugar makes us more hungry. Seriously. Because of the way fructose and glucose work in the body, having sugar (and even simple carbs, which are effectively glucose) causes our bodies to store fat and ramp up our appetite. So, \"intuition\" gets short-circuited by our biological processes.<br><br>Pollan has lots of advice to help avoid this trap. <em>Naturally Slim</em> advocates cutting sugar. I'm not sure if <em>Intuitive Eating</em> handles it. (<a href=\"mailto:toddg@hey.com\">email me if you know?</a>)<br><br>Because I used a Pollan quote related to dessert, let me pair it with these other practices from <i>Food Rules</i>, in order to present the more-complete picture. Bold is Pollan's wording, italics are my comments.</div><div><br></div><ul><li><strong>4 Avoid food products that contain high-fructose corn syrup.</strong></li><li><strong>5 Avoid foods that have some form of sugar (or sweetener) listed among the top three ingredients.</strong></li><li><strong>35 Eat sweet foods as you find them in nature. </strong>(<em>e.g. whole fruit with fiber</em>)</li><li><strong>37 “The whiter the bread, the sooner you’ll be dead.”</strong></li><li><strong>39 Eat all the junk food you want as long as you cook it yourself. </strong>(<em>e.g. if you want pie, chips, or ice cream you gotta make it from the raw ingredients!</em>)</li></ul><div><br>In the week ahead, this is a good reminder for me to be mindful. To <em>eat</em> rather than <em>consume</em>. May it be helpful for you, as well.<br><br><em>tagged: </em><a href=\"https://www.craft.do/s/QNA4regH74fiMk\"><em>@Eat</em></a></div><div>---<br>-<a href=\"https://todd.grotenhuis.info/\">Todd</a></div>\n</div>\n<br><hr><i>Originally posted at <a href=\"https://world.hey.com/toddg/sunday-quote-4da30cc7\">Hey World</a></i>\n",
 				"date_published": "2021-03-21T08:18:00-05:00",
 				"url": "https://blog.grotenhuis.info/2021/03/21/sunday-quote.html",
-				"tags": ["Sunday Quotes","full posts"]
+				"tags": ["Sunday Quotes","full posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/03/18/pen-pals.html",
@@ -2047,7 +2101,7 @@
 				"content_text": "<div class=\"trix-content\">\n  <div>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"No Time to Spare.png\" title=\"Download No Time to Spare.png\" data-click-proxy-target=\"lightbox_link_blob_318327627\" href=\"https://world.hey.com/toddg/035a90ad/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRXRMK1JJPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a56ba10bd154ad061c3bdb205b702290a977fe5/No Time to Spare.png?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/035a90ad/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRXRMK1JJPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a56ba10bd154ad061c3bdb205b702290a977fe5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUIya0NBQVU2REhGMVlXeHBkSGxwU3pvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--9333ff4f088aa9239bed4b0a224e37f2c7bab42d/No Time to Spare.png\" alt=\"No Time to Spare.png\" srcset=\"https://world.hey.com/toddg/035a90ad/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRXRMK1JJPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a56ba10bd154ad061c3bdb205b702290a977fe5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUQya0NBQW82REhGMVlXeHBkSGxwUVRvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--435325a84611f9b4e2210760d04bed2a88c1f429/No Time to Spare.png 2x, https://world.hey.com/toddg/035a90ad/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRXRMK1JJPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a56ba10bd154ad061c3bdb205b702290a977fe5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLQUZta0NBQTg2REhGMVlXeHBkSGxwUERvTGJHOWhaR1Z5ZXdZNkNYQmhaMlV3T2cxamIyRnNaWE5qWlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--c01f3983c1786fbe1f418ce337eaa6c9bbc6125e/No Time to Spare.png 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure><br><br>As is often the case, Le Guin shares an insight that is simultaneously cutting-and-beautiful.<br><br>What she's described here gets at why I like and prefer the term \n    \n---\n    \nThis post was cutoff because we are still debugging crossposting from Hey.com. [See the original here.](https://world.hey.com/toddg/sunday-quote-035a90ad)\n",
 				"date_published": "2021-03-14T09:55:00-05:00",
 				"url": "https://blog.grotenhuis.info/2021/03/14/sunday-quote.html",
-				"tags": ["Sunday Quotes","full posts"]
+				"tags": ["Sunday Quotes","full posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/03/13/when-your-curbside.html",
@@ -2092,7 +2146,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/ffd1e94803.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-21T07:14:35-05:00",
 				"url": "https://blog.grotenhuis.info/2021/02/21/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/02/20/oh-this-will.html",
@@ -2155,7 +2209,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/61dc295e12.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n(Disclaimer: Wink is not being a gender essentialist here, but rather speaking to historical context)\n",
 				"date_published": "2021-02-14T07:14:12-05:00",
 				"url": "https://blog.grotenhuis.info/2021/02/14/sunday-quote-disclaimer.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/02/12/opinion-the-owasp.html",
@@ -2218,7 +2272,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/f635bd4c34.jpg\" width=\"600\" height=\"346\" alt=\"\" />\n",
 				"date_published": "2021-02-07T06:50:41-05:00",
 				"url": "https://blog.grotenhuis.info/2021/02/07/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/02/06/i-concur-with.html",
@@ -2263,7 +2317,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/30a60ff1c1.jpg\" width=\"600\" height=\"309\" alt=\"\" />\n",
 				"date_published": "2021-01-31T07:06:01-05:00",
 				"url": "https://blog.grotenhuis.info/2021/01/31/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/01/30/goofy-coloring-from.html",
@@ -2308,7 +2362,7 @@
 				"content_text": "Sunday Quote:\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/9f72c5fefc.jpg\" width=\"600\" height=\"255\" alt=\"\" />\n\nSomething I’m continuing to work on.\n",
 				"date_published": "2021-01-24T08:31:53-05:00",
 				"url": "https://blog.grotenhuis.info/2021/01/24/sunday-quote-something.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/01/23/bandanas-are-great.html",
@@ -2407,7 +2461,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/db92e67e9d.jpg\" width=\"600\" height=\"243\" alt=\"\" />\n",
 				"date_published": "2021-01-17T07:04:20-05:00",
 				"url": "https://blog.grotenhuis.info/2021/01/17/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/01/17/i-was-restless.html",
@@ -2479,7 +2533,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/3bf88ac164.jpg\" width=\"600\" height=\"278\" alt=\"\" />\n",
 				"date_published": "2021-01-10T07:12:27-05:00",
 				"url": "https://blog.grotenhuis.info/2021/01/10/sunday-quote.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/01/09/a-good-time.html",
@@ -2578,7 +2632,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/24378f2876.jpg\" width=\"600\" height=\"274\" alt=\"\" />\n",
 				"date_published": "2021-01-03T08:09:58-05:00",
 				"url": "https://blog.grotenhuis.info/2021/01/03/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/01/02/ninth-day-of.html",
@@ -2776,7 +2830,7 @@
 				"content_text": "As has become my tradition, I'm spending the week around year-end reflecting each day. We grow most rapidly when we lean into and learn from challenges, and 2020 was certainly a year of many challenges.\n\nWhile many of my reflections are private material, I will share reflections and recommendations in the following categories:\n\n* [📺 & 🎥](https://blog.grotenhuis.info/2020/12/29/142837.html)\n* [🃏, 🎲, & 🕹](https://blog.grotenhuis.info/2020/12/30/114407.html)\n* [comics](https://blog.grotenhuis.info/2020/12/30/comic-review.html)\n* [news & magazines](https://blog.grotenhuis.info/2020/12/31/news-magazines-review.html)\n* [feeds & newsletters](https://blog.grotenhuis.info/2020/12/31/feeds-newsletters-review.html)\n* [🎙](https://blog.grotenhuis.info/2021/01/01/review.html)\n* [projects](https://blog.grotenhuis.info/2021/01/01/project-review.html)\n* [fiction 📚](https://blog.grotenhuis.info/2021/01/02/fiction-review.html)\n* [nonfiction 📚](https://blog.grotenhuis.info/2021/01/02/nonfiction-review.html)\n* [🎶](https://blog.grotenhuis.info/2021/01/03/review.html)\n",
 				"date_published": "2020-12-29T11:13:00-05:00",
 				"url": "https://blog.grotenhuis.info/2020/12/29/review.html",
-				"tags": ["Books","Music","full posts"]
+				"tags": ["Games","Books","Music","full posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/12/28/fourth-day-of.html",
@@ -2893,7 +2947,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/6cdd14bb49.jpg\" width=\"600\" height=\"274\" alt=\"\" />\n",
 				"date_published": "2020-12-20T08:34:29-05:00",
 				"url": "https://blog.grotenhuis.info/2020/12/20/sunday-quote.html",
-				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/12/19/day-of-break.html",
@@ -3019,7 +3073,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/adcb265214.jpg\" width=\"600\" height=\"293\" alt=\"\" />\n",
 				"date_published": "2020-12-06T07:06:30-05:00",
 				"url": "https://blog.grotenhuis.info/2020/12/06/sunday-quote.html",
-				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/12/05/good-week-for.html",
@@ -3127,7 +3181,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/8cac929037.jpg\" width=\"600\" height=\"312\" alt=\"\" />\n",
 				"date_published": "2020-11-29T07:37:02-05:00",
 				"url": "https://blog.grotenhuis.info/2020/11/29/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/11/28/how-did-you.html",
@@ -3190,7 +3244,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/b43293e6c2.jpg\" width=\"600\" height=\"378\" alt=\"\" />\n",
 				"date_published": "2020-11-22T07:53:09-05:00",
 				"url": "https://blog.grotenhuis.info/2020/11/22/sunday-quote.html",
-				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/11/21/my-wife-just.html",
@@ -3253,7 +3307,7 @@
 				"content_text": "Sunday Quote:\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/a64405ee16.jpg\" width=\"600\" height=\"274\" alt=\"\" />\n",
 				"date_published": "2020-11-15T08:12:54-05:00",
 				"url": "https://blog.grotenhuis.info/2020/11/15/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/11/14/finished-reading-the.html",
@@ -3325,7 +3379,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/513cc94f34.jpg\" width=\"600\" height=\"274\" alt=\"\" />\n",
 				"date_published": "2020-11-08T07:08:46-05:00",
 				"url": "https://blog.grotenhuis.info/2020/11/08/sunday-quote.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/11/07/like-many-i.html",
@@ -3451,7 +3505,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/52bcaaec23.jpg\" width=\"600\" height=\"346\" alt=\"\" />\n",
 				"date_published": "2020-11-01T07:47:12-05:00",
 				"url": "https://blog.grotenhuis.info/2020/11/01/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/10/31/controversial-opinion-a.html",
@@ -3550,7 +3604,7 @@
 				"content_text": "Sunday Quote:\n\nThe recommendation is for several reasons, including: a better fat profile (omega ratio), better micronutrients, and better carb profile (fiber over simple).\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/81224f853c.jpg\" width=\"600\" height=\"262\" alt=\"\" />\n",
 				"date_published": "2020-10-18T07:02:18-05:00",
 				"url": "https://blog.grotenhuis.info/2020/10/18/sunday-quote-the.html",
-				"tags": ["Review","Resilience","Sunday Quotes","micro posts"]
+				"tags": ["Review","Resilience","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/10/17/more-thoughts-its.html",
@@ -3667,7 +3721,7 @@
 				"content_text": "Sunday Quote Part 2 (saying it another way): \n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/19a7960232.png\" width=\"600\" height=\"320\" alt=\"\" />\n",
 				"date_published": "2020-10-11T08:26:48-05:00",
 				"url": "https://blog.grotenhuis.info/2020/10/11/sunday-quote-part.html",
-				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/10/11/sunday-quote.html",
@@ -3676,7 +3730,7 @@
 				"content_text": "Sunday Quote:\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/8ba8d07de0.png\" width=\"600\" height=\"320\" alt=\"\" />\n",
 				"date_published": "2020-10-11T08:25:10-05:00",
 				"url": "https://blog.grotenhuis.info/2020/10/11/sunday-quote.html",
-				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/10/09/i-still-find.html",
@@ -3730,7 +3784,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/9837ba8553.jpg\" width=\"600\" height=\"309\" alt=\"\" />\n",
 				"date_published": "2020-10-04T07:03:09-05:00",
 				"url": "https://blog.grotenhuis.info/2020/10/04/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/10/03/finished-reading-the.html",
@@ -3901,7 +3955,7 @@
 				"content_text": "Sunday Quote:\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/450af9d066.jpg\" width=\"600\" height=\"255\" alt=\"\" />\n",
 				"date_published": "2020-09-27T07:01:21-05:00",
 				"url": "https://blog.grotenhuis.info/2020/09/27/sunday-quote.html",
-				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/09/26/what-a-wild.html",
@@ -3973,7 +4027,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/a22af512a4.jpg\" width=\"600\" height=\"314\" alt=\"\" />\n",
 				"date_published": "2020-09-20T08:00:00-05:00",
 				"url": "https://blog.grotenhuis.info/2020/09/20/sunday-quote.html",
-				"tags": ["Review","Resilience","Sunday Quotes","micro posts"]
+				"tags": ["Review","Resilience","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/09/16/published-on-resilient.html",
@@ -4000,7 +4054,7 @@
 				"content_text": "Sunday Quote\n\nRIP David Graeber\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/7b619796e8.jpg\" width=\"600\" height=\"309\" alt=\"\" />\n",
 				"date_published": "2020-09-13T08:45:46-05:00",
 				"url": "https://blog.grotenhuis.info/2020/09/13/sunday-quote-rip.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/09/11/i-think-about.html",
@@ -4045,7 +4099,7 @@
 				"content_text": "Sunday Quote...delayed\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/ac45d7d702.jpg\" width=\"600\" height=\"304\" alt=\"\" />\n",
 				"date_published": "2020-09-07T07:51:53-05:00",
 				"url": "https://blog.grotenhuis.info/2020/09/07/sunday-quotedelayed.html",
-				"tags": ["Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/09/07/learning-from-the.html",
@@ -4117,7 +4171,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/5c1ce62795.jpg\" width=\"600\" height=\"312\" alt=\"\" />\n",
 				"date_published": "2020-08-30T08:21:05-05:00",
 				"url": "https://blog.grotenhuis.info/2020/08/30/sunday-quote.html",
-				"tags": ["Review","Anabaptism","Northern Fires","Sunday Quotes","micro posts"]
+				"tags": ["Review","Anabaptism","Northern Fires","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/08/29/basil-from-the.html",
@@ -4189,7 +4243,7 @@
 				"content_text": "Sunday Quote\n\nThis is just one of the reasons it’s valuable to think about your project in the format of a memo, press release, wiki page, or user guide.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/733673f914.jpg\" width=\"600\" height=\"312\" alt=\"\" />\n",
 				"date_published": "2020-08-23T07:54:54-05:00",
 				"url": "https://blog.grotenhuis.info/2020/08/23/sunday-quote-this.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/08/22/are-there-good.html",
@@ -4279,7 +4333,7 @@
 				"content_text": "Sunday Quote:\n\nNote: this is unfortunately reinforced by common creeds (e.g. Apostles). If we believe in Jesus, we have to go past who he **is** and look at what he **did**, including what he **taught**. Too much Christianity is taking the magic Jesus pill but not living into the kingdom.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/9c57a87aa2.jpg\" width=\"600\" height=\"345\" alt=\"\" />\n",
 				"date_published": "2020-08-16T07:23:03-05:00",
 				"url": "https://blog.grotenhuis.info/2020/08/16/sunday-quote-note.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/08/15/impressive-showing-from.html",
@@ -4333,7 +4387,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/1afe5d3427.jpg\" width=\"600\" height=\"262\" alt=\"\" />\n",
 				"date_published": "2020-08-09T07:22:01-05:00",
 				"url": "https://blog.grotenhuis.info/2020/08/09/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/08/04/there-are-two.html",
@@ -4369,7 +4423,7 @@
 				"content_text": "Sunday Quote\n\n(Note: this does not mean we should try to meld Empire & Kingdom, Caesar & Christ. No, the Beloved Community is an alternative, a dual-power, not a method of adding belief onto a system of injustice. One can hold the cross or the sword faithfully, not both.)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/97004a108b.jpg\" width=\"600\" height=\"350\" alt=\"\" />\n",
 				"date_published": "2020-08-02T07:39:13-05:00",
 				"url": "https://blog.grotenhuis.info/2020/08/02/sunday-quote-note.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/08/01/as-we-approach.html",
@@ -4423,7 +4477,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/5d40098557.jpg\" width=\"600\" height=\"379\" alt=\"\" />\n",
 				"date_published": "2020-07-26T07:19:08-05:00",
 				"url": "https://blog.grotenhuis.info/2020/07/26/sunday-quote.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/07/25/kals-cartoon.html",
@@ -4495,7 +4549,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/62936426fb.jpg\" width=\"600\" height=\"278\" alt=\"\" />\n",
 				"date_published": "2020-07-19T08:21:02-05:00",
 				"url": "https://blog.grotenhuis.info/2020/07/19/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/07/17/finished-reading-calibans.html",
@@ -4684,7 +4738,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/0ec317a736.jpg\" width=\"600\" height=\"309\" alt=\"\" />\n",
 				"date_published": "2020-07-05T07:07:36-05:00",
 				"url": "https://blog.grotenhuis.info/2020/07/05/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/07/04/one-of-the.html",
@@ -4828,7 +4882,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/193aba31ac.jpg\" width=\"600\" height=\"278\" alt=\"\" />\n",
 				"date_published": "2020-06-21T07:17:00-05:00",
 				"url": "https://blog.grotenhuis.info/2020/06/21/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/06/18/another-entry-in.html",
@@ -4855,7 +4909,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/d7390b8a56.jpg\" width=\"600\" height=\"405\" alt=\"\" />\n",
 				"date_published": "2020-06-14T07:53:12-05:00",
 				"url": "https://blog.grotenhuis.info/2020/06/14/sunday-quote.html",
-				"tags": ["Ideas","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Ideas","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/06/09/a-former-prosecutors.html",
@@ -4891,7 +4945,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/8fd7074724.jpg\" width=\"600\" height=\"274\" alt=\"\" />\n",
 				"date_published": "2020-06-07T15:24:03-05:00",
 				"url": "https://blog.grotenhuis.info/2020/06/07/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/06/06/nra-accidentally-forgets.html",
@@ -4999,7 +5053,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/992b7748f8.jpg\" width=\"600\" height=\"243\" alt=\"\" />\n",
 				"date_published": "2020-05-31T08:04:59-05:00",
 				"url": "https://blog.grotenhuis.info/2020/05/31/sunday-quote.html",
-				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/05/29/rereading-grave-peril.html",
@@ -5134,7 +5188,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/a83b99a485.jpg\" width=\"600\" height=\"314\" alt=\"\" />\n",
 				"date_published": "2020-05-10T07:58:28-05:00",
 				"url": "https://blog.grotenhuis.info/2020/05/10/sunday-quote.html",
-				"tags": ["Resilience","Ideas","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Resilience","Ideas","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/05/08/another-good-move.html",
@@ -5215,7 +5269,7 @@
 				"content_text": "Sunday Quote:\n\n_Note: timely double-quote this morning, as people demand sacrifice to Mammon in the name of their lord._\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/beaf1ec058.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-19T08:30:22-05:00",
 				"url": "https://blog.grotenhuis.info/2020/04/19/sunday-quote-note.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/04/16/governments-are-quick.html",
@@ -5233,7 +5287,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/372fd2fba5.jpg\" width=\"600\" height=\"294\" alt=\"\" />\n",
 				"date_published": "2020-04-12T07:40:46-05:00",
 				"url": "https://blog.grotenhuis.info/2020/04/12/sunday-quote.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/04/08/the-most-human.html",
@@ -5278,7 +5332,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/9552e30e49.jpg\" width=\"600\" height=\"294\" alt=\"\" />\n",
 				"date_published": "2020-04-05T07:11:35-05:00",
 				"url": "https://blog.grotenhuis.info/2020/04/05/sunday-quote.html",
-				"tags": ["Review","Resilience","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Resilience","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/04/03/jackbox-party-via.html",
@@ -5359,7 +5413,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/0fb7c601df.jpg\" width=\"600\" height=\"294\" alt=\"\" />\n",
 				"date_published": "2020-03-22T10:15:11-05:00",
 				"url": "https://blog.grotenhuis.info/2020/03/22/sunday-quote.html",
-				"tags": ["Review","Resilience","Ideas","Humor","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Resilience","Ideas","Humor","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/03/22/these-mennonites-are.html",
@@ -5431,7 +5485,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/617563acea.jpg\" width=\"600\" height=\"348\" alt=\"\" />\n",
 				"date_published": "2020-03-15T09:54:57-05:00",
 				"url": "https://blog.grotenhuis.info/2020/03/15/sunday-quote.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/03/12/youve-seen-me.html",
@@ -5485,7 +5539,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/864de0e5c3.jpg\" width=\"600\" height=\"294\" alt=\"\" />\n",
 				"date_published": "2020-03-01T07:23:17-05:00",
 				"url": "https://blog.grotenhuis.info/2020/03/01/sunday-quote.html",
-				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/02/28/finished-deep-work.html",
@@ -5539,7 +5593,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/1c78f4f831.jpg\" width=\"600\" height=\"258\" alt=\"\" />\n",
 				"date_published": "2020-02-16T12:22:54-05:00",
 				"url": "https://blog.grotenhuis.info/2020/02/16/sunday-quote.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/02/14/labyrinth-adventure-game.html",
@@ -5566,7 +5620,7 @@
 				"content_text": "Field Notes made a [D&D 5E Character Journal](https://fieldnotesbrand.com/products/5e-character-journal). 🎲\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/bfa458341a.jpg\" width=\"600\" height=\"319\" alt=\"\" />\n",
 				"date_published": "2020-02-14T10:55:00-05:00",
 				"url": "https://blog.grotenhuis.info/2020/02/14/field-notes-made.html",
-				"tags": ["micro posts"]
+				"tags": ["Games","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/02/13/another-great-decisionmaking.html",
@@ -5584,7 +5638,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/67d5ce7430.jpg\" width=\"600\" height=\"319\" alt=\"\" />\n",
 				"date_published": "2020-02-09T08:43:27-05:00",
 				"url": "https://blog.grotenhuis.info/2020/02/09/sunday-quote.html",
-				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/02/04/finished-leaders-eat.html",
@@ -5638,7 +5692,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/b4c4c758b9.jpg\" width=\"600\" height=\"327\" alt=\"\" />\n",
 				"date_published": "2020-02-02T09:41:48-05:00",
 				"url": "https://blog.grotenhuis.info/2020/02/02/sunday-quote.html",
-				"tags": ["Review","Sunday Quotes","micro posts"]
+				"tags": ["Review","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/01/31/reminder-you-can.html",
@@ -5701,7 +5755,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/c40efa85b2.jpg\" width=\"600\" height=\"300\" alt=\"\" />\n",
 				"date_published": "2020-01-26T09:18:25-05:00",
 				"url": "https://blog.grotenhuis.info/2020/01/26/sunday-quote.html",
-				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/01/25/finish-four-futures.html",
@@ -5728,7 +5782,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/e26f74146b.jpg\" width=\"600\" height=\"335\" alt=\"\" />\n",
 				"date_published": "2020-01-19T09:28:12-05:00",
 				"url": "https://blog.grotenhuis.info/2020/01/19/sunday-quote.html",
-				"tags": ["Ideas","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Ideas","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/01/17/recently-finished-immunity.html",
@@ -5800,7 +5854,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/b0d6bf0980.jpg\" width=\"600\" height=\"258\" alt=\"\" />\n",
 				"date_published": "2020-01-12T08:41:48-05:00",
 				"url": "https://blog.grotenhuis.info/2020/01/12/sunday-quote.html",
-				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/01/08/interested-in-live.html",
@@ -5863,7 +5917,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/c6e281b2f8.jpg\" width=\"600\" height=\"327\" alt=\"\" />\n",
 				"date_published": "2020-01-05T15:53:36-05:00",
 				"url": "https://blog.grotenhuis.info/2020/01/05/sunday-quote.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/01/04/just-found-out.html",
@@ -5953,7 +6007,7 @@
 				"content_text": "Sunday Quote:\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/1401669afd.jpg\" width=\"600\" height=\"319\" alt=\"\" />\n",
 				"date_published": "2019-12-29T09:33:11-05:00",
 				"url": "https://blog.grotenhuis.info/2019/12/29/sunday-quote.html",
-				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/12/28/we-picked-almost.html",
@@ -6034,7 +6088,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/6eb9204c07.jpg\" width=\"600\" height=\"294\" alt=\"\" />\n",
 				"date_published": "2019-12-22T12:18:14-05:00",
 				"url": "https://blog.grotenhuis.info/2019/12/22/sunday-quote.html",
-				"tags": ["Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/12/21/me-every-time.html",
@@ -6142,7 +6196,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/bc8915731b.jpg\" width=\"600\" height=\"319\" alt=\"\" />\n",
 				"date_published": "2019-12-15T16:40:58-05:00",
 				"url": "https://blog.grotenhuis.info/2019/12/15/sunday-quote.html",
-				"tags": ["Review","Resilience","Digital Minimalism","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Resilience","Digital Minimalism","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/12/14/i-received-my.html",
@@ -6295,7 +6349,7 @@
 				"content_text": "Sunday Quote 📚\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/ceb0587680.jpg\" width=\"600\" height=\"280\" alt=\"\" />\n",
 				"date_published": "2019-11-24T07:33:33-05:00",
 				"url": "https://blog.grotenhuis.info/2019/11/24/sunday-quote.html",
-				"tags": ["Review","Anabaptism","Sunday Quotes","Books","micro posts"]
+				"tags": ["Review","Anabaptism","Sunday Quotes","Books","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/11/17/sunday-quote.html",
@@ -6304,7 +6358,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/a2a2ddad72.jpg\" width=\"600\" height=\"339\" alt=\"\" />\n",
 				"date_published": "2019-11-17T07:20:37-05:00",
 				"url": "https://blog.grotenhuis.info/2019/11/17/sunday-quote.html",
-				"tags": ["Review","Resilience","Ideas","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Resilience","Ideas","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/11/14/great-thought-experiment.html",
@@ -6331,7 +6385,7 @@
 				"content_text": "Sunday Quote: re: the famous marshmallow experiment. Social sciences are finding over and over that people don’t succeed based on “best willpower” but on how they align their habits, environment, and focus with their goals.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/34378b0dc8.jpg\" width=\"600\" height=\"294\" alt=\"\" />\n",
 				"date_published": "2019-11-10T07:58:00-05:00",
 				"url": "https://blog.grotenhuis.info/2019/11/10/sunday-quote-re.html",
-				"tags": ["Review","Resilience","Ideas","Digital Minimalism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Resilience","Ideas","Digital Minimalism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/11/01/another-feelgood-comic.html",
@@ -6367,7 +6421,7 @@
 				"content_text": "Sunday Quote 📚 \n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/34436c695e.jpg\" width=\"600\" height=\"327\" alt=\"\" />\n",
 				"date_published": "2019-10-13T07:00:22-05:00",
 				"url": "https://blog.grotenhuis.info/2019/10/13/sunday-quote.html",
-				"tags": ["Review","Resilience","Sunday Quotes","Books","micro posts"]
+				"tags": ["Review","Resilience","Sunday Quotes","Books","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/10/06/sunday-quotethats-exactly.html",
@@ -6376,7 +6430,7 @@
 				"content_text": "Sunday Quote:\n“...that’s exactly what the early Christians were executed for, for pledging an allegiance to another kingdom, another Lord—treason.”\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/31302f52fc.jpg\" width=\"600\" height=\"381\" alt=\"\" />\n",
 				"date_published": "2019-10-06T06:48:22-05:00",
 				"url": "https://blog.grotenhuis.info/2019/10/06/sunday-quotethats-exactly.html",
-				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Review","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/10/02/if-i-was.html",
@@ -6394,7 +6448,7 @@
 				"content_text": "Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/8e682ac5b0.jpg\" width=\"600\" height=\"319\" alt=\"\" />\n",
 				"date_published": "2019-09-29T07:52:12-05:00",
 				"url": "https://blog.grotenhuis.info/2019/09/29/sunday-quote.html",
-				"tags": ["Sunday Quotes","micro posts"]
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/09/18/why-does-gidget.html",
@@ -6430,7 +6484,7 @@
 				"content_text": "Sunday quote courtesy of [readwise](https://readwise.io/dashboard):\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/0fd11b8622.jpg\" width=\"600\" height=\"294\" alt=\"\" />\n",
 				"date_published": "2019-09-08T06:36:21-05:00",
 				"url": "https://blog.grotenhuis.info/2019/09/08/sunday-quote-courtesy.html",
-				"tags": ["Resilience","Ideas","Anabaptism","Sunday Quotes","micro posts"]
+				"tags": ["Resilience","Ideas","Anabaptism","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/09/03/fort-collins-mennonite.html",
@@ -7645,7 +7699,7 @@
 				"content_text": "Sunday quote:\n\n<img src=\"https://blog.grotenhuis.info/uploads/2018/fad7957db2.jpg\" width=\"600\" height=\"339\" alt=\"\" />\n",
 				"date_published": "2018-12-23T09:17:25-05:00",
 				"url": "https://blog.grotenhuis.info/2018/12/23/sunday-quote.html",
-				"tags": ["Ideas","Sunday Quotes","micro posts"]
+				"tags": ["Ideas","Sunday Quotes","micro posts","Quotes"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2018/12/18/mentoring-update.html",
