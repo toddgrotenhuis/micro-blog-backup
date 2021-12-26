@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/12/25/sounded-like-our.html",
+				
+				"content_html": "<p>Sounded like our cousin’s kid said “berry gobbler” so I guess that’s what it’s officially called, now.</p>\n",
+				"content_text": "Sounded like our cousin’s kid said “berry gobbler” so I guess that’s what it’s officially called, now.\n",
+				"date_published": "2021-12-25T15:13:57-05:00",
+				"url": "https://blog.grotenhuis.info/2021/12/25/sounded-like-our.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/12/25/i-still-maintain.html",
+				
+				"content_html": "<p>📚 I still maintain that <strong>curiosity is a superpower</strong>, so pretty excited about these <a href=\"https://bookshop.org/shop/toddgrotenhuis\">books</a>!</p>\n\n<p><img src=\"uploads/2021/7ddca52ebf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "📚 I still maintain that **curiosity is a superpower**, so pretty excited about these [books](https://bookshop.org/shop/toddgrotenhuis)!\n\n<img src=\"uploads/2021/7ddca52ebf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-25T12:18:59-05:00",
+				"url": "https://blog.grotenhuis.info/2021/12/25/i-still-maintain.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/12/25/merry-christmas.html",
+				
+				"content_html": "<p>🕊 Merry Christmas 🌟</p>\n",
+				"content_text": "🕊 Merry Christmas 🌟\n",
+				"date_published": "2021-12-25T07:50:45-05:00",
+				"url": "https://blog.grotenhuis.info/2021/12/25/merry-christmas.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/12/21/interesting-path-today.html",
+				
+				"content_html": "<p>🕹 Interesting path, today</p>\n\n<p>⬛⬛🟨⬛⬛\n⬛⬛⬛🟨⬛\n🟩🟩🟩🟩🟩</p>\n\n<p>Wordle 185 3/6</p>\n",
+				"content_text": "🕹 Interesting path, today\n\n⬛⬛🟨⬛⬛\n⬛⬛⬛🟨⬛\n🟩🟩🟩🟩🟩\n\nWordle 185 3/6\n",
+				"date_published": "2021-12-21T06:59:01-05:00",
+				"url": "https://blog.grotenhuis.info/2021/12/21/interesting-path-today.html",
+				"tags": ["Games","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/12/19/im-really-enjoying.html",
+				
+				"content_html": "<p>✏️ I’m really enjoying this <a href=\"https://us.makerscabinet.com/products/ferrule\">Ferrule</a>. Might spell the end of 🖋 for me!</p>\n\n<p>I’ve tried a few lead-holders/pencil-extenders, but the mechanisms on this one are next level.</p>\n\n<p>I especially like the ease of reversing the pencil for safe travel, and the details on the built in eraser.</p>\n\n<p><img src=\"uploads/2021/74233d2480.jpg\" width=\"573\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "✏️ I’m really enjoying this [Ferrule](https://us.makerscabinet.com/products/ferrule). Might spell the end of 🖋 for me!\n\nI’ve tried a few lead-holders/pencil-extenders, but the mechanisms on this one are next level.\n\nI especially like the ease of reversing the pencil for safe travel, and the details on the built in eraser.\n\n<img src=\"uploads/2021/74233d2480.jpg\" width=\"573\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-19T22:39:45-05:00",
+				"url": "https://blog.grotenhuis.info/2021/12/19/im-really-enjoying.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2021/12/19/red-notice-it.html",
+				
+				"content_html": "<p>🎥 Red Notice: It feels like they brought the actors into the studio and were like,</p>\n\n<p>“What would you like your characters to do, and what should your lines be?”</p>\n\n<p>Worked out pretty well for Ryan Reynolds, who always plays Ryan Reynolds, and it’s fun.</p>\n",
+				"content_text": "🎥 Red Notice: It feels like they brought the actors into the studio and were like,\n\n“What would you like your characters to do, and what should your lines be?”\n\nWorked out pretty well for Ryan Reynolds, who always plays Ryan Reynolds, and it’s fun.\n",
+				"date_published": "2021-12-19T21:49:14-05:00",
+				"url": "https://blog.grotenhuis.info/2021/12/19/red-notice-it.html",
+				"tags": ["micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/12/16/week-in-review.html",
 				"title": "Week in Review 2021-12-10....err 2021-12-16",
 				"content_html": "<p>I started writing this on Friday the 10th, but am just now posting, because&hellip;</p>\n\n<p>🔒 <a href=\"https://arstechnica.com/information-technology/2021/12/hackers-launch-over-840000-attacks-through-log4j-flaw/\">The Log4j issue</a> is <em>really bad</em>. Security and engineering teams are scrambling to protect against attacks. The best teams started last week or weekend, but many organizations waited until Monday or later to get going. The vulnerability is once again hitting the hard problems of inventory management, 3rd-party software component management, and vendor management. I don&rsquo;t think I&rsquo;ve seen something this bad in 20 years of being a security practitioner. The vulnerability is easy to exploit, has the worst kind of impact (it runs the attacker&rsquo;s code), and is present in many common technologies. In addition, there have been several follow-on problems identified, such as additional attacks, or weaknesses in the fixes for the attack! If you&rsquo;d like a laugh instead of cry, check <a href=\"https://log4jmemes.com\">log4j memes</a>.</p>\n\n<p>⚽️ After a really great start to the Premiere League (where they were recently top of the table) and Champions League (where they are reigning champions), <a href=\"https://www.chelseafc.com/en\">Chelsea</a> are leaking goals and struggling at this point in the seasons. 3-3 vs. Zenit in the CL means they take 2nd spot (below Juventus), but are on to the round of 16 and matched up with Lille. They got a little lucky in the Leeds PL game to win 3-2, but tied 1-1 in what should have been an easy win at home against Everton.</p>\n\n<p>🛩 I recently had my 2nd business travel since &ldquo;the beforetimes&rdquo;. I tested when I got back and am luckily safe. I welcomed my new team members (direct and indirect reports) and honed 2022 strategy with the leaders on my team. It was good getting people together, but still feels a little strange getting back to it! In other work news, I also got the promotion I had been hoping for, bringing me to only 1 to 2 levels below my internal customers and working peers 😆. (Outside my team, I primarily work with SVPs and VPs, and am now an AVP.) Joking aside, I am thankful for the support of my leaders, who have shown trust in me and helped find funding and assistance for the important initiatives I&rsquo;ve been pushing.</p>\n\n<p>📚 My spouse and I registered for a new library. To be honest, we mostly did it to have another library in <a href=\"https://www.overdrive.com/apps/libby/\">Libby/Overdive</a>, but it turns out the library is lovely, too. There&rsquo;s no public funding in the town for a library and kids had to pay high fees to get access to a library in one of the neighboring towns. So, one family donated the land, funds for the building, and funds for the initial collection of materials. The library stays afloat with donations and a modest yearly fee for patrons. We were charmed by the library, especially their themed puzzle 🧩 collection that you can borrow like books!</p>\n\n<p>🌟🎄 I&rsquo;m looking forward to a break, soon. We&rsquo;ll be hosting my spouse&rsquo;s side of the family, again. All (who can be) are vaccinated (and boosted) and we will be testing before we get together. We have folks with compromised immune systems and/or who are too young to be vaccinated, but we are being safe for each other. We&rsquo;re very much looking forward to time together, as there has been so little of that in the last two years.</p>\n",
@@ -7916,6 +7970,15 @@
 				"date_published": "2016-09-29T15:32:00-05:00",
 				"url": "https://blog.grotenhuis.info/2016/09/29/thanks-to-my.html",
 				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2010/12/16/siku-is-amazing.html",
+				
+				"content_html": "<p>🐾 Siku is amazing and cute in the snow.</p>\n",
+				"content_text": "🐾 Siku is amazing and cute in the snow.\n",
+				"date_published": "2010-12-16T16:55:00-05:00",
+				"url": "https://blog.grotenhuis.info/2010/12/16/siku-is-amazing.html",
+				"tags": ["micro posts","Dogs"]
 			}
 	]
 }
