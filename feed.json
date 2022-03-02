@@ -7,31 +7,130 @@
 	"items": [
 		
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/02/20/pew-pew-pew.html",
+				"id": "http://toddgrotenhuis.micro.blog/2022/03/01/superexcited-to-be.html",
 				
-				"content_html": "<p><strong>pew pew pew</strong> goes Mallory! To finish it ⚽️⚽️⚽️⚽️⚽️-0 for #USWNT</p>\n",
-				"content_text": "**pew pew pew** goes Mallory! To finish it ⚽️⚽️⚽️⚽️⚽️-0 for #USWNT\n",
-				"date_published": "2022-02-20T17:16:07-05:00",
-				"url": "https://blog.grotenhuis.info/2022/02/20/pew-pew-pew.html",
+				"content_html": "<p>Super-excited to be joining the <a href=\"https://readwise.io/i/todd54\">Readwise</a> beta today for the Reader app. I&rsquo;ll post more about it after I get onboarded! 📚📑</p>\n",
+				"content_text": "Super-excited to be joining the [Readwise](https://readwise.io/i/todd54) beta today for the Reader app. I'll post more about it after I get onboarded! 📚📑\n",
+				"date_published": "2022-03-01T10:00:29-05:00",
+				"url": "https://blog.grotenhuis.info/2022/03/01/superexcited-to-be.html",
+				"tags": ["Books","micro posts","Quotes"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/02/28/silent-planet-made.html",
+				
+				"content_html": "<p>🎶 Silent Planet made a Ukraine refuge support tee, because of course they did 🕊</p>\n\n<p><a href=\"https://silentplanetmerch.com/collections/all-1/products/t-shirt-love-overcomes?variant=39902885019671\">Love Overcomes Tee – Silent Planet</a></p>\n",
+				"content_text": "🎶 Silent Planet made a Ukraine refuge support tee, because of course they did 🕊\n\n[Love Overcomes Tee – Silent Planet](https://silentplanetmerch.com/collections/all-1/products/t-shirt-love-overcomes?variant=39902885019671)\n",
+				"date_published": "2022-02-28T18:48:15-05:00",
+				"url": "https://blog.grotenhuis.info/2022/02/28/silent-planet-made.html",
+				"tags": ["Anabaptism","Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/02/27/great-job-goalies.html",
+				
+				"content_html": "<p>Great job goalies ⚽️ #TeamGoalie #CFC #LeagueCup</p>\n",
+				"content_text": "Great job goalies ⚽️ #TeamGoalie #CFC #LeagueCup\n",
+				"date_published": "2022-02-27T13:25:37-05:00",
+				"url": "https://blog.grotenhuis.info/2022/02/27/great-job-goalies.html",
 				"tags": ["Soccer","micro posts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/02/20/new-zealands-has.html",
+				"id": "http://toddgrotenhuis.micro.blog/2022/02/27/our-congregation-has.html",
 				
-				"content_html": "<p>⚽️ New Zealand’s #13 has some serious Lavelle vibes. We need to get them both on the pitch to see who is the victor.</p>\n",
-				"content_text": "⚽️ New Zealand’s #13 has some serious Lavelle vibes. We need to get them both on the pitch to see who is the victor.\n",
-				"date_published": "2022-02-20T15:56:14-05:00",
-				"url": "https://blog.grotenhuis.info/2022/02/20/new-zealands-has.html",
+				"content_html": "<p>Our congregation has many ties to both Myanmar and Ukraine, and we’re talking about the differences in global responses. 🕊</p>\n",
+				"content_text": "Our congregation has many ties to both Myanmar and Ukraine, and we’re talking about the differences in global responses. 🕊\n",
+				"date_published": "2022-02-27T10:30:08-05:00",
+				"url": "https://blog.grotenhuis.info/2022/02/27/our-congregation-has.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/02/27/sunday-quote.html",
+				
+				"content_html": "<p>📑 Sunday Quote:</p>\n\n<p><img src=\"uploads/2022/e7547c23f6.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "📑 Sunday Quote:\n\n<img src=\"uploads/2022/e7547c23f6.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-02-27T10:28:14-05:00",
+				"url": "https://blog.grotenhuis.info/2022/02/27/sunday-quote.html",
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/02/26/abramovich-hands-trustees.html",
+				
+				"content_html": "<p>⚽️ <a href=\"https://www.espn.com/soccer/chelsea-engchelsea/story/4603858/chelsea-owner-abramovich-says-he-is-giving-trustees-of-the-club-charitable-foundation-stewardship-and-care-of-the-club\">Abramovich hands trustees stewardship of Chelsea</a></p>\n\n<p>Good step. <em>Note: he is still owner, though.</em></p>\n",
+				"content_text": "⚽️ [Abramovich hands trustees stewardship of Chelsea](https://www.espn.com/soccer/chelsea-engchelsea/story/4603858/chelsea-owner-abramovich-says-he-is-giving-trustees-of-the-club-charitable-foundation-stewardship-and-care-of-the-club)\n\nGood step. _Note: he is still owner, though._\n",
+				"date_published": "2022-02-26T15:09:09-05:00",
+				"url": "https://blog.grotenhuis.info/2022/02/26/abramovich-hands-trustees.html",
 				"tags": ["Soccer","micro posts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/02/20/lets-go-uswnt.html",
+				"id": "http://toddgrotenhuis.micro.blog/2022/02/26/predictably-petro-lobbyists.html",
 				
-				"content_html": "<p>⚽️ let’s go #USWNT</p>\n",
-				"content_text": "⚽️ let’s go #USWNT\n",
-				"date_published": "2022-02-20T15:08:03-05:00",
-				"url": "https://blog.grotenhuis.info/2022/02/20/lets-go-uswnt.html",
+				"content_html": "<p>predictably, <a href=\"https://www.theguardian.com/world/2022/feb/26/us-fossil-fuel-industry-russia-ukraine-drilling\">petro lobbyists are pushing for expansion</a>, instead of embracing the opportunities for more renewables and electrification</p>\n",
+				"content_text": "predictably, [petro lobbyists are pushing for expansion](https://www.theguardian.com/world/2022/feb/26/us-fossil-fuel-industry-russia-ukraine-drilling), instead of embracing the opportunities for more renewables and electrification\n",
+				"date_published": "2022-02-26T12:24:35-05:00",
+				"url": "https://blog.grotenhuis.info/2022/02/26/predictably-petro-lobbyists.html",
+				"tags": ["Resilience","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/02/26/tomorrow-our-church.html",
+				
+				"content_html": "<p>Tomorrow, our church starts <a href=\"https://www.mennoniteusa.org/abolition-curriculum-intro/\">the abolition curriculum</a>. What does it mean to wrestle with this system of violence?</p>\n\n<p>If you’re in the Indianapolis-area, feel free to join us. 🕊</p>\n\n<p><img src=\"uploads/2022/3a64ef13d1.png\" width=\"600\" height=\"475\" alt=\"\" /></p>\n",
+				"content_text": "Tomorrow, our church starts [the abolition curriculum](https://www.mennoniteusa.org/abolition-curriculum-intro/). What does it mean to wrestle with this system of violence?\n\nIf you’re in the Indianapolis-area, feel free to join us. 🕊\n\n\n\n<img src=\"uploads/2022/3a64ef13d1.png\" width=\"600\" height=\"475\" alt=\"\" />\n",
+				"date_published": "2022-02-26T09:58:38-05:00",
+				"url": "https://blog.grotenhuis.info/2022/02/26/tomorrow-our-church.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/02/26/082143.html",
+				
+				"content_html": "<p>📑</p>\n\n<p><img src=\"uploads/2022/d56d31a1ea.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "📑\n\n<img src=\"uploads/2022/d56d31a1ea.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-02-26T08:21:43-05:00",
+				"url": "https://blog.grotenhuis.info/2022/02/26/082143.html",
+				"tags": ["micro posts","Quotes"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/02/25/remembering-that-time.html",
+				
+				"content_html": "<p>🎶 remembering that time I played <em>Tool - Ænima</em> on the radio station and got really good very quickly at working the mute button. 😆</p>\n",
+				"content_text": "🎶 remembering that time I played _Tool - Ænima_ on the radio station and got really good very quickly at working the mute button. 😆\n",
+				"date_published": "2022-02-25T16:46:31-05:00",
+				"url": "https://blog.grotenhuis.info/2022/02/25/remembering-that-time.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/02/24/link-war-puts.html",
+				
+				"content_html": "<p>🕊 <a href=\"https://werd.io/2022/10-things-i-learned-about-vc-from-russias-invasion-of\">link</a></p>\n\n<blockquote>\n<p>war puts ordinary peoples’ lives on the line in the name of political and financial dominance. It’s always an atrocity. That this, or any, conflict couldn’t be resolved without killing innocent people is a failure on every level: diplomatic, moral, human.</p>\n</blockquote>\n",
+				"content_text": "🕊 [link](https://werd.io/2022/10-things-i-learned-about-vc-from-russias-invasion-of)\n\n> war puts ordinary peoples’ lives on the line in the name of political and financial dominance. It’s always an atrocity. That this, or any, conflict couldn’t be resolved without killing innocent people is a failure on every level: diplomatic, moral, human.\n",
+				"date_published": "2022-02-24T11:51:57-05:00",
+				"url": "https://blog.grotenhuis.info/2022/02/24/link-war-puts.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/02/23/congrats-uswnt-on.html",
+				
+				"content_html": "<p>Congrats #USWNT on the #SheBelievesCup win! ⚽️</p>\n",
+				"content_text": "Congrats #USWNT on the #SheBelievesCup win! ⚽️\n",
+				"date_published": "2022-02-23T23:03:29-05:00",
+				"url": "https://blog.grotenhuis.info/2022/02/23/congrats-uswnt-on.html",
 				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/02/22/really-happy-for.html",
+				
+				"content_html": "<p>Really happy for Pulisic, today ⚽️</p>\n",
+				"content_text": "Really happy for Pulisic, today ⚽️\n",
+				"date_published": "2022-02-22T17:19:39-05:00",
+				"url": "https://blog.grotenhuis.info/2022/02/22/really-happy-for.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/02/22/loving-the-new.html",
+				
+				"content_html": "<p>📚 loving the <a href=\"https://bookshop.org/a/10222/9780830813506\">New Testament: First Nations Version</a> 🕊</p>\n",
+				"content_text": "📚 loving the [New Testament: First Nations Version](https://bookshop.org/a/10222/9780830813506) 🕊\n",
+				"date_published": "2022-02-22T12:56:26-05:00",
+				"url": "https://blog.grotenhuis.info/2022/02/22/loving-the-new.html",
+				"tags": ["Anabaptism","Books","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/02/19/id-like-a.html",
@@ -49,15 +148,6 @@
 				"content_text": "> \"When buying and selling are controlled by legislation, the first things to be bought and sold are legislators.\"\n\nP.J. O'Rourke, RIP\n",
 				"date_published": "2022-02-19T13:59:05-05:00",
 				"url": "https://blog.grotenhuis.info/2022/02/19/when-buying-and.html",
-				"tags": ["micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/02/19/somebody-found-a.html",
-				
-				"content_html": "<p>Somebody found a way to grab a feed of one&rsquo;s micro.blog timeline. Anybody remember where to grab that?</p>\n",
-				"content_text": "Somebody found a way to grab a feed of one's micro.blog timeline. Anybody remember where to grab that?\n",
-				"date_published": "2022-02-19T09:16:16-05:00",
-				"url": "https://blog.grotenhuis.info/2022/02/19/somebody-found-a.html",
 				"tags": ["micro posts"]
 			},
 			{
@@ -8663,6 +8753,15 @@
 				"date_published": "2018-01-04T11:48:36-05:00",
 				"url": "https://blog.grotenhuis.info/2018/01/04/hello-world.html",
 				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2017/02/26/im-so-glad.html",
+				
+				"content_html": "<p><p>I&rsquo;m so glad <a href=\"https://www.indymenno.org\">First Mennonite Church</a> has been working through <em>Letter from a Birmingham Jail</em>. It&rsquo;s been one of my favorite works for several years. Here&rsquo;s one of our readings from today:</p>\n<blockquote>\n<p>&ldquo;I have heard numerous southern religious leaders admonish their worshipers to comply with a desegregation decision because it is the law, but I have longed to hear white ministers declare: &lsquo;Follow this decree because integration is morally right and because the Negro is your brother.&rsquo; In the midst of blatant injustices inflicted upon the Negro, I have watched white churchmen stand on the sideline and mouth pious irrelevancies and sanctimonious trivialities. In the midst of a mighty struggle to rid our nation of racial and economic injustice, I have heard many ministers say: &lsquo;Those are social issues, with which the gospel has no real concern.&rsquo; And I have watched many churches commit themselves to a completely other worldly religion which makes a strange, un-Biblical distinction between body and soul, between the sacred and the secular.&rdquo;</p>\n</blockquote></p>\n",
+				"content_text": "<p>I'm so glad <a href=\"https://www.indymenno.org\">First Mennonite Church</a> has been working through <em>Letter from a Birmingham Jail</em>. It's been one of my favorite works for several years. Here's one of our readings from today:</p>\n<blockquote>\n<p>\"I have heard numerous southern religious leaders admonish their worshipers to comply with a desegregation decision because it is the law, but I have longed to hear white ministers declare: 'Follow this decree because integration is morally right and because the Negro is your brother.' In the midst of blatant injustices inflicted upon the Negro, I have watched white churchmen stand on the sideline and mouth pious irrelevancies and sanctimonious trivialities. In the midst of a mighty struggle to rid our nation of racial and economic injustice, I have heard many ministers say: 'Those are social issues, with which the gospel has no real concern.' And I have watched many churches commit themselves to a completely other worldly religion which makes a strange, un-Biblical distinction between body and soul, between the sacred and the secular.\"</p>\n</blockquote>\n",
+				"date_published": "2017-02-26T14:27:00-05:00",
+				"url": "https://blog.grotenhuis.info/2017/02/26/im-so-glad.html",
+				"tags": ["Anabaptism","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2017/02/04/buyer-at-halfprice.html",
