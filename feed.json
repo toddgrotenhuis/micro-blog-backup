@@ -7,13 +7,85 @@
 	"items": [
 		
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/03/14/til-if-you.html",
+				"id": "http://toddgrotenhuis.micro.blog/2022/03/23/finished-reading-anthem.html",
 				
-				"content_html": "<p>TIL: If you get a PM via activitypub/mastodon to your hosted micro.blog account, help@micro.blog will send it to you.</p>\n\n<p>I hadn&rsquo;t thought about how that would work, but there it is!</p>\n\n<p>I don&rsquo;t see a way to reply back, though. <a href=\"https://micro.blog/help\">@help</a></p>\n",
-				"content_text": "TIL: If you get a PM via activitypub/mastodon to your hosted micro.blog account, help@micro.blog will send it to you.\r\n\r\nI hadn't thought about how that would work, but there it is!\r\n\r\nI don't see a way to reply back, though. [@help](https://micro.blog/help)\n",
-				"date_published": "2022-03-14T22:33:20-04:00",
-				"url": "https://blog.grotenhuis.info/2022/03/14/til-if-you.html",
+				"content_html": "<p>📚 Finished Reading: <a href=\"https://bookshop.org/a/10222/9781538711514\">Anthem</a></p>\n\n<p><img src=\"uploads/2022/365696b9d3.jpg\" width=\"600\" height=\"437\" alt=\"\" /></p>\n\n<p>Enjoyed this thought-provoking book from the creator of some of the best TV shows (e.g. Legion, Fargo).</p>\n\n<p><em>Content Warning: all the things.</em></p>\n",
+				"content_text": "📚 Finished Reading: [Anthem](https://bookshop.org/a/10222/9781538711514)\n\n<img src=\"uploads/2022/365696b9d3.jpg\" width=\"600\" height=\"437\" alt=\"\" />\n\nEnjoyed this thought-provoking book from the creator of some of the best TV shows (e.g. Legion, Fargo).\n\n_Content Warning: all the things._\n",
+				"date_published": "2022-03-23T00:03:39-04:00",
+				"url": "https://blog.grotenhuis.info/2022/03/23/finished-reading-anthem.html",
+				"tags": ["Books","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/03/22/a-roguelite-ttprg.html",
+				
+				"content_html": "<p>🎲 A roguelite TTPRG where chargen is quick but meaningful, character loss or swap-out is common, and experience provides options or benefits to future characters.</p>\n\n<p>This probably exists already? Pointers welcome if so. If not, let’s make it.</p>\n",
+				"content_text": "🎲 A roguelite TTPRG where chargen is quick but meaningful, character loss or swap-out is common, and experience provides options or benefits to future characters.\n\nThis probably exists already? Pointers welcome if so. If not, let’s make it.\n",
+				"date_published": "2022-03-22T23:02:24-04:00",
+				"url": "https://blog.grotenhuis.info/2022/03/22/a-roguelite-ttprg.html",
+				"tags": ["Games","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/03/22/there-must-be.html",
+				
+				"content_html": "<p>🎶 There must be more music like Clubroot, but I haven’t found anything else that hits quite the same vibe. Suggestions?</p>\n",
+				"content_text": "🎶 There must be more music like Clubroot, but I haven’t found anything else that hits quite the same vibe. Suggestions?\n",
+				"date_published": "2022-03-22T22:34:35-04:00",
+				"url": "https://blog.grotenhuis.info/2022/03/22/there-must-be.html",
+				"tags": ["Music","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/03/21/is-there-blog.html",
+				
+				"content_html": "<p>Is there blog software that natively supports wiki-style links (even better: backlinks, too)?</p>\n",
+				"content_text": "Is there blog software that natively supports wiki-style links (even better: backlinks, too)?\n",
+				"date_published": "2022-03-21T22:11:48-04:00",
+				"url": "https://blog.grotenhuis.info/2022/03/21/is-there-blog.html",
 				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/03/20/what-is-up.html",
+				
+				"content_html": "<p>What is up with Star Trek Admirals?</p>\n\n<p>Most of the ones I’ve “met” (at least in TNG and DS9) aren’t worthy to even be captains.</p>\n",
+				"content_text": "What is up with Star Trek Admirals? \n\nMost of the ones I’ve “met” (at least in TNG and DS9) aren’t worthy to even be captains.\n",
+				"date_published": "2022-03-20T18:05:10-04:00",
+				"url": "https://blog.grotenhuis.info/2022/03/20/what-is-up.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/03/19/welp-indyten-again.html",
+				
+				"content_html": "<p>Welp, #IndyTen again. Not a hot start to the season. ⚽️ #IXI</p>\n",
+				"content_text": "Welp, #IndyTen again. Not a hot start to the season. ⚽️ #IXI\n",
+				"date_published": "2022-03-19T21:15:32-04:00",
+				"url": "https://blog.grotenhuis.info/2022/03/19/welp-indyten-again.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/03/17/muskrats-have-been.html",
+				
+				"content_html": "<p>Muskrats have been doing some serious bivalve dining 🔎</p>\n\n<p><img src=\"uploads/2022/ad30d5686b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Muskrats have been doing some serious bivalve dining 🔎\n\n<img src=\"uploads/2022/ad30d5686b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-17T18:14:20-04:00",
+				"url": "https://blog.grotenhuis.info/2022/03/17/muskrats-have-been.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/03/17/found-out-the.html",
+				
+				"content_html": "<p>Found out the reason our neighbor is cutting down over 20 trees in the flood plain is because&hellip;satellite internet.</p>\n\n<p>Elon strikes again. 🤬</p>\n",
+				"content_text": "Found out the reason our neighbor is cutting down over 20 trees in the flood plain is because...satellite internet.\r\n\r\nElon strikes again. 🤬\n",
+				"date_published": "2022-03-17T11:37:28-04:00",
+				"url": "https://blog.grotenhuis.info/2022/03/17/found-out-the.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/03/16/gotta-darken-this.html",
+				
+				"content_html": "<p>🔎 Gotta darken this up and then use it to release a symphonic folk black metal album. 🎶</p>\n\n<p><img src=\"uploads/2022/5a99866528.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🔎 Gotta darken this up and then use it to release a symphonic folk black metal album. 🎶\n\n<img src=\"uploads/2022/5a99866528.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-16T19:54:02-04:00",
+				"url": "https://blog.grotenhuis.info/2022/03/16/gotta-darken-this.html",
+				"tags": ["Humor","Music","micro posts","Asides"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/03/14/til-jason-khnen.html",
@@ -31,15 +103,6 @@
 				"content_text": "⚽️ #IndyTen in the first game of the season. Not a good look.\n",
 				"date_published": "2022-03-12T20:56:19-04:00",
 				"url": "https://blog.grotenhuis.info/2022/03/12/indyten-in-the.html",
-				"tags": ["Soccer","micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/03/12/bad-penalty-call.html",
-				
-				"content_html": "<p>Bad penalty call but good goalie so it works out 👍⚽️ #IXI</p>\n",
-				"content_text": "Bad penalty call but good goalie so it works out 👍⚽️ #IXI\n",
-				"date_published": "2022-03-12T20:43:10-04:00",
-				"url": "https://blog.grotenhuis.info/2022/03/12/bad-penalty-call.html",
 				"tags": ["Soccer","micro posts","Asides"]
 			},
 			{
@@ -81,8 +144,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/03/11/got-myself-a.html",
 				
-				"content_html": "<p>Got myself a treat 🛶</p>\n\n<p>Snowy day was a really weird day to pick it up.</p>\n\n<p>(<em>kayak seat not pictured</em>)</p>\n\n<p><img src=\"uploads/2022/025296146a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Got myself a treat 🛶 \n\nSnowy day was a really weird day to pick it up.\n\n(_kayak seat not pictured_)\n\n<img src=\"uploads/2022/025296146a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Got myself a treat 🛶</p>\n\n<p>Snowy day was a really weird day to pick it up.</p>\n\n<p>(<em>kayak seat not pictured</em>)</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/025296146a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Got myself a treat 🛶 \n\nSnowy day was a really weird day to pick it up.\n\n(_kayak seat not pictured_)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/025296146a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-11T19:19:22-04:00",
 				"url": "https://blog.grotenhuis.info/2022/03/11/got-myself-a.html",
 				"tags": ["micro posts","Asides"]
@@ -5112,8 +5175,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/09/06/now-reading-i.html",
 				
-				"content_html": "<p>📚 <a href=\"https://blog.grotenhuis.info/reading/\">Now Reading</a>: <em>I Am Not Your Enemy</em></p>\n<p><img src=\"uploads/2020/285284f47a.jpg\" alt=\"\" width=\"393\" height=\"600\" /></p>\n<p> </p>\n<p><em>Note: summary and highlights are published <a href=\"https://publish.obsidian.md/resilient/Public/Media/Books/I+Am+Not+Your+Enemy\">here</a></em></p>\n",
-				"content_text": "<p>📚 <a href=\"https://blog.grotenhuis.info/reading/\">Now Reading</a>: <em>I Am Not Your Enemy</em></p>\n<p><img src=\"uploads/2020/285284f47a.jpg\" alt=\"\" width=\"393\" height=\"600\" /></p>\n<p> </p>\n<p><em>Note: summary and highlights are published <a href=\"https://publish.obsidian.md/resilient/Public/Media/Books/I+Am+Not+Your+Enemy\">here</a></em></p>\n",
+				"content_html": "<p>📚 <a href=\"https://blog.grotenhuis.info/reading/\">Now Reading</a>: <em>I Am Not Your Enemy</em></p>\n<p><img src=\"https://blog.grotenhuis.info/uploads/2020/285284f47a.jpg\" alt=\"\" width=\"393\" height=\"600\" /></p>\n<p> </p>\n<p><em>Note: summary and highlights are published <a href=\"https://publish.obsidian.md/resilient/Public/Media/Books/I+Am+Not+Your+Enemy\">here</a></em></p>\n",
+				"content_text": "<p>📚 <a href=\"https://blog.grotenhuis.info/reading/\">Now Reading</a>: <em>I Am Not Your Enemy</em></p>\n<p><img src=\"https://blog.grotenhuis.info/uploads/2020/285284f47a.jpg\" alt=\"\" width=\"393\" height=\"600\" /></p>\n<p> </p>\n<p><em>Note: summary and highlights are published <a href=\"https://publish.obsidian.md/resilient/Public/Media/Books/I+Am+Not+Your+Enemy\">here</a></em></p>\n",
 				"date_published": "2020-09-06T09:20:28-04:00",
 				"url": "https://blog.grotenhuis.info/2020/09/06/now-reading-i.html",
 				"tags": ["Review","Books","micro posts","Asides"]
@@ -9014,6 +9077,15 @@
 				"date_published": "2016-09-29T16:32:00-04:00",
 				"url": "https://blog.grotenhuis.info/2016/09/29/thanks-to-my.html",
 				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2016/03/17/this-is-why.html",
+				
+				"content_html": "<p>This is why people don't often trust churches when they talk about \"community\"</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"permit only.jpg\" src=\"https://blog.grotenhuis.info/uploads/2022/e6d73b81ba.jpg\" alt=\"Permit only\" width=\"600\" height=\"405\" border=\"0\" /></p>\n",
+				"content_text": "<p>This is why people don't often trust churches when they talk about \"community\"</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"permit only.jpg\" src=\"https://blog.grotenhuis.info/uploads/2022/e6d73b81ba.jpg\" alt=\"Permit only\" width=\"600\" height=\"405\" border=\"0\" /></p>\n",
+				"date_published": "2016-03-17T10:14:00-04:00",
+				"url": "https://blog.grotenhuis.info/2016/03/17/this-is-why.html",
+				"tags": ["Anabaptism","micro posts","Asides"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/03/09/food-for-thought.html",
