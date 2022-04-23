@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/04/21/ginger-ice-cream.html",
+				
+				"content_html": "<p>Ginger ice cream and blueberry ice cream 🍨. Both were fantastic and have never had the former, before. Vacation win!</p>\n",
+				"content_text": "Ginger ice cream and blueberry ice cream 🍨. Both were fantastic and have never had the former, before. Vacation win!\n",
+				"date_published": "2022-04-21T13:32:35-04:00",
+				"url": "https://blog.grotenhuis.info/2022/04/21/ginger-ice-cream.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/04/19/just-got-a.html",
+				
+				"content_html": "<p>Just got a nitro cold brew and they kept “helping” me by scooping the creamy parts out and letting it settle. ☕️</p>\n",
+				"content_text": "Just got a nitro cold brew and they kept “helping” me by scooping the creamy parts out and letting it settle. ☕️\n",
+				"date_published": "2022-04-19T16:13:33-04:00",
+				"url": "https://blog.grotenhuis.info/2022/04/19/just-got-a.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/04/18/its-not-hotlanta.html",
+				
+				"content_html": "<p>It’s not “Hotlanta”, it’s “A’lanta” or sometimes even “A’lan’a”.</p>\n",
+				"content_text": "It’s not “Hotlanta”, it’s “A’lanta” or sometimes even “A’lan’a”.\n",
+				"date_published": "2022-04-18T08:49:20-04:00",
+				"url": "https://blog.grotenhuis.info/2022/04/18/its-not-hotlanta.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/04/17/i-like-turtles.html",
+				
+				"content_html": "<p>“I like turtles” 🔎</p>\n\n<p><img src=\"uploads/2022/64b2978b7b.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "“I like turtles” 🔎\n\n<img src=\"uploads/2022/64b2978b7b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2022-04-17T14:14:47-04:00",
+				"url": "https://blog.grotenhuis.info/2022/04/17/i-like-turtles.html",
+				"tags": ["micro posts","Asides","Sightings"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/04/17/sunday-quote-three.html",
+				
+				"content_html": "<p>📑 Sunday Quote, three versions:</p>\n\n<p><img src=\"uploads/2022/b91679e963.png\" width=\"600\" height=\"337\" alt=\"\" /><img src=\"uploads/2022/e17886e9c6.png\" width=\"600\" height=\"337\" alt=\"\" /><img src=\"uploads/2022/7af5cc7f93.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "📑 Sunday Quote, three versions:\n\n<img src=\"uploads/2022/b91679e963.png\" width=\"600\" height=\"337\" alt=\"\" /><img src=\"uploads/2022/e17886e9c6.png\" width=\"600\" height=\"337\" alt=\"\" /><img src=\"uploads/2022/7af5cc7f93.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-04-17T10:35:55-04:00",
+				"url": "https://blog.grotenhuis.info/2022/04/17/sunday-quote-three.html",
+				"tags": ["Sunday Quotes","micro posts","Quotes","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/04/17/he-has-been.html",
+				
+				"content_html": "<p>He has been raised! 🕊</p>\n",
+				"content_text": "He has been raised! 🕊\n",
+				"date_published": "2022-04-17T08:46:23-04:00",
+				"url": "https://blog.grotenhuis.info/2022/04/17/he-has-been.html",
+				"tags": ["Anabaptism","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/04/16/ok-so-who.html",
+				
+				"content_html": "<p>Ok, so who wants to make Obsidian Micro.blog publish?</p>\n\n<p><a href=\"https://github.com/jaynguyens/obsidian-ghost-publish\">GitHub - jaynguyens/obsidian-ghost-publish: Write on Obsidian. Publish to Ghost with a single click.</a></p>\n",
+				"content_text": "Ok, so who wants to make Obsidian Micro.blog publish?\n\n[GitHub - jaynguyens/obsidian-ghost-publish: Write on Obsidian. Publish to Ghost with a single click.](https://github.com/jaynguyens/obsidian-ghost-publish)\n",
+				"date_published": "2022-04-16T19:22:41-04:00",
+				"url": "https://blog.grotenhuis.info/2022/04/16/ok-so-who.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/04/14/new-readwise-record.html",
 				
 				"content_html": "<p>New <a href=\"https://blog.grotenhuis.info/2022/04/09/being-wise-with.html\">Readwise</a> record. 📚</p>\n\n<p><img src=\"uploads/2022/e1da614f36.png\" width=\"600\" height=\"322\" alt=\"\" /></p>\n",
@@ -14,15 +77,6 @@
 				"date_published": "2022-04-14T07:53:45-04:00",
 				"url": "https://blog.grotenhuis.info/2022/04/14/new-readwise-record.html",
 				"tags": ["Books","micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/04/13/how-to-pronounce.html",
-				"title": "How to pronounce ”Grotenhuis” like an Amsterdamian:",
-				"content_html": "<p>From 4 years ago, when we were in Amsterdam:</p>\n\n<ul>\n<li>The “g” is a little bit of ”g” and “h”</li>\n<li>The “r” is hard and has a single roll</li>\n<li>The “huis” is a little bit of “hice” and “haus”</li>\n<li>The “s” is a little bit of ”s” and “sh”</li>\n</ul>\n\n<p>It comes out something like “Ghrohtenhaiysh”</p>\n\n<p><em>note: we heard <strong>many</strong> different pronounciations. We expect regional differences.</em></p>\n",
-				"content_text": "From 4 years ago, when we were in Amsterdam:\r\n\r\n* The “g” is a little bit of ”g” and “h”\r\n* The “r” is hard and has a single roll\r\n* The “huis” is a little bit of “hice” and “haus”\r\n* The “s” is a little bit of ”s” and “sh”\r\n\r\nIt comes out something like “Ghrohtenhaiysh”\r\n\r\n_note: we heard **many** different pronounciations. We expect regional differences._\n",
-				"date_published": "2022-04-13T09:09:57-04:00",
-				"url": "https://blog.grotenhuis.info/2022/04/13/how-to-pronounce.html",
-				"tags": ["full posts","Featured"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/04/10/good-morning.html",
@@ -9167,6 +9221,24 @@
 				"date_published": "2018-09-26T19:57:48-04:00",
 				"url": "https://blog.grotenhuis.info/2018/09/26/ixi-vs-tampa.html",
 				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2018/04/17/epyc-with-my.html",
+				
+				"content_html": "<p>EPYC with my spouse and a couple friends</p>\n<p><img title=\"epyc.jpeg\" src=\"https://blog.grotenhuis.info/uploads/2022/643ebca663.jpg\" alt=\"Epyc\" width=\"599\" height=\"406\" border=\"0\" /></p>\n",
+				"content_text": "<p>EPYC with my spouse and a couple friends</p>\n<p><img title=\"epyc.jpeg\" src=\"https://blog.grotenhuis.info/uploads/2022/643ebca663.jpg\" alt=\"Epyc\" width=\"599\" height=\"406\" border=\"0\" /></p>\n",
+				"date_published": "2018-04-17T17:13:00-04:00",
+				"url": "https://blog.grotenhuis.info/2018/04/17/epyc-with-my.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/04/13/how-to-pronounce.html",
+				"title": "How to pronounce ”Grotenhuis” like an Amsterdamian:",
+				"content_html": "<p><ul>\n<li>The “g” is a little bit of ”g” and “h”</li>\n<li>The “r” is hard and has a single roll</li>\n<li>The “huis” is a little bit of “hice” and “haus”</li>\n<li>The “s” is a little bit of ”s” and “sh”</li>\n</ul>\n<p>It comes out something like “Ghrohtenhaiysh”</p>\n<p><em>note: we heard <strong>many</strong> different pronounciations. We expect regional differences.</em></p></p>\n",
+				"content_text": "<ul>\n<li>The “g” is a little bit of ”g” and “h”</li>\n<li>The “r” is hard and has a single roll</li>\n<li>The “huis” is a little bit of “hice” and “haus”</li>\n<li>The “s” is a little bit of ”s” and “sh”</li>\n</ul>\n<p>It comes out something like “Ghrohtenhaiysh”</p>\n<p><em>note: we heard <strong>many</strong> different pronounciations. We expect regional differences.</em></p>\n",
+				"date_published": "2018-04-13T09:09:00-04:00",
+				"url": "https://blog.grotenhuis.info/2022/04/13/how-to-pronounce.html",
+				"tags": ["Humor","full posts","Featured"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2018/03/12/awesome-gift-list.html",
