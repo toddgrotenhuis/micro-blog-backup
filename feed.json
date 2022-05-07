@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/07/day-park.html",
+				
+				"content_html": "<p>Day 7: <strong>park</strong></p>\n\n<p><img src=\"uploads/2022/409fd79986.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "Day 7: **park**\n\n<img src=\"uploads/2022/409fd79986.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-05-07T07:32:07-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/07/day-park.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/05/day-earth.html",
+				
+				"content_html": "<p>Day 5: <strong>Earth</strong></p>\n\n<p><img src=\"uploads/2022/1d362a818e.jpg\" width=\"600\" height=\"336\" alt=\"\" /></p>\n\n<p><a href=\"https://publish.obsidian.md/resilient/Readwise/Articles/How+Governments+Spurred+the+Rise+of+Solar+Power\">source</a></p>\n",
+				"content_text": "Day 5: **Earth**\n\n\n<img src=\"uploads/2022/1d362a818e.jpg\" width=\"600\" height=\"336\" alt=\"\" />\n\n[source](https://publish.obsidian.md/resilient/Readwise/Articles/How+Governments+Spurred+the+Rise+of+Solar+Power)\n",
+				"date_published": "2022-05-05T07:08:11-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/05/day-earth.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/04/my-mom-got.html",
+				
+				"content_html": "<p>My mom got the call. Insurance has settled with the joyrider who killed my father. Feels disgusting that he&rsquo;s getting 1.5 million out of it, but it could have been worse.</p>\n\n<p>At least it&rsquo;s over.</p>\n",
+				"content_text": "My mom got the call. Insurance has settled with the joyrider who killed my father. Feels disgusting that he's getting 1.5 million out of it, but it could have been worse.\r\n\r\nAt least it's over.\n",
+				"date_published": "2022-05-04T16:26:22-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/04/my-mom-got.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/03/ok-but-those.html",
+				
+				"content_html": "<p>ok but those two guys on the right look pretty similar 🎶😆</p>\n\n<p><img src=\"uploads/2022/1b5b2d67c0.png\" width=\"600\" height=\"338\" alt=\"\" /></p>\n",
+				"content_text": "ok but those two guys on the right look pretty similar 🎶😆\n\n<img src=\"uploads/2022/1b5b2d67c0.png\" width=\"600\" height=\"338\" alt=\"\" />\n",
+				"date_published": "2022-05-03T21:40:18-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/03/ok-but-those.html",
+				"tags": ["Music","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/02/lunch-spot-won.html",
+				
+				"content_html": "<p>Lunch spot won the jackpot with today’s fizz option.</p>\n\n<p><img src=\"uploads/2022/ba3524e254.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Lunch spot won the jackpot with today’s fizz option.\n\n<img src=\"uploads/2022/ba3524e254.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-02T12:32:34-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/02/lunch-spot-won.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/02/day-photo-source.html",
+				
+				"content_html": "<p>Day 2: <strong>Photo</strong></p>\n\n<p><img src=\"uploads/2022/22a1dfbc96.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n\n<p><a href=\"https://publish.obsidian.md/resilient/Readwise/Books/Technopoly\">source</a></p>\n",
+				"content_text": "Day 2: **Photo**\n\n<img src=\"uploads/2022/22a1dfbc96.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n\n[source](https://publish.obsidian.md/resilient/Readwise/Books/Technopoly)\n",
+				"date_published": "2022-05-02T07:18:16-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/02/day-photo-source.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/01/day-switch.html",
+				
+				"content_html": "<p>📑 Day 1: Switch</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/33cdc01835.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "📑 Day 1: Switch\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/33cdc01835.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-05-01T15:59:48-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/01/day-switch.html",
+				"tags": ["micro posts","Quotes","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/01/salsa-is-a.html",
+				
+				"content_html": "<p>Salsa is a fruit salad</p>\n",
+				"content_text": "Salsa is a fruit salad\n",
+				"date_published": "2022-05-01T10:07:54-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/01/salsa-is-a.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/01/sunday-quote.html",
+				
+				"content_html": "<p>📑 Sunday Quote</p>\n\n<p><img src=\"uploads/2022/f29068a66c.jpg\" width=\"600\" height=\"336\" alt=\"\" /></p>\n\n<p><a href=\"https://bookshop.org/a/10222/9781551526430\">source</a></p>\n",
+				"content_text": "📑 Sunday Quote\n\n<img src=\"uploads/2022/f29068a66c.jpg\" width=\"600\" height=\"336\" alt=\"\" />\n\n[source](https://bookshop.org/a/10222/9781551526430)\n",
+				"date_published": "2022-05-01T07:32:00-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/01/sunday-quote.html",
+				"tags": ["Sunday Quotes","micro posts","Quotes","Asides"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/04/28/alan-jacobs-with.html",
 				
 				"content_html": "<p>Alan Jacobs <a href=\"https://blog.ayjay.org/a-bit-of-advice/\">with some great advice for those checking out @microdotblog</a>.</p>\n\n<blockquote>\n<p>&ldquo;you have absolutely no incentive to flex, shitpost, self-promote, or troll. You’re there to post interesting things and/or chat with people. Nothing else makes sense. And that’s why it’s great.&rdquo;</p>\n</blockquote>\n",
@@ -40,7 +121,7 @@
 				"content_text": "🎲 Working on a game that's part _Dark Sun_ and part _Mothership_ and should be able to steal from adventures for both. Best idea or worst idea?\n",
 				"date_published": "2022-04-27T20:45:56-04:00",
 				"url": "https://blog.grotenhuis.info/2022/04/27/working-on-a.html",
-				"tags": ["Games","micro posts","Asides"]
+				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/04/26/watched-the-woman.html",
@@ -54,8 +135,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/04/25/siku-would-very.html",
 				
-				"content_html": "<p>Siku would very much like some goose eggs 🐾🔎</p>\n\n<p><img src=\"uploads/2022/b06208929d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Siku would very much like some goose eggs 🐾🔎\n\n<img src=\"uploads/2022/b06208929d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Siku would very much like some goose eggs 🐾🔎</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/b06208929d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Siku would very much like some goose eggs 🐾🔎\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/b06208929d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-25T15:12:00-04:00",
 				"url": "https://blog.grotenhuis.info/2022/04/25/siku-would-very.html",
 				"tags": ["micro posts","Dogs","Asides","Sightings"]
@@ -67,15 +148,6 @@
 				"content_text": "My re- #introduction - [Todd Grotenhuis - About](https://blog.grotenhuis.info/about/)\n",
 				"date_published": "2022-04-25T13:34:00-04:00",
 				"url": "https://blog.grotenhuis.info/2022/04/25/my-re-introduction.html",
-				"tags": ["micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/04/24/how-do-you.html",
-				
-				"content_html": "<p>How do you manage micro.blog pages (not posts) in Ulysses? <a href=\"https://micro.blog/help\">@help</a></p>\n",
-				"content_text": "How do you manage micro.blog pages (not posts) in Ulysses? [@help](https://micro.blog/help)\n",
-				"date_published": "2022-04-24T21:36:13-04:00",
-				"url": "https://blog.grotenhuis.info/2022/04/24/how-do-you.html",
 				"tags": ["micro posts","Asides"]
 			},
 			{
@@ -400,7 +472,7 @@
 				"content_text": "🎲 A roguelite TTPRG where chargen is quick but meaningful, character loss or swap-out is common, and experience provides options or benefits to future characters.\n\nThis probably exists already? Pointers welcome if so. If not, let’s make it.\n",
 				"date_published": "2022-03-22T23:02:24-04:00",
 				"url": "https://blog.grotenhuis.info/2022/03/22/a-roguelite-ttprg.html",
-				"tags": ["Games","micro posts","Asides"]
+				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/03/22/there-must-be.html",
@@ -832,7 +904,7 @@
 				"content_text": "🎲 Updated 🔥☸️ stack\n\n_Not pictured, Mouse Guard and 1st and 2nd ed. Torchbearer_\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/67ffe1dc3d.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-12T17:32:51-04:00",
 				"url": "https://blog.grotenhuis.info/2022/02/12/updated-stack-not.html",
-				"tags": ["Games","micro posts","Asides"]
+				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/02/12/the-world-is.html",
@@ -850,7 +922,7 @@
 				"content_text": "A couple of my friends are launching a crowdfunded game, soon:\n\n🎲 [The Real Thing RPG](https://www.kickstarter.com/projects/jasonward/the-real-thing-rpg) an official Faith No More 🎶 PbtA game.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/a6f99cd1c5.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-02-12T10:28:18-04:00",
 				"url": "https://blog.grotenhuis.info/2022/02/12/a-couple-of.html",
-				"tags": ["Games","Music","micro posts","Asides"]
+				"tags": ["Games","Music","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/02/12/til-pshaum.html",
@@ -985,7 +1057,7 @@
 				"content_text": "🎲\n\n1. First RPG you played: WEG Star Wars\n2. Last RPG you played: Blades in the Dark \n3. RPG you played most often: Burning Wheel\n4. RPG you recommend: Dominion Rules is a hidden open source gem\n#ttrpg #ttrpgs\n\nH/T [@rafial@hackers.town](https://micro.blog/rafial@hackers.town) \n",
 				"date_published": "2022-01-31T10:54:31-04:00",
 				"url": "https://blog.grotenhuis.info/2022/01/31/first-rpg-you.html",
-				"tags": ["Games","micro posts","Asides"]
+				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/01/30/not-the-ending.html",
@@ -1723,7 +1795,7 @@
 				"content_text": "🎲 I want a role-playing game where [Dixit](https://www.libellud.com/dixit/?lang=en) cards are the spells.\n",
 				"date_published": "2021-11-25T16:23:09-04:00",
 				"url": "https://blog.grotenhuis.info/2021/11/25/i-want-a.html",
-				"tags": ["Games","micro posts","Asides"]
+				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/11/24/just-found-out.html",
@@ -1741,7 +1813,7 @@
 				"content_text": "🎲 First official RPG credits and the collection is gorgeous!\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/87c8dc8f40.jpg\" width=\"446\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-23T21:10:41-04:00",
 				"url": "https://blog.grotenhuis.info/2021/11/23/first-official-rpg.html",
-				"tags": ["Games","micro posts","Asides"]
+				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/11/23/torchbearer-nd-ed.html",
@@ -1750,7 +1822,7 @@
 				"content_text": "🎲 Torchbearer 2nd ed. set showed up, but won’t have a chance to look at it til tomorrow. Ob 4 Will test.\n",
 				"date_published": "2021-11-23T15:49:21-04:00",
 				"url": "https://blog.grotenhuis.info/2021/11/23/torchbearer-nd-ed.html",
-				"tags": ["Games","micro posts","Asides"]
+				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/11/21/sunday-quote-may.html",
@@ -1894,7 +1966,7 @@
 				"content_text": "🎲 Played D&D and didn’t roll the dice once.\n\nDoing it wrong?\n\nor\n\nDoing it very right?\n",
 				"date_published": "2021-11-09T23:41:59-04:00",
 				"url": "https://blog.grotenhuis.info/2021/11/09/played-dd-and.html",
-				"tags": ["Games","micro posts","Asides"]
+				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/11/08/todays-stew-can.html",
@@ -2308,7 +2380,7 @@
 				"content_text": "🎲 Took a break from GMing our long-running Burning Wheel setting, and we're doing a little #DND5E\n\nI'm playing a hobbitses merchant who accidentally made a deal with a fey. (Warlock) Gonna be pretty fun.\n",
 				"date_published": "2021-09-22T09:18:14-04:00",
 				"url": "https://blog.grotenhuis.info/2021/09/22/took-a-break.html",
-				"tags": ["Games","micro posts","Asides"]
+				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/09/19/sunday-quote.html",
@@ -2416,7 +2488,7 @@
 				"content_text": "🎲 [online or in-person for games](https://takeonrules.com/2021/09/02/do-i-now-favor-online-over-face-to-face/) asks Jeremy.\n\nI love the convenience of online, and the tools have become very good. It's amazing as a GM. \n\nAs a player, I find it can be distracting, as other things are constantly trying to grab my attention. At the table, I can put my phone away. It's a little more complicated online, but I've developed steps to limit distractions when playing that way.\n",
 				"date_published": "2021-09-02T08:31:31-04:00",
 				"url": "https://blog.grotenhuis.info/2021/09/02/online-or-inperson.html",
-				"tags": ["Games","micro posts","Asides"]
+				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/08/31/i-got-to.html",
@@ -2488,7 +2560,7 @@
 				"content_text": "🎲 Enjoyed a game night with some folks from church.\n\nTotally unplanned, but also perfectly appropriate for Mennonites, we ended up mostly playing collaborative games and Dutch Blitz.\n\n* [Ghost Fightin’ Treasure Hunters](https://boardgamegeek.com/boardgame/146312/ghost-fightin-treasure-hunters) - light game, great with kids, excellent production/pieces/art\n* [Castle Panic](https://boardgamegeek.com/boardgame/43443/castle-panic) - it’s tower defense: the board game\n* [Dutch Blitz](https://boardgamegeek.com/boardgame/148203/dutch-blitz) - a staple among many Mennonite families, hailing from back when regular playing cards were not permitted\n* [Sushi Go!](https://boardgamegeek.com/boardgame/133473/sushi-go) - I hadn’t played this in many years, but came back from last place 2nd round to win 3rd due to some strategic pudding reserves\n* [Shipwreck Arcana](https://boardgamegeek.com/boardgame/220517/shipwreck-arcana) - I love love love this game for the deductive gameplay, intriguing art, cooperative play, and small game size\n \n",
 				"date_published": "2021-08-25T23:17:41-04:00",
 				"url": "https://blog.grotenhuis.info/2021/08/25/enjoyed-a-game.html",
-				"tags": ["Games","micro posts","Asides"]
+				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/08/25/sprinklers-on-a.html",
@@ -2929,7 +3001,7 @@
 				"content_text": "Nice to pick up a book with contributions from a number of people I’ve met. 🎲📚\n\n<img src=\"https://blog.grotenhuis.info/uploads/2021/af8529a3b8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-03T09:22:53-04:00",
 				"url": "https://blog.grotenhuis.info/2021/07/03/nice-to-pick.html",
-				"tags": ["Games","Books","micro posts","Asides"]
+				"tags": ["Games","Books","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/07/02/lot-of-great.html",
@@ -3208,7 +3280,7 @@
 				"content_text": "🎲\n[Paper App Dungeon is too easy to grind](https://www.gladden.design/files/Paper-Apps-DUNGEON-Guide.pdf). You can just keep carefully moving and backtracking to avoid the bad stuff and hit the good stuff.\n\nSuggestion: -1 HP anytime you cross over a path you've already trod, as your character experiences exhaustion.\n\nWhat rules have you changed?\n",
 				"date_published": "2021-05-04T16:20:00-04:00",
 				"url": "https://blog.grotenhuis.info/2021/05/04/paper-app-dungeon.html",
-				"tags": ["Games","micro posts","Asides"]
+				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/05/02/sunday-quote-and.html",
@@ -3676,7 +3748,7 @@
 				"content_text": "🎲 Great writeup of my favorite game system(s): [Burning Wheel](https://www.indiegamereadingclub.com/indie-game-reading-club/burning-wheel-back-in-the-saddle/) 🔥☸️\r\n\r\nSummarizing:\r\n\r\n* pioneer in transparency, character goals, \"say yes\", \"let it ride\", and \"use-based improvement\"\r\n* emergent story, character, & setting complexity\r\n* unique, character-driven play\r\n* minigames\r\n* rewards mastery\n",
 				"date_published": "2021-02-11T09:14:15-04:00",
 				"url": "https://blog.grotenhuis.info/2021/02/11/great-writeup-of.html",
-				"tags": ["Games","Review","micro posts","Asides"]
+				"tags": ["Games","Review","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/02/10/james-clear-came.html",
@@ -4225,7 +4297,7 @@
 				"content_text": "_To view other 2020 review posts, visit the [main post here](https://blog.grotenhuis.info/2020/12/29/review.html)._\n\n---\n\nAs you may already know, I enjoy [games](https://blog.grotenhuis.info/categories/games/). Especially ones with a social element, or where we get to create some sort of emergent story together. In the year of the pandemic, a lot of traditional card and board games were harder to play (unless you took them digital or used tabletop simulation software).\n\n### Pandemic Gaming\n\nFor a handful of pandemic get-togethers, we played some [Jackbox Party Pack](https://www.jackboxgames.com/party-pack/) games over [Discord](https://discordapp.com). Ones I particularly enjoyed include:\n\n* [Bidiots](https://www.jackboxgames.com/bidiots/): where you create \"fine art\" and then bid on art at auction\n* [Push the Button](https://www.jackboxgames.com/party-pack-six/): where you have to figure out who the aliens are on the ship\n\nOn that note, [Among Us](https://among-us.io/) became another hit this year, with not too dissimilar play. I played this with some groups online, as well.\n\nAt home, we played some classic Hand & Foot, a rummy-like game where you have two hands (a _hand_ and a _foot_, get it?). I'd link to rules, but like many of these classic card games, it seems like every family has their own version, and ours doesn't match the varieties I've seen online.\n\n### Role-Playing Games\n\nOn the role-playing games front, I played a variety of things this year, as online games continued to work well. We typically play online with just a video conferencing tool and then [Rolz](https://rolz.org/) for our chat & rolling.\n\nMy local game participated in a playtest for [Torchbearer 2nd Edition](https://www.kickstarter.com/projects/burningwheel/torchbearer-2nd-edition/). Torchbearer and [Mouse Guard](http://www.mouseguard.net/book/role-playing-game/) are a tight version of the [Burning Wheel](https://www.burningwheel.com) engine. I had not played very much of Torchbearer 1st edition, because our group is often playing different kinds of adventures than what it was best suited for. But 2nd edition is honing many things and introducing tools to facilitate more types of playstyles. I'm very excited about what [Luke](https://twitter.com/burning_luke) & [Thor](https://twitter.com/Mimir9) have created and am looking forward to this release. (Watch for our names in the credits!)\n\nWhen the playtest was over, we took our setting ([Mauragaaqtuq](https://sites.google.com/view/mauragaaqtuq-new/the-story/characters)) back to core [Burning Wheel](https://www.burningwheel.com), starting our 4th game in the setting (the 4 being: a long BW campaign, a one-shot LARP, the TB playtest campaign, and now another BW campaign). I'm really impressed by the richness that the players (aided by system components such as Wises, Circles, and Beliefs) have added to the setting. We just started Season 2 of [Mauragaaqtuq: Murder of Crows](https://forums.burningwheel.com/t/mauragaaqtuq-murder-of-crows-season-2/23623/3).\n\nMy already-online game group with friends from Puerto Rico and Chicago (which also got our start years ago, playing Burning Wheel in the Wheel of Time setting....yes, of course we called it \"Burning Wheel of Time\") has tried a few things this year.\n\nFirst, we had a game set in [Shadows of Esteren](https://portal.esteren.org/en) but using the [Blood & Bone](https://www.arcana-games.com/bloodandbone) system. This was tough, as we were trying to simplify and not do a lot of homework, but it was tough to do in practice. The game engine took a lot of nods from things that worked in other games, but IMO failed to deliver them as a cohesive set.\n\nNext, we went on to playing a fantasy-historical game set in a mythic version of Tyre. We used the hidden gem of a game engine [Dominion Rules](http://dominionrules.org/), with some added house rules. This is my favorite open source game, and still feel like it has a lot of potential many years after its release. Alas, this did not last as there was some COVID burnout.\n\nNow, we are on to something new...err old. We're using [Palladium](https://palladium-store.com/1001/category/Palladium-Fantasy-RPG.html) 1st edition and engaging classic dungeon-delving in a published module. Palladium Fantasy is new to me (though I've done a little [Rifting](https://palladium-store.com/1001/Rifts-Categories.html) back in the day), and I'm not big on the \"old school\" nostalgia (partially because \"old school\" for me isn't Palladium and original D&D but West End Games' [Star Wars](https://en.wikipedia.org/wiki/Star_Wars%3A_The_Roleplaying_Game), and partially because the \"scene\" is rife with miscreants and vice-signalling), but I'm having fun because the group is fun and I'm leaning into the randomness and weirdness of the setting and system.\n\nOver break, I got to play the [Labyrinth Adventure Game](https://riverhorse.eu/jim-hensons-labyrinth-the-adventure-game/) with my niece and nephew, and this was a blast. It's a beautifully produced product with a simple system & great scenes that offer a lot of replayability for zany adventures to get back things stolen by the Goblin King. In contrast to many RPGs, there is plenty of excitement and adventure without having to focus on fighting.\n\nAs for live action games (or LARPs), those were mostly cancelled this year (and for good reason), but some communities continued to get together in chat and audio events. I played in a handful of these events on Discord, with my [One World by Night](http://www.owbn.net/) main character, but obviously it is not the same.\n\n### Video Games\n\nI tend to play non-twitchy open world-type games. This is both so that I can listen to podcasts or audiobooks while I play, and because I don't need the adrenaline from twitchy games. (I get enough of that working in cybersecurity, TYVM.)\n\nAs in years past, most of my video game time was spent in the Bethesdaverse (e.g. [Elder Scrolls](https://elderscrolls.bethesda.net/) and [Fallout](https://fallout.bethesda.net/) games, particularly, the \"online\" varieties this year) and the [Borderlands](https://borderlands.com/) franchise. I'm mostly on [Elder Scrolls Online](https://www.elderscrollsonline.com/) recently (add me for Mac/PC/Stadia: @groten), as I've got some family and friends who are playing, too.\n\nI played some [Disgaea](http://www.disgaea.us/) as well, and though I love this game, the menus and repetitive motion mean that I can't play very much at a time without sore hands/wrists, so I end up quitting before getting through the postgame fun. I hope they will come up with some improvements on that for future games.\n\n---\n\nWhat did you play this year? Any recommendations?\n",
 				"date_published": "2020-12-30T12:44:00-04:00",
 				"url": "https://blog.grotenhuis.info/2020/12/30/114407.html",
-				"tags": ["Games","Review","full posts","Featured"]
+				"tags": ["Games","Review","full posts","Featured","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/12/29/fifth-day-of.html",
@@ -4270,7 +4342,7 @@
 				"content_text": "As has become my tradition, I'm spending the week around year-end reflecting each day. We grow most rapidly when we lean into and learn from challenges, and 2020 was certainly a year of many challenges.\n\nWhile many of my reflections are private material, I will share reflections and recommendations in the following categories:\n\n* [📺 & 🎥](https://blog.grotenhuis.info/2020/12/29/142837.html)\n* [🃏, 🎲, & 🕹](https://blog.grotenhuis.info/2020/12/30/114407.html)\n* [comics](https://blog.grotenhuis.info/2020/12/30/comic-review.html)\n* [news & magazines](https://blog.grotenhuis.info/2020/12/31/news-magazines-review.html)\n* [feeds & newsletters](https://blog.grotenhuis.info/2020/12/31/feeds-newsletters-review.html)\n* [🎙](https://blog.grotenhuis.info/2021/01/01/review.html)\n* [projects](https://blog.grotenhuis.info/2021/01/01/project-review.html)\n* [fiction 📚](https://blog.grotenhuis.info/2021/01/02/fiction-review.html)\n* [nonfiction 📚](https://blog.grotenhuis.info/2021/01/02/nonfiction-review.html)\n* [🎶](https://blog.grotenhuis.info/2021/01/03/review.html)\n",
 				"date_published": "2020-12-29T12:13:00-04:00",
 				"url": "https://blog.grotenhuis.info/2020/12/29/review.html",
-				"tags": ["Games","Books","Music","full posts","Featured"]
+				"tags": ["Games","Books","Music","full posts","Featured","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/12/28/fourth-day-of.html",
@@ -7069,7 +7141,7 @@
 				"content_text": "Field Notes made a [D&D 5E Character Journal](https://fieldnotesbrand.com/products/5e-character-journal). 🎲\n\n<img src=\"https://blog.grotenhuis.info/uploads/2020/bfa458341a.jpg\" width=\"600\" height=\"319\" alt=\"\" />\n",
 				"date_published": "2020-02-14T11:55:00-04:00",
 				"url": "https://blog.grotenhuis.info/2020/02/14/field-notes-made.html",
-				"tags": ["Games","micro posts","Asides"]
+				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/02/13/another-great-decisionmaking.html",
