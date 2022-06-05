@@ -7,20 +7,191 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/05/bump.html",
+				
+				"content_html": "<p>Bump 🐦</p>\n\n<p><img src=\"uploads/2022/6d47f7a634.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Bump 🐦\n\n<img src=\"uploads/2022/6d47f7a634.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-06-05T09:22:16-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/05/bump.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/05/sunday-quote.html",
+				
+				"content_html": "<p>📑 Sunday Quote</p>\n\n<p><img src=\"uploads/2022/c802efe8ad.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "📑 Sunday Quote\n\n<img src=\"uploads/2022/c802efe8ad.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-06-05T09:12:32-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/05/sunday-quote.html",
+				"tags": ["Sunday Quotes","micro posts","Quotes","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/04/these-are-fascinating.html",
+				
+				"content_html": "<p>These are fascinating: <a href=\"https://www.theguardian.com/cities/2018/jun/21/spite-buildings-when-human-grudges-get-architectural-in-pictures\">Spite Houses</a></p>\n",
+				"content_text": "These are fascinating: [Spite Houses](https://www.theguardian.com/cities/2018/jun/21/spite-buildings-when-human-grudges-get-architectural-in-pictures)\n",
+				"date_published": "2022-06-04T21:58:07-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/04/these-are-fascinating.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/04/somebody-on-microblog.html",
+				
+				"content_html": "<p>Somebody on micro.blog recently mentioned a notes app that can be set to automatically delete notes that reach a certain age of non-use. I can&rsquo;t find it, now. Any leads? 🖋✏️🗒</p>\n\n<p><em>update: found it in @jean&rsquo;s note-taking roll-call thread. <a href=\"https://minimal.app\">minimal.app</a></em></p>\n",
+				"content_text": "Somebody on micro.blog recently mentioned a notes app that can be set to automatically delete notes that reach a certain age of non-use. I can't find it, now. Any leads? 🖋✏️🗒\n\n*update: found it in @jean's note-taking roll-call thread. [minimal.app](https://minimal.app)*\n",
+				"date_published": "2022-06-04T20:35:38-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/04/somebody-on-microblog.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/04/arteaga-is-back.html",
+				
+				"content_html": "<p>Arteaga is back! ⚽️ #IXI</p>\n",
+				"content_text": "Arteaga is back! ⚽️ #IXI\n",
+				"date_published": "2022-06-04T19:35:19-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/04/arteaga-is-back.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/03/my-favorite-thing.html",
+				
+				"content_html": "<p>🎶 my favorite thing to do in PlexAmp:</p>\n\n<ol>\n<li>Play from the &ldquo;fresh ❤️&rdquo; list, which I&rsquo;ve tuned to ⭐️⭐️⭐️⭐️⭐️ songs that I haven&rsquo;t listened to in 3 months.</li>\n<li>Jam the &ldquo;+&rdquo; on a handful of &ldquo;related tracks&rdquo; every time I&rsquo;m really digging a song.</li>\n</ol>\n",
+				"content_text": "🎶 my favorite thing to do in PlexAmp:\r\n\r\n1. Play from the \"fresh ❤️\" list, which I've tuned to ⭐️⭐️⭐️⭐️⭐️ songs that I haven't listened to in 3 months.\r\n2. Jam the \"+\" on a handful of \"related tracks\" every time I'm really digging a song.\n",
+				"date_published": "2022-06-03T14:22:19-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/03/my-favorite-thing.html",
+				"tags": ["Music","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/03/i-hate-hate.html",
+				
+				"content_html": "<p>I hate hate hate that we train google&rsquo;s robots in order to prove we aren&rsquo;t robots. Please stop doing this!</p>\n",
+				"content_text": "I hate hate hate that we train google's robots in order to prove we aren't robots. Please stop doing this!\n",
+				"date_published": "2022-06-03T09:04:56-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/03/i-hate-hate.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/31/update-clipping-rap.html",
+				
+				"content_html": "<p>🎶 Update:</p>\n\n<ol>\n<li>clipping. - rap</li>\n<li>Faderhead - industrial</li>\n<li>BtBaM - metal</li>\n<li>Circle of Dust - industrial</li>\n<li>Front Line Assembly - industrial</li>\n<li>Zao - metal</li>\n<li>August Burns Red - metal</li>\n<li>Underoath - metal</li>\n</ol>\n\n<p>(note: these genres are <em>very</em> broad categories)</p>\n\n<p><img src=\"uploads/2022/d5a7d188a7.png\" width=\"600\" height=\"336\" alt=\"\" /></p>\n",
+				"content_text": "🎶 Update:\n\n1. clipping. - rap\n2. Faderhead - industrial\n3. BtBaM - metal\n4. Circle of Dust - industrial\n5. Front Line Assembly - industrial\n6. Zao - metal\n7. August Burns Red - metal\n8. Underoath - metal\n\n(note: these genres are _very_ broad categories)\n\n<img src=\"uploads/2022/d5a7d188a7.png\" width=\"600\" height=\"336\" alt=\"\" />\n",
+				"date_published": "2022-05-31T13:34:40-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/31/update-clipping-rap.html",
+				"tags": ["Music","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/31/day-endurance-source.html",
+				
+				"content_html": "<p>Day 31: <strong>Endurance</strong></p>\n\n<p><img src=\"uploads/2022/a843ac0a9a.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n\n<p><a href=\"https://publish.obsidian.md/resilient/Readwise/Books/The+Acid+Watcher+Diet\">source</a></p>\n",
+				"content_text": "Day 31: **Endurance**\n\n<img src=\"uploads/2022/a843ac0a9a.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n\n[source](https://publish.obsidian.md/resilient/Readwise/Books/The+Acid+Watcher+Diet)\n",
+				"date_published": "2022-05-31T07:58:29-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/31/day-endurance-source.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/30/just-did-an.html",
+				
+				"content_html": "<p>Just did an Internet search for “hip hop crocs” because I’m curious what these are and how it is they are even uglier and less ventilated than the originals. 😆</p>\n\n<p>You would not be surprised to find my search was unsuccessful.</p>\n",
+				"content_text": "Just did an Internet search for “hip hop crocs” because I’m curious what these are and how it is they are even uglier and less ventilated than the originals. 😆 \n\nYou would not be surprised to find my search was unsuccessful.\n",
+				"date_published": "2022-05-30T18:06:31-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/30/just-did-an.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/30/really-proud-of.html",
+				
+				"content_html": "<p>🕊 really proud of our church for moving forward on all four resolutions, continuing to uphold our peace witness. #MennoRumble22</p>\n",
+				"content_text": "🕊 really proud of our church for moving forward on all four resolutions, continuing to uphold our peace witness. #MennoRumble22\n",
+				"date_published": "2022-05-30T12:47:27-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/30/really-proud-of.html",
+				"tags": ["Anabaptism","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/30/speakers-regarding-mennonite.html",
+				
+				"content_html": "<p>🕊 Speakers regarding “Mennonite Church USA Accessibility Resolution”:</p>\n\n<ul>\n<li>For: 18</li>\n<li>Against: 0</li>\n<li>Other: 3</li>\n</ul>\n",
+				"content_text": "🕊 Speakers regarding “Mennonite Church USA Accessibility Resolution”:\n\n* For: 18\n* Against: 0\n* Other: 3\n",
+				"date_published": "2022-05-30T12:27:43-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/30/speakers-regarding-mennonite.html",
+				"tags": ["Anabaptism","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/30/little-things-but.html",
+				
+				"content_html": "<p>Little things, but hotel staff said we were a great group and they loved having us here. 🕊</p>\n",
+				"content_text": "Little things, but hotel staff said we were a great group and they loved having us here. 🕊\n",
+				"date_published": "2022-05-30T11:35:11-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/30/little-things-but.html",
+				"tags": ["Anabaptism","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/30/day-fish-source.html",
+				
+				"content_html": "<p>Day 30: <strong>Fish</strong></p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/4c2a99327f.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n\n<p><a href=\"https://publish.obsidian.md/resilient/Readwise/Books/In+Defense+of+Food\">source</a></p>\n",
+				"content_text": "Day 30: **Fish**\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/4c2a99327f.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n\n[source](https://publish.obsidian.md/resilient/Readwise/Books/In+Defense+of+Food)\n",
+				"date_published": "2022-05-30T08:27:16-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/30/day-fish-source.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/29/passing-this-is.html",
+				
+				"content_html": "<p>🕊🌈 <a href=\"https://www.mennoniteusa.org/wp-content/uploads/2021/10/A-Resolution-for-Repentance-and-Transformation-Rev-2.0.pdf\">Passing this is a big deal.</a></p>\n",
+				"content_text": "🕊🌈 [Passing this is a big deal.](https://www.mennoniteusa.org/wp-content/uploads/2021/10/A-Resolution-for-Repentance-and-Transformation-Rev-2.0.pdf)\n",
+				"date_published": "2022-05-29T19:16:16-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/29/passing-this-is.html",
+				"tags": ["Anabaptism","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/29/speakers-regarding-a.html",
+				
+				"content_html": "<p>🕊 Speakers regarding “A Resolution for Repentance and Transformation”:</p>\n\n<ul>\n<li>For: 10</li>\n<li>Against: 5</li>\n<li>Other: 6</li>\n<li>Ran out of time, didn’t get to talk: 9</li>\n</ul>\n",
+				"content_text": "🕊 Speakers regarding “A Resolution for Repentance and Transformation”:\n\n* For: 10\n* Against: 5\n* Other: 6\n* Ran out of time, didn’t get to talk: 9\n",
+				"date_published": "2022-05-29T17:48:38-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/29/speakers-regarding-a.html",
+				"tags": ["Anabaptism","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/29/comment-from-table.html",
+				
+				"content_html": "<p>🕊 Comment from table discussions:</p>\n\n<blockquote>\n<p>“Leaders ought to be leading the way, not those who bore the brunt of the injustice”</p>\n</blockquote>\n\n<p>Especially pertinent re: upset about the strong language in the resolution.</p>\n\n<p>#mennorumble22</p>\n",
+				"content_text": "🕊 Comment from table discussions:\n\n> “Leaders ought to be leading the way, not those who bore the brunt of the injustice”\n\nEspecially pertinent re: upset about the strong language in the resolution.\n\n#mennorumble22\n",
+				"date_published": "2022-05-29T16:33:31-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/29/comment-from-table.html",
+				"tags": ["Anabaptism","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/29/discussion-on-clarification.html",
+				
+				"content_html": "<p>🕊 Discussion on “Clarification of Mennonite Church USA Polity and the Role of the Membership Guidelines of Mennonite Church USA”, speakers:</p>\n\n<ul>\n<li>For: 11</li>\n<li>Against: 6</li>\n<li>Other: 7</li>\n</ul>\n\n<p>Now going for vote.</p>\n",
+				"content_text": "🕊 Discussion on “Clarification of Mennonite Church USA Polity and the Role of the Membership Guidelines of Mennonite Church USA”, speakers:\n\n* For: 11\n* Against: 6\n* Other: 7\n\nNow going for vote.\n",
+				"date_published": "2022-05-29T12:09:59-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/29/discussion-on-clarification.html",
+				"tags": ["Anabaptism","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/05/29/todays-verse-is.html",
+				
+				"content_html": "<p>🕊 Today’s verse is Romans 12:1-2, so….🎶</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/e3c80b673f.jpg\" width=\"599\" height=\"591\" alt=\"\" /></p>\n",
+				"content_text": "🕊 Today’s verse is Romans 12:1-2, so….🎶\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/e3c80b673f.jpg\" width=\"599\" height=\"591\" alt=\"\" />\n",
+				"date_published": "2022-05-29T09:49:27-04:00",
+				"url": "https://blog.grotenhuis.info/2022/05/29/todays-verse-is.html",
+				"tags": ["Anabaptism","Music","micro posts","Asides"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/05/29/sunday-quote.html",
 				
-				"content_html": "<p>📑 Sunday Quote</p>\n\n<p><img src=\"uploads/2022/5a8f088c26.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
-				"content_text": "📑 Sunday Quote\n\n<img src=\"uploads/2022/5a8f088c26.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
-				"date_published": "2022-05-29T06:56:46-05:00",
+				"content_html": "<p>📑 Sunday Quote</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/5a8f088c26.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "📑 Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/5a8f088c26.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-05-29T07:56:46-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/29/sunday-quote.html",
 				"tags": ["Sunday Quotes","micro posts","Quotes","Asides"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/05/29/day-stripes.html",
 				
-				"content_html": "<p>Day 29: <strong>Stripes</strong></p>\n\n<p><img src=\"uploads/2022/aed198837b.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
-				"content_text": "Day 29: **Stripes**\n\n<img src=\"uploads/2022/aed198837b.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
-				"date_published": "2022-05-29T06:53:26-05:00",
+				"content_html": "<p>Day 29: <strong>Stripes</strong></p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/aed198837b.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "Day 29: **Stripes**\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/aed198837b.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-05-29T07:53:26-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/29/day-stripes.html",
 				"tags": ["micro posts","Asides"]
 			},
@@ -29,7 +200,7 @@
 				
 				"content_html": "<p>Champions League during snack break while they count the vote ⚽️🕊</p>\n",
 				"content_text": "Champions League during snack break while they count the vote ⚽️🕊\n",
-				"date_published": "2022-05-28T14:59:37-05:00",
+				"date_published": "2022-05-28T15:59:37-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/28/champions-league-during.html",
 				"tags": ["Soccer","Anabaptism","micro posts","Asides"]
 			},
@@ -38,7 +209,7 @@
 				
 				"content_html": "<p>🕊 regarding adding “A Resolution on Repentance &amp; Transformation” to the agenda, the following speakers came to the 🎙 to make comments:</p>\n\n<ul>\n<li>18 in favor of discussing &amp; voting</li>\n<li>4 against discussing &amp; voting</li>\n<li>5 other comments</li>\n</ul>\n",
 				"content_text": "🕊 regarding adding “A Resolution on Repentance & Transformation” to the agenda, the following speakers came to the 🎙 to make comments:\n\n* 18 in favor of discussing & voting\n* 4 against discussing & voting\n* 5 other comments\n",
-				"date_published": "2022-05-28T14:50:21-05:00",
+				"date_published": "2022-05-28T15:50:21-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/28/regarding-adding-a.html",
 				"tags": ["Anabaptism","micro posts","Asides"]
 			},
@@ -47,7 +218,7 @@
 				
 				"content_html": "<p>🕊 special rule approved by voice vote:</p>\n\n<blockquote>\n<p>Amendments to motions that appear in the agenda or in assembly materials must be presented to and approved by the Resolution Committee before they can be brought to the floor.</p>\n</blockquote>\n",
 				"content_text": "🕊 special rule approved by voice vote:\n\n> Amendments to motions that appear in the agenda or in assembly materials must be presented to and approved by the Resolution Committee before they can be brought to the floor.\n",
-				"date_published": "2022-05-28T09:27:52-05:00",
+				"date_published": "2022-05-28T10:27:52-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/28/special-rule-approved.html",
 				"tags": ["Anabaptism","micro posts","Asides"]
 			},
@@ -56,7 +227,7 @@
 				
 				"content_html": "<p>⚽️ <a href=\"https://www.espn.com/soccer/chelsea-engchelsea/story/4675873/todd-boehly-completes-chelsea-takeover-in-deal-worth-up-to-425bn?appearance=dark&amp;appsrc=sc\">it’s official: Chelsea have new ownership</a></p>\n",
 				"content_text": "⚽️ [it’s official: Chelsea have new ownership](https://www.espn.com/soccer/chelsea-engchelsea/story/4675873/todd-boehly-completes-chelsea-takeover-in-deal-worth-up-to-425bn?appearance=dark&appsrc=sc)\n",
-				"date_published": "2022-05-28T08:05:17-05:00",
+				"date_published": "2022-05-28T09:05:17-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/28/its-official-chelsea.html",
 				"tags": ["Soccer","micro posts","Asides"]
 			},
@@ -65,34 +236,34 @@
 				
 				"content_html": "<p>Menno Delegate update. I’d say we’re down to about &frac12; of folks looking like they are closely related. Improvement! 🕊</p>\n",
 				"content_text": "Menno Delegate update. I’d say we’re down to about 1/2 of folks looking like they are closely related. Improvement! 🕊\n",
-				"date_published": "2022-05-28T08:00:11-05:00",
+				"date_published": "2022-05-28T09:00:11-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/28/menno-delegate-update.html",
 				"tags": ["Anabaptism","micro posts","Asides"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/05/28/day-fair.html",
 				
-				"content_html": "<p>Day 28: <strong>Fair</strong></p>\n\n<p><img src=\"uploads/2022/73481a17bc.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
-				"content_text": "Day 28: **Fair**\n\n\n\n<img src=\"uploads/2022/73481a17bc.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
-				"date_published": "2022-05-28T07:06:51-05:00",
+				"content_html": "<p>Day 28: <strong>Fair</strong></p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/73481a17bc.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "Day 28: **Fair**\n\n\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/73481a17bc.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-05-28T08:06:51-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/28/day-fair.html",
 				"tags": ["micro posts","Asides"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/05/27/thoughtful-materials-for.html",
 				
-				"content_html": "<p>Thoughtful materials for delegate tables. 🕊</p>\n\n<p>Very ready to break out that sparkly green play-doh, though.</p>\n\n<p><img src=\"uploads/2022/1045d3b4a3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Thoughtful materials for delegate tables. 🕊\n\nVery ready to break out that sparkly green play-doh, though.\n\n<img src=\"uploads/2022/1045d3b4a3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-27T18:34:04-05:00",
+				"content_html": "<p>Thoughtful materials for delegate tables. 🕊</p>\n\n<p>Very ready to break out that sparkly green play-doh, though.</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/1045d3b4a3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Thoughtful materials for delegate tables. 🕊\n\nVery ready to break out that sparkly green play-doh, though.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/1045d3b4a3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-27T19:34:04-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/27/thoughtful-materials-for.html",
 				"tags": ["Anabaptism","micro posts","Asides"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/05/27/131500.html",
 				"title": "🎲 Let's Make a Hexmap!",
-				"content_html": "\n\n<p>I need a hazardous hexmap for a post-apocalyptic science-fantasy-meets-dark-fantasy game I&rsquo;m developing to play with some friends. I think things like this always end up more interesting when the input of multiple people creates emergent complexity. That&rsquo;s where you come in!</p>\n\n<p><img src=\"https://user.fm/files/v2-4d540703e0481f7b30e58fadd3eb680b/hexmap.png\" alt=\"map v3\" />\n<em>(I&rsquo;ll make a cleaner version with canonical symbols, once we complete the exercise.)</em></p>\n\n<h1 id=\"rules-steps\">Rules/Steps</h1>\n\n<ol>\n<li><strong>Reply</strong>: you can send a <a href=\"https://indieweb.org/Webmention\">webmention</a> as a reply to this post, reply on micro.blog (see link below), or reply by email (see link below).</li>\n<li><strong>Place an element</strong>: pick from the menu below (a terrain selection or a point of interest), and give me coordinates for it. I&rsquo;ll place it if it doesn&rsquo;t invalidate one I already placed, and then update the map.</li>\n<li><strong>Two then you</strong>: you only get to take another turn if two other changes have happened since the one you requested.</li>\n</ol>\n\n<h1 id=\"menu\">Menu</h1>\n\n<ol>\n<li><strong>Terrain</strong> (color): Choose 3 hexes of one terrain type and 1 hex of another terrain type. They must be contiguous (connected) with one another. Assume hexes are 25 miles-ish. I&rsquo;ll need coordinates for all 4. <em>Note: All hexes will eventually get a terrain.</em>\n\n<ol>\n<li><strong>Swamp</strong> (green): soggy areas filled with things that lurk, where people scrap together whatever safety they can, often on stilts or in the trees</li>\n<li><strong>Wasteland</strong> (purple): radiation, toxic spills, infestation, or other terrible things make this land inhospitable to all but the most resilient of beings</li>\n<li><strong>Desert</strong> (orange): whether sand, rock, glass, or worse, people here are often nomadic, seeking out scarce resources wherever they can find them</li>\n<li><strong>Mountain</strong> (black): steep, formidable, and buffeted by strong winds, people usually live and move inside, rather than trying to cross them</li>\n<li><strong>Archipelago</strong> (teal): the waters are filled with small islands, harsh storms, and predators, and people make their way around in small craft and flotillas</li>\n</ol></li>\n<li><strong>Point of interest</strong> (letter). Only one of these may exist on a hex. You can place them regardless of if the terrain is chosen already, or not.\n\n<ol>\n<li><strong>Skyship</strong> (S): It looms overhead, slowly making its way across the landscape. <em>Restriction</em>: only one on the map. If it is already placed, you may choose this again to move it one hex in any direction.</li>\n<li><strong>Metropolis</strong> (M): What could even sustain a population in these horrid lands? Something has, because many are here. <em>Restriction</em>: only one per terrain type.</li>\n<li><strong>Gathering</strong> (G): There are people here, though in smaller quantity. Maybe permanently as a settlement, maybe temporarily or nomadically.</li>\n<li><strong>Conflict</strong> &copy;: Nobody wants to be here, not even those involved.</li>\n<li><strong>Ruin</strong> &reg;: Wonders from a previous era, for those brave or foolish enough to investigate.</li>\n<li><strong>Phenomenon</strong> (P): This strange thing shouldn&rsquo;t exist, and yet reports say it does.</li>\n</ol></li>\n</ol>\n",
-				"content_text": "I need a hazardous hexmap for a post-apocalyptic science-fantasy-meets-dark-fantasy game I'm developing to play with some friends. I think things like this always end up more interesting when the input of multiple people creates emergent complexity. That's where you come in!\n\n![map v3](https://user.fm/files/v2-4d540703e0481f7b30e58fadd3eb680b/hexmap.png)\n*(I'll make a cleaner version with canonical symbols, once we complete the exercise.)*\n\n# Rules/Steps\n1. **Reply**: you can send a [webmention](https://indieweb.org/Webmention) as a reply to this post, reply on micro.blog (see link below), or reply by email (see link below).\n2. **Place an element**: pick from the menu below (a terrain selection or a point of interest), and give me coordinates for it. I'll place it if it doesn't invalidate one I already placed, and then update the map.\n3. **Two then you**: you only get to take another turn if two other changes have happened since the one you requested.\n\n# Menu\n1. **Terrain** (color): Choose 3 hexes of one terrain type and 1 hex of another terrain type. They must be contiguous (connected) with one another. Assume hexes are 25 miles-ish. I'll need coordinates for all 4. *Note: All hexes will eventually get a terrain.*\n\t1. **Swamp** (green): soggy areas filled with things that lurk, where people scrap together whatever safety they can, often on stilts or in the trees\n\t2. **Wasteland** (purple): radiation, toxic spills, infestation, or other terrible things make this land inhospitable to all but the most resilient of beings\n\t3. **Desert** (orange): whether sand, rock, glass, or worse, people here are often nomadic, seeking out scarce resources wherever they can find them\n\t4. **Mountain** (black): steep, formidable, and buffeted by strong winds, people usually live and move inside, rather than trying to cross them\n\t5. **Archipelago** (teal): the waters are filled with small islands, harsh storms, and predators, and people make their way around in small craft and flotillas\n2. **Point of interest** (letter). Only one of these may exist on a hex. You can place them regardless of if the terrain is chosen already, or not.\n\t1. **Skyship** (S): It looms overhead, slowly making its way across the landscape. *Restriction*: only one on the map. If it is already placed, you may choose this again to move it one hex in any direction.\n\t2. **Metropolis** (M): What could even sustain a population in these horrid lands? Something has, because many are here. *Restriction*: only one per terrain type.\n\t3. **Gathering** (G): There are people here, though in smaller quantity. Maybe permanently as a settlement, maybe temporarily or nomadically.\n\t5. **Conflict** (C): Nobody wants to be here, not even those involved.\n\t6. **Ruin** (R): Wonders from a previous era, for those brave or foolish enough to investigate.\n\t7. **Phenomenon** (P): This strange thing shouldn't exist, and yet reports say it does.\n",
-				"date_published": "2022-05-27T13:15:00-05:00",
+				"content_html": "\n\n<p>I need a hazardous hexmap for a post-apocalyptic science-fantasy-meets-dark-fantasy game I&rsquo;m developing to play with some friends. I think things like this always end up more interesting when the input of multiple people creates emergent complexity. That&rsquo;s where you come in!</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/7ea58ac115.png\" alt=\"map v5\" /></p>\n\n<p><em>(I&rsquo;ll make a cleaner version with canonical symbols, once we complete the exercise.)</em></p>\n\n<h1 id=\"rules-steps\">Rules/Steps</h1>\n\n<ol>\n<li><strong>Reply</strong>: you can send a <a href=\"https://indieweb.org/Webmention\">webmention</a> as a reply to this post, reply on micro.blog (see link below), or reply by email (see link below).</li>\n<li><strong>Place an element</strong>: pick from the menu below (a terrain selection or a point of interest), and give me coordinates for it. I&rsquo;ll place it if it doesn&rsquo;t invalidate one I already placed, and then update the map.</li>\n<li><strong>Two then you</strong>: you only get to take another turn if two other changes have happened since the one you requested.</li>\n</ol>\n\n<h1 id=\"menu\">Menu</h1>\n\n<ol>\n<li><strong>Terrain</strong> (color): Choose 3 hexes of one terrain type and 1 hex of another terrain type. They must be contiguous (connected) with one another. Assume hexes are 25 miles-ish. I&rsquo;ll need coordinates for all 4. <em>Note: All hexes will eventually get a terrain.</em>\n\n<ol>\n<li><strong>Swamp</strong> (green): soggy areas filled with things that lurk, where people scrap together whatever safety they can, often on stilts or in the trees</li>\n<li><strong>Wasteland</strong> (purple): radiation, toxic spills, infestation, or other terrible things make this land inhospitable to all but the most resilient of beings</li>\n<li><strong>Desert</strong> (orange): whether sand, rock, glass, or worse, people here are often nomadic, seeking out scarce resources wherever they can find them</li>\n<li><strong>Mountain</strong> (black): steep, formidable, and buffeted by strong winds, people usually live and move inside, rather than trying to cross them</li>\n<li><strong>Archipelago</strong> (teal): the waters are filled with small islands, harsh storms, and predators, and people make their way around in small craft and flotillas</li>\n</ol></li>\n<li><strong>Point of interest</strong> (letter). Only one of these may exist on a hex. You can place them regardless of if the terrain is chosen already, or not.\n\n<ol>\n<li><strong>Skyship</strong> (S): It looms overhead, slowly making its way across the landscape. <em>Restriction</em>: only one on the map. If it is already placed, you may choose this again to move it one hex in any direction.</li>\n<li><strong>Metropolis</strong> (M): What could even sustain a population in these horrid lands? Something has, because many are here. <em>Restriction</em>: only one per terrain type.</li>\n<li><strong>Gathering</strong> (G): There are people here, though in smaller quantity. Maybe permanently as a settlement, maybe temporarily or nomadically.</li>\n<li><strong>Conflict</strong> &copy;: Nobody wants to be here, not even those involved.</li>\n<li><strong>Ruin</strong> &reg;: Wonders from a previous era, for those brave or foolish enough to investigate.</li>\n<li><strong>Phenomenon</strong> (P): This strange thing shouldn&rsquo;t exist, and yet reports say it does.</li>\n</ol></li>\n</ol>\n",
+				"content_text": "I need a hazardous hexmap for a post-apocalyptic science-fantasy-meets-dark-fantasy game I'm developing to play with some friends. I think things like this always end up more interesting when the input of multiple people creates emergent complexity. That's where you come in!\n\n![map v5](https://blog.grotenhuis.info/uploads/2022/7ea58ac115.png)\n\n\n*(I'll make a cleaner version with canonical symbols, once we complete the exercise.)*\n\n\n\n# Rules/Steps\n1. **Reply**: you can send a [webmention](https://indieweb.org/Webmention) as a reply to this post, reply on micro.blog (see link below), or reply by email (see link below).\n2. **Place an element**: pick from the menu below (a terrain selection or a point of interest), and give me coordinates for it. I'll place it if it doesn't invalidate one I already placed, and then update the map.\n3. **Two then you**: you only get to take another turn if two other changes have happened since the one you requested.\n\n# Menu\n1. **Terrain** (color): Choose 3 hexes of one terrain type and 1 hex of another terrain type. They must be contiguous (connected) with one another. Assume hexes are 25 miles-ish. I'll need coordinates for all 4. *Note: All hexes will eventually get a terrain.*\n\t1. **Swamp** (green): soggy areas filled with things that lurk, where people scrap together whatever safety they can, often on stilts or in the trees\n\t2. **Wasteland** (purple): radiation, toxic spills, infestation, or other terrible things make this land inhospitable to all but the most resilient of beings\n\t3. **Desert** (orange): whether sand, rock, glass, or worse, people here are often nomadic, seeking out scarce resources wherever they can find them\n\t4. **Mountain** (black): steep, formidable, and buffeted by strong winds, people usually live and move inside, rather than trying to cross them\n\t5. **Archipelago** (teal): the waters are filled with small islands, harsh storms, and predators, and people make their way around in small craft and flotillas\n2. **Point of interest** (letter). Only one of these may exist on a hex. You can place them regardless of if the terrain is chosen already, or not.\n\t1. **Skyship** (S): It looms overhead, slowly making its way across the landscape. *Restriction*: only one on the map. If it is already placed, you may choose this again to move it one hex in any direction.\n\t2. **Metropolis** (M): What could even sustain a population in these horrid lands? Something has, because many are here. *Restriction*: only one per terrain type.\n\t3. **Gathering** (G): There are people here, though in smaller quantity. Maybe permanently as a settlement, maybe temporarily or nomadically.\n\t5. **Conflict** (C): Nobody wants to be here, not even those involved.\n\t6. **Ruin** (R): Wonders from a previous era, for those brave or foolish enough to investigate.\n\t7. **Phenomenon** (P): This strange thing shouldn't exist, and yet reports say it does.\n",
+				"date_published": "2022-05-27T14:15:00-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/27/131500.html",
 				"tags": ["Games","full posts","Featured","RPG"]
 			},
@@ -101,7 +272,7 @@
 				
 				"content_html": "<p>Day 27: <strong>Written</strong></p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/4627c6f988.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n\n<p><a href=\"https://publish.obsidian.md/resilient/Readwise/Books/Threat+Modeling\">source</a></p>\n",
 				"content_text": "Day 27: **Written**\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/4627c6f988.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n\n[source](https://publish.obsidian.md/resilient/Readwise/Books/Threat+Modeling)\n",
-				"date_published": "2022-05-27T06:15:21-05:00",
+				"date_published": "2022-05-27T07:15:21-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/27/day-written-source.html",
 				"tags": ["micro posts","Asides"]
 			},
@@ -110,7 +281,7 @@
 				
 				"content_html": "<p>🎶 <a href=\"https://officialzao.bandcamp.com/album/where-blood-and-fire-bring-rest\">Still the best album</a></p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/51d4ff4b82.png\" width=\"423\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "🎶 [Still the best album](https://officialzao.bandcamp.com/album/where-blood-and-fire-bring-rest)\n\n\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/51d4ff4b82.png\" width=\"423\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-26T19:54:03-05:00",
+				"date_published": "2022-05-26T20:54:03-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/26/still-the-best.html",
 				"tags": ["Music","micro posts","Asides"]
 			},
@@ -119,7 +290,7 @@
 				
 				"content_html": "<p>That’s new: received a personal handwritten note in the mail, wanting to buy our house. Came complete with a story (not sure if true or not). 🤔</p>\n",
 				"content_text": "That’s new: received a personal handwritten note in the mail, wanting to buy our house. Came complete with a story (not sure if true or not). 🤔\n",
-				"date_published": "2022-05-26T17:33:03-05:00",
+				"date_published": "2022-05-26T18:33:03-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/26/thats-new-received.html",
 				"tags": ["micro posts","Asides"]
 			},
@@ -128,7 +299,7 @@
 				
 				"content_html": "<p>⚽️ Now this is interesting: <a href=\"https://www.espn.com/soccer/english-premier-league/story/4674347/premier-league-without-var-arsenal-in-champions-leagueman-united-out-of-europeleeds-relegated?appearance=dark&amp;appsrc=sc\">the VAR effect table</a></p>\n",
 				"content_text": "⚽️ Now this is interesting: [the VAR effect table](https://www.espn.com/soccer/english-premier-league/story/4674347/premier-league-without-var-arsenal-in-champions-leagueman-united-out-of-europeleeds-relegated?appearance=dark&appsrc=sc)\n",
-				"date_published": "2022-05-26T17:24:05-05:00",
+				"date_published": "2022-05-26T18:24:05-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/26/now-this-is.html",
 				"tags": ["Soccer","micro posts","Asides"]
 			},
@@ -146,7 +317,7 @@
 				
 				"content_html": "<p>Day 26: <strong>Schedule</strong></p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/a0232b3926.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n\n<p><a href=\"https://publish.obsidian.md/resilient/Readwise/Books/Stranger+God\">source</a></p>\n",
 				"content_text": "Day 26: **Schedule**\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/a0232b3926.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n\n[source](https://publish.obsidian.md/resilient/Readwise/Books/Stranger+God)\n",
-				"date_published": "2022-05-26T06:26:49-05:00",
+				"date_published": "2022-05-26T07:26:49-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/26/day-schedule-source.html",
 				"tags": ["micro posts","Asides"]
 			},
@@ -155,7 +326,7 @@
 				
 				"content_html": "<p>🔎🛶 Took my first kayak trip on our creek. Went upstream first to make sure I could handle the current.</p>\n\n<p>Saw an incredible sycamore with a root hollow as wide as I am tall. Saw a little snek swimming away.</p>\n\n<p>Didn’t die when thunderstorm struck, but it sure was interesting.</p>\n",
 				"content_text": "🔎🛶 Took my first kayak trip on our creek. Went upstream first to make sure I could handle the current.\n\nSaw an incredible sycamore with a root hollow as wide as I am tall. Saw a little snek swimming away.\n\nDidn’t die when thunderstorm struck, but it sure was interesting.\n",
-				"date_published": "2022-05-25T21:13:01-05:00",
+				"date_published": "2022-05-25T22:13:01-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/25/took-my-first.html",
 				"tags": ["micro posts","Asides","Sightings"]
 			},
