@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/11/two-trees-down.html",
+				
+				"content_html": "<p>Two trees down in the winds this week. Processed one and the other became a turtle haven within hours of falling.</p>\n\n<p>Also moved/planted more chestnuts 🌰 today.</p>\n\n<p><img src=\"uploads/2022/e8c41ea230.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/4a31a183dd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Two trees down in the winds this week. Processed one and the other became a turtle haven within hours of falling.\n\nAlso moved/planted more chestnuts 🌰 today.\n\n<img src=\"uploads/2022/e8c41ea230.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/4a31a183dd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-06-11T12:53:13-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/11/two-trees-down.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/07/my-new-genre.html",
+				
+				"content_html": "<p>My new genre is post-post-</p>\n",
+				"content_text": "My new genre is post-post-\n",
+				"date_published": "2022-06-07T18:01:15-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/07/my-new-genre.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/06/05/bump.html",
 				
 				"content_html": "<p>Bump 🐦</p>\n\n<p><img src=\"uploads/2022/6d47f7a634.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
@@ -72,8 +90,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/05/31/update-clipping-rap.html",
 				
-				"content_html": "<p>🎶 Update:</p>\n\n<ol>\n<li>clipping. - rap</li>\n<li>Faderhead - industrial</li>\n<li>BtBaM - metal</li>\n<li>Circle of Dust - industrial</li>\n<li>Front Line Assembly - industrial</li>\n<li>Zao - metal</li>\n<li>August Burns Red - metal</li>\n<li>Underoath - metal</li>\n</ol>\n\n<p>(note: these genres are <em>very</em> broad categories)</p>\n\n<p><img src=\"uploads/2022/d5a7d188a7.png\" width=\"600\" height=\"336\" alt=\"\" /></p>\n",
-				"content_text": "🎶 Update:\n\n1. clipping. - rap\n2. Faderhead - industrial\n3. BtBaM - metal\n4. Circle of Dust - industrial\n5. Front Line Assembly - industrial\n6. Zao - metal\n7. August Burns Red - metal\n8. Underoath - metal\n\n(note: these genres are _very_ broad categories)\n\n<img src=\"uploads/2022/d5a7d188a7.png\" width=\"600\" height=\"336\" alt=\"\" />\n",
+				"content_html": "<p>🎶 Update:</p>\n\n<ol>\n<li>clipping. - rap</li>\n<li>Faderhead - industrial</li>\n<li>BtBaM - metal</li>\n<li>Circle of Dust - industrial</li>\n<li>Front Line Assembly - industrial</li>\n<li>Zao - metal</li>\n<li>August Burns Red - metal</li>\n<li>Underoath - metal</li>\n</ol>\n\n<p>(note: these genres are <em>very</em> broad categories)</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/d5a7d188a7.png\" width=\"600\" height=\"336\" alt=\"\" /></p>\n",
+				"content_text": "🎶 Update:\n\n1. clipping. - rap\n2. Faderhead - industrial\n3. BtBaM - metal\n4. Circle of Dust - industrial\n5. Front Line Assembly - industrial\n6. Zao - metal\n7. August Burns Red - metal\n8. Underoath - metal\n\n(note: these genres are _very_ broad categories)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/d5a7d188a7.png\" width=\"600\" height=\"336\" alt=\"\" />\n",
 				"date_published": "2022-05-31T13:34:40-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/31/update-clipping-rap.html",
 				"tags": ["Music","micro posts","Asides"]
@@ -81,8 +99,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/05/31/day-endurance-source.html",
 				
-				"content_html": "<p>Day 31: <strong>Endurance</strong></p>\n\n<p><img src=\"uploads/2022/a843ac0a9a.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n\n<p><a href=\"https://publish.obsidian.md/resilient/Readwise/Books/The+Acid+Watcher+Diet\">source</a></p>\n",
-				"content_text": "Day 31: **Endurance**\n\n<img src=\"uploads/2022/a843ac0a9a.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n\n[source](https://publish.obsidian.md/resilient/Readwise/Books/The+Acid+Watcher+Diet)\n",
+				"content_html": "<p>Day 31: <strong>Endurance</strong></p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/a843ac0a9a.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n\n<p><a href=\"https://publish.obsidian.md/resilient/Readwise/Books/The+Acid+Watcher+Diet\">source</a></p>\n",
+				"content_text": "Day 31: **Endurance**\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/a843ac0a9a.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n\n[source](https://publish.obsidian.md/resilient/Readwise/Books/The+Acid+Watcher+Diet)\n",
 				"date_published": "2022-05-31T07:58:29-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/31/day-endurance-source.html",
 				"tags": ["micro posts","Asides"]
