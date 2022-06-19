@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/19/sunday-quote.html",
+				
+				"content_html": "<p>📑 Sunday Quote 🕊</p>\n\n<p><img src=\"uploads/2022/4beb61f81a.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "📑 Sunday Quote 🕊\n\n<img src=\"uploads/2022/4beb61f81a.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-06-19T15:55:07-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/19/sunday-quote.html",
+				"tags": ["Anabaptism","Sunday Quotes","micro posts","Quotes","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/14/this-game-is.html",
+				
+				"content_html": "<p>This game is gonna be up there with the Snow Clasico in terms of memorable and surreal #USMNT games ⚽️</p>\n\n<p><em>Explainer: this was a CONCACAF Nations League game, where USA are defending champs. They were playing El Salvador, who had not beat the USA since 1992. It was a messy and clumsy and chaotic game due to the field being terribly muddy. El Salvador scored first and was up. USA got a bad red card. Then El Salvador got one for at attack that ended in a long muddy slip’n’slide. USA drew the game in overtime.</em></p>\n",
+				"content_text": "This game is gonna be up there with the Snow Clasico in terms of memorable and surreal #USMNT games ⚽️\n\n_Explainer: this was a CONCACAF Nations League game, where USA are defending champs. They were playing El Salvador, who had not beat the USA since 1992. It was a messy and clumsy and chaotic game due to the field being terribly muddy. El Salvador scored first and was up. USA got a bad red card. Then El Salvador got one for at attack that ended in a long muddy slip’n’slide. USA drew the game in overtime._\n",
+				"date_published": "2022-06-14T23:43:52-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/14/this-game-is.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/14/pulisic-attacked-by.html",
+				
+				"content_html": "<p>Pulisic attacked by the mud #USMNT ⚽️</p>\n\n<p><img src=\"uploads/2022/e5039d76f4.png\" width=\"600\" height=\"506\" alt=\"\" /></p>\n",
+				"content_text": "Pulisic attacked by the mud #USMNT ⚽️\n\n<img src=\"uploads/2022/e5039d76f4.png\" width=\"600\" height=\"506\" alt=\"\" />\n",
+				"date_published": "2022-06-14T22:40:00-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/14/pulisic-attacked-by.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/12/whats-the-best.html",
+				
+				"content_html": "<p>What’s the best way to take an ordered set of pictures and turn them into a one–a-second video?</p>\n\n<p>(I’m on Apple devices, if that matters.)</p>\n\n<p><em>Edit: answer appears to be FFMPEG.</em></p>\n",
+				"content_text": "What’s the best way to take an ordered set of pictures and turn them into a one–a-second video?\n\n(I’m on Apple devices, if that matters.)\n\n_Edit: answer appears to be FFMPEG._\n",
+				"date_published": "2022-06-12T13:23:14-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/12/whats-the-best.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/06/11/two-trees-down.html",
 				
 				"content_html": "<p>Two trees down in the winds this week. Processed one and the other became a turtle haven within hours of falling.</p>\n\n<p>Also moved/planted more chestnuts 🌰 today.</p>\n\n<p><img src=\"uploads/2022/e8c41ea230.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/4a31a183dd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
@@ -27,8 +63,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/06/05/bump.html",
 				
-				"content_html": "<p>Bump 🐦</p>\n\n<p><img src=\"uploads/2022/6d47f7a634.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Bump 🐦\n\n<img src=\"uploads/2022/6d47f7a634.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Bump 🐦</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/6d47f7a634.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Bump 🐦\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/6d47f7a634.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-05T09:22:16-04:00",
 				"url": "https://blog.grotenhuis.info/2022/06/05/bump.html",
 				"tags": ["micro posts","Asides"]
@@ -36,8 +72,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/06/05/sunday-quote.html",
 				
-				"content_html": "<p>📑 Sunday Quote</p>\n\n<p><img src=\"uploads/2022/c802efe8ad.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
-				"content_text": "📑 Sunday Quote\n\n<img src=\"uploads/2022/c802efe8ad.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_html": "<p>📑 Sunday Quote</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/c802efe8ad.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "📑 Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/c802efe8ad.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-06-05T09:12:32-04:00",
 				"url": "https://blog.grotenhuis.info/2022/06/05/sunday-quote.html",
 				"tags": ["Sunday Quotes","micro posts","Quotes","Asides"]
@@ -10094,6 +10130,15 @@
 				"date_published": "2017-12-20T08:00:00-04:00",
 				"url": "https://blog.grotenhuis.info/2022/03/29/book-recommendations.html",
 				"tags": ["Review","Resilience","Ideas","Humor","Anabaptism","Books","full posts","Featured"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2017/06/15/we-now-officially.html",
+				
+				"content_html": "<p>🕊 We now officially have 4 Indianapolis-area Mennonite churches in MCUSA. Welcome to our Chin sisters and brothers at Emmanuel Living Christian Church!</p>\n",
+				"content_text": "<p>🕊 We now officially have 4 Indianapolis-area Mennonite churches in MCUSA. Welcome to our Chin sisters and brothers at Emmanuel Living Christian Church!</p>\n",
+				"date_published": "2017-06-15T17:25:00-04:00",
+				"url": "https://blog.grotenhuis.info/2017/06/15/we-now-officially.html",
+				"tags": ["Anabaptism","micro posts","Asides"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2017/04/02/so-weve-been.html",
