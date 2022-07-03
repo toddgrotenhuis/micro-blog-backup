@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/07/03/am-i-doing.html",
+				
+				"content_html": "<p>Am I doing this right?</p>\n\n<p><img src=\"uploads/2022/e06dda2075.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Am I doing this right?\n\n<img src=\"uploads/2022/e06dda2075.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-03T17:47:28-04:00",
+				"url": "https://blog.grotenhuis.info/2022/07/03/am-i-doing.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/07/03/sunday-quote.html",
+				
+				"content_html": "<p>Sunday Quote 📑</p>\n\n<p><img src=\"uploads/2022/fd3cc0d244.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "Sunday Quote 📑\n\n<img src=\"uploads/2022/fd3cc0d244.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-07-03T09:21:28-04:00",
+				"url": "https://blog.grotenhuis.info/2022/07/03/sunday-quote.html",
+				"tags": ["Sunday Quotes","micro posts","Quotes","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/07/03/im-designated-preacher.html",
+				
+				"content_html": "<p>🕊 I&rsquo;m &ldquo;Designated Preacher&rdquo; this morning (meaning, I am reading the pastor&rsquo;s teaching in their absence).</p>\n\n<p>&ldquo;Join us&rdquo; online 9:30 eastern for <a href=\"https://youtu.be/Se1L6KZSStg\">Jesus Geography: Caesarea Philippi</a>.</p>\n",
+				"content_text": "🕊 I'm \"Designated Preacher\" this morning (meaning, I am reading the pastor's teaching in their absence). \r\n\r\n\"Join us\" online 9:30 eastern for [Jesus Geography: Caesarea Philippi](https://youtu.be/Se1L6KZSStg).\n",
+				"date_published": "2022-07-03T08:20:41-04:00",
+				"url": "https://blog.grotenhuis.info/2022/07/03/im-designated-preacher.html",
+				"tags": ["Anabaptism","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/07/02/lets-talk-about.html",
+				
+				"content_html": "<p>🎶 let’s talk about <a href=\"https://kardashev.bandcamp.com/album/liminal-rite\">Liminal Rite</a></p>\n\n<p>(Another quick audio commentary by yours truly)</p>\n\n<p><audio controls=\"controls\" src=\"https://blog.grotenhuis.info/uploads/2022/1e46e6bfc6.mp3\" preload=\"metadata\" /></p>\n",
+				"content_text": "🎶 let’s talk about [Liminal Rite](https://kardashev.bandcamp.com/album/liminal-rite)\n\n(Another quick audio commentary by yours truly)\n\n<audio controls=\"controls\" src=\"https://blog.grotenhuis.info/uploads/2022/1e46e6bfc6.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-07-02T16:19:12-04:00",
+				"url": "https://blog.grotenhuis.info/2022/07/02/lets-talk-about.html",
+				"tags": ["Music","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/07/01/kayaked-hard-upriver.html",
+				
+				"content_html": "<p>🛶 Kayaked hard upriver until I was tired, then took it so easy on the way back that the damselflies and dragonflies landed on me like I was part of the landscape.</p>\n",
+				"content_text": "🛶 Kayaked hard upriver until I was tired, then took it so easy on the way back that the damselflies and dragonflies landed on me like I was part of the landscape.\n",
+				"date_published": "2022-07-01T17:09:39-04:00",
+				"url": "https://blog.grotenhuis.info/2022/07/01/kayaked-hard-upriver.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/29/glad-we-decided.html",
+				
+				"content_html": "<p>Glad we decided to call it simply “Heron Haven”, because even though we’ve had tons of Great Blue Heron activity, we’re now seeing the smaller <a href=\"https://en.wikipedia.org/wiki/Green_heron\">Green Heron</a> quite a bit, too 🔎</p>\n",
+				"content_text": "Glad we decided to call it simply “Heron Haven”, because even though we’ve had tons of Great Blue Heron activity, we’re now seeing the smaller [Green Heron](https://en.wikipedia.org/wiki/Green_heron) quite a bit, too 🔎\n",
+				"date_published": "2022-06-29T08:52:09-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/29/glad-we-decided.html",
+				"tags": ["micro posts","Asides","Sightings"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/28/security-birb.html",
+				
+				"content_html": "<p>Security birb</p>\n\n<p><img src=\"uploads/2022/e6c4c345f9.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Security birb\n\n<img src=\"uploads/2022/e6c4c345f9.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2022-06-28T08:20:32-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/28/security-birb.html",
+				"tags": ["Humor","micro posts","Asides","Sightings"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/06/27/how-am-i.html",
+				
+				"content_html": "<p>🎶 How am I just now learning about Kardashev? <a href=\"https://kardashev.bandcamp.com/track/glass-phantoms\">video</a></p>\n",
+				"content_text": "🎶 How am I just now learning about Kardashev? [video](https://kardashev.bandcamp.com/track/glass-phantoms)\n",
+				"date_published": "2022-06-27T16:03:44-04:00",
+				"url": "https://blog.grotenhuis.info/2022/06/27/how-am-i.html",
+				"tags": ["Music","micro posts","Asides"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/06/26/becoming-a-st.html",
 				"title": "Becoming a 1st level ranger 🎲 and sleuthing around 🔎",
 				"content_html": "<p>Two little audio stories from today’s adventures.</p>\n\n<p><audio controls=\"controls\" src=\"https://blog.grotenhuis.info/uploads/2022/4bfd606892.mp3\" preload=\"metadata\" /></p>\n",
@@ -18,8 +90,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/06/26/mulberries-are-coming.html",
 				
-				"content_html": "<p>Mulberries are coming in heavy right now.</p>\n\n<p>Many more to pick, if you want to.</p>\n\n<p><img src=\"uploads/2022/3a448949ba.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Mulberries are coming in heavy right now. \n\nMany more to pick, if you want to.\n\n<img src=\"uploads/2022/3a448949ba.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Mulberries are coming in heavy right now.</p>\n\n<p>Many more to pick, if you want to.</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/3a448949ba.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Mulberries are coming in heavy right now. \n\nMany more to pick, if you want to.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/3a448949ba.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-26T14:34:58-04:00",
 				"url": "https://blog.grotenhuis.info/2022/06/26/mulberries-are-coming.html",
 				"tags": ["micro posts","Asides","Sightings"]
@@ -27,8 +99,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/06/26/sunday-quote.html",
 				
-				"content_html": "<p>Sunday Quote 📑</p>\n\n<p><img src=\"uploads/2022/5d6a653102.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
-				"content_text": "Sunday Quote 📑\n\n<img src=\"uploads/2022/5d6a653102.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_html": "<p>Sunday Quote 📑</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/5d6a653102.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "Sunday Quote 📑\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/5d6a653102.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-06-26T08:32:11-04:00",
 				"url": "https://blog.grotenhuis.info/2022/06/26/sunday-quote.html",
 				"tags": ["Sunday Quotes","micro posts","Quotes","Asides"]
@@ -45,8 +117,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/06/24/092208.html",
 				
-				"content_html": "<p><img src=\"uploads/2022/4ba8d8b77f.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2022/4ba8d8b77f.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://blog.grotenhuis.info/uploads/2022/4ba8d8b77f.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/4ba8d8b77f.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-06-24T09:22:08-04:00",
 				"url": "https://blog.grotenhuis.info/2022/06/24/092208.html",
 				"tags": ["Resilience","micro posts","Quotes","Asides"]
@@ -54,8 +126,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/06/20/reflecting-on-this.html",
 				
-				"content_html": "<p>Reflecting on this today. 🕊</p>\n\n<p><img src=\"uploads/2022/f6ae0533ca.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
-				"content_text": "Reflecting on this today. 🕊\n\n<img src=\"uploads/2022/f6ae0533ca.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_html": "<p>Reflecting on this today. 🕊</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/f6ae0533ca.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "Reflecting on this today. 🕊\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/f6ae0533ca.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-06-20T08:29:34-04:00",
 				"url": "https://blog.grotenhuis.info/2022/06/20/reflecting-on-this.html",
 				"tags": ["Anabaptism","micro posts","Asides"]
@@ -63,8 +135,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/06/19/sunday-quote.html",
 				
-				"content_html": "<p>📑 Sunday Quote 🕊</p>\n\n<p><img src=\"uploads/2022/4beb61f81a.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
-				"content_text": "📑 Sunday Quote 🕊\n\n<img src=\"uploads/2022/4beb61f81a.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_html": "<p>📑 Sunday Quote 🕊</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/4beb61f81a.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "📑 Sunday Quote 🕊\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/4beb61f81a.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-06-19T15:55:07-04:00",
 				"url": "https://blog.grotenhuis.info/2022/06/19/sunday-quote.html",
 				"tags": ["Anabaptism","Sunday Quotes","micro posts","Quotes","Asides"]
@@ -81,8 +153,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/06/14/pulisic-attacked-by.html",
 				
-				"content_html": "<p>Pulisic attacked by the mud #USMNT ⚽️</p>\n\n<p><img src=\"uploads/2022/e5039d76f4.png\" width=\"600\" height=\"506\" alt=\"\" /></p>\n",
-				"content_text": "Pulisic attacked by the mud #USMNT ⚽️\n\n<img src=\"uploads/2022/e5039d76f4.png\" width=\"600\" height=\"506\" alt=\"\" />\n",
+				"content_html": "<p>Pulisic attacked by the mud #USMNT ⚽️</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/e5039d76f4.png\" width=\"600\" height=\"506\" alt=\"\" /></p>\n",
+				"content_text": "Pulisic attacked by the mud #USMNT ⚽️\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/e5039d76f4.png\" width=\"600\" height=\"506\" alt=\"\" />\n",
 				"date_published": "2022-06-14T22:40:00-04:00",
 				"url": "https://blog.grotenhuis.info/2022/06/14/pulisic-attacked-by.html",
 				"tags": ["Soccer","micro posts","Asides"]
