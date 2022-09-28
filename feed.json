@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/09/28/august-burns-red.html",
+				
+				"content_html": "<p>🎶 <em>August Burns Red</em> made a <a href=\"https://augustburnsredtourmerch.com/products/angry-music-2-0-t-shirt\">t-shirt</a> about me.</p>\n\n<p><img src=\"uploads/2022/46ce34f6b6.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🎶 _August Burns Red_ made a [t-shirt](https://augustburnsredtourmerch.com/products/angry-music-2-0-t-shirt) about me.\n\n<img src=\"uploads/2022/46ce34f6b6.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-28T12:09:45-04:00",
+				"url": "https://blog.grotenhuis.info/2022/09/28/august-burns-red.html",
+				"tags": ["Music","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/09/27/to-chriss-for.html",
+				
+				"content_html": "<p>🚲 to <a href=\"https://www.chrisicecreamindy.com/\">Chris&rsquo;s</a> 🍨🌮 for lunch. Best idea.</p>\n",
+				"content_text": "🚲 to [Chris's](https://www.chrisicecreamindy.com/) 🍨🌮 for lunch. Best idea.\n",
+				"date_published": "2022-09-27T11:59:09-04:00",
+				"url": "https://blog.grotenhuis.info/2022/09/27/to-chriss-for.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/09/26/hi-apple-watch.html",
+				
+				"content_html": "<p>Hi Apple Watch 👋</p>\n\n<p>Very nice to meet you. Really excited about all the cool exercise stuff we&rsquo;re doing. One request though:</p>\n\n<p>Could you maybe <strong>not</strong> give me stand up reminders when we are in sleep mode? kthxbye</p>\n",
+				"content_text": "Hi Apple Watch 👋\r\n\r\nVery nice to meet you. Really excited about all the cool exercise stuff we're doing. One request though:\r\n\r\nCould you maybe **not** give me stand up reminders when we are in sleep mode? kthxbye\n",
+				"date_published": "2022-09-26T08:59:30-04:00",
+				"url": "https://blog.grotenhuis.info/2022/09/26/hi-apple-watch.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/09/25/im-hearing-more.html",
+				
+				"content_html": "<p>I’m hearing more and more “Indunapliss”</p>\n\n<p>Could we not?</p>\n\n<p>Even better we could come up with a new city name?</p>\n",
+				"content_text": "I’m hearing more and more “Indunapliss”\n\nCould we not?\n\nEven better we could come up with a new city name?\n",
+				"date_published": "2022-09-25T10:37:48-04:00",
+				"url": "https://blog.grotenhuis.info/2022/09/25/im-hearing-more.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/09/22/did-you-know.html",
+				
+				"content_html": "<p>🎶 <strong>Did You Know?</strong></p>\n\n<p>It’s not officially Autumn until you’ve listened to Opeth’s <em>Blackwater Park</em> straight through.</p>\n\n<p><img src=\"uploads/2022/f38ff616c9.jpg\" width=\"300\" height=\"300\" alt=\"\" /></p>\n",
+				"content_text": "🎶 **Did You Know?**\n\nIt’s not officially Autumn until you’ve listened to Opeth’s _Blackwater Park_ straight through.\n\n<img src=\"uploads/2022/f38ff616c9.jpg\" width=\"300\" height=\"300\" alt=\"\" />\n",
+				"date_published": "2022-09-22T19:45:41-04:00",
+				"url": "https://blog.grotenhuis.info/2022/09/22/did-you-know.html",
+				"tags": ["Music","micro posts","Asides"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/09/22/i-think-part.html",
 				
 				"content_html": "<p>I think part of the joy of 🚲 is that it forces you to be mindful and present in the moment.</p>\n\n<p>(Sadly this is because you are constantly aware of your surroundings to help ensure you don’t get murdert.)</p>\n",
@@ -72,8 +117,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/09/17/please-recommend-more.html",
 				
-				"content_html": "<p>Please recommend more albums like <a href=\"https://yovel.bandcamp.com/album/forthcoming-humanity-2020\">Yovel - Forthcoming Humanity</a> 🎶🕊🏴</p>\n\n<p>(Plex says <em>BtBaM - The Great Misdirect</em> is similar. It’s also a great album, but no.)</p>\n\n<p><img src=\"uploads/2022/7da3dfd9b3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Please recommend more albums like [Yovel - Forthcoming Humanity](https://yovel.bandcamp.com/album/forthcoming-humanity-2020) 🎶🕊🏴\n\n(Plex says _BtBaM - The Great Misdirect_ is similar. It’s also a great album, but no.)\n\n<img src=\"uploads/2022/7da3dfd9b3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Please recommend more albums like <a href=\"https://yovel.bandcamp.com/album/forthcoming-humanity-2020\">Yovel - Forthcoming Humanity</a> 🎶🕊🏴</p>\n\n<p>(Plex says <em>BtBaM - The Great Misdirect</em> is similar. It’s also a great album, but no.)</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/7da3dfd9b3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Please recommend more albums like [Yovel - Forthcoming Humanity](https://yovel.bandcamp.com/album/forthcoming-humanity-2020) 🎶🕊🏴\n\n(Plex says _BtBaM - The Great Misdirect_ is similar. It’s also a great album, but no.)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/7da3dfd9b3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-17T19:26:49-04:00",
 				"url": "https://blog.grotenhuis.info/2022/09/17/please-recommend-more.html",
 				"tags": ["Anabaptism","Music","micro posts","Asides"]
