@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/09/automatic-loudness-leveling.html",
+				
+				"content_html": "<p>🎶 automatic loudness leveling is really helpful…</p>\n\n<p>But what the heck are you doing Apple Music? You shouldn’t do this <em>within</em> an album playthrough. Awkward, esp. when there are transitions, preludes, and interludes.</p>\n\n<p>I’ve never noticed another service do this wrong.</p>\n",
+				"content_text": "🎶 automatic loudness leveling is really helpful…\n\nBut what the heck are you doing Apple Music? You shouldn’t do this _within_ an album playthrough. Awkward, esp. when there are transitions, preludes, and interludes.\n\nI’ve never noticed another service do this wrong.\n",
+				"date_published": "2022-10-09T20:48:45-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/09/automatic-loudness-leveling.html",
+				"tags": ["Music","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/09/an-rpg-where.html",
+				
+				"content_html": "<p>🎲 An RPG where all the NPCs and creatures are horrors from Stable Diffusion.</p>\n\n<p>This is &ldquo;lizard man, apocalyptic wasteland, Landscape&rdquo; variant from a previous version of that prompt.</p>\n\n<p>(This is kinda what I was already doing for my game/setting but didn&rsquo;t expect so many weird horrors)</p>\n\n<p><img src=\"uploads/2022/7e59737d43.png\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "🎲 An RPG where all the NPCs and creatures are horrors from Stable Diffusion.\r\n\r\nThis is \"lizard man, apocalyptic wasteland, Landscape\" variant from a previous version of that prompt.\r\n\r\n(This is kinda what I was already doing for my game/setting but didn't expect so many weird horrors)\n\n<img src=\"uploads/2022/7e59737d43.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-09T15:08:32-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/09/an-rpg-where.html",
+				"tags": ["Games","micro posts","Asides","RPG"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/06/they-were-going.html",
+				
+				"content_html": "<p>They were going to send my mom home from the hospital today, with an oxygen tank. She didn’t feel good about it and wanted to wait until tomorrow to be stronger and more prepared.</p>\n\n<p>Tonight, a fire burned down her house.</p>\n",
+				"content_text": "They were going to send my mom home from the hospital today, with an oxygen tank. She didn’t feel good about it and wanted to wait until tomorrow to be stronger and more prepared.\n\nTonight, a fire burned down her house.\n",
+				"date_published": "2022-10-06T21:21:32-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/06/they-were-going.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/06/inktober-day-bouquet.html",
+				
+				"content_html": "<p><a href=\"https://blog.grotenhuis.info/categories/inktober/\">#Inktober22</a> Day 6: Bouquet</p>\n\n<p><img src=\"uploads/2022/fe177b5e00.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "[#Inktober22](https://blog.grotenhuis.info/categories/inktober/) Day 6: Bouquet\n\n<img src=\"uploads/2022/fe177b5e00.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-06T13:37:13-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/06/inktober-day-bouquet.html",
+				"tags": ["Inktober","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/06/played-around-with.html",
+				
+				"content_html": "<p>🎲 played around with <a href=\"https://github.com/divamgupta/diffusionbee-stable-diffusion-ui\">Diffusion Bee</a> last night and it’s going to be awesome for personal game/setting development.</p>\n",
+				"content_text": "🎲 played around with [Diffusion Bee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) last night and it’s going to be awesome for personal game/setting development.\n",
+				"date_published": "2022-10-06T08:27:59-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/06/played-around-with.html",
+				"tags": ["Games","micro posts","Asides","RPG"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/05/ive-got-no.html",
+				
+				"content_html": "<p>I’ve got no stake in either, but I keep wondering why I see Asian countries in European events?</p>\n",
+				"content_text": "I’ve got no stake in either, but I keep wondering why I see Asian countries in European events?\n",
+				"date_published": "2022-10-05T19:24:05-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/05/ive-got-no.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/04/inktober-day-scallop.html",
 				
 				"content_html": "<p><a href=\"https://blog.grotenhuis.info/categories/inktober/\">#Inktober22</a> Day 4: Scallop</p>\n\n<p><img src=\"uploads/2022/f3a7c87cc6.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
