@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/18/almost-forgot-to.html",
+				
+				"content_html": "<p>😱 almost forgot to close the exercise ring, today.</p>\n",
+				"content_text": "😱 almost forgot to close the exercise ring, today.\n",
+				"date_published": "2022-10-18T22:17:50-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/18/almost-forgot-to.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/16/i-find-it.html",
+				
+				"content_html": "<p>🎶 I find it interesting to look at which top artists don&rsquo;t have a top album (and vice versa).</p>\n\n<p>Any stand out in your own lists/data?</p>\n\n<p><img src=\"uploads/2022/f215cd9943.png\" width=\"493\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "🎶 I find it interesting to look at which top artists don't have a top album (and vice versa). \r\n\r\nAny stand out in your own lists/data?\n\n<img src=\"uploads/2022/f215cd9943.png\" width=\"493\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-16T16:59:26-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/16/i-find-it.html",
+				"tags": ["Music","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/16/can-you-tell.html",
+				
+				"content_html": "<p>Can you tell when I got a watch? #CloseTheCircles 💪</p>\n\n<p><img src=\"uploads/2022/5c9e9d329a.png\" width=\"516\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Can you tell when I got a watch? #CloseTheCircles 💪\n\n<img src=\"uploads/2022/5c9e9d329a.png\" width=\"516\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-16T15:49:41-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/16/can-you-tell.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/14/i-might-have.html",
 				
 				"content_html": "<p>🎶 🕊 I might have to go to Mennoland East in December: <a href=\"https://christmasburnsred.com\">Christmas Burns Red</a></p>\n\n<p><img src=\"uploads/2022/a43cbf6853.jpg\" width=\"500\" height=\"600\" alt=\"\"></p>\n",
@@ -27,8 +54,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/12/newb-question-for.html",
 				
-				"content_html": "<p>🚲 newb question for bike people:</p>\n\n<p>I’ve been riding my fixie cruiser while working back up to my commuter road bike. The handlebars have become loose on the axis that changes their tilt, not height. There is no obvious mechanism to tighten this.</p>\n\n<p>Any ideas?</p>\n",
-				"content_text": "🚲 newb question for bike people:\n\nI’ve been riding my fixie cruiser while working back up to my commuter road bike. The handlebars have become loose on the axis that changes their tilt, not height. There is no obvious mechanism to tighten this.\n\nAny ideas?\n",
+				"content_html": "<p>🚲 newb question for bike people:</p>\n\n<p>I’ve been riding my fixie cruiser while working back up to my commuter road bike. The handlebars have become loose on the axis that changes their tilt, not height. There is no obvious mechanism to tighten this.</p>\n\n<p>Any ideas?</p>\n\n<p><em>update: fixed</em></p>\n",
+				"content_text": "🚲 newb question for bike people:\n\nI’ve been riding my fixie cruiser while working back up to my commuter road bike. The handlebars have become loose on the axis that changes their tilt, not height. There is no obvious mechanism to tighten this.\n\nAny ideas?\n\n_update: fixed_\n",
 				"date_published": "2022-10-12T20:59:13-04:00",
 				"url": "https://blog.grotenhuis.info/2022/10/12/newb-question-for.html",
 				"tags": ["micro posts","Asides"]
@@ -63,8 +90,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/06/inktober-day-bouquet.html",
 				
-				"content_html": "<p><a href=\"https://blog.grotenhuis.info/categories/inktober/\">#Inktober22</a> Day 6: Bouquet</p>\n\n<p><img src=\"uploads/2022/fe177b5e00.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "[#Inktober22](https://blog.grotenhuis.info/categories/inktober/) Day 6: Bouquet\n\n<img src=\"uploads/2022/fe177b5e00.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p><a href=\"https://blog.grotenhuis.info/categories/inktober/\">#Inktober22</a> Day 6: Bouquet</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/fe177b5e00.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "[#Inktober22](https://blog.grotenhuis.info/categories/inktober/) Day 6: Bouquet\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/fe177b5e00.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-06T13:37:13-04:00",
 				"url": "https://blog.grotenhuis.info/2022/10/06/inktober-day-bouquet.html",
 				"tags": ["Inktober","micro posts","Asides"]
@@ -90,8 +117,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/04/inktober-day-scallop.html",
 				
-				"content_html": "<p><a href=\"https://blog.grotenhuis.info/categories/inktober/\">#Inktober22</a> Day 4: Scallop</p>\n\n<p><img src=\"uploads/2022/f3a7c87cc6.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "[#Inktober22](https://blog.grotenhuis.info/categories/inktober/) Day 4: Scallop\n\n<img src=\"uploads/2022/f3a7c87cc6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p><a href=\"https://blog.grotenhuis.info/categories/inktober/\">#Inktober22</a> Day 4: Scallop</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/f3a7c87cc6.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "[#Inktober22](https://blog.grotenhuis.info/categories/inktober/) Day 4: Scallop\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/f3a7c87cc6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-04T19:28:58-04:00",
 				"url": "https://blog.grotenhuis.info/2022/10/04/inktober-day-scallop.html",
 				"tags": ["Inktober","micro posts","Asides"]
