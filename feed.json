@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/25/there-are-droplets.html",
+				
+				"content_html": "<p>There are droplets of water just falling out of the sky. 😨</p>\n",
+				"content_text": "There are droplets of water just falling out of the sky. 😨\n",
+				"date_published": "2022-10-25T18:15:54-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/25/there-are-droplets.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/23/smoked-winter-ale.html",
+				
+				"content_html": "<p>Smoked winter ale on a summer-like autumn day. 🤷‍♂️</p>\n\n<p><img src=\"uploads/2022/30cdbc6059.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Smoked winter ale on a summer-like autumn day. 🤷‍♂️\n\n<img src=\"uploads/2022/30cdbc6059.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-23T12:43:03-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/23/smoked-winter-ale.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/23/sunday-quote.html",
+				
+				"content_html": "<p>📑 Sunday Quote</p>\n\n<p><img src=\"uploads/2022/6d59f6466c.jpg\" width=\"600\" height=\"337\" alt=\"\"></p>\n",
+				"content_text": "📑 Sunday Quote\n\n<img src=\"uploads/2022/6d59f6466c.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2022-10-23T08:32:40-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/23/sunday-quote.html",
+				"tags": ["Sunday Quotes","micro posts","Quotes","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/22/a-quarter-of.html",
+				
+				"content_html": "<p>⚽️ &ldquo;a quarter of an American hour now for Christian Pulisic&rdquo;</p>\n\n<p>Look, Captain America is great and I know USAmericans have bad tendencies towards exceptionalism, but I don&rsquo;t think we have our own <strong>hour</strong>. #USMNT #CFC</p>\n",
+				"content_text": "⚽️ \"a quarter of an American hour now for Christian Pulisic\"\n\nLook, Captain America is great and I know USAmericans have bad tendencies towards exceptionalism, but I don't think we have our own **hour**. #USMNT #CFC\n",
+				"date_published": "2022-10-22T14:03:27-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/22/a-quarter-of.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/22/its-fall-and.html",
+				
+				"content_html": "<p>It&rsquo;s fall and <a href=\"indymenno.org\">Indy Menno</a> is heading back into Mennonite Church USA&rsquo;s <a href=\"mennoniteusa.org/abolition-curriculum-intro\">Abolition Curriculum</a>. 🕊</p>\n\n<p>Join us!</p>\n\n<p><img src=\"uploads/2022/22101d29d3.png\" width=\"600\" height=\"334\" alt=\"\"></p>\n",
+				"content_text": "It's fall and [Indy Menno](indymenno.org) is heading back into Mennonite Church USA's [Abolition Curriculum](mennoniteusa.org/abolition-curriculum-intro). 🕊\n\nJoin us!\n\n<img src=\"uploads/2022/22101d29d3.png\" width=\"600\" height=\"334\" alt=\"\">\n",
+				"date_published": "2022-10-22T12:46:39-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/22/its-fall-and.html",
+				"tags": ["Anabaptism","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/22/did-anybody-ever.html",
+				
+				"content_html": "<blockquote>\n<p>“Did anybody ever tell you you have eyes anybody could get lost in?”</p>\n</blockquote>\n\n<p>Aww, shucks ☺️</p>\n",
+				"content_text": "> “Did anybody ever tell you you have eyes anybody could get lost in?”\n\nAww, shucks ☺️\n",
+				"date_published": "2022-10-22T09:18:38-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/22/did-anybody-ever.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/21/its-that-time.html",
+				
+				"content_html": "<p>It&rsquo;s that time of year where the squirrels are getting so chonky it sounds like someone is running on our roof.</p>\n",
+				"content_text": "It's that time of year where the squirrels are getting so chonky it sounds like someone is running on our roof.\n",
+				"date_published": "2022-10-21T13:27:04-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/21/its-that-time.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/18/almost-forgot-to.html",
 				
 				"content_html": "<p>😱 almost forgot to close the exercise ring, today.</p>\n",
@@ -18,8 +81,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/16/i-find-it.html",
 				
-				"content_html": "<p>🎶 I find it interesting to look at which top artists don&rsquo;t have a top album (and vice versa).</p>\n\n<p>Any stand out in your own lists/data?</p>\n\n<p><img src=\"uploads/2022/f215cd9943.png\" width=\"493\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "🎶 I find it interesting to look at which top artists don't have a top album (and vice versa). \r\n\r\nAny stand out in your own lists/data?\n\n<img src=\"uploads/2022/f215cd9943.png\" width=\"493\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>🎶 I find it interesting to look at which top artists don&rsquo;t have a top album (and vice versa).</p>\n\n<p>Any stand out in your own lists/data?</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/f215cd9943.png\" width=\"493\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "🎶 I find it interesting to look at which top artists don't have a top album (and vice versa). \r\n\r\nAny stand out in your own lists/data?\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/f215cd9943.png\" width=\"493\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-16T16:59:26-04:00",
 				"url": "https://blog.grotenhuis.info/2022/10/16/i-find-it.html",
 				"tags": ["Music","micro posts","Asides"]
@@ -27,8 +90,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/16/can-you-tell.html",
 				
-				"content_html": "<p>Can you tell when I got a watch? #CloseTheCircles 💪</p>\n\n<p><img src=\"uploads/2022/5c9e9d329a.png\" width=\"516\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Can you tell when I got a watch? #CloseTheCircles 💪\n\n<img src=\"uploads/2022/5c9e9d329a.png\" width=\"516\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Can you tell when I got a watch? #CloseTheCircles 💪</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/5c9e9d329a.png\" width=\"516\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Can you tell when I got a watch? #CloseTheCircles 💪\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/5c9e9d329a.png\" width=\"516\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-16T15:49:41-04:00",
 				"url": "https://blog.grotenhuis.info/2022/10/16/can-you-tell.html",
 				"tags": ["micro posts","Asides"]
@@ -36,8 +99,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/14/i-might-have.html",
 				
-				"content_html": "<p>🎶 🕊 I might have to go to Mennoland East in December: <a href=\"https://christmasburnsred.com\">Christmas Burns Red</a></p>\n\n<p><img src=\"uploads/2022/a43cbf6853.jpg\" width=\"500\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "🎶 🕊 I might have to go to Mennoland East in December: [Christmas Burns Red](https://christmasburnsred.com)\n\n<img src=\"uploads/2022/a43cbf6853.jpg\" width=\"500\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>🎶 🕊 I might have to go to Mennoland East in December: <a href=\"https://christmasburnsred.com\">Christmas Burns Red</a></p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/a43cbf6853.jpg\" width=\"500\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "🎶 🕊 I might have to go to Mennoland East in December: [Christmas Burns Red](https://christmasburnsred.com)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/a43cbf6853.jpg\" width=\"500\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-14T14:36:48-04:00",
 				"url": "https://blog.grotenhuis.info/2022/10/14/i-might-have.html",
 				"tags": ["Anabaptism","Music","micro posts","Asides"]
@@ -72,8 +135,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/09/an-rpg-where.html",
 				
-				"content_html": "<p>🎲 An RPG where all the NPCs and creatures are horrors from Stable Diffusion.</p>\n\n<p>This is &ldquo;lizard man, apocalyptic wasteland, Landscape&rdquo; variant from a previous version of that prompt.</p>\n\n<p>(This is kinda what I was already doing for my game/setting but didn&rsquo;t expect so many weird horrors)</p>\n\n<p><img src=\"uploads/2022/7e59737d43.png\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "🎲 An RPG where all the NPCs and creatures are horrors from Stable Diffusion.\r\n\r\nThis is \"lizard man, apocalyptic wasteland, Landscape\" variant from a previous version of that prompt.\r\n\r\n(This is kinda what I was already doing for my game/setting but didn't expect so many weird horrors)\n\n<img src=\"uploads/2022/7e59737d43.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>🎲 An RPG where all the NPCs and creatures are horrors from Stable Diffusion.</p>\n\n<p>This is &ldquo;lizard man, apocalyptic wasteland, Landscape&rdquo; variant from a previous version of that prompt.</p>\n\n<p>(This is kinda what I was already doing for my game/setting but didn&rsquo;t expect so many weird horrors)</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/7e59737d43.png\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "🎲 An RPG where all the NPCs and creatures are horrors from Stable Diffusion.\r\n\r\nThis is \"lizard man, apocalyptic wasteland, Landscape\" variant from a previous version of that prompt.\r\n\r\n(This is kinda what I was already doing for my game/setting but didn't expect so many weird horrors)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/7e59737d43.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-09T15:08:32-04:00",
 				"url": "https://blog.grotenhuis.info/2022/10/09/an-rpg-where.html",
 				"tags": ["Games","micro posts","Asides","RPG"]
