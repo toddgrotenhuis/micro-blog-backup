@@ -7,22 +7,31 @@
 	"items": [
 		
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/10/25/there-are-droplets.html",
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/30/time-for-a.html",
 				
-				"content_html": "<p>There are droplets of water just falling out of the sky. 😨</p>\n",
-				"content_text": "There are droplets of water just falling out of the sky. 😨\n",
-				"date_published": "2022-10-25T18:15:54-04:00",
-				"url": "https://blog.grotenhuis.info/2022/10/25/there-are-droplets.html",
+				"content_html": "<p>Time for a haunted history walk. 👻</p>\n\n<p><img src=\"uploads/2022/49a7c97eb9.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Time for a haunted history walk. 👻\n\n<img src=\"uploads/2022/49a7c97eb9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-30T20:25:07-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/30/time-for-a.html",
 				"tags": ["micro posts","Asides"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/10/23/smoked-winter-ale.html",
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/30/working-hard.html",
 				
-				"content_html": "<p>Smoked winter ale on a summer-like autumn day. 🤷‍♂️</p>\n\n<p><img src=\"uploads/2022/30cdbc6059.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Smoked winter ale on a summer-like autumn day. 🤷‍♂️\n\n<img src=\"uploads/2022/30cdbc6059.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-10-23T12:43:03-04:00",
-				"url": "https://blog.grotenhuis.info/2022/10/23/smoked-winter-ale.html",
+				"content_html": "<p>Working hard…</p>\n\n<p><img src=\"uploads/2022/0b31939bd3.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Working hard…\n\n<img src=\"uploads/2022/0b31939bd3.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-30T15:21:47-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/30/working-hard.html",
 				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/10/29/this-announcer-just.html",
+				
+				"content_html": "<p>This ⚽️ announcer just called swearing “industrial language” 🎶 and I’m officially calling it that now.</p>\n",
+				"content_text": "This ⚽️ announcer just called swearing “industrial language” 🎶 and I’m officially calling it that now.\n",
+				"date_published": "2022-10-29T11:34:26-04:00",
+				"url": "https://blog.grotenhuis.info/2022/10/29/this-announcer-just.html",
+				"tags": ["Soccer","Music","micro posts","Asides"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/23/sunday-quote.html",
@@ -34,55 +43,10 @@
 				"tags": ["Sunday Quotes","micro posts","Quotes","Asides"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/10/22/a-quarter-of.html",
-				
-				"content_html": "<p>⚽️ &ldquo;a quarter of an American hour now for Christian Pulisic&rdquo;</p>\n\n<p>Look, Captain America is great and I know USAmericans have bad tendencies towards exceptionalism, but I don&rsquo;t think we have our own <strong>hour</strong>. #USMNT #CFC</p>\n",
-				"content_text": "⚽️ \"a quarter of an American hour now for Christian Pulisic\"\n\nLook, Captain America is great and I know USAmericans have bad tendencies towards exceptionalism, but I don't think we have our own **hour**. #USMNT #CFC\n",
-				"date_published": "2022-10-22T14:03:27-04:00",
-				"url": "https://blog.grotenhuis.info/2022/10/22/a-quarter-of.html",
-				"tags": ["Soccer","micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/10/22/its-fall-and.html",
-				
-				"content_html": "<p>It&rsquo;s fall and <a href=\"indymenno.org\">Indy Menno</a> is heading back into Mennonite Church USA&rsquo;s <a href=\"mennoniteusa.org/abolition-curriculum-intro\">Abolition Curriculum</a>. 🕊</p>\n\n<p>Join us!</p>\n\n<p><img src=\"uploads/2022/22101d29d3.png\" width=\"600\" height=\"334\" alt=\"\"></p>\n",
-				"content_text": "It's fall and [Indy Menno](indymenno.org) is heading back into Mennonite Church USA's [Abolition Curriculum](mennoniteusa.org/abolition-curriculum-intro). 🕊\n\nJoin us!\n\n<img src=\"uploads/2022/22101d29d3.png\" width=\"600\" height=\"334\" alt=\"\">\n",
-				"date_published": "2022-10-22T12:46:39-04:00",
-				"url": "https://blog.grotenhuis.info/2022/10/22/its-fall-and.html",
-				"tags": ["Anabaptism","micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/10/22/did-anybody-ever.html",
-				
-				"content_html": "<blockquote>\n<p>“Did anybody ever tell you you have eyes anybody could get lost in?”</p>\n</blockquote>\n\n<p>Aww, shucks ☺️</p>\n",
-				"content_text": "> “Did anybody ever tell you you have eyes anybody could get lost in?”\n\nAww, shucks ☺️\n",
-				"date_published": "2022-10-22T09:18:38-04:00",
-				"url": "https://blog.grotenhuis.info/2022/10/22/did-anybody-ever.html",
-				"tags": ["micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/10/21/its-that-time.html",
-				
-				"content_html": "<p>It&rsquo;s that time of year where the squirrels are getting so chonky it sounds like someone is running on our roof.</p>\n",
-				"content_text": "It's that time of year where the squirrels are getting so chonky it sounds like someone is running on our roof.\n",
-				"date_published": "2022-10-21T13:27:04-04:00",
-				"url": "https://blog.grotenhuis.info/2022/10/21/its-that-time.html",
-				"tags": ["micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/10/18/almost-forgot-to.html",
-				
-				"content_html": "<p>😱 almost forgot to close the exercise ring, today.</p>\n",
-				"content_text": "😱 almost forgot to close the exercise ring, today.\n",
-				"date_published": "2022-10-18T22:17:50-04:00",
-				"url": "https://blog.grotenhuis.info/2022/10/18/almost-forgot-to.html",
-				"tags": ["micro posts","Asides"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/16/i-find-it.html",
 				
-				"content_html": "<p>🎶 I find it interesting to look at which top artists don&rsquo;t have a top album (and vice versa).</p>\n\n<p>Any stand out in your own lists/data?</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/f215cd9943.png\" width=\"493\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "🎶 I find it interesting to look at which top artists don't have a top album (and vice versa). \r\n\r\nAny stand out in your own lists/data?\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/f215cd9943.png\" width=\"493\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>🎶 I find it interesting to look at which top artists don&rsquo;t have a top album (and vice versa).</p>\n\n<p>Any stand out in your own lists/data?</p>\n\n<p><img src=\"uploads/2022/f215cd9943.png\" width=\"493\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "🎶 I find it interesting to look at which top artists don't have a top album (and vice versa). \r\n\r\nAny stand out in your own lists/data?\n\n<img src=\"uploads/2022/f215cd9943.png\" width=\"493\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-16T16:59:26-04:00",
 				"url": "https://blog.grotenhuis.info/2022/10/16/i-find-it.html",
 				"tags": ["Music","micro posts","Asides"]
@@ -90,20 +54,11 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/16/can-you-tell.html",
 				
-				"content_html": "<p>Can you tell when I got a watch? #CloseTheCircles 💪</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/5c9e9d329a.png\" width=\"516\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Can you tell when I got a watch? #CloseTheCircles 💪\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/5c9e9d329a.png\" width=\"516\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Can you tell when I got a watch? #CloseTheCircles 💪</p>\n\n<p><img src=\"uploads/2022/5c9e9d329a.png\" width=\"516\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Can you tell when I got a watch? #CloseTheCircles 💪\n\n<img src=\"uploads/2022/5c9e9d329a.png\" width=\"516\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-16T15:49:41-04:00",
 				"url": "https://blog.grotenhuis.info/2022/10/16/can-you-tell.html",
 				"tags": ["micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/10/14/i-might-have.html",
-				
-				"content_html": "<p>🎶 🕊 I might have to go to Mennoland East in December: <a href=\"https://christmasburnsred.com\">Christmas Burns Red</a></p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/a43cbf6853.jpg\" width=\"500\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "🎶 🕊 I might have to go to Mennoland East in December: [Christmas Burns Red](https://christmasburnsred.com)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/a43cbf6853.jpg\" width=\"500\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-10-14T14:36:48-04:00",
-				"url": "https://blog.grotenhuis.info/2022/10/14/i-might-have.html",
-				"tags": ["Anabaptism","Music","micro posts","Asides"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/12/now-when-someone.html",
@@ -196,15 +151,6 @@
 				"tags": ["Inktober","micro posts","Asides"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/10/02/this-is-still.html",
-				
-				"content_html": "<p>This is still showing in Google One benefits</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/e21edc9391.png\" width=\"600\" height=\"571\" alt=\"\"></p>\n",
-				"content_text": "This is still showing in Google One benefits\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/e21edc9391.png\" width=\"600\" height=\"571\" alt=\"\">\n",
-				"date_published": "2022-10-02T19:54:13-04:00",
-				"url": "https://blog.grotenhuis.info/2022/10/02/this-is-still.html",
-				"tags": ["micro posts","Asides"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/10/02/inktober-day-scurry.html",
 				
 				"content_html": "<p><a href=\"https://blog.grotenhuis.info/categories/inktober/\">#Inktober22</a> Day 2: Scurry</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/a7baba6222.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
@@ -286,24 +232,6 @@
 				"tags": ["micro posts","Asides"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/09/26/hi-apple-watch.html",
-				
-				"content_html": "<p>Hi Apple Watch 👋</p>\n\n<p>Very nice to meet you. Really excited about all the cool exercise stuff we&rsquo;re doing. One request though:</p>\n\n<p>Could you maybe <strong>not</strong> give me stand up reminders when we are in sleep mode? kthxbye</p>\n",
-				"content_text": "Hi Apple Watch 👋\r\n\r\nVery nice to meet you. Really excited about all the cool exercise stuff we're doing. One request though:\r\n\r\nCould you maybe **not** give me stand up reminders when we are in sleep mode? kthxbye\n",
-				"date_published": "2022-09-26T08:59:30-04:00",
-				"url": "https://blog.grotenhuis.info/2022/09/26/hi-apple-watch.html",
-				"tags": ["micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/09/25/im-hearing-more.html",
-				
-				"content_html": "<p>I’m hearing more and more “Indunapliss”</p>\n\n<p>Could we not?</p>\n\n<p>Even better we could come up with a new city name?</p>\n",
-				"content_text": "I’m hearing more and more “Indunapliss”\n\nCould we not?\n\nEven better we could come up with a new city name?\n",
-				"date_published": "2022-09-25T10:37:48-04:00",
-				"url": "https://blog.grotenhuis.info/2022/09/25/im-hearing-more.html",
-				"tags": ["micro posts","Asides"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/09/22/did-you-know.html",
 				
 				"content_html": "<p>🎶 <strong>Did You Know?</strong></p>\n\n<p>It’s not officially Autumn until you’ve listened to Opeth’s <em>Blackwater Park</em> straight through.</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/f38ff616c9.jpg\" width=\"300\" height=\"300\" alt=\"\" /></p>\n",
@@ -367,15 +295,6 @@
 				"tags": ["Music","micro posts","Asides"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/09/17/what-a-painful.html",
-				
-				"content_html": "<p>⚽️ what a painful way to end the season</p>\n\n<p>Let’s bring some of the energy from the previous four games into next year #IXI</p>\n",
-				"content_text": "⚽️ what a painful way to end the season\n\nLet’s bring some of the energy from the previous four games into next year #IXI\n",
-				"date_published": "2022-09-17T23:19:55-04:00",
-				"url": "https://blog.grotenhuis.info/2022/09/17/what-a-painful.html",
-				"tags": ["Soccer","micro posts","Asides"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/09/17/please-recommend-more.html",
 				
 				"content_html": "<p>Please recommend more albums like <a href=\"https://yovel.bandcamp.com/album/forthcoming-humanity-2020\">Yovel - Forthcoming Humanity</a> 🎶🕊🏴</p>\n\n<p>(Plex says <em>BtBaM - The Great Misdirect</em> is similar. It’s also a great album, but no.)</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/7da3dfd9b3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
@@ -418,24 +337,6 @@
 				"content_text": "Spending a little time each morning with _[The Personal MBA](https://bookshop.org/a/10222/9780525543022)_ and will be taking light linked notes at:\n\n[notes.multif.actor/pmba](https://notes.multif.actor/pmba)\n",
 				"date_published": "2022-09-16T10:26:38-04:00",
 				"url": "https://blog.grotenhuis.info/2022/09/16/spending-a-little.html",
-				"tags": ["micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/09/15/got-a-handwritten.html",
-				
-				"content_html": "<p>Got a handwritten letter from a Jehovah’s Witness. They clearly put so much time into it that I <em>almost</em> read it.</p>\n\n<p>Look, I’m a Mennonite so we actually agree on a couple things (e.g. non-violence, anti-nationalism) but not…all that other stuff. 🕊</p>\n",
-				"content_text": "Got a handwritten letter from a Jehovah’s Witness. They clearly put so much time into it that I _almost_ read it.\n\nLook, I’m a Mennonite so we actually agree on a couple things (e.g. non-violence, anti-nationalism) but not…all that other stuff. 🕊\n",
-				"date_published": "2022-09-15T21:23:13-04:00",
-				"url": "https://blog.grotenhuis.info/2022/09/15/got-a-handwritten.html",
-				"tags": ["Anabaptism","micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/09/15/heardsaw-an-fall.html",
-				
-				"content_html": "<p>Heard/saw an 🍎 fall from the tree. That officially makes it Autumn right?</p>\n",
-				"content_text": "Heard/saw an 🍎 fall from the tree. That officially makes it Autumn right?\n",
-				"date_published": "2022-09-15T19:12:42-04:00",
-				"url": "https://blog.grotenhuis.info/2022/09/15/heardsaw-an-fall.html",
 				"tags": ["micro posts","Asides"]
 			},
 			{
@@ -682,15 +583,6 @@
 				"tags": ["Games","micro posts","Asides"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/08/16/no-youre-playing.html",
-				
-				"content_html": "<p>No <strong>you’re</strong> playing an old Elder Scrolls game on a fancy new device. 🕹</p>\n",
-				"content_text": "No **you’re** playing an old Elder Scrolls game on a fancy new device. 🕹\n",
-				"date_published": "2022-08-16T20:31:58-04:00",
-				"url": "https://blog.grotenhuis.info/2022/08/16/no-youre-playing.html",
-				"tags": ["Games","micro posts","Asides"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/08/16/no-the-gop.html",
 				"title": "No, the GOP is not the party of law enforcement",
 				"content_html": "<p>…and neither is the Democratic party.</p>\n<hr />\n<p>In the news this morning, there were reactions of <strong>surprise</strong> that there would be calls coming from rightwing reactionaries to “defund the FBI”.</p>\n<p><em>Why surprise?</em> Well, because the commentators see the GOP on the side of law enforcement <em>generally</em>, and <strong>more specifically</strong> due to their reaction to calls from activists to defund the police.</p>\n<p>But most people, including people that make up the Republican and Democratic parties, are people of <strong>some</strong> law enforcement. Which laws we want to see created and enforced tend to vary by political leanings.</p>\n<p>Between the FBI &amp; the police, the FBI is more likely to restrain the <strong>powerful</strong>, and the police are more likely to restrain the <strong>less-powerful</strong>. This aligns with the trends of the right and left wings in USAmerican politics. We should not see “surprise” with this alignment.</p>\n<p>Obviously there are <em>many exceptions</em>, and I am no proponent of either party (<a href=\"https://blog.grotenhuis.info/2020/06/02/in-that-order.html\">nor in favor of “punching” in general</a>), but it is directionally true that he rightwing has been more likely to “punch down” towards those in weaker positions (e.g. immigration, poverty, sexuality, etc.) and the leftwing has been more likely to “punch up” towards those with power (e.g. monopoly, environment). <em>(All this despite the fact that people in powerful positions often feel like they are the embattled ones.)</em></p>\n<p><strong>In summary</strong>: don’t be surprised that there are factions of the right wing calling to defund law enforcement that restrains the powerful. That is the MO of much of their recent work.</p>\n",
@@ -698,15 +590,6 @@
 				"date_published": "2022-08-16T15:25:05-04:00",
 				"url": "https://blog.grotenhuis.info/2022/08/16/no-the-gop.html",
 				"tags": ["full posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/08/16/i-really-want.html",
-				
-				"content_html": "<p>🎨🎲 I really want to subscribe to <a href=\"https://www.midjourney.org/\">midjourney</a> to work on my game and adventure design, but discord is such a bad medium in which to use such a tool.</p>\n",
-				"content_text": "🎨🎲 I really want to subscribe to [midjourney](https://www.midjourney.org/) to work on my game and adventure design, but discord is such a bad medium in which to use such a tool.\n",
-				"date_published": "2022-08-16T08:33:22-04:00",
-				"url": "https://blog.grotenhuis.info/2022/08/16/i-really-want.html",
-				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/08/14/were-reading-atomic.html",
@@ -725,15 +608,6 @@
 				"date_published": "2022-08-14T18:13:34-04:00",
 				"url": "https://blog.grotenhuis.info/2022/08/14/anybody-know-anything.html",
 				"tags": ["Music","micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/08/14/rocket-from-koulibaly.html",
-				
-				"content_html": "<p>Rocket from Koulibaly! ⚽️ #CFC</p>\n\n<p><em>edit: this was the first of four goals in a fiery 2-2 game against Tottenham</em></p>\n",
-				"content_text": "Rocket from Koulibaly! ⚽️ #CFC\n\n_edit: this was the first of four goals in a fiery 2-2 game against Tottenham_\n",
-				"date_published": "2022-08-14T11:51:02-04:00",
-				"url": "https://blog.grotenhuis.info/2022/08/14/rocket-from-koulibaly.html",
-				"tags": ["Soccer","micro posts","Asides"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/08/14/getting-used-to.html",
@@ -817,15 +691,6 @@
 				"tags": ["Music","micro posts","Asides"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/08/03/weve-had-power.html",
-				
-				"content_html": "<p>We’ve had power go out at least three times today. What is this, Texas?</p>\n",
-				"content_text": "We’ve had power go out at least three times today. What is this, Texas?\n",
-				"date_published": "2022-08-03T16:32:14-04:00",
-				"url": "https://blog.grotenhuis.info/2022/08/03/weve-had-power.html",
-				"tags": ["micro posts","Asides"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/08/03/does-strategy-matter.html",
 				
 				"content_html": "<p><a href=\"https://www.craft.do/s/rC7clat8ONf8JQ\">Does Strategy Matter?</a></p>\n",
@@ -833,15 +698,6 @@
 				"date_published": "2022-08-03T10:40:41-04:00",
 				"url": "https://blog.grotenhuis.info/2022/08/03/does-strategy-matter.html",
 				"tags": ["Ideas","micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/08/03/are-you-at.html",
-				
-				"content_html": "<p>Are you at GenCon? 🎲\nSee anything really cool?\nTell me about it so I can decide if I should get a daypass and swing by.</p>\n",
-				"content_text": "Are you at GenCon? 🎲\r\nSee anything really cool?\r\nTell me about it so I can decide if I should get a daypass and swing by.\n",
-				"date_published": "2022-08-03T09:20:28-04:00",
-				"url": "https://blog.grotenhuis.info/2022/08/03/are-you-at.html",
-				"tags": ["Games","micro posts","Asides","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/08/03/that-checks-out.html",
@@ -943,15 +799,6 @@
 				"tags": ["micro posts","Asides","Sightings"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/07/21/looks-like-steam.html",
-				
-				"content_html": "<p>🕹 Looks like Steam Deck will be beating Playdate and PS5 in getting to me.</p>\n\n<p>Possible I won’t even get the PS5, then.</p>\n",
-				"content_text": "🕹 Looks like Steam Deck will be beating Playdate and PS5 in getting to me.\n\nPossible I won’t even get the PS5, then.\n",
-				"date_published": "2022-07-21T22:57:46-04:00",
-				"url": "https://blog.grotenhuis.info/2022/07/21/looks-like-steam.html",
-				"tags": ["Games","micro posts","Asides"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/07/21/amalga-single-malt.html",
 				
 				"content_html": "<p>🥃 <a href=\"https://www.amalgadistillery.com/\">Amalga</a> single malt peated American whiskey. 100% barley, new American oak, finished in rum casks.</p>\n\n<p>Peat is not super strong. Clearly distinct flavor profile compared to both Islay whisky and High West Campfire.</p>\n\n<p>Tasty!</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/d9188d1339.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.grotenhuis.info/uploads/2022/d670fc08e7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
@@ -1022,15 +869,6 @@
 				"date_published": "2022-07-15T00:37:07-04:00",
 				"url": "https://blog.grotenhuis.info/2022/07/15/thinking-about-using.html",
 				"tags": ["Music","micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/07/14/seems-like-the.html",
-				
-				"content_html": "<p>Seems like the locals in Alaska mostly wear Australian boots 😆 (blundstones) 🥾</p>\n",
-				"content_text": "Seems like the locals in Alaska mostly wear Australian boots 😆 (blundstones) 🥾\n",
-				"date_published": "2022-07-14T22:58:04-04:00",
-				"url": "https://blog.grotenhuis.info/2022/07/14/seems-like-the.html",
-				"tags": ["micro posts","Asides"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/07/14/my-hike-was.html",
@@ -1195,15 +1033,6 @@
 				"tags": ["Anabaptism","micro posts","Asides"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/07/02/lets-talk-about.html",
-				
-				"content_html": "<p>🎶 let’s talk about <a href=\"https://kardashev.bandcamp.com/album/liminal-rite\">Liminal Rite</a></p>\n\n<p>(Another quick audio commentary by yours truly)</p>\n\n<p><audio controls=\"controls\" src=\"https://blog.grotenhuis.info/uploads/2022/1e46e6bfc6.mp3\" preload=\"metadata\" /></p>\n",
-				"content_text": "🎶 let’s talk about [Liminal Rite](https://kardashev.bandcamp.com/album/liminal-rite)\n\n(Another quick audio commentary by yours truly)\n\n<audio controls=\"controls\" src=\"https://blog.grotenhuis.info/uploads/2022/1e46e6bfc6.mp3\" preload=\"metadata\" />\n",
-				"date_published": "2022-07-02T16:19:12-04:00",
-				"url": "https://blog.grotenhuis.info/2022/07/02/lets-talk-about.html",
-				"tags": ["Music","micro posts","Asides"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/07/01/kayaked-hard-upriver.html",
 				
 				"content_html": "<p>🛶 Kayaked hard upriver until I was tired, then took it so easy on the way back that the damselflies and dragonflies landed on me like I was part of the landscape.</p>\n",
@@ -1229,15 +1058,6 @@
 				"date_published": "2022-06-28T08:20:32-04:00",
 				"url": "https://blog.grotenhuis.info/2022/06/28/security-birb.html",
 				"tags": ["Humor","micro posts","Asides","Sightings"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/06/27/how-am-i.html",
-				
-				"content_html": "<p>🎶 How am I just now learning about Kardashev? <a href=\"https://kardashev.bandcamp.com/track/glass-phantoms\">video</a></p>\n",
-				"content_text": "🎶 How am I just now learning about Kardashev? [video](https://kardashev.bandcamp.com/track/glass-phantoms)\n",
-				"date_published": "2022-06-27T16:03:44-04:00",
-				"url": "https://blog.grotenhuis.info/2022/06/27/how-am-i.html",
-				"tags": ["Music","micro posts","Asides"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/06/26/becoming-a-st.html",
@@ -1339,15 +1159,6 @@
 				"tags": ["micro posts","Asides"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/06/07/my-new-genre.html",
-				
-				"content_html": "<p>My new genre is post-post-</p>\n",
-				"content_text": "My new genre is post-post-\n",
-				"date_published": "2022-06-07T18:01:15-04:00",
-				"url": "https://blog.grotenhuis.info/2022/06/07/my-new-genre.html",
-				"tags": ["micro posts","Asides"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/06/05/bump.html",
 				
 				"content_html": "<p>Bump 🐦</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/6d47f7a634.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
@@ -1384,15 +1195,6 @@
 				"tags": ["micro posts","Asides"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/06/04/arteaga-is-back.html",
-				
-				"content_html": "<p>Arteaga is back! ⚽️ #IXI</p>\n",
-				"content_text": "Arteaga is back! ⚽️ #IXI\n",
-				"date_published": "2022-06-04T19:35:19-04:00",
-				"url": "https://blog.grotenhuis.info/2022/06/04/arteaga-is-back.html",
-				"tags": ["Soccer","micro posts","Asides"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/06/03/my-favorite-thing.html",
 				
 				"content_html": "<p>🎶 my favorite thing to do in PlexAmp:</p>\n\n<ol>\n<li>Play from the &ldquo;fresh ❤️&rdquo; list, which I&rsquo;ve tuned to ⭐️⭐️⭐️⭐️⭐️ songs that I haven&rsquo;t listened to in 3 months.</li>\n<li>Jam the &ldquo;+&rdquo; on a handful of &ldquo;related tracks&rdquo; every time I&rsquo;m really digging a song.</li>\n</ol>\n",
@@ -1426,15 +1228,6 @@
 				"content_text": "Day 31: **Endurance**\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/a843ac0a9a.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n\n[source](https://publish.obsidian.md/resilient/Readwise/Books/The+Acid+Watcher+Diet)\n",
 				"date_published": "2022-05-31T07:58:29-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/31/day-endurance-source.html",
-				"tags": ["micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/05/30/just-did-an.html",
-				
-				"content_html": "<p>Just did an Internet search for “hip hop crocs” because I’m curious what these are and how it is they are even uglier and less ventilated than the originals. 😆</p>\n\n<p>You would not be surprised to find my search was unsuccessful.</p>\n",
-				"content_text": "Just did an Internet search for “hip hop crocs” because I’m curious what these are and how it is they are even uglier and less ventilated than the originals. 😆 \n\nYou would not be surprised to find my search was unsuccessful.\n",
-				"date_published": "2022-05-30T18:06:31-04:00",
-				"url": "https://blog.grotenhuis.info/2022/05/30/just-did-an.html",
 				"tags": ["micro posts","Asides"]
 			},
 			{
@@ -1688,15 +1481,6 @@
 				"date_published": "2022-05-25T07:17:37-04:00",
 				"url": "https://blog.grotenhuis.info/2022/05/25/day-mountain-source.html",
 				"tags": ["micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/05/24/tomorrow-there-will.html",
-				
-				"content_html": "<p>Tomorrow there will be a bunch of “Christians” worshipping Mars, instead of defending the children they claim to care about. 🕊</p>\n",
-				"content_text": "Tomorrow there will be a bunch of “Christians” worshipping Mars, instead of defending the children they claim to care about. 🕊\n",
-				"date_published": "2022-05-24T22:09:28-04:00",
-				"url": "https://blog.grotenhuis.info/2022/05/24/tomorrow-there-will.html",
-				"tags": ["Anabaptism","micro posts","Asides"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/05/24/day-intricate-source.html",
@@ -2021,15 +1805,6 @@
 				"date_published": "2022-04-27T21:22:28-04:00",
 				"url": "https://blog.grotenhuis.info/2022/04/27/i-had-no.html",
 				"tags": ["Anabaptism","Music","micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/04/27/finished-a-few.html",
-				
-				"content_html": "<p>📺 Finished a few series recently, so updated my <a href=\"https://publish.obsidian.md/resilient/Public/Media/TV/TV+Notes\">viewing micronotes</a></p>\n",
-				"content_text": "📺 Finished a few series recently, so updated my [viewing micronotes](https://publish.obsidian.md/resilient/Public/Media/TV/TV+Notes)\n",
-				"date_published": "2022-04-27T21:03:36-04:00",
-				"url": "https://blog.grotenhuis.info/2022/04/27/finished-a-few.html",
-				"tags": ["micro posts","Asides"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/04/27/working-on-a.html",
