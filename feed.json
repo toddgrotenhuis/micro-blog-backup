@@ -7,6 +7,132 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/10/jog-my-memory.html",
+				
+				"content_html": "<p>🎶 jog my memory: was <strong>Thursday</strong> mostly a one-hit-wonder or did people listen to lots more than <em>Understanding in a Car Crash</em>?</p>\n",
+				"content_text": "🎶 jog my memory: was **Thursday** mostly a one-hit-wonder or did people listen to lots more than _Understanding in a Car Crash_?\n",
+				"date_published": "2022-12-10T22:05:54-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/10/jog-my-memory.html",
+				"tags": ["Music","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/10/now-rooting-for.html",
+				
+				"content_html": "<p>⚽️ Now rooting for a Croatia v Morocco final.</p>\n",
+				"content_text": "⚽️ Now rooting for a Croatia v Morocco final.\n",
+				"date_published": "2022-12-10T16:04:27-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/10/now-rooting-for.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/10/this-ref-is.html",
+				
+				"content_html": "<p>⚽️ this ref is so bad that about 1/3 of the players’ energy seems to be going to trying to get a call, now</p>\n",
+				"content_text": "⚽️ this ref is so bad that about 1/3 of the players’ energy seems to be going to trying to get a call, now\n",
+				"date_published": "2022-12-10T15:49:58-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/10/this-ref-is.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/10/kanet-mounts-gotta.html",
+				
+				"content_html": "<p>⚽️ Kane’t</p>\n\n<p>Mount’s gotta be mad he didn’t get to take that after earning it.</p>\n",
+				"content_text": "⚽️ Kane’t\n\nMount’s gotta be mad he didn’t get to take that after earning it.\n",
+				"date_published": "2022-12-10T15:46:42-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/10/kanet-mounts-gotta.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/10/how-is-fox.html",
+				
+				"content_html": "<p>⚽️ how is Fox not having Ian Darke cover this game?</p>\n",
+				"content_text": "⚽️ how is Fox not having Ian Darke cover this game?\n",
+				"date_published": "2022-12-10T14:03:09-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/10/how-is-fox.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/10/yikes-m-ref.html",
+				
+				"content_html": "<p>⚽️ yikes, ref may have just gave this game to Portugal!</p>\n\n<p>(<em>edit: luckily he didn’t</em>)</p>\n",
+				"content_text": "⚽️ yikes, ref may have just gave this game to Portugal!\n\n(_edit: luckily he didn’t_)\n",
+				"date_published": "2022-12-10T11:52:45-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/10/yikes-m-ref.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/10/lets-go-ziyech.html",
+				
+				"content_html": "<p>⚽️ let&rsquo;s go Ziyech and Morocco!</p>\n",
+				"content_text": "⚽️ let's go Ziyech and Morocco!\n",
+				"date_published": "2022-12-10T10:00:59-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/10/lets-go-ziyech.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/09/congrats-to-martinez.html",
+				
+				"content_html": "<p>⚽️ congrats to Martinez. #teamgoalie</p>\n\n<p>(<em>edited to add: Argentina&rsquo;s goalkeeper made a brilliant save to help them beat Netherlands in penalty kicks.</em>)</p>\n",
+				"content_text": "⚽️ congrats to Martinez. #teamgoalie\n\n(_edited to add: Argentina's goalkeeper made a brilliant save to help them beat Netherlands in penalty kicks._)\n",
+				"date_published": "2022-12-09T16:56:43-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/09/congrats-to-martinez.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/09/tomorrows-games-dire.html",
+				
+				"content_html": "<p>⚽️ tomorrow’s games: Dire Straits</p>\n\n<p>(You can thank my spouse for that one)</p>\n",
+				"content_text": "⚽️ tomorrow’s games: Dire Straits\n\n(You can thank my spouse for that one)\n",
+				"date_published": "2022-12-09T16:30:59-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/09/tomorrows-games-dire.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/09/that-was-some.html",
+				
+				"content_html": "<p>⚽️ that was some wicked fun rascally-wild #NED goal</p>\n\n<p>(<em>edited to add: Netherlands did a &ldquo;slow-roller&rdquo; to get around the wall on a setpiece and scored in the last minute of stoppage time to tie the game and take it to overtime</em>)</p>\n",
+				"content_text": "⚽️ that was some wicked fun rascally-wild #NED goal\n\n(_edited to add: Netherlands did a \"slow-roller\" to get around the wall on a setpiece and scored in the last minute of stoppage time to tie the game and take it to overtime_)\n",
+				"date_published": "2022-12-09T16:05:02-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/09/that-was-some.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/09/who-wants-to.html",
+				
+				"content_html": "<p>🎶🐓 Who wants to go to Igorrr (+ Melt-Banana and Otto von Schirach)? <a href=\"https://thevogue.com/events/igorrr-september-28-2023\">Sep 28 at the Vogue</a></p>\n\n<p>(It was awesome when I saw a full-band experience in Chicago.)</p>\n",
+				"content_text": "🎶🐓 Who wants to go to Igorrr (+ Melt-Banana and Otto von Schirach)? [Sep 28 at the Vogue](https://thevogue.com/events/igorrr-september-28-2023)\r\n\r\n(It was awesome when I saw a full-band experience in Chicago.)\n",
+				"date_published": "2022-12-09T09:07:57-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/09/who-wants-to.html",
+				"tags": ["Music","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/08/interesting-look-at.html",
+				
+				"content_html": "<p>⚽️ <a href=\"https://www.espn.com/soccer/fifa-world-cup/story/4826538/usmnt-squad-way-too-early-look-ahead-of-2026-world-cup\">interesting look at names to watch for USMNT future</a></p>\n",
+				"content_text": "⚽️ [interesting look at names to watch for USMNT future](https://www.espn.com/soccer/fifa-world-cup/story/4826538/usmnt-squad-way-too-early-look-ahead-of-2026-world-cup)\n",
+				"date_published": "2022-12-08T10:20:46-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/08/interesting-look-at.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/07/didnt-close-my.html",
+				
+				"content_html": "<p>Didn&rsquo;t close my rings yesterday (boo sickness), so back to building my streak. 💪</p>\n",
+				"content_text": "Didn't close my rings yesterday (boo sickness), so back to building my streak. 💪\n",
+				"date_published": "2022-12-07T11:04:37-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/07/didnt-close-my.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/07/last-week-week.html",
+				
+				"content_html": "<p>Last week week I heard this about Andor &ldquo;oh, it was interesting to <strong>finallly</strong> find out how the empire is bad&rdquo; (emphasis added).</p>\n\n<p>I don&rsquo;t know if this is more of an indictment of:</p>\n\n<ul>\n<li>our collective inability to be bothered by fascism</li>\n<li>how much our movie &ldquo;heroes&rdquo; act like villians</li>\n</ul>\n",
+				"content_text": "Last week week I heard this about Andor \"oh, it was interesting to **finallly** find out how the empire is bad\" (emphasis added).\r\n\r\nI don't know if this is more of an indictment of:\r\n\r\n* our collective inability to be bothered by fascism\r\n* how much our movie \"heroes\" act like villians\n",
+				"date_published": "2022-12-07T09:43:05-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/07/last-week-week.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/12/05/incredible-livakovi-teamgoalie.html",
 				
 				"content_html": "<p>⚽️ Incredible Livaković! #TeamGoalie</p>\n",
@@ -27,8 +153,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/12/04/im-very-proliberalism.html",
 				
-				"content_html": "<p>📑 I’m very pro-liberalism (in the classical philosophical sense, not modern-parties sense), but this is one reason we need countervailing movements to run along side those baseline underpinnings.</p>\n\n<p><img src=\"uploads/2022/bfc34ce9c7.jpg\" width=\"600\" height=\"337\" alt=\"\"></p>\n",
-				"content_text": "📑 I’m very pro-liberalism (in the classical philosophical sense, not modern-parties sense), but this is one reason we need countervailing movements to run along side those baseline underpinnings.\n\n<img src=\"uploads/2022/bfc34ce9c7.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_html": "<p>📑 I’m very pro-liberalism (in the classical philosophical sense, not modern-parties sense), but this is one reason we need countervailing movements to run along side those baseline underpinnings.</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/bfc34ce9c7.jpg\" width=\"600\" height=\"337\" alt=\"\"></p>\n",
+				"content_text": "📑 I’m very pro-liberalism (in the classical philosophical sense, not modern-parties sense), but this is one reason we need countervailing movements to run along side those baseline underpinnings.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/bfc34ce9c7.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2022-12-04T10:25:32-05:00",
 				"url": "https://blog.grotenhuis.info/2022/12/04/im-very-proliberalism.html",
 				"tags": ["micro posts","Quotes","Asides"]
@@ -36,8 +162,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/12/03/plexamp-added-guest.html",
 				
-				"content_html": "<p>🎶 Plexamp added “guest DJ” modes, and they are pretty awesome additions on top of the mix/radio options that were already available.</p>\n\n<p>Here are a few examples of each:</p>\n\n<p><img src=\"uploads/2022/df61d6b830.png\" width=\"351\" height=\"600\" alt=\"\"><img src=\"uploads/2022/e2d08e1773.png\" width=\"471\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "🎶 Plexamp added “guest DJ” modes, and they are pretty awesome additions on top of the mix/radio options that were already available.\n\nHere are a few examples of each:\n\n<img src=\"uploads/2022/df61d6b830.png\" width=\"351\" height=\"600\" alt=\"\"><img src=\"uploads/2022/e2d08e1773.png\" width=\"471\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>🎶 Plexamp added “guest DJ” modes, and they are pretty awesome additions on top of the mix/radio options that were already available.</p>\n\n<p>Here are a few examples of each:</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/df61d6b830.png\" width=\"351\" height=\"600\" alt=\"\"><img src=\"https://blog.grotenhuis.info/uploads/2022/e2d08e1773.png\" width=\"471\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "🎶 Plexamp added “guest DJ” modes, and they are pretty awesome additions on top of the mix/radio options that were already available.\n\nHere are a few examples of each:\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/df61d6b830.png\" width=\"351\" height=\"600\" alt=\"\"><img src=\"https://blog.grotenhuis.info/uploads/2022/e2d08e1773.png\" width=\"471\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-03T22:19:15-05:00",
 				"url": "https://blog.grotenhuis.info/2022/12/03/plexamp-added-guest.html",
 				"tags": ["Music","micro posts","Asides"]
