@@ -7,12 +7,201 @@
 	"items": [
 		
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/12/16/gpt-gabparlertwitter.html",
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/21/its-the-first.html",
 				
-				"content_html": "<p>GPT = Gab/Parler/Twitter</p>\n",
-				"content_text": "GPT = Gab/Parler/Twitter\n",
-				"date_published": "2022-12-16T08:03:28-05:00",
-				"url": "https://blog.grotenhuis.info/2022/12/16/gpt-gabparlertwitter.html",
+				"content_html": "<p>It&rsquo;s the first month of <a href=\"https://home.omg.lol/referred-by/todd\">weblog.lol</a> and <a href=\"https://micro.blog/adam@social.lol\">@adam@social.lol</a> is adding awesome stuff.</p>\n\n<p>I&rsquo;ve been hoping for wikilinks support for micro.blog, too (especially with MarsEdit5 now handling markown and making it much easier to edit past posts and pages). This would be game-changer.</p>\n\n<p><img src=\"uploads/2022/e6b5de44ea.png\" width=\"600\" height=\"126\" alt=\"\"></p>\n",
+				"content_text": "It's the first month of [weblog.lol](https://home.omg.lol/referred-by/todd) and [@adam@social.lol](https://micro.blog/adam@social.lol) is adding awesome stuff.\r\n\r\nI've been hoping for wikilinks support for micro.blog, too (especially with MarsEdit5 now handling markown and making it much easier to edit past posts and pages). This would be game-changer.\n\n<img src=\"uploads/2022/e6b5de44ea.png\" width=\"600\" height=\"126\" alt=\"\">\n",
+				"date_published": "2022-12-21T10:56:01-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/21/its-the-first.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/19/a-rare-addition.html",
+				
+				"content_html": "<p>📚 A rare addition to the ⭐️⭐️⭐️⭐️⭐️ shelf:</p>\n\n<p><a href=\"https://app.thestorygraph.com/books/2ad4fd19-288b-4b98-acba-e9e690d439cd\">The Six Deaths of the Saint</a> by Alix E Harrow</p>\n\n<p>Only 30 pages, but I will never forget it.</p>\n",
+				"content_text": "📚 A rare addition to the ⭐️⭐️⭐️⭐️⭐️ shelf: \n\n[The Six Deaths of the Saint](https://app.thestorygraph.com/books/2ad4fd19-288b-4b98-acba-e9e690d439cd) by Alix E Harrow\n\nOnly 30 pages, but I will never forget it.\n",
+				"date_published": "2022-12-19T23:22:00-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/19/a-rare-addition.html",
+				"tags": ["Books","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/reminder-for-context.html",
+				
+				"content_html": "<p>Reminder:</p>\n\n<p><img src=\"uploads/2022/58b0a20e50.png\" width=\"600\" height=\"337\" alt=\"\"></p>\n\n<p>(<em>for context, Level 3 is a pretty immature level. Good leaders are 4 and rare truly wise ones are 5.</em>)</p>\n",
+				"content_text": "Reminder:\n\n<img src=\"uploads/2022/58b0a20e50.png\" width=\"600\" height=\"337\" alt=\"\">\n\n(_for context, Level 3 is a pretty immature level. Good leaders are 4 and rare truly wise ones are 5._)\n",
+				"date_published": "2022-12-18T20:24:21-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/reminder-for-context.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/just-heard-a.html",
+				
+				"content_html": "<p>🎶 Just heard a new (to me) track that was intriguing, so I checked out the artist and&hellip;.</p>\n\n<p><img src=\"uploads/2022/464c1e497a.png\" width=\"600\" height=\"398\" alt=\"\"></p>\n\n<p>&hellip;ok, go on.</p>\n\n<p>(the band is Ne Obliviscaris)</p>\n",
+				"content_text": "🎶 Just heard a new (to me) track that was intriguing, so I checked out the artist and....\n\n<img src=\"uploads/2022/464c1e497a.png\" width=\"600\" height=\"398\" alt=\"\">\n\n...ok, go on.\n\n(the band is Ne Obliviscaris)\n\n",
+				"date_published": "2022-12-18T20:16:27-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/just-heard-a.html",
+				"tags": ["Music","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/this-was-a.html",
+				
+				"content_html": "<p>🎙 <a href=\"https://www.podbean.com/media/share/pb-fpcax-916632\">This was a pretty poor podcast episode but it had an interesting idea</a>:</p>\n\n<p>Wendell Berry frames the rural United States of America as being &ldquo;colonized&rdquo; and that can be a useful way to think about the extraction, exploitation, and abandonment that frequently happens.</p>\n",
+				"content_text": "🎙 [This was a pretty poor podcast episode but it had an interesting idea](https://www.podbean.com/media/share/pb-fpcax-916632):\r\n\r\nWendell Berry frames the rural United States of America as being \"colonized\" and that can be a useful way to think about the extraction, exploitation, and abandonment that frequently happens.\n",
+				"date_published": "2022-12-18T17:56:55-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/this-was-a.html",
+				"tags": ["micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/think-ill-collect.html",
+				
+				"content_html": "<p>⚽️ think I&rsquo;ll collect all my #worldcup notes into one big post, put some commentary up front, and delete all the micro-posts</p>\n",
+				"content_text": "⚽️ think I'll collect all my #worldcup notes into one big post, put some commentary up front, and delete all the micro-posts\n",
+				"date_published": "2022-12-18T17:09:31-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/think-ill-collect.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/real-proud-of.html",
+				
+				"content_html": "<p>⚽️ Really proud of so many goalkeepers in this tournament.</p>\n",
+				"content_text": "⚽️ Really proud of so many goalkeepers in this tournament.\n",
+				"date_published": "2022-12-18T12:58:43-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/real-proud-of.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/argentina-win-and.html",
+				
+				"content_html": "<p>⚽️ Argentina win and #USMNT <a href=\"https://blog.grotenhuis.info/2022/12/18/if-argentina-wins.html\">are semifinalists</a> #worldcup</p>\n",
+				"content_text": "⚽️ Argentina win and #USMNT [are semifinalists](https://blog.grotenhuis.info/2022/12/18/if-argentina-wins.html) #worldcup\n",
+				"date_published": "2022-12-18T12:56:32-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/argentina-win-and.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/martinez-feeling-better.html",
+				
+				"content_html": "<p>⚽️ Martinez feeling better with every PK: hand on it, blocked, total miss.</p>\n",
+				"content_text": "⚽️ Martinez feeling better with every PK: hand on it, blocked, total miss.\n",
+				"date_published": "2022-12-18T12:53:47-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/martinez-feeling-better.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/spouse-well-im.html",
+				
+				"content_html": "<p>⚽️ spouse &ldquo;Well, I&rsquo;m glad both the stars got theirs&rdquo;</p>\n",
+				"content_text": "⚽️ spouse \"Well, I'm glad both the stars got theirs\"\n",
+				"date_published": "2022-12-18T12:51:39-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/spouse-well-im.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/mind-games-begin.html",
+				
+				"content_html": "<p>⚽️ Mind games begin.</p>\n",
+				"content_text": "⚽️ Mind games begin.\n",
+				"date_published": "2022-12-18T12:49:01-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/mind-games-begin.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/has-been-giving.html",
+				
+				"content_html": "<p>⚽️ 538 has been giving #ARG a 55/45 edge any time it&rsquo;s tied, but they&rsquo;d dropped it to 50/50 now that we are in PKs.</p>\n",
+				"content_text": "⚽️ 538 has been giving #ARG a 55/45 edge any time it's tied, but they'd dropped it to 50/50 now that we are in PKs.\n",
+				"date_published": "2022-12-18T12:48:12-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/has-been-giving.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/this-ref-has.html",
+				
+				"content_html": "<p>⚽️ This ref has been as good as all the others were bad.</p>\n",
+				"content_text": "⚽️ This ref has been as good as all the others were bad.\n",
+				"date_published": "2022-12-18T12:46:29-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/this-ref-has.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/real-shame-this.html",
+				
+				"content_html": "<p>⚽️ Real shame this is going to PKs, but we&rsquo;ve already seen some amazing saves from both keepers. Maybe we&rsquo;ll get some more.</p>\n",
+				"content_text": "⚽️ Real shame this is going to PKs, but we've already seen some amazing saves from both keepers. Maybe we'll get some more.\n",
+				"date_published": "2022-12-18T12:45:45-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/real-shame-this.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/this-game.html",
+				
+				"content_html": "<p>⚽️ This. Game.</p>\n",
+				"content_text": "⚽️ This. Game.\n",
+				"date_published": "2022-12-18T12:39:04-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/this-game.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/that-header-deflection.html",
+				
+				"content_html": "<p>⚽️ That header deflection was a really courageous choice, but it ended up being the right one.</p>\n",
+				"content_text": "⚽️ That header deflection was a really courageous choice, but it ended up being the right one.\n",
+				"date_published": "2022-12-18T12:23:24-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/that-header-deflection.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/great-snotrocket-from.html",
+				
+				"content_html": "<p>⚽️ great snot-rocket from Giroud 🤭</p>\n",
+				"content_text": "⚽️ great snot-rocket from Giroud 🤭\n",
+				"date_published": "2022-12-18T10:37:30-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/great-snotrocket-from.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/18/if-argentina-wins.html",
+				
+				"content_html": "<p>⚽️</p>\n\n<p>If Argentina wins then the #USMNT was only two away from winning (USA -&gt; NED -&gt; ARG), which means USMNT is technically semi-final-strength team.</p>\n\n<p>Right? Right?</p>\n\n<p>Ok, so you know who to root for.</p>\n",
+				"content_text": "⚽️\n\nIf Argentina wins then the #USMNT was only two away from winning (USA -> NED -> ARG), which means USMNT is technically semi-final-strength team.\n\nRight? Right?\n\nOk, so you know who to root for.\n",
+				"date_published": "2022-12-18T09:38:55-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/18/if-argentina-wins.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/17/how-do-you.html",
+				
+				"content_html": "<p>🎶 How do you get from louisville-rock to antifascist red-and-black-metal?</p>\n\n<p>Apparantely through:</p>\n\n<ul>\n<li>post-rock</li>\n<li>super-indie-christian industrial</li>\n<li>extreme christian metal</li>\n</ul>\n\n<p>This is an example of the &ldquo;DJ Stretch&rdquo; feature in PlexAmp, and it&rsquo;s really fun.</p>\n\n<p><img src=\"uploads/2022/2267e85f28.png\" width=\"206\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "🎶 How do you get from louisville-rock to antifascist red-and-black-metal?\n\nApparantely through:\n\n* post-rock\n* super-indie-christian industrial\n* extreme christian metal\n\nThis is an example of the \"DJ Stretch\" feature in PlexAmp, and it's really fun.\n\n<img src=\"uploads/2022/2267e85f28.png\" width=\"206\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-17T16:08:20-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/17/how-do-you.html",
+				"tags": ["Music","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/17/new-affiliate-link.html",
+				
+				"content_html": "<p>New affiliate link: you can now get <a href=\"https://notes.multif.actor/aff\">discounted tickets to Indy Eleven games</a>. ⚽️</p>\n\n<p>(We are season ticket holders #6)</p>\n",
+				"content_text": "New affiliate link: you can now get [discounted tickets to Indy Eleven games](https://notes.multif.actor/aff). ⚽️\n\n(We are season ticket holders #6)\n",
+				"date_published": "2022-12-17T10:22:55-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/17/new-affiliate-link.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/17/croatia-vs-morocco.html",
+				
+				"content_html": "<p>⚽️ Croatia vs. Morocco</p>\n\n<p><em>sorta live-blogged</em></p>\n\n<ul>\n<li>⚽️ Great setpiece from Croatia. Breaks through the Morocco defense that had been so strong in most of the tournament</li>\n<li>⚽️ &hellip;and Morocco equalizes on the <strong>very next play</strong></li>\n<li>Much more attacking chaos that we saw from both of these teams in their earlier stalwart defeneses</li>\n<li>⚽️ Persistence for Croatia pulls off</li>\n<li>Announcers said 3rd place games tend to be high-scoring, and depsite the defensive skill of these teams that prediction is coming true</li>\n<li>Croatia has practiced a number of interesting setpieces</li>\n<li>Feeling bad for Morocco on these injuries and subs</li>\n<li>Couple tough calls there from the refs, and probably should have been a PK for Croatia and yellow (but not PK, outside the box) at the other end</li>\n<li>Congratulations to Croatia</li>\n</ul>\n",
+				"content_text": "⚽️ Croatia vs. Morocco\n\n_sorta live-blogged_\n\n* ⚽️ Great setpiece from Croatia. Breaks through the Morocco defense that had been so strong in most of the tournament\n* ⚽️ ...and Morocco equalizes on the **very next play**\n* Much more attacking chaos that we saw from both of these teams in their earlier stalwart defeneses\n* ⚽️ Persistence for Croatia pulls off\n* Announcers said 3rd place games tend to be high-scoring, and depsite the defensive skill of these teams that prediction is coming true\n* Croatia has practiced a number of interesting setpieces\n* Feeling bad for Morocco on these injuries and subs\n* Couple tough calls there from the refs, and probably should have been a PK for Croatia and yellow (but not PK, outside the box) at the other end\n* Congratulations to Croatia\n",
+				"date_published": "2022-12-17T09:40:02-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/17/croatia-vs-morocco.html",
+				"tags": ["Soccer","micro posts","Asides"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2022/12/16/if-my-career.html",
+				
+				"content_html": "<p>If my career in infosec doesn&rsquo;t work out, maybe I can create industrial techno playlists for Apple Fitness+ so they can have some rad new trainers and workouts.</p>\n",
+				"content_text": "If my career in infosec doesn't work out, maybe I can create industrial techno playlists for Apple Fitness+ so they can have some rad new trainers and workouts.\n",
+				"date_published": "2022-12-16T21:35:37-05:00",
+				"url": "https://blog.grotenhuis.info/2022/12/16/if-my-career.html",
 				"tags": ["micro posts","Asides"]
 			},
 			{
@@ -45,8 +234,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/12/11/sunday-quote.html",
 				
-				"content_html": "<p>📑 Sunday Quote</p>\n\n<p><img src=\"uploads/2022/271a2a082e.jpg\" width=\"600\" height=\"337\" alt=\"\"></p>\n",
-				"content_text": "📑 Sunday Quote\n\n<img src=\"uploads/2022/271a2a082e.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_html": "<p>📑 Sunday Quote</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2022/271a2a082e.jpg\" width=\"600\" height=\"337\" alt=\"\"></p>\n",
+				"content_text": "📑 Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2022/271a2a082e.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2022-12-11T12:28:02-05:00",
 				"url": "https://blog.grotenhuis.info/2022/12/11/sunday-quote.html",
 				"tags": ["Sunday Quotes","micro posts","Quotes","Asides"]
@@ -70,30 +259,12 @@
 				"tags": ["Soccer","micro posts","Asides"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/12/10/this-ref-is.html",
-				
-				"content_html": "<p>⚽️ this ref is so bad that about 1/3 of the players’ energy seems to be going to trying to get a call, now</p>\n",
-				"content_text": "⚽️ this ref is so bad that about 1/3 of the players’ energy seems to be going to trying to get a call, now\n",
-				"date_published": "2022-12-10T15:49:58-05:00",
-				"url": "https://blog.grotenhuis.info/2022/12/10/this-ref-is.html",
-				"tags": ["Soccer","micro posts","Asides"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/12/10/kanet-mounts-gotta.html",
 				
-				"content_html": "<p>⚽️ Kane’t</p>\n\n<p>Mount’s gotta be mad he didn’t get to take that after earning it.</p>\n",
-				"content_text": "⚽️ Kane’t\n\nMount’s gotta be mad he didn’t get to take that after earning it.\n",
+				"content_html": "<p>⚽️ Kane’t</p>\n\n<p>Mount’s gotta be mad he didn’t get to take that after earning it.</p>\n\n<p>(<em>edited to add: Harry Kane missed his second penalty kick. Many managers won&rsquo;t give a player multiple penalty kicks for this reason. The mental games and pressure can be too much, and it was worse in this case because he was going against his club team goalie.</em>)</p>\n",
+				"content_text": "⚽️ Kane’t\n\nMount’s gotta be mad he didn’t get to take that after earning it.\n\n(_edited to add: Harry Kane missed his second penalty kick. Many managers won't give a player multiple penalty kicks for this reason. The mental games and pressure can be too much, and it was worse in this case because he was going against his club team goalie._)\n",
 				"date_published": "2022-12-10T15:46:42-05:00",
 				"url": "https://blog.grotenhuis.info/2022/12/10/kanet-mounts-gotta.html",
-				"tags": ["Soccer","micro posts","Asides"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2022/12/10/how-is-fox.html",
-				
-				"content_html": "<p>⚽️ how is Fox not having Ian Darke cover this game?</p>\n",
-				"content_text": "⚽️ how is Fox not having Ian Darke cover this game?\n",
-				"date_published": "2022-12-10T14:03:09-05:00",
-				"url": "https://blog.grotenhuis.info/2022/12/10/how-is-fox.html",
 				"tags": ["Soccer","micro posts","Asides"]
 			},
 			{
@@ -144,8 +315,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/12/09/who-wants-to.html",
 				
-				"content_html": "<p>🎶🐓 Who wants to go to Igorrr (+ Melt-Banana and Otto von Schirach)? <a href=\"https://thevogue.com/events/igorrr-september-28-2023\">Sep 28 at the Vogue</a></p>\n\n<p>(It was awesome when I saw a full-band experience in Chicago.)</p>\n",
-				"content_text": "🎶🐓 Who wants to go to Igorrr (+ Melt-Banana and Otto von Schirach)? [Sep 28 at the Vogue](https://thevogue.com/events/igorrr-september-28-2023)\r\n\r\n(It was awesome when I saw a full-band experience in Chicago.)\n",
+				"content_html": "<p>🎶🐓 Who wants to go to Igorrr (+ Melt-Banana and Otto von Schirach)? <a href=\"https://thevogue.com/events/igorrr-september-28-2023\">Sep 28 at the Vogue</a></p>\n\n<p>(It was awesome when I saw a full-band experience in Chicago.)</p>\n\n<p><em>edited to add: I reserved a table as well as a ticket.</em></p>\n",
+				"content_text": "🎶🐓 Who wants to go to Igorrr (+ Melt-Banana and Otto von Schirach)? [Sep 28 at the Vogue](https://thevogue.com/events/igorrr-september-28-2023)\n\n(It was awesome when I saw a full-band experience in Chicago.)\n\n_edited to add: I reserved a table as well as a ticket._\n",
 				"date_published": "2022-12-09T09:07:57-05:00",
 				"url": "https://blog.grotenhuis.info/2022/12/09/who-wants-to.html",
 				"tags": ["Music","micro posts","Asides"]
