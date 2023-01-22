@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/22/i-gave-readowai.html",
+				
+				"content_html": "<p>I gave <a href=\"https://readow.ai/\">readow.ai</a> as many of the books as it could find from my <a href=\"https://app.thestorygraph.com/five_star_reads/toddgrotenhuis\">⭐️⭐️⭐️⭐️⭐️ 📚</a> list, and then deleted some results (things I&rsquo;ve read or am reading, multiple items from the same series), and these are the books it recommended to me.</p>\n\n<p><img src=\"uploads/2023/26c69a0ff9.png\" width=\"600\" height=\"381\" alt=\"\"></p>\n",
+				"content_text": "I gave [readow.ai](https://readow.ai/) as many of the books as it could find from my [⭐️⭐️⭐️⭐️⭐️ 📚](https://app.thestorygraph.com/five_star_reads/toddgrotenhuis) list, and then deleted some results (things I've read or am reading, multiple items from the same series), and these are the books it recommended to me.\n\n<img src=\"uploads/2023/26c69a0ff9.png\" width=\"600\" height=\"381\" alt=\"\">\n",
+				"date_published": "2023-01-22T11:42:21-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/22/i-gave-readowai.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/22/sunday-quote.html",
+				
+				"content_html": "<p>Sunday Quote 📑</p>\n\n<p><img src=\"uploads/2023/3ba0311663.png\" width=\"600\" height=\"337\" alt=\"Leaning into a challenge means that we ask ourselves some version of the question: &quot;What can I learn about me in these circumstances?&quot;\"></p>\n",
+				"content_text": "Sunday Quote 📑\n\n<img src=\"uploads/2023/3ba0311663.png\" width=\"600\" height=\"337\" alt=\"Leaning into a challenge means that we ask ourselves some version of the question: &quot;What can I learn about me in these circumstances?&quot;\">\n",
+				"date_published": "2023-01-22T11:28:11-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/22/sunday-quote.html",
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/21/thinking-that-the.html",
+				
+				"content_html": "<p>🎲 Thinking that the <a href=\"https://pluralistic.net/2023/01/21/potemkin-ai/\">enshittification</a> anti-pattern describes very well to what is going on in D&amp;D, too.</p>\n",
+				"content_text": "🎲 Thinking that the [enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/) anti-pattern describes very well to what is going on in D&D, too.\n",
+				"date_published": "2023-01-21T20:59:30-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/21/thinking-that-the.html",
+				"tags": ["Games","micro posts","RPG"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/21/i-unfollowed-people.html",
+				
+				"content_html": "<p>I unfollowed 200+ people today.</p>\n\n<p>It&rsquo;s not you, it&rsquo;s me.</p>\n",
+				"content_text": "I unfollowed 200+ people today.\r\n\r\nIt's not you, it's me.\n",
+				"date_published": "2023-01-21T18:19:21-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/21/i-unfollowed-people.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/21/tonight-i-used.html",
+				
+				"content_html": "<p>👨‍🍳 Tonight I used the time-honored recipe of:</p>\n\n<p>“stick stuff in the oven at 400 for a while”</p>\n",
+				"content_text": "👨‍🍳 Tonight I used the time-honored recipe of:\n\n“stick stuff in the oven at 400 for a while”\n",
+				"date_published": "2023-01-21T18:02:40-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/21/tonight-i-used.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/21/what-is-the.html",
+				
+				"content_html": "<p>⚽️ What is the point of offsides? It&rsquo;s to prevent the game from devolving into constant lobbing of longballs to people hanging out near the goal, right?</p>\n\n<p>The amount of investment that goes into checking offsides on setpieces and other near-goal play feels like a waste. #mastodonfc</p>\n",
+				"content_text": "⚽️ What is the point of offsides? It's to prevent the game from devolving into constant lobbing of longballs to people hanging out near the goal, right?\r\n\r\nThe amount of investment that goes into checking offsides on setpieces and other near-goal play feels like a waste. #mastodonfc\n",
+				"date_published": "2023-01-21T08:39:12-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/21/what-is-the.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/20/indianapolis-recorder-seeks.html",
+				
+				"content_html": "<p>📰 <a href=\"https://indianapolisrecorder.com/indianapolis-recorder-seeks-next-editor/\">Indianapolis Recorder Seeks Next Editor</a>.</p>\n\n<p>Could it be you?</p>\n",
+				"content_text": "📰 [Indianapolis Recorder Seeks Next Editor](https://indianapolisrecorder.com/indianapolis-recorder-seeks-next-editor/).\n\nCould it be you?\n\n",
+				"date_published": "2023-01-20T21:08:04-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/20/indianapolis-recorder-seeks.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/20/i-call-this.html",
+				
+				"content_html": "<p>🔎 I call this “creepwalkin’”</p>\n\n<p><em>Sorry for the bad angle, but I didn’t want to lose the shot.</em> #GreatBlueHeron</p>\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://blog.grotenhuis.info/uploads/2023/acb094bd0e.mov\" width=\"360\" height=\"640\" poster=\"https://blog.grotenhuis.info/uploads/2023/d5402f82d0.png\" preload=\"none\"></video>\n",
+				"content_text": "🔎 I call this “creepwalkin’”\n\n_Sorry for the bad angle, but I didn’t want to lose the shot._ #GreatBlueHeron\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://blog.grotenhuis.info/uploads/2023/acb094bd0e.mov\" width=\"360\" height=\"640\" poster=\"https://blog.grotenhuis.info/uploads/2023/d5402f82d0.png\" preload=\"none\"></video>\n",
+				"date_published": "2023-01-20T12:39:59-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/20/i-call-this.html",
+				"tags": ["micro posts","Sightings"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/19/mennonite-central-committee.html",
+				
+				"content_html": "<p>🕊 Mennonite Central Committee and Mennonite Church USA are hosting a series of webinars: <a href=\"https://mcc.org/get-involved/events/beyond-incarceration-webinar-series\">Beyond Incarceration</a>.</p>\n\n<blockquote>\n<p>Over the last forty years, the era of mass incarceration has seen a rise in the U.S. prison population by <strong>five hundred percent</strong>.</p>\n</blockquote>\n",
+				"content_text": "🕊 Mennonite Central Committee and Mennonite Church USA are hosting a series of webinars: [Beyond Incarceration](https://mcc.org/get-involved/events/beyond-incarceration-webinar-series).\r\n\r\n> Over the last forty years, the era of mass incarceration has seen a rise in the U.S. prison population by **five hundred percent**.\n",
+				"date_published": "2023-01-19T08:41:58-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/19/mennonite-central-committee.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/01/16/i-like-the.html",
 				
 				"content_html": "<p>🔎 I like the interaction of the rain and ice and waves</p>\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://blog.grotenhuis.info/uploads/2023/66f3acd367.mov\" width=\"640\" height=\"360\" poster=\"https://blog.grotenhuis.info/uploads/2023/39c2da045f.png\" preload=\"none\"></video>\n",
@@ -27,8 +108,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/01/15/secret-rule-parlor.html",
 				
-				"content_html": "<p>Secret Rule Parlor Games:</p>\n\n<ul>\n<li>Black Magic</li>\n<li>Green Glass Door / Moon Pennies</li>\n<li>Bang Bang, Who&rsquo;s Dead?</li>\n<li>Grandma Doesn&rsquo;t Like Tea</li>\n<li>How Many Watermelons?</li>\n<li>Tommy Tommy</li>\n<li>The Moon is Round</li>\n</ul>\n\n<p>Know of others? Tell me about them! (or better, let&rsquo;s play them!)</p>\n",
-				"content_text": "Secret Rule Parlor Games:\n\n- Black Magic\n- Green Glass Door / Moon Pennies\n- Bang Bang, Who's Dead?\n- Grandma Doesn't Like Tea\n- How Many Watermelons?\n- Tommy Tommy\n- The Moon is Round\n\nKnow of others? Tell me about them! (or better, let's play them!)\n",
+				"content_html": "<p>Secret Rule Parlor Games:</p>\n\n<ul>\n<li>Black Magic</li>\n<li>Green Glass Door / Moon Pennies</li>\n<li>Bang Bang, Who&rsquo;s Dead? / Whose Triangle Is It?</li>\n<li>Grandma Doesn&rsquo;t Like Tea</li>\n<li>How Many Watermelons?</li>\n<li>Tommy Tommy</li>\n<li>The Moon is Round</li>\n</ul>\n\n<p>Know of others? Tell me about them! (or better, let&rsquo;s play them!)</p>\n",
+				"content_text": "Secret Rule Parlor Games:\n\n- Black Magic\n- Green Glass Door / Moon Pennies\n- Bang Bang, Who's Dead? / Whose Triangle Is It?\n- Grandma Doesn't Like Tea\n- How Many Watermelons?\n- Tommy Tommy\n- The Moon is Round\n\nKnow of others? Tell me about them! (or better, let's play them!)\n",
 				"date_published": "2023-01-15T11:17:43-05:00",
 				"url": "https://blog.grotenhuis.info/2023/01/15/secret-rule-parlor.html",
 				"tags": ["Games","micro posts"]
@@ -36,8 +117,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/01/15/sunday-quote.html",
 				
-				"content_html": "<p>📑 Sunday Quote</p>\n\n<p><img src=\"uploads/2023/d54a376e0f.png\" width=\"600\" height=\"337\" alt=\"“We describe hospitality as “making room,” and we tend to think of this as making room in physical space—making room at our table or making a bed available in our home. The practice of stopping is a different sort of making room. Interruptibility is a practice of making room in time, finding space for others in the midst of our busy day. That’s the inhospitality of hurry; there’s no room for you in my schedule.”\"></p>\n",
-				"content_text": "📑 Sunday Quote\n\n<img src=\"uploads/2023/d54a376e0f.png\" width=\"600\" height=\"337\" alt=\"“We describe hospitality as “making room,” and we tend to think of this as making room in physical space—making room at our table or making a bed available in our home. The practice of stopping is a different sort of making room. Interruptibility is a practice of making room in time, finding space for others in the midst of our busy day. That’s the inhospitality of hurry; there’s no room for you in my schedule.”\">\n",
+				"content_html": "<p>📑 Sunday Quote</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2023/d54a376e0f.png\" width=\"600\" height=\"337\" alt=\"“We describe hospitality as “making room,” and we tend to think of this as making room in physical space—making room at our table or making a bed available in our home. The practice of stopping is a different sort of making room. Interruptibility is a practice of making room in time, finding space for others in the midst of our busy day. That’s the inhospitality of hurry; there’s no room for you in my schedule.”\"></p>\n",
+				"content_text": "📑 Sunday Quote\n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/d54a376e0f.png\" width=\"600\" height=\"337\" alt=\"“We describe hospitality as “making room,” and we tend to think of this as making room in physical space—making room at our table or making a bed available in our home. The practice of stopping is a different sort of making room. Interruptibility is a practice of making room in time, finding space for others in the midst of our busy day. That’s the inhospitality of hurry; there’s no room for you in my schedule.”\">\n",
 				"date_published": "2023-01-15T10:13:31-05:00",
 				"url": "https://blog.grotenhuis.info/2023/01/15/sunday-quote.html",
 				"tags": ["Sunday Quotes","micro posts","Quotes"]
@@ -10516,7 +10597,7 @@
 				"content_text": "<img src=\"https://blog.grotenhuis.info/uploads/2020/aaaa361ff5.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n\n## Overview\nI set a goal of reading 63 books in 2019, which was a 10% increase over 2019. I met this goal exactly. I have again increased my goal by 10% plan to read at least 70 books in 2020.\n\nAbout half of the books I read (32, to be exact) were fiction. I tend to read from the sci-fi, fantasy, thriller, classics, and RPG categories. These are all categories that help explore ideas and/or history.\n\n## How I Read\nI get my books multiple ways. If I don't know if I'll like the book, I look for the audiobook or ebook in my [Scribd subscription](https://www.scribd.com/g/6xggmi) and then [Libby](https://www.overdrive.com/apps/libby/) (to borrow digitally from my local library). If it's a book I'll want to reread or lend, I order a hardback via [Indiebound](https://www.indiebound.org/indie-bestsellers?aff=resilient) or [Alibris](https://www.alibris.com/). I only buy fiction ebooks if there are massive discounts on something I want and it's not already in Scribd. I use [Bookbub](https://www.bookbub.com/) to watch for these discounts. \n\nMy book (and article) highlights and notes from all sources go automatically into [Readwise.io](https://readwise.io/), where I review 15 highlights each day to aid in retention and reflection. This is one of the ways I start my day, and it's incredibly valuable.\n\nI rate books between ⭐️ and ⭐️⭐️⭐️⭐️⭐️, with ⭐️⭐️⭐️ being the cutoff for a worthy book. Thus, I will only share about the ⭐️⭐️⭐️ through ⭐️⭐️⭐️⭐️⭐️ books, here.\n\n## Recommended\n### ⭐️⭐️⭐️⭐️⭐️ \n\n* _[The Long Earth](https://www.indiebound.org/book/9780062067753?aff=resilient)_ by Terry Pratchett and Stephen Baxter: while this isn't loved by some Pratchett purists, I found this work of speculative fiction delightful & insightful and I was excited to find out there is a whole series.\n\n### ⭐️⭐️⭐️⭐️\n\n* _[How Long 'Til Black Future Month](https://www.indiebound.org/book/9780316491341?aff=resilient)_ by N. K. Jemisin: from one of my favorite authors of 2018, this collection of shorter fiction is excellent.\n* _[The Raven Tower](https://www.indiebound.org/book/9780316388696?aff=resilient)_ by Ann Leckie: highly-recommended fantasy where one of the perspectives is a god, and the plot constantly snowballs. \n* _[The Power](https://www.indiebound.org/book/9780316547611?aff=resilient)_ by Naomi Alderman: an excellent allegorical tale about power and gender.\n* _[Thunderhead](https://www.indiebound.org/book/9781442472457?aff=resilient)_ by Neal Shusterman: second in the Arc of a Scythe, Shusterman continues to deliver high intensity young adult fiction with lots of opportunities for deep discussion. I only wish it had a discussion guide like the first book!\n* _[Whitehack 2nd Ed. - Notebook Edition](http://www.lulu.com/shop/christian-mehrstam/whitehack-second-edition-notebook/hardcover/product-22269088.html)_ by Christian Mehrstam: this is an old-school RPG game with new school sensibilities. Includes pages for your own characters, notes, rules, etc.\n* _[Curse of Strahd](https://www.indiebound.org/book/9780786965984?aff=resilient)_ by Chris Perkins and Jeremy Crawford: this D&D 5 adventure has had some solid updates from previous Ravenloft stories, including addressing problematic areas in better ways. \n* _[Promise of Blood](https://www.indiebound.org/book/9780316219037?aff=resilient)_ by Brian McClellan: the first of the Powder Mage trilogy, this has a fresh take on fantasy and mystery. McLellan feels like a disciple of Sanderson.\n* _[Still Life](https://www.indiebound.org/book/9780312541538?aff=resilient)_ by Louise Penny: the first of the Armand Gamache novels. I appreciated the attention Penny gave the the psychology and relationships of the characters.\n* _[Pride of Baghdad](https://www.indiebound.org/book/9781401248949?aff=resilient)_ by Brian K. Vaughan and Niko Henrichon: a comic that asks big questions about war and freedom from a unique angle.\n* _[The Gathering Storm](https://www.indiebound.org/book/9780765302304?aff=resilient)_ by Robert Jordan & Brandon Sanderson: the 12th book of the Wheel of Time, and the really picks up and gets good, again. With this book, I can now see why folks like Egwene. \n* _[Mouse Guard Sketchbook: Legends](https://davidpetersen.blogspot.com/2019/03/mouse-guard-sketchbook-legends.html)_ by David Petersen: this is Petersen's art that is  homages-to-the-homages that show up in the _[Mouse Guard Legends](https://www.indiebound.org/book/9781608869053?aff=resilient)_ collaborations.\n* _[Freefall](https://www.indiebound.org/book/9780062874832?aff=resilient)_ by Jessica Barry: an accelerating thriller with fast-switching perspectives between a daughter trying to stay alive and her mother who thinks she is already dead.\n* _[In a Dark, Dark wood](https://www.indiebound.org/book/9781501112317?aff=resilient)_ by Ruth Ware: feels like an old-school-but-modern thriller mystery.\n\n \n### ⭐️⭐️⭐️\n\n* _[Dawn](https://www.indiebound.org/book/9780446603775?aff=resilient)_ by Octavia Butler: the first book in the Xenogenesis series, I'm looking forward to where this goes.\n* _[Last Tango in Cyberspace](https://www.indiebound.org/book/9781250202079?aff=resilient)_ by Steve Kotler: a fun near-future cyberpunk-noir mystery.\n* _[The Lamb Will Slaughter the Lion](https://www.indiebound.org/book/9780765397362?aff=resilient)_ by Margaret Killjoy: this short fiction is a mashup of anarcho-punk aesthetic and modern supernatural horror.\n* _[Knife of Dreams](https://www.indiebound.org/book/9780312873073?aff=resilient)_ by Robert Jordan: the 11th book, where the plot started to finally advance, again!\n* _[The Good Detective](https://www.indiebound.org/book/9780525535539?aff=resilient)_ by John McMahon: the first P.T. Marsh mystery, one where it's possible the detective's actions led to the death of the prime suspect.\n* _[Dry](https://www.indiebound.org/book/9781508263098?aff=resilient)_ by Neal and Jarrod Shusterman: Neal's son joins him on this new book, and a whole cast are involved in the audio recording. Not as good as Shusterman's normal work, this is still an enjoyable book.  \n* _[Atmosphæra Incognita](https://www.indiebound.org/book/9781596069190?aff=resilient)_ by Neal Stephenson: a hard scifi short story from a collection about building possible futures.\n* _[X-Files: Cold Cases](https://www.indiebound.org/book/9781978665255?aff=resilient)_ by Joe Harris, Chris Carter, and Dirk Maggs: new audio stories in the X-Files universe, setup like full-audio dramas.\n* _[The Night Circus](https://www.indiebound.org/book/9780385534635?aff=resilient)_ by Erin Morgenstern: in a deviation from the norm, this book is more about the sensory experience than the characters or plot.\n* _[Locke & Key: Welcome to Lovecraft](https://www.indiebound.org/book/9781600102370?aff=resilient)_ by Joe Hill and Gabriel Rodriguez: I find most Lovecraft unpalatable, but this comic interpretation was spellbinding. \n* _[Cable & Deadpool: If Looks Could Kill](https://www.indiebound.org/book/9780785113744?aff=resilient)_ by Fabian Nicieza, Mark Brooks, & Patrick Zircher: this comic has all the weirdness you might expect from Deadpool & Cable.\n\n## Further Notes\nFor a review of my non-fiction read in 2019, see [here](https://blog.grotenhuis.info/2020/01/01/review-nonfiction.html). For 2018 books, see [here](https://blog.grotenhuis.info/2019/01/01/book-review.html).\n\nFor the Goodreads overview of my reading, [see here](https://www.goodreads.com/user/year_in_books/2019/5194821). \n\n_Note: this post has affiliate links. I am linking to things I truly enjoy, and have not been paid or pressured to recommend any of them._\n",
 				"date_published": "2020-01-01T17:10:00-05:00",
 				"url": "https://blog.grotenhuis.info/2020/01/01/review-fiction.html",
-				"tags": ["Review","Ideas","Humor","Books","full posts"]
+				"tags": ["Review","Ideas","Humor","Books","full posts","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/01/01/review-nonfiction.html",
@@ -10759,7 +10840,7 @@
 				"content_text": "I received my [Trilemma Adventures Compendium 1 book](https://www.drivethrurpg.com/m/product/286792&affiliate_id=21283), and it’s the coolest physical RPG book I’ve ever seen. Great format, color, layout, lay flat, appendices, maps...you name it.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/28556bc485.jpg\" width=\"600\" height=\"478\" alt=\"\" />\n",
 				"date_published": "2019-12-14T11:11:24-05:00",
 				"url": "https://blog.grotenhuis.info/2019/12/14/i-received-my.html",
-				"tags": ["Games","Review","micro posts"]
+				"tags": ["Games","Review","micro posts","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/12/13/awesome-new-shirt.html",
@@ -10849,7 +10930,7 @@
 				"content_text": "Alien RPG materials arrived, and the main book looks excellent. #RPG\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/5425c5a41f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-30T15:44:47-05:00",
 				"url": "https://blog.grotenhuis.info/2019/11/30/alien-rpg-materials.html",
-				"tags": ["Games","Review","micro posts"]
+				"tags": ["Games","Review","micro posts","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/11/29/did-you-or.html",
@@ -10876,7 +10957,7 @@
 				"content_text": "I recently [shared pictures](https://blog.grotenhuis.info/2019/11/26/from-an-rpg.html) from an RPG I ran for my niece and nephew during thanksgiving week.\n\nI tried running [Dungeon World](https://www.drivethrurpg.com/product/108028/Dungeon-World ?affiliate_I’d=21283) for them last year, which was a bit too tricky of a rule set for them at the time. This time, I decided to start with [Risus](https://www.drivethrurpg.com/product/203657/Risus-Companion?affiliate_id=21283), a very simple system that uses ratings called “clichés”.\n\nSince we play Team Fortress 2 as a way to hangout and talk, we decided to set the game in the TF2 setting and use the TF2 classes (scout, soldier, pyro, demoman, heavy, engineer, medic, sniper, and spy) as our clichés. Having this pick list gave them enough, but not too much, variety to choose from.\n\nI used a semi-standard Risus setup of starting ratings at 4, 3, 2, 1 (for the total of 10). I also told them their agency would give them 1 basic weapon and 1 tool, or 4 tools. They both chose the first option. (Maybe I should have made it 5 tools, as it didn’t seem like a hard choice but for them.) They also picked code names and their “real names”.  I encouraged them not to have the same things as each other in 3 and 4. Their characters started off like this:\n\n**Codename**: Z7\n**Real name**: Megan\n**4**: Engineer\n**3**: Scout\n**2**: Spy\n**1**: Heavy\n**Basic Weapon**: shotgun\n**Tool**: Wrench\n\n**Codename**: H6\n**Real name**: Jace\n**4**: Heavy\n**3**: Pyro\n**2**: Scout\n**1**: Sniper\n**Basic Weapon**: rifle\n**Tool**: binoculars\n\nWe didn’t have enough d6s, so I used d10s. I also used the Risus variant where you look at the *best* die in the roll, instead of the total. To play, when they wanted to do something interesting with an uncertain outcome, I asked them to describe it, told them which of their cliches was appropriate, and gave them a difficulty between 6 and 10.  I also brought in the Risus conflict rules, again using versus instead of totals.\n\nI also brought in “bennies” to the system, in order to give us a little more flexibility. I awarded them 1 at the start of their mission, and told them they’d get another any time I thought they did something really interesting or clever. They could give me a bennie when they failed a roll and wanted to re-roll it. However, when I got a bennie from then, I could put it back in the pool to add a twist to the story. (In retrospect, I could have instead set it up where I “pay” it to whoever was affected by the twist, but this gets complicated when it could affect both of them.)\n\nI did one more piece of prep. I marked up a pile of note cards with “standard exits” at each cardinal direction and various paths connecting them.\n\nTo play, I asked them to pick a card (from a face down spread). I added some more rough drawings to this card to turn it into their headquarters for their agency (which they decided was called the “Adventurers Agency”).\n\nThey were given their mission: to shut down the Mann Co factory that was producing robots that were being created and sent out to take over the city. They were also warned that some of the robots had been designed to look like humans! They were able to requisition a little more equipment, based on the mission. They ended up with a stun stick (with 3 charges), 1 stick of dynamite, and x-ray googles that could look through a nearby surface and maybe detect false robots.\n\nThe rest of it played out through the story. When they traveled “off a card” on our map, I had them pull a random card to place in that direction they went, and I added a few more light details to that section of the map that was being built out. I had decided at the beginning which one would represent the final factory, but of course I provided a lot of challenges to them along the way.\n\nThe finale was when they ended up using the stick of dynamite to disable the power supply for the plant. We had a lot of fun, and they keep asking to do another mission!\n\nI’m happy to answer any questions about how I setup or ran this!\n",
 				"date_published": "2019-11-27T14:54:00-05:00",
 				"url": "https://blog.grotenhuis.info/2019/11/27/rpgs-with-kids.html",
-				"tags": ["Games","Review","full posts"]
+				"tags": ["Games","Review","full posts","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/11/26/from-an-rpg.html",
@@ -10885,7 +10966,7 @@
 				"content_text": "From an RPG with niece and nephew. A Risus-based TF2-inspired build-as-you-go game where the agents had to shut down a Mann Co robot factory.\n\n*Edit: full writeup now [here](https://blog.grotenhuis.info/2019/11/27/rpgs-with-kids.html)*\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/1267d19fc5.jpg\" width=\"600\" height=\"466\" alt=\"\" /><img src=\"https://blog.grotenhuis.info/uploads/2019/3de90cc3fd.jpg\" width=\"600\" height=\"352\" alt=\"\" />\n",
 				"date_published": "2019-11-26T18:15:00-05:00",
 				"url": "https://blog.grotenhuis.info/2019/11/26/from-an-rpg.html",
-				"tags": ["Games","Review","micro posts"]
+				"tags": ["Games","Review","micro posts","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/11/25/i-added-a.html",
@@ -11155,7 +11236,7 @@
 				"content_text": "It was back to Games on Demand, again. [Miles](http://www.mileszs.com/) and I got to try out [Maze Rats](https://questingbeast.itch.io/maze-rats). I confess I have avoided a lot of the “OSR” space due to encountering so much toxic behavior from that community. That said, this was a simple and fun game, and I may add it to my toolbox along with new-school old-school games like [Whitehack](http://www.lulu.com/shop/christian-mehrstam/whitehack-second-edition-notebook/hardcover/product-22269088.html), [Torchbearer](https://www.torchbearerrpg.com/), and [Vagabonds of Dyfed](https://www.drivethrurpg.com/product/240583/Vagabonds-of-Dyfed).\n\n---\nWe also got to try out another card-based RPG. I’m always eager to try these, because I love cards and have been tossing around ideas for my own game for years. [Capers](https://www.drivethrurpg.com/product/246744/Capers-Rpg?src=hottest_filtered) is a dual-named game because in it you play both supers (*caped*, get it?) and are involved in prohibition era-capers. \n\nWe had a pretty inexperienced (I think?) GM, so I’m not sure I got a good shake of this game, but I learned enough about how it’s setup to see what I liked and didn’t.\n\n---\n\nSaturday was also the day I got the David Peterson AKA [Mouse Guard](https://twitter.com/mouseguard) commission of our beloved dog Siku!\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/6ace49f7a6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-08-04T16:47:00-05:00",
 				"url": "https://blog.grotenhuis.info/2019/08/04/gencon-day.html",
-				"tags": ["Games","Review","full posts"]
+				"tags": ["Games","Review","full posts","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/08/04/134055.html",
@@ -11173,7 +11254,7 @@
 				"content_text": "I started today off with some [Games on Demand](https://www.indiegamesondemand.org), and [Miles](http://www.mileszs.com), Christian, and I got to try the Penthouse playset with a couple others. It was epic in both the funny and horrible ways that Fiasco should be. Fiasco at GenCon seems to now be an annual thing for Miles and me.\n\n---\n\nThen, it was time for our [Aecer’s Light](https://www.kickstarter.com/projects/madjay/by-aecers-light) Burning Wheel game with [Mad Jay](https://twitter.com/MadJayZero). We had a great time, and I’m very interested in what he is doing with the Wolfen and Roden in Burning Wheel. The zine and scenario are going to be great!\n\n<figure>\n  <img src=\"https://blog.grotenhuis.info/uploads/2019/baddc7bcc5.jpg\" alt=\"\" />\n</figure>\n\n---\n\nI got a chance to swing by the Burning Wheel Headquarters booth and see David Peterson (AKA [Mouse Guard](https://twitter.com/mouseguard)) in action, working on the piece I commissioned. That was quite the treat, and I’m really excited about how it is going to turn out!\n\n---\n\nI also found a good-condition used physical copy of the [D6 System](https://ogc.rpglibrary.org/index.php?title=OpenD6) book, which you may recognize as the core rules that powered West End Games Star Wars (and other games).\n\n---\n\nThe day ended with a fun dinner with friends. Looking forward to another great day at #GenCon19\n",
 				"date_published": "2019-08-02T19:39:00-05:00",
 				"url": "https://blog.grotenhuis.info/2019/08/02/gencon-day.html",
-				"tags": ["Games","Review","full posts"]
+				"tags": ["Games","Review","full posts","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/08/01/gencon-day.html",
@@ -11182,7 +11263,7 @@
 				"content_text": "I started GenCon off right by going to the gym before opening ceremonies! [I am happy of myself](https://youtu.be/eaIvk1cSyG8)!\n\nWhen the expo hall opened, I made a straight line to the BWHQ booth, as has become my tradition:\n\n* Checked to see if there are any play tests this year (more on that, later)\n* Picked up an (additional) copy of [Miseries & Misfortunes](https://www.kickstarter.com/projects/burningwheel/miseries-and-misfortunes-les-fruits-malheureux), to supplement the Kickstarter\n* Got the small zine game  [Catch the Devil](https://sagelt.itch.io/catch-the-devil)\n* Most excitedly, I commissioned a toned paper sketch from David Peterson AKA [Mouse Guard](https://mobile.twitter.com/mouseguard)\n\n[Indie Press Revolution](https://www.indiepressrevolution.com/) is always a good booth to check out physical RPG products. Bonus: they email you a copy of the digital book when you buy physical. I found some great stuff:\n\n* I’m a fan of the Vampire the Masquerade product line (before problems with 5th edition and their catering to abusers and the alt right, anyway). I’d been wanting [Beckett’s Jyhad Diary](https://www.drivethrurpg.com/product/225322/V20-Becketts-Jyhad-Diary) for a while, but held off due to cost. IPR had a nice sale, so I got a copy.\n* Also on the Vampire front, they had physical copies of the [Prince’s Gambit](https://www.drivethrucards.com/product/223907/Princes-Gambit-Card-Game). This is another type of game I’m always up for: parlor/social-deduction game.\n* I also grabbed [Companions’ Tale](https://www.kickstarter.com/projects/1940008275/companions-talean-epic-game-of-map-making-and-stor), because it’s a mapmaking and collaborative storytelling game. I like the idea of examining what version of the stories live, too.\n* IPR also had physical decks for the small LARP [Winterhorn](https://www.drivethrurpg.com/product/201891/Winterhorn), which is a game where you play the regime trying to stop peace & justice activists. Understandably, this is an educational LARP which can help to threat-model our own activism efforts, examining how we might be more resilient and effective.\n\nI also swung by [Posthuman Studios](http://posthumanstudios.com), and picked up my Kickstarter version of [Eclipse Phase 2nd Ed](https://www.kickstarter.com/projects/507486226/eclipse-phase-second-edition). As usual, these folks were really cool to chat with at the booth.\n\nOur coupon book had a free copy of Dwar7s Duel so I had to grab that, because Dwarves. It looks to be a simpler version of [Dwar7s Fall](https://www.vesuviusmedia.com/games/dwar7s-fall), maybe?\n\nAnd finally, I couldn’t let a GenCon go buy without my customary [Timid Monster](http://timidmonsters.com). These are very cool and I have a little stand for them in my office.\n\n---\n\nAfter the expo hall, I enjoyed a hilarious game of [Goblin Quest](https://gshowitt.itch.io/goblin-quest)  with [Miles](http://www.mileszs.com) at [Games on Demand](https://www.indiegamesondemand.org), my favorite place to try cool RPGs.\n\n---\n\nUp next was the update panel from [Burning Wheel Headquarters](https://www.burningwheel.com/beliefs-and-instincts/). We heard about what’s going on with the Burning Wheel universe. In summary:\n\n* Torchbearer 2 has a ton of revisions, they’re very excited about it, and they’re looking at how they can get some great playtesting and feedback before publishing\n* Miseries & Misfortunes is going to start having some setting, scenario, & lifepath expansions because the 5 years in Paris (1648-1652) is concurrent with interesting things happening in many other places in the world (and is apparently called “the general crisis” by some historians)\n* The “secret playtest” we did at #GenCon2018 has had more playtests, and much of the design work is complete, but i’ts been a bit on the back burner as other projects have taken front stage (and the challenging parts of component, art, etc. production have come up)\n\n---\n\nTonight, I’ll be joining a big game of [Torchbearer](https://www.torchbearerrpg.com) that got coordinated via the [Burning Wheel forums](https://forums.burningwheel.com).\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/f0a2f05315.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-08-01T16:53:00-05:00",
 				"url": "https://blog.grotenhuis.info/2019/08/01/gencon-day.html",
-				"tags": ["Games","Review","Resilience","Ideas","Humor","Anabaptism","full posts"]
+				"tags": ["Games","Review","Resilience","Ideas","Humor","Anabaptism","full posts","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/08/01/we-need-to.html",
@@ -11794,7 +11875,7 @@
 				"content_text": "I did some mapping for my [Whitehack](https://whitehackrpg.wordpress.com/) open table hexcrawl game. \nI used Martin Ralya's [Hexamancer](https://www.martinralya.com/tabletop-rpgs/hexmancer-procedural-hex-generation-system/) process to make the base map, exploring a couple spirals of hexes and then finishing hexes surrounding featured sites. \nText, call, or email if you want to play. #RPG\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/800895849d.jpg\" width=\"508\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-03-16T15:13:59-05:00",
 				"url": "https://blog.grotenhuis.info/2019/03/16/i-did-some.html",
-				"tags": ["Games","micro posts"]
+				"tags": ["Games","micro posts","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/03/06/digital-declutter-the.html",
@@ -12010,7 +12091,7 @@
 				"content_text": "Rearranged my main gaming bookshelves today. (Not pictured: d20 books, Exalted 1st ed, other core White Wolf books, GMing books w/ no mechanics, Dominion Rules books, Mouse Guard books, loads of PDFs.) #RPG\n\n<img src=\"https://blog.grotenhuis.info/uploads/2019/0c15aebd4f.jpg\" width=\"326\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-26T12:22:26-05:00",
 				"url": "https://blog.grotenhuis.info/2019/01/26/rearranged-my-main.html",
-				"tags": ["Games","micro posts"]
+				"tags": ["Games","micro posts","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/01/24/had-a-team.html",
@@ -12109,7 +12190,7 @@
 				"content_text": "RPG talk: one Burning Wheel character suffered a Mortal Wound due to a bandit arrow. Faithful character used double-Deeds roll to successfully pray for a Miracle and save the dying one. Epic! 🔥☸️\n",
 				"date_published": "2019-01-15T22:17:10-05:00",
 				"url": "https://blog.grotenhuis.info/2019/01/15/rpg-talk-one.html",
-				"tags": ["Games","micro posts"]
+				"tags": ["Games","micro posts","RPG"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/01/15/twsbi-go-is.html",
