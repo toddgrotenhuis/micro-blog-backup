@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/30/mennomedia-has-a.html",
+				
+				"content_html": "<p>🕊 <a href=\"https://www.mennomedia.org/black-history-month/\">MennoMedia has a 40% off sale for Black History month.</a></p>\n\n<p>Some great books on this list. I particularly recommend Drew G. I. Hart&rsquo;s <em>Trouble I&rsquo;ve Seen</em>.</p>\n",
+				"content_text": "🕊 [MennoMedia has a 40% off sale for Black History month.](https://www.mennomedia.org/black-history-month/)\r\n\r\nSome great books on this list. I particularly recommend Drew G. I. Hart's _Trouble I've Seen_.\n",
+				"date_published": "2023-01-30T11:03:41-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/30/mennomedia-has-a.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/29/ive-been-staying.html",
+				
+				"content_html": "<p>I’ve been staying with my Mom while she recovers from surgery, and she’s been watching the news.</p>\n\n<p>It is 99% propaganda, vapid, or irrelevant.</p>\n\n<p>Makes me want to go into news.</p>\n",
+				"content_text": "I’ve been staying with my Mom while she recovers from surgery, and she’s been watching the news.\n\nIt is 99% propaganda, vapid, or irrelevant.\n\nMakes me want to go into news.\n",
+				"date_published": "2023-01-29T18:34:39-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/29/ive-been-staying.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/29/sunday-quote-i.html",
+				
+				"content_html": "<p>📑 Sunday Quote</p>\n\n<p>I keep thinking about this.</p>\n\n<p>From <a href=\"https://micro.blog/benwerd\">@benwerd</a>.</p>\n\n<p><img src=\"uploads/2023/fa549bfcc0.jpg\" width=\"600\" height=\"337\" alt=\"Every job will be automated until only five remain: a brain, an athlete, a basket case, a princess, and a criminal.\"></p>\n",
+				"content_text": "📑 Sunday Quote\n\nI keep thinking about this.\n\nFrom [@benwerd](https://micro.blog/benwerd).\n\n<img src=\"uploads/2023/fa549bfcc0.jpg\" width=\"600\" height=\"337\" alt=\"Every job will be automated until only five remain: a brain, an athlete, a basket case, a princess, and a criminal.\">\n",
+				"date_published": "2023-01-29T09:25:36-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/29/sunday-quote-i.html",
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/28/i-wish-alcohol.html",
+				
+				"content_html": "<p>🥃 I wish alcohol labels had ingredients, if not nutrition information. Sometimes I can’t tell if sweetened or just naturally sweet.</p>\n\n<p>E.g. St Elmo’s cherry vanilla bourbon or old fashioned.  They <strong>write it up</strong> as if unsweetened, but are not explicit.</p>\n",
+				"content_text": "🥃 I wish alcohol labels had ingredients, if not nutrition information. Sometimes I can’t tell if sweetened or just naturally sweet.\n\nE.g. St Elmo’s cherry vanilla bourbon or old fashioned.  They **write it up** as if unsweetened, but are not explicit.\n",
+				"date_published": "2023-01-28T19:58:02-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/28/i-wish-alcohol.html",
+				"tags": ["micro posts","Spirits"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/28/lets-go-usmnt.html",
+				
+				"content_html": "<p>⚽️ Let’s go #USMNT</p>\n",
+				"content_text": "⚽️ Let’s go #USMNT\n",
+				"date_published": "2023-01-28T19:40:13-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/28/lets-go-usmnt.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/01/28/im-surprised-there.html",
+				
+				"content_html": "<p>I’m surprised there aren’t Fox News hosts with ridiculous rants about this tissue box, yet.</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2023/de8c5570d3.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "I’m surprised there aren’t Fox News hosts with ridiculous rants about this tissue box, yet.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/de8c5570d3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-01-28T12:24:16-05:00",
+				"url": "https://blog.grotenhuis.info/2023/01/28/im-surprised-there.html",
+				"tags": ["micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/01/27/another-thoughtful-implementation.html",
 				
 				"content_html": "<p>Another thoughtful implementation: <a href=\"https://www.manton.org/2023/01/27/mastodon-dms-on.html\">how micro.blog handles Mastodon DMs</a></p>\n",
