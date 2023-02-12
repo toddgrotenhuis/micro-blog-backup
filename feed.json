@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/02/11/finally-finished-watching.html",
+				
+				"content_html": "<p>📺 Finally finished watching Silicon Valley.</p>\n\n<p>So good!</p>\n",
+				"content_text": "📺 Finally finished watching Silicon Valley.\r\n\r\nSo good!\n",
+				"date_published": "2023-02-11T15:53:31-05:00",
+				"url": "https://blog.grotenhuis.info/2023/02/11/finally-finished-watching.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/02/11/zephyr-an-anarchist.html",
+				
+				"content_html": "<p>🎲 <a href=\"http://kck.st/40mkYfL\">Zephyr: An Anarchist Roleplaying Game Of Fleeting Identities</a> is looking like it will be really excellent.</p>\n\n<p>Interesting ideas, innovative mechanics, beautiful tokens, intriguing art, and new gameplay styles.</p>\n\n<p><img src=\"uploads/2023/3aed5228a2.png\" width=\"600\" height=\"507\" alt=\"\"></p>\n",
+				"content_text": "🎲 [Zephyr: An Anarchist Roleplaying Game Of Fleeting Identities](http://kck.st/40mkYfL) is looking like it will be really excellent.\r\n\r\nInteresting ideas, innovative mechanics, beautiful tokens, intriguing art, and new gameplay styles.\n\n<img src=\"uploads/2023/3aed5228a2.png\" width=\"600\" height=\"507\" alt=\"\">\n",
+				"date_published": "2023-02-11T09:29:09-05:00",
+				"url": "https://blog.grotenhuis.info/2023/02/11/zephyr-an-anarchist.html",
+				"tags": ["Games","micro posts","RPG"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/02/10/at-my-alma.html",
+				
+				"content_html": "<p>At my <a href=\"https://www.rose-hulman.edu/\">alma mater</a> giving a guest lecture.</p>\n\n<p>Bought some of that sweet sweet engineering paper. 😆</p>\n",
+				"content_text": "At my [alma mater](https://www.rose-hulman.edu/) giving a guest lecture.\n\nBought some of that sweet sweet engineering paper. 😆\n",
+				"date_published": "2023-02-10T10:42:48-05:00",
+				"url": "https://blog.grotenhuis.info/2023/02/10/at-my-alma.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/02/09/now-that-ive.html",
+				
+				"content_html": "<p>Now that I’ve been using <a href=\"https://micro.blog/sod\">@sod</a> ‘s alternate Discover feed for a few days (with the “Conversation on micro.blog” link added) I more and more feel this plugin should be default behavior for micro.blog.</p>\n\n<p>I’m imagining a follows RSS like this, too. Would be awesome in <a href=\"https://micro.blog/netnewswire\">@netnewswire</a>.</p>\n",
+				"content_text": "Now that I’ve been using [@sod](https://micro.blog/sod) ‘s alternate Discover feed for a few days (with the “Conversation on micro.blog” link added) I more and more feel this plugin should be default behavior for micro.blog.\n\nI’m imagining a follows RSS like this, too. Would be awesome in [@netnewswire](https://micro.blog/netnewswire).\n",
+				"date_published": "2023-02-09T17:28:20-05:00",
+				"url": "https://blog.grotenhuis.info/2023/02/09/now-that-ive.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/02/08/enjoying-trader-joes.html",
+				
+				"content_html": "<p>🍺  Enjoying: Trader Joe&rsquo;s (Unibroue) Vintage Ale 2011.</p>\n\n<p>Aged nicely with spices still coming through.</p>\n\n<p>I used to buy a case of these every year.</p>\n",
+				"content_text": "🍺  Enjoying: Trader Joe's (Unibroue) Vintage Ale 2011.\r\n\r\nAged nicely with spices still coming through.\r\n\r\nI used to buy a case of these every year.\n",
+				"date_published": "2023-02-08T19:31:15-05:00",
+				"url": "https://blog.grotenhuis.info/2023/02/08/enjoying-trader-joes.html",
+				"tags": ["micro posts","Beer"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/02/06/ive-written-and.html",
 				
-				"content_html": "<p>🕊 I&rsquo;ve written and delivered sermons, I&rsquo;ve been a pastor&rsquo;s husband, but tomorrow I&rsquo;ll resume the role of <a href=\"https://anabaptistworld.org/the-soft-spoken-preacher/\">sermon midwife</a> again.</p>\n\n<p><a href=\"https://www.indymenno.org/\">Join us in person</a> or I can get you a link to watch online.</p>\n",
-				"content_text": "🕊 I've written and delivered sermons, I've been a pastor's husband, but tomorrow I'll resume the role of [sermon midwife](https://anabaptistworld.org/the-soft-spoken-preacher/) again.\r\n\r\n[Join us in person](https://www.indymenno.org/) or I can get you a link to watch online.\n",
+				"content_html": "<p>🕊 I&rsquo;ve written and delivered sermons, I&rsquo;ve been a pastor&rsquo;s husband, but Sunday I&rsquo;ll resume the role of <a href=\"https://anabaptistworld.org/the-soft-spoken-preacher/\">sermon midwife</a> again.</p>\n\n<p><a href=\"https://www.indymenno.org/\">Join us in person</a> or I can get you a link to watch online.</p>\n",
+				"content_text": "🕊 I've written and delivered sermons, I've been a pastor's husband, but Sunday I'll resume the role of [sermon midwife](https://anabaptistworld.org/the-soft-spoken-preacher/) again.\n\n[Join us in person](https://www.indymenno.org/) or I can get you a link to watch online.\n",
 				"date_published": "2023-02-06T16:21:00-05:00",
 				"url": "https://blog.grotenhuis.info/2023/02/06/ive-written-and.html",
 				"tags": ["Anabaptism","micro posts"]
@@ -43,15 +88,6 @@
 				"tags": ["Soccer","micro posts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2023/02/03/wish-tim-ream.html",
-				
-				"content_html": "<p>⚽️ wish Tim Ream could stop being so awesome for a moment. #CFC #USMNT</p>\n",
-				"content_text": "⚽️ wish Tim Ream could stop being so awesome for a moment. #CFC #USMNT\n",
-				"date_published": "2023-02-03T16:49:43-05:00",
-				"url": "https://blog.grotenhuis.info/2023/02/03/wish-tim-ream.html",
-				"tags": ["Soccer","micro posts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/02/03/i-work-a.html",
 				
 				"content_html": "<p>💪 I work a lot on functional goals with my trainer.</p>\n\n<p>Our current goal we are referring to as:</p>\n\n<blockquote>\n<p>“descend into and climb out of a pit”</p>\n</blockquote>\n\n<p>😆</p>\n",
@@ -63,8 +99,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/02/03/i-think-it.html",
 				
-				"content_html": "<p>🎶 I think it might be <a href=\"https://isitbandcampfriday.com/\">bandcamp friday</a>.</p>\n\n<p><img src=\"uploads/2023/027967549b.png\" width=\"294\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "🎶 I think it might be [bandcamp friday](https://isitbandcampfriday.com/).\r\n\r\n\n\n<img src=\"uploads/2023/027967549b.png\" width=\"294\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>🎶 I think it might be <a href=\"https://isitbandcampfriday.com/\">bandcamp friday</a>.</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2023/027967549b.png\" width=\"294\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "🎶 I think it might be [bandcamp friday](https://isitbandcampfriday.com/).\r\n\r\n\n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/027967549b.png\" width=\"294\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-03T08:11:00-05:00",
 				"url": "https://blog.grotenhuis.info/2023/02/03/i-think-it.html",
 				"tags": ["Music","micro posts"]
