@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/05/27/such-a-delight.html",
+				
+				"content_html": "<p>Such a delight to hear Ian Darke announcing this promotion battle.</p>\n\n<p>He <strong>is</strong> the voice of ⚽️ for me.</p>\n",
+				"content_text": "Such a delight to hear Ian Darke announcing this promotion battle.\n\nHe **is** the voice of ⚽️ for me.\n",
+				"date_published": "2023-05-27T12:55:55-04:00",
+				"url": "https://blog.grotenhuis.info/2023/05/27/such-a-delight.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/05/27/i-now-have.html",
+				
+				"content_html": "<p>I now have a second person muted on micro.blog</p>\n\n<p>The first was someone who posted a lot of cranky and rude replies to people.</p>\n\n<p>This second is one I thought I just didn’t need to read (it’s almost all “meta-writing” about tools they are trying, etc. but never has anything to actually <strong>say</strong>) but they keep showing up on Discover.</p>\n\n<p>Not sure if muting them will clear them from Discover RSS. May need to give up Discover.</p>\n",
+				"content_text": "I now have a second person muted on micro.blog\n\nThe first was someone who posted a lot of cranky and rude replies to people.\n\nThis second is one I thought I just didn’t need to read (it’s almost all “meta-writing” about tools they are trying, etc. but never has anything to actually **say**) but they keep showing up on Discover.\n\nNot sure if muting them will clear them from Discover RSS. May need to give up Discover.\n",
+				"date_published": "2023-05-27T06:45:38-04:00",
+				"url": "https://blog.grotenhuis.info/2023/05/27/i-now-have.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/05/24/ok-i-try.html",
+				
+				"content_html": "<p>Ok, I try to limit the snark, but&hellip;regarding <a href=\"https://blog.grotenhuis.info/2023/05/23/interesting-data-from.html\">previous post</a>:</p>\n\n<p>TFW you are below Spirit Airlines.</p>\n\n<p><img src=\"uploads/2023/9f1c7ad7fd.png\" width=\"600\" height=\"187\" alt=\"\" /></p>\n",
+				"content_text": "Ok, I try to limit the snark, but...regarding [previous post](https://blog.grotenhuis.info/2023/05/23/interesting-data-from.html):\r\n\r\nTFW you are below Spirit Airlines.\r\n\r\n<img src=\"uploads/2023/9f1c7ad7fd.png\" width=\"600\" height=\"187\" alt=\"\" />\n",
+				"date_published": "2023-05-24T10:28:13-04:00",
+				"url": "https://blog.grotenhuis.info/2023/05/24/ok-i-try.html",
+				"tags": ["Humor","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/05/23/interesting-data-from.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://www.axios.com/2023/05/23/corporate-brands-reputation-america\">data from Axios &amp; Harris on 100 most visible &ldquo;brands&rdquo;</a>.</p>\n\n<p><em>Disclosure: my parent company owns Axios</em>.</p>\n",
+				"content_text": "Interesting [data from Axios & Harris on 100 most visible \"brands\"](https://www.axios.com/2023/05/23/corporate-brands-reputation-america).\r\n\r\n_Disclosure: my parent company owns Axios_.\n",
+				"date_published": "2023-05-23T19:05:39-04:00",
+				"url": "https://blog.grotenhuis.info/2023/05/23/interesting-data-from.html",
+				"tags": ["micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/05/22/what-do-you.html",
 				
 				"content_html": "<p>🪒 What do you do with your old <strong>Taylor of Old Bond Street</strong> shaving cream containers?</p>\n\n<p>They’re very sturdy and leak-resistant, but I don’t know if food grade.</p>\n\n<p>Seems a waste to throw them out.</p>\n\n<p><img src=\"uploads/2023/18ed33612d.jpg\" width=\"600\" height=\"392\" alt=\"\"></p>\n",
@@ -45,8 +81,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/05/18/my-spouse-had.html",
 				
-				"content_html": "<p>My spouse had quite the recording this morning.</p>\n\n<p><img src=\"uploads/2023/156386d951.jpg\" width=\"471\" height=\"600\" alt=\"8 birds from Merlin app\"><img src=\"uploads/2023/0432dbcc63.jpg\" width=\"469\" height=\"600\" alt=\"8 more birds from Merlin app\"></p>\n",
-				"content_text": "My spouse had quite the recording this morning.\n\n<img src=\"uploads/2023/156386d951.jpg\" width=\"471\" height=\"600\" alt=\"8 birds from Merlin app\"><img src=\"uploads/2023/0432dbcc63.jpg\" width=\"469\" height=\"600\" alt=\"8 more birds from Merlin app\">\n",
+				"content_html": "<p>My spouse had quite the recording this morning.</p>\n\n<p><img src=\"https://blog.grotenhuis.info/uploads/2023/156386d951.jpg\" width=\"471\" height=\"600\" alt=\"8 birds from Merlin app\"><img src=\"https://blog.grotenhuis.info/uploads/2023/0432dbcc63.jpg\" width=\"469\" height=\"600\" alt=\"8 more birds from Merlin app\"></p>\n",
+				"content_text": "My spouse had quite the recording this morning.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/156386d951.jpg\" width=\"471\" height=\"600\" alt=\"8 birds from Merlin app\"><img src=\"https://blog.grotenhuis.info/uploads/2023/0432dbcc63.jpg\" width=\"469\" height=\"600\" alt=\"8 more birds from Merlin app\">\n",
 				"date_published": "2023-05-18T07:53:18-04:00",
 				"url": "https://blog.grotenhuis.info/2023/05/18/my-spouse-had.html",
 				"tags": ["micro posts"]
