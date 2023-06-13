@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/06/13/cool-story-from.html",
+				
+				"content_html": "<p>🕊️♻️ cool story from local Mennos:</p>\n<p><a href=\"https://www.indystar.com/story/news/local/indianapolis/2023/06/12/herron-morton-couple-created-carbon-sink-brimming-with-trees-317-project/70160612007/\">317 Project: Herron-Morton couple has created a &lsquo;carbon sink&rsquo; brimming with trees, flowers</a></p>\n",
+				"content_text": "🕊️♻️ cool story from local Mennos:\r\n\r\n[317 Project: Herron-Morton couple has created a 'carbon sink' brimming with trees, flowers](https://www.indystar.com/story/news/local/indianapolis/2023/06/12/herron-morton-couple-created-carbon-sink-brimming-with-trees-317-project/70160612007/)\n",
+				"date_published": "2023-06-13T14:38:38-04:00",
+				"url": "https://blog.grotenhuis.info/2023/06/13/cool-story-from.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/06/12/horribly-toxic-crap.html",
+				
+				"content_html": "<p>Horribly toxic crap in a parking lot? Cool texture for your next map or art project?</p>\n<p>You decide.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Horribly toxic crap in a parking lot? Cool texture for your next map or art project?\n\nYou decide.\n\n<img src=\"uploads/2023/ca3f9ebf3a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-12T20:03:51-04:00",
+				"url": "https://blog.grotenhuis.info/2023/06/12/horribly-toxic-crap.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/06/10/finished-reading-all.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://bookshop.org/a/10222/9780765397539\">All Systems Red</a> by Martha Wells 📚</p>\n",
+				"content_text": "Finished reading: [All Systems Red](https://bookshop.org/a/10222/9780765397539) by Martha Wells 📚\n",
+				"date_published": "2023-06-10T21:22:53-04:00",
+				"url": "https://blog.grotenhuis.info/2023/06/10/finished-reading-all.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/06/10/indynine.html",
+				
+				"content_html": "<p>⚽️ #IndyNine</p>\n",
+				"content_text": "⚽️ #IndyNine\n",
+				"date_published": "2023-06-10T20:58:00-04:00",
+				"url": "https://blog.grotenhuis.info/2023/06/10/indynine.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/06/10/indyten.html",
+				
+				"content_html": "<p>⚽️ #IndyTen</p>\n",
+				"content_text": "⚽️ #IndyTen\n",
+				"date_published": "2023-06-10T19:20:40-04:00",
+				"url": "https://blog.grotenhuis.info/2023/06/10/indyten.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/06/08/the-original-iron.html",
 				
 				"content_html": "<p>🕊️</p>\n<blockquote>\n<p>&ldquo;The original “Iron Man” script was decidedly pacifist, with protagonist Tony Stark attempting to use his enormous manufacturing empire to battle against war profiteers and the military industrial complex. However, after the Pentagon got involved&hellip;the tone of the movie was radically altered. Much of the fighting in the movie takes place in modern-day Afghanistan, with the U.S. military serving the role of the good guys. In this sense, the film’s stance on war was reversed.&rdquo;</p>\n</blockquote>\n<p><a href=\"https://www.mintpressnews.com/pentagon-leaned-hollywood-sell-war-afghanistan/278568/\">How the Pentagon Leaned on Hollywood to Sell the War in Afghanistan</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🕊️\n\n> \"The original “Iron Man” script was decidedly pacifist, with protagonist Tony Stark attempting to use his enormous manufacturing empire to battle against war profiteers and the military industrial complex. However, after the Pentagon got involved...the tone of the movie was radically altered. Much of the fighting in the movie takes place in modern-day Afghanistan, with the U.S. military serving the role of the good guys. In this sense, the film’s stance on war was reversed.\"\n\n[How the Pentagon Leaned on Hollywood to Sell the War in Afghanistan](https://www.mintpressnews.com/pentagon-leaned-hollywood-sell-war-afghanistan/278568/)\n\n<img src=\"uploads/2023/2ea3aa3401.png\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "🕊️\n\n> \"The original “Iron Man” script was decidedly pacifist, with protagonist Tony Stark attempting to use his enormous manufacturing empire to battle against war profiteers and the military industrial complex. However, after the Pentagon got involved...the tone of the movie was radically altered. Much of the fighting in the movie takes place in modern-day Afghanistan, with the U.S. military serving the role of the good guys. In this sense, the film’s stance on war was reversed.\"\n\n[How the Pentagon Leaned on Hollywood to Sell the War in Afghanistan](https://www.mintpressnews.com/pentagon-leaned-hollywood-sell-war-afghanistan/278568/)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/2ea3aa3401.png\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-06-08T09:45:25-04:00",
 				"url": "https://blog.grotenhuis.info/2023/06/08/the-original-iron.html",
 				"tags": ["Anabaptism","micro posts"]
@@ -37,7 +82,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2023/06/05/current-status.html",
 				
 				"content_html": "<p>🕹️ Current status</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🕹️ Current status \n\n<img src=\"uploads/2023/5af610eff8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "🕹️ Current status \n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/5af610eff8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-05T18:45:06-04:00",
 				"url": "https://blog.grotenhuis.info/2023/06/05/current-status.html",
 				"tags": ["Games","micro posts"]
@@ -46,7 +91,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2023/06/04/sunday-quote-we.html",
 				
 				"content_html": "<p>📑 Sunday Quote</p>\n<blockquote>\n<p>&ldquo;We are quite literally a people that morally live off our wars because they give us the necessary basis for self-sacrifice so that a people who have been taught to pursue only their own interest can at times be mobilized to die for one another.”</p>\n</blockquote>\n<p><a href=\"https://bookshop.org/a/10222/9781426781902\">Stanley Hauerwas &amp; William H. Willimon, Resident Aliens</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📑 Sunday Quote\n\n> \"We are quite literally a people that morally live off our wars because they give us the necessary basis for self-sacrifice so that a people who have been taught to pursue only their own interest can at times be mobilized to die for one another.”\n\n[Stanley Hauerwas & William H. Willimon, Resident Aliens](https://bookshop.org/a/10222/9781426781902)\n\n<img src=\"uploads/2023/6cbb5c154b.jpg\" width=\"600\" height=\"337\" alt=\"&quot;We are quite literally a people that morally live off our wars because they give us the necessary basis for self-sacrifice so that a people who have been taught to pursue only their own interest can at times be mobilized to die for one another.&quot; (Stanley Hauerwas & William H. Willimon, Resident Aliens)\">\n",
+				"content_text": "📑 Sunday Quote\n\n> \"We are quite literally a people that morally live off our wars because they give us the necessary basis for self-sacrifice so that a people who have been taught to pursue only their own interest can at times be mobilized to die for one another.”\n\n[Stanley Hauerwas & William H. Willimon, Resident Aliens](https://bookshop.org/a/10222/9781426781902)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/6cbb5c154b.jpg\" width=\"600\" height=\"337\" alt=\"&quot;We are quite literally a people that morally live off our wars because they give us the necessary basis for self-sacrifice so that a people who have been taught to pursue only their own interest can at times be mobilized to die for one another.&quot; (Stanley Hauerwas & William H. Willimon, Resident Aliens)\">\n",
 				"date_published": "2023-06-04T09:56:43-04:00",
 				"url": "https://blog.grotenhuis.info/2023/06/04/sunday-quote-we.html",
 				"tags": ["Sunday Quotes","micro posts","Quotes"]
