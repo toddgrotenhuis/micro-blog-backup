@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/06/24/great-save-by.html",
+				
+				"content_html": "<p>⚽️ Great save by Turner! #USMNT #GoldCup #TeamGoalie</p>\n",
+				"content_text": "⚽️ Great save by Turner! #USMNT #GoldCup #TeamGoalie\n",
+				"date_published": "2023-06-24T22:37:53-04:00",
+				"url": "https://blog.grotenhuis.info/2023/06/24/great-save-by.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/06/22/til-there-used.html",
+				
+				"content_html": "<p>TIL: there used to be camels in North America.</p>\n",
+				"content_text": "TIL: there used to be camels in North America.\n",
+				"date_published": "2023-06-22T08:13:58-04:00",
+				"url": "https://blog.grotenhuis.info/2023/06/22/til-there-used.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/06/21/one-of-these.html",
+				
+				"content_html": "<p>🎶 one of these is not like the other 🎶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🎶 one of these is not like the other 🎶\n\n<img src=\"uploads/2023/6596de8808.jpg\" width=\"459\" height=\"600\" alt=\"A selection of death metal(core) albums, mostly Christian but one very not.\">\n",
+				"date_published": "2023-06-21T23:45:56-04:00",
+				"url": "https://blog.grotenhuis.info/2023/06/21/one-of-these.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/06/19/finished-reading-death.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://bookshop.org/a/10222/9780825447341\">Death to Deconstruction</a> by Joshua S. Porter 📚</p>\n",
+				"content_text": "Finished reading: [Death to Deconstruction](https://bookshop.org/a/10222/9780825447341) by Joshua S. Porter 📚\n",
+				"date_published": "2023-06-19T23:18:59-04:00",
+				"url": "https://blog.grotenhuis.info/2023/06/19/finished-reading-death.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/06/17/had-to-dust.html",
 				
 				"content_html": "<p>🎲 had to dust off my LARP boots, for real.</p>\n<p>Also ended up needing to repair them with some crazy glue.</p>\n",
@@ -37,7 +73,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2023/06/16/its-a-good.html",
 				
 				"content_html": "<p>It’s a good day for this geek. ✒️🕹️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s a good day for this geek. ✒️🕹️\n\n<img src=\"uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"Play.date and totebooks\">\n",
+				"content_text": "It’s a good day for this geek. ✒️🕹️\n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"Play.date and totebooks\">\n",
 				"date_published": "2023-06-16T14:35:41-04:00",
 				"url": "https://blog.grotenhuis.info/2023/06/16/its-a-good.html",
 				"tags": ["Games","micro posts"]
@@ -347,15 +383,6 @@
 				"date_published": "2023-05-14T22:33:57-04:00",
 				"url": "https://blog.grotenhuis.info/2023/05/14/charming-reintroduction-of.html",
 				"tags": ["micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2023/05/13/looking-like-diablo.html",
-				
-				"content_html": "<p>🕹️ Looking like Diablo IV is going to have more MMO elements and behave a little less traditionally ARPG (…which they sorta invented or at least popularized).</p>\n",
-				"content_text": "🕹️ Looking like Diablo IV is going to have more MMO elements and behave a little less traditionally ARPG (…which they sorta invented or at least popularized).\n",
-				"date_published": "2023-05-13T11:51:57-04:00",
-				"url": "https://blog.grotenhuis.info/2023/05/13/looking-like-diablo.html",
-				"tags": ["Games","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/05/12/fake-mennonite-points.html",
