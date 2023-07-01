@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/06/30/i-guess-this.html",
+				
+				"content_html": "<p>⚽️ I guess this is an alright way to end the season</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "⚽️ I guess this is an alright way to end the season \n\n<img src=\"uploads/2023/1abd361aec.jpg\" width=\"600\" height=\"314\" alt=\"16-0\">\n",
+				"date_published": "2023-06-30T22:24:29-04:00",
+				"url": "https://blog.grotenhuis.info/2023/06/30/i-guess-this.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/06/28/in-the-first.html",
+				
+				"content_html": "<p>⚽️⚽️⚽️ in the first 16 minutes&hellip;I&rsquo;m starting to feel bad for St. Kitts &amp; Nevis. This could be really bad. #USMNT</p>\n",
+				"content_text": "⚽️⚽️⚽️ in the first 16 minutes...I'm starting to feel bad for St. Kitts & Nevis. This could be really bad. #USMNT\n",
+				"date_published": "2023-06-28T22:23:13-04:00",
+				"url": "https://blog.grotenhuis.info/2023/06/28/in-the-first.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/06/28/cool-cool-not.html",
+				
+				"content_html": "<p>Cool cool not dystopian at all</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Cool cool not dystopian at all\n\n<img src=\"uploads/2023/image.png\" width=\"600\" height=\"186\" alt=\"HEA 1186 sets a 25-foot buffer around police officers while they're working.&10;&10; • If you continue approaching within that buffer after the officer tells you to stop, you've committed unlawful encroachment on an investigation, a Class C misdemeanor.\">\n",
+				"date_published": "2023-06-28T10:08:29-04:00",
+				"url": "https://blog.grotenhuis.info/2023/06/28/cool-cool-not.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/06/25/trying-an-experiment.html",
+				
+				"content_html": "<p>📚 Trying an experiment. We&rsquo;re reading <em><a href=\"https://bookshop.org/a/10222/9781732265189\">An Elegant Puzzle</a></em> by Will Larson.</p>\n<p>Discussion group is in <a href=\"https://frond.com/leadership-book-club/\">Frond</a>.</p>\n",
+				"content_text": "📚 Trying an experiment. We're reading _[An Elegant Puzzle](https://bookshop.org/a/10222/9781732265189)_ by Will Larson.\n\nDiscussion group is in [Frond](https://frond.com/leadership-book-club/).\n",
+				"date_published": "2023-06-25T15:15:30-04:00",
+				"url": "https://blog.grotenhuis.info/2023/06/25/trying-an-experiment.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/06/24/great-save-by.html",
 				
 				"content_html": "<p>⚽️ Great save by Turner! #USMNT #GoldCup #TeamGoalie</p>\n",
@@ -28,7 +64,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2023/06/21/one-of-these.html",
 				
 				"content_html": "<p>🎶 one of these is not like the other 🎶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎶 one of these is not like the other 🎶\n\n<img src=\"uploads/2023/6596de8808.jpg\" width=\"459\" height=\"600\" alt=\"A selection of death metal(core) albums, mostly Christian but one very not.\">\n",
+				"content_text": "🎶 one of these is not like the other 🎶\n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/6596de8808.jpg\" width=\"459\" height=\"600\" alt=\"A selection of death metal(core) albums, mostly Christian but one very not.\">\n",
 				"date_published": "2023-06-21T23:45:56-04:00",
 				"url": "https://blog.grotenhuis.info/2023/06/21/one-of-these.html",
 				"tags": ["Music","micro posts"]
@@ -383,6 +419,15 @@
 				"date_published": "2023-05-14T22:33:57-04:00",
 				"url": "https://blog.grotenhuis.info/2023/05/14/charming-reintroduction-of.html",
 				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/05/13/looking-like-diablo.html",
+				
+				"content_html": "<p>🕹️ Looking like Diablo IV is going to have more MMO elements and behave a little less traditionally ARPG (…which they sorta invented or at least popularized).</p>\n",
+				"content_text": "🕹️ Looking like Diablo IV is going to have more MMO elements and behave a little less traditionally ARPG (…which they sorta invented or at least popularized).\n",
+				"date_published": "2023-05-13T11:51:57-04:00",
+				"url": "https://blog.grotenhuis.info/2023/05/13/looking-like-diablo.html",
+				"tags": ["Games","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/05/12/fake-mennonite-points.html",
