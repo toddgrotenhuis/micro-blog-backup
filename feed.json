@@ -7,6 +7,96 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/27/finally-took-a.html",
+				
+				"content_html": "<p>🚲 Finally took a fat tire e-bike test ride and whoa it&rsquo;s even better than I imagined.</p>\n<p>This is life-changing and world-changing technology.</p>\n",
+				"content_text": "🚲 Finally took a fat tire e-bike test ride and whoa it's even better than I imagined.\n\nThis is life-changing and world-changing technology.\n",
+				"date_published": "2023-10-27T17:36:44-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/27/finally-took-a.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/27/roon-trial-day.html",
+				"title": "🎶 Roon Trial: Day 1 (vs. Plex/PlexAmp)",
+				"content_html": "<p>Doing a Roon trial after <a href=\"https://micro.blog/rcrackley\">@rcrackley</a> brought it to my attention, again.</p>\n<p>Quick Day 1 notes:</p>\n<ul>\n<li>I like that it shows listening charts based on <em>time</em> not <em>tracks</em></li>\n<li>Some parts of the system seem to favor albums, and others tracks, and I can&rsquo;t figure out the design principle yet</li>\n<li>Scrobbling seems to work ok, though there are some mismatches due to the &ldquo;enhancement&rdquo; they do to artist/title</li>\n<li>Arc is supposed to work off-network, but looks like it doesn&rsquo;t without some extra networking work (similar to Plex)</li>\n<li>However, Roon may handle scrobbling better on Arc downloads than PlexAmp downloads (i.e. counting them when it reconnects). I haven&rsquo;t 100% verified this, yet (For PlexAmp, you have to trick it by playing from a playlist that you happen to have downloaded, instead of playing the download, and then it will sync on reconnect)</li>\n<li>Genre choices are little <em>interesting</em> at times, but it seems things may at least get multiple genres? Not sure on that, either.</li>\n<li>It&rsquo;s not clear how tagging works or what it adds aside from the other options</li>\n<li>A little lack of clarity around how library is managed when you have some local files and some streaming tracks (e.g. Tidal) that are related, or when you have incomplete albums</li>\n</ul>\n<p>So far, not at all worth the 3x (monthly) to 7x (lifetime) cost increase over Plex/PlexAmp (especially considering you get many other functions with Plex unrelated to music, as well as a discount on your Tidal monthly subscription).</p>\n",
+				"content_text": "Doing a Roon trial after [@rcrackley](https://micro.blog/rcrackley) brought it to my attention, again.\r\n\r\nQuick Day 1 notes:\r\n\r\n* I like that it shows listening charts based on _time_ not _tracks_\r\n* Some parts of the system seem to favor albums, and others tracks, and I can't figure out the design principle yet\r\n* Scrobbling seems to work ok, though there are some mismatches due to the \"enhancement\" they do to artist/title\r\n* Arc is supposed to work off-network, but looks like it doesn't without some extra networking work (similar to Plex)\r\n* However, Roon may handle scrobbling better on Arc downloads than PlexAmp downloads (i.e. counting them when it reconnects). I haven't 100% verified this, yet (For PlexAmp, you have to trick it by playing from a playlist that you happen to have downloaded, instead of playing the download, and then it will sync on reconnect)\r\n* Genre choices are little _interesting_ at times, but it seems things may at least get multiple genres? Not sure on that, either.\r\n* It's not clear how tagging works or what it adds aside from the other options\r\n* A little lack of clarity around how library is managed when you have some local files and some streaming tracks (e.g. Tidal) that are related, or when you have incomplete albums\r\n\r\nSo far, not at all worth the 3x (monthly) to 7x (lifetime) cost increase over Plex/PlexAmp (especially considering you get many other functions with Plex unrelated to music, as well as a discount on your Tidal monthly subscription).\n",
+				"date_published": "2023-10-27T15:45:26-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/27/roon-trial-day.html",
+				"tags": ["Music","full posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/27/kinda-icky-move.html",
+				
+				"content_html": "<p>🎲 kinda icky move from Chaosium. <em>Paraphrased</em>:</p>\n<blockquote>\n<p>We won&rsquo;t ship our 2016 kickstarter result to you unless you email us about your address in yet another system than this one. Hope you didn&rsquo;t skip reading this 126th project update from a 2016 project!</p>\n</blockquote>\n",
+				"content_text": "🎲 kinda icky move from Chaosium. _Paraphrased_:\n\n\n> We won't ship our 2016 kickstarter result to you unless you email us about your address in yet another system than this one. Hope you didn't skip reading this 126th project update from a 2016 project!\n\n",
+				"date_published": "2023-10-27T14:42:13-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/27/kinda-icky-move.html",
+				"tags": ["Games","micro posts","RPG"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/27/doing-my-k.html",
+				
+				"content_html": "<p>📚💪 Doing my 5k walk fundraiser on my lunch break today, and getting to the library is halfway. Perfect!</p>\n",
+				"content_text": "📚💪 Doing my 5k walk fundraiser on my lunch break today, and getting to the library is halfway. Perfect!\n",
+				"date_published": "2023-10-27T12:09:53-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/27/doing-my-k.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/27/i-have-this.html",
+				
+				"content_html": "<p>🕊️ I have this weird and super-dorky idea that someday a Baptist is going to ask if I’m Baptist and I’m gonna be like:</p>\n<blockquote>\n<p>nah, I’m OG Baptist, anabaptist</p>\n</blockquote>\n<p>…and we’ll have a big laugh together.</p>\n<p>(Not gonna happen.)</p>\n",
+				"content_text": "🕊️ I have this weird and super-dorky idea that someday a Baptist is going to ask if I’m Baptist and I’m gonna be like:\n\n> nah, I’m OG Baptist, anabaptist\n\n…and we’ll have a big laugh together.\n\n(Not gonna happen.)\n",
+				"date_published": "2023-10-27T11:59:34-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/27/i-have-this.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/27/doomsong-is-looking.html",
+				
+				"content_html": "<p>🎲 <a href=\"https://www.kickstarter.com/projects/caesarink/doomsong\">Doomsong</a> is looking <strong>very</strong> interesting.</p>\n<p>It&rsquo;s created by some of the folks that made the <em>Labyrinth</em> adventure game (minus Ben Milton of Knave/Maze Rats fame).</p>\n<p>It&rsquo;s got some <em>Burning Wheel</em> vibes (in a good way).</p>\n<p>It looks weird, opinionated, and tightly produced.</p>\n<p>I&rsquo;m excited to check it out.</p>\n",
+				"content_text": "🎲 [Doomsong](https://www.kickstarter.com/projects/caesarink/doomsong) is looking **very** interesting.\n\nIt's created by some of the folks that made the _Labyrinth_ adventure game (minus Ben Milton of Knave/Maze Rats fame).\n\nIt's got some _Burning Wheel_ vibes (in a good way).\n\nIt looks weird, opinionated, and tightly produced.\n\nI'm excited to check it out.\n",
+				"date_published": "2023-10-27T11:02:33-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/27/doomsong-is-looking.html",
+				"tags": ["Games","micro posts","RPG"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/27/fun-fridays.html",
+				"title": "Fun Fridays",
+				"content_html": "<p><em>I’m crawling around on the floor, as if I’m evading lazers so I can get to the bank vault.</em></p>\n<p>This was one of the situations this morning at the gym. I also went through a set of tennis ball exercises (juggling, footwork, etc.), and performed a variety of hanging exercises from the bars and rings.</p>\n<p>I don’t normally work with my trainer on Fridays, but I have occasionally. Other times, we were balancing staffs, swinging clubs, lifting logs and large rocks.</p>\n<p>My trainer said “oh yeah, it’s <strong>Fun Fridays</strong>”.</p>\n<p>I like that. Maybe we should all build a little <strong>Fun Fridays</strong> into our routines.</p>\n",
+				"content_text": "_I’m crawling around on the floor, as if I’m evading lazers so I can get to the bank vault._\n\nThis was one of the situations this morning at the gym. I also went through a set of tennis ball exercises (juggling, footwork, etc.), and performed a variety of hanging exercises from the bars and rings.\n\nI don’t normally work with my trainer on Fridays, but I have occasionally. Other times, we were balancing staffs, swinging clubs, lifting logs and large rocks.\n\nMy trainer said “oh yeah, it’s **Fun Fridays**”.\n\nI like that. Maybe we should all build a little **Fun Fridays** into our routines.\n\n",
+				"date_published": "2023-10-27T08:51:44-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/27/fun-fridays.html",
+				"tags": ["full posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/26/getting-back-into.html",
+				
+				"content_html": "<p>Getting back into a massage therapist today, and I can’t help but think:</p>\n<blockquote>\n<p>If I didn’t have the privilege of affording a personal trainer and massage therapist to help with sciatica etc., would I be another drug overdose statistic?</p>\n</blockquote>\n",
+				"content_text": "Getting back into a massage therapist today, and I can’t help but think:\n\n> If I didn’t have the privilege of affording a personal trainer and massage therapist to help with sciatica etc., would I be another drug overdose statistic?\n",
+				"date_published": "2023-10-26T16:10:04-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/26/getting-back-into.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/25/upland-x-haste.html",
+				
+				"content_html": "<p>🍺🎶 Upland X Haste the Day: Haze the Day</p>\n<p>(Hazy IPA, obviously)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🍺🎶 Upland X Haste the Day: Haze the Day\n\n(Hazy IPA, obviously)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/6ecf35c661.jpg\" width=\"450\" height=\"600\" alt=\"Co-branded pint glasses \">\n",
+				"date_published": "2023-10-25T20:15:00-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/25/upland-x-haste.html",
+				"tags": ["Music","micro posts","Beer"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/24/confession-here-is.html",
+				
+				"content_html": "<p>Confession: here is another miss on <a href=\"https://blog.grotenhuis.info/2023/09/30/operation-peoplepoweredprovisions.html\">#PeoplePoweredProvisions</a></p>\n<p>We learned about this set from a friend, agreed it could be my Christmas gift from my spouse, and got one before it ran out.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Confession: here is another miss on [#PeoplePoweredProvisions](https://blog.grotenhuis.info/2023/09/30/operation-peoplepoweredprovisions.html)\n\nWe learned about this set from a friend, agreed it could be my Christmas gift from my spouse, and got one before it ran out.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/cac7c9d185.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-10-24T18:13:59-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/24/confession-here-is.html",
+				"tags": ["micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/10/22/postseason-not-looking.html",
 				
 				"content_html": "<p>⚽️ Postseason not looking so hot for #IXI</p>\n<p><em>(0-4 in 47th minute)</em></p>\n",
@@ -28,7 +118,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2023/10/21/game-dev-log.html",
 				
 				"content_html": "<p>🎲🃏 Game Dev Log:</p>\n<p>I’ve been playing around with drafting as a way to (both):</p>\n<ul>\n<li>determine starting hand for a game session</li>\n<li>determine who plays Scion* for each suit</li>\n</ul>\n<p><em>”Scion” name is not final</em></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "🎲🃏 Game Dev Log:\n\nI’ve been playing around with drafting as a way to (both):\n\n* determine starting hand for a game session\n* determine who plays Scion* for each suit\n\n_”Scion” name is not final_\n\n<img src=\"uploads/2023/9f4f48254c.jpg\" width=\"597\" height=\"600\" alt=\"Drafting with five players and four cards each.\"><img src=\"uploads/2023/a1016b1ef1.jpg\" width=\"551\" height=\"600\" alt=\"Drafting with five players and three cards each.\">\n",
+				"content_text": "🎲🃏 Game Dev Log:\n\nI’ve been playing around with drafting as a way to (both):\n\n* determine starting hand for a game session\n* determine who plays Scion* for each suit\n\n_”Scion” name is not final_\n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/9f4f48254c.jpg\" width=\"597\" height=\"600\" alt=\"Drafting with five players and four cards each.\"><img src=\"https://blog.grotenhuis.info/uploads/2023/a1016b1ef1.jpg\" width=\"551\" height=\"600\" alt=\"Drafting with five players and three cards each.\">\n",
 				"date_published": "2023-10-21T12:04:33-04:00",
 				"url": "https://blog.grotenhuis.info/2023/10/21/game-dev-log.html",
 				"tags": ["Games","micro posts","RPG"]
@@ -37,7 +127,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2023/10/21/micro-meetup-with.html",
 				
 				"content_html": "<p>Micro meetup with <a href=\"https://micro.blog/jabel\">@jabel</a> !</p>\n<p>We walked around Heron Haven and had some nice chats.</p>\n<p>As you can see, his beard is much better than mine</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro meetup with [@jabel](https://micro.blog/jabel) !\n\nWe walked around Heron Haven and had some nice chats.\n\nAs you can see, his beard is much better than mine\n\n<img src=\"uploads/2023/b4c0db97a9.jpg\" width=\"600\" height=\"450\" alt=\"@jabel and me\">\n",
+				"content_text": "Micro meetup with [@jabel](https://micro.blog/jabel) !\n\nWe walked around Heron Haven and had some nice chats.\n\nAs you can see, his beard is much better than mine\n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/b4c0db97a9.jpg\" width=\"600\" height=\"450\" alt=\"@jabel and me\">\n",
 				"date_published": "2023-10-21T10:42:58-04:00",
 				"url": "https://blog.grotenhuis.info/2023/10/21/micro-meetup-with.html",
 				"tags": ["micro posts"]
