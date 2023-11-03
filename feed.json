@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/11/01/if-you-answer.html",
+				"title": "if you answer it again, write it down",
+				"content_html": "<p><em>Note: This is an operating principle. I have others, like &ldquo;<a href=\"https://blog.grotenhuis.info/2020/04/23/when-one-is.html\">when one is remote, all are remote</a>&rdquo;.</em></p>\n<p>If you find yourself answering a question multiples times or sharing a reference multiple times, then go ahead and <strong>document it</strong> and make it <strong>link-able</strong>.</p>\n<ul>\n<li>Personally, this might go on your domain or blog</li>\n<li>Organizationally, it might go on a wiki, intranet site, shared notebook, or project documentation</li>\n</ul>\n<p>Aim to make the above location as consistent as is useful.</p>\n<p>But why?</p>\n<ul>\n<li>helps with <strong>alignment</strong> and <strong>consistency</strong> in answer</li>\n<li>fosters <strong>intentionality</strong> when the answer should change</li>\n<li>(<em>if useful</em>) can show the <strong>history</strong> of those changes/decisions</li>\n<li>serves people <strong>not in the room</strong></li>\n<li>saves you and others <strong>time</strong></li>\n</ul>\n",
+				"content_text": "*Note: This is an operating principle. I have others, like \"[when one is remote, all are remote](https://blog.grotenhuis.info/2020/04/23/when-one-is.html)\".*\n\nIf you find yourself answering a question multiples times or sharing a reference multiple times, then go ahead and **document it** and make it **link-able**.\n\n* Personally, this might go on your domain or blog\n* Organizationally, it might go on a wiki, intranet site, shared notebook, or project documentation\n\nAim to make the above location as consistent as is useful.\n\nBut why?\n\n* helps with **alignment** and **consistency** in answer\n* fosters **intentionality** when the answer should change\n* (*if useful*) can show the **history** of those changes/decisions\n* serves people **not in the room** \n* saves you and others **time**\n\n\n\n\n\n",
+				"date_published": "2023-11-01T12:56:47-04:00",
+				"url": "https://blog.grotenhuis.info/2023/11/01/if-you-answer.html",
+				"tags": ["full posts","principle"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/11/01/the-gym-was.html",
+				
+				"content_html": "<p>The gym was playing “country” music this morning and <a href=\"https://youtu.be/BinH9aMYro4?si=v-wyzVlmEn0YBm9x\">this is all I could think of</a>.</p>\n",
+				"content_text": "The gym was playing “country” music this morning and [this is all I could think of](https://youtu.be/BinH9aMYro4?si=v-wyzVlmEn0YBm9x).\n",
+				"date_published": "2023-11-01T08:32:45-04:00",
+				"url": "https://blog.grotenhuis.info/2023/11/01/the-gym-was.html",
+				"tags": ["Humor","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/31/hello-from-micropublish.html",
+				
+				"content_html": "<p>Hello from <a href=\"https://otavio.cc/micropublish/\">Micro.publish</a>!</p>\n",
+				"content_text": "Hello from [Micro.publish](https://otavio.cc/micropublish/)!\n",
+				"date_published": "2023-10-31T13:00:18-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/31/hello-from-micropublish.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/31/achievement-unlocked-biked.html",
+				
+				"content_html": "<p>🚲 Achievement unlocked: biked to work.</p>\n<p>Wow it was cold. I don&rsquo;t think my buff is going to cut it, after all.</p>\n",
+				"content_text": "🚲 Achievement unlocked: biked to work.\n\nWow it was cold. I don't think my buff is going to cut it, after all.\n",
+				"date_published": "2023-10-31T08:58:12-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/31/achievement-unlocked-biked.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/29/if-you-didnt.html",
+				
+				"content_html": "<p>🏉 if you didn’t watch the Rugby World Cup 3rd place game or final: <strong>go catch the replays</strong>. Both were incredible games.</p>\n<p>(On <em>Peacock</em> here in the USA)</p>\n",
+				"content_text": "🏉 if you didn’t watch the Rugby World Cup 3rd place game or final: **go catch the replays**. Both were incredible games.\n\n(On _Peacock_ here in the USA)\n",
+				"date_published": "2023-10-29T17:22:59-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/29/if-you-didnt.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/29/sunday-quote.html",
+				
+				"content_html": "<p>Sunday Quote 🕊️🏴</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sunday Quote 🕊️🏴\n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/bdc6f1d44e.jpg\" width=\"600\" height=\"300\" alt=\"Call to Worship&10;Left: What burden do we bear? Is it the yoke of empire, heavy as cast iron, shackling our lives to the machinery of power?&10;Right: Let us bind ourselves to the plowshare of Christ.&10;Its crossbeam is light. Its harness rings with bells.&10;Left: We do not wish to harden the earth with our weight or trample&10;the oppressed with our force.&10;Right: We yearn to turn over the ground and sow the seed of peace&10;and compassion!&10;All:&10;Gracious God, we relinquish the burden of empire. We long to shoulder all those who mourn.&10;Prayer of Invocation&10;Welcome\">\n",
+				"date_published": "2023-10-29T09:37:12-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/29/sunday-quote.html",
+				"tags": ["Anabaptism","Sunday Quotes","micro posts","Quotes"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/28/it-is-so.html",
+				
+				"content_html": "<p>⚽️ It is so stupid trying to figure out where Premier League games are available in the USA.</p>\n<blockquote>\n<p>Most games are in the NBC family.</p>\n</blockquote>\n<p>But only some show in Peacock. And some don’t, even if you have Peacock Premium &amp; Plus with live channels like NBC Sports. But the match will be available in the NBC Sports app, but that isn’t covered by a Peacock Premium &amp; Plus subscription.</p>\n",
+				"content_text": "⚽️ It is so stupid trying to figure out where Premier League games are available in the USA.\n\n> Most games are in the NBC family.\n\nBut only some show in Peacock. And some don’t, even if you have Peacock Premium & Plus with live channels like NBC Sports. But the match will be available in the NBC Sports app, but that isn’t covered by a Peacock Premium & Plus subscription.\n",
+				"date_published": "2023-10-28T07:54:05-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/28/it-is-so.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/27/rugby-players-are.html",
+				
+				"content_html": "<p>🏉 rugby players are the only people allowed to have mullets, even ironically</p>\n",
+				"content_text": "🏉 rugby players are the only people allowed to have mullets, even ironically\n",
+				"date_published": "2023-10-27T20:07:32-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/27/rugby-players-are.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/10/27/watching-the-arg.html",
+				
+				"content_html": "<p>🏉 watching the ARG v ENG bronze match while we listen to Inspector Gamache 📚</p>\n<p>These Argentina jerseys remind me of my favorite #USMNT jersey of the last couple decades.⚽️</p>\n",
+				"content_text": "🏉 watching the ARG v ENG bronze match while we listen to Inspector Gamache 📚\n\nThese Argentina jerseys remind me of my favorite #USMNT jersey of the last couple decades.⚽️\n",
+				"date_published": "2023-10-27T20:01:49-04:00",
+				"url": "https://blog.grotenhuis.info/2023/10/27/watching-the-arg.html",
+				"tags": ["Soccer","Books","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/10/27/finally-took-a.html",
 				
 				"content_html": "<p>🚲 Finally took a fat tire e-bike test ride and whoa it&rsquo;s even better than I imagined.</p>\n<p>This is life-changing and world-changing technology.</p>\n",
@@ -3762,11 +3843,11 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/01/25/if-you-feel.html",
 				
-				"content_html": "<p>If you feel like writing a thread, ask if yourself if it should be a blogpost, instead.</p>\n",
-				"content_text": "If you feel like writing a thread, ask if yourself if it should be a blogpost, instead.\n",
+				"content_html": "<p>If you feel like writing a thread, ask yourself if it should be a blogpost, instead.</p>\n",
+				"content_text": "If you feel like writing a thread, ask yourself if it should be a blogpost, instead.\n",
 				"date_published": "2023-01-25T11:25:43-04:00",
 				"url": "https://blog.grotenhuis.info/2023/01/25/if-you-feel.html",
-				"tags": ["micro posts"]
+				"tags": ["micro posts","principle"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/01/24/rog-and-davo.html",
@@ -13685,10 +13766,10 @@
 				"id": "http://toddgrotenhuis.micro.blog/2020/04/23/when-one-is.html",
 				"title": "when one is remote, all are remote",
 				"content_html": "<p>I heard from someone yesterday who said they feel more included in meetings, now. Why? Because they are no longer the &ldquo;odd person out&rdquo; in meetings.</p>\n<p>Have you ever had that happen, where you you call or video conference in to a meeting and all the others are in a conference room? You get left out of the conversation. There&rsquo;s table chatter you can&rsquo;t hear. All the voices aren&rsquo;t clear. People look at each other but not you.</p>\n<p>It&rsquo;s unfortunate that it took our current situation to remind us of this principle, but here is what our standard behavior for meetings should be:</p>\n<p><strong>if you have one remote participant, setup the meeting for all to be remote participants</strong></p>\n<p>Don&rsquo;t reserve a conference room. Have each participant join from their desks.</p>\n<p>It establishes equity in the meeting, and makes sure that all can be seen, heard, and considered.</p>\n",
-				"content_text": "I heard from someone yesterday who said they feel more included in meetings, now. Why? Because they are no longer the \"odd person out\" in meetings.\n\nHave you ever had that happen, where you you call or video conference in to a meeting and all the others are in a conference room? You get left out of the conversation. There's table chatter you can't hear. All the voices aren't clear. People look at each other but not you.\n\nIt's unfortunate that it took our current situation to remind us of this principle, but here is what our standard behavior for meetings should be:\n\n**if you have one remote participant, setup the meeting for all to be remote participants**\n\nDon't reserve a conference room. Have each participant join from their desks.\n\nIt establishes equity in the meeting, and makes sure that all can be seen, heard, and considered.\n",
+				"content_text": "I heard from someone yesterday who said they feel more included in meetings, now. Why? Because they are no longer the \"odd person out\" in meetings.\n\nHave you ever had that happen, where you you call or video conference in to a meeting and all the others are in a conference room? You get left out of the conversation. There's table chatter you can't hear. All the voices aren't clear. People look at each other but not you.\n\nIt's unfortunate that it took our current situation to remind us of this principle, but here is what our standard behavior for meetings should be:\n\n**if you have one remote participant, setup the meeting for all to be remote participants**\n\nDon't reserve a conference room. Have each participant join from their desks.\n\nIt establishes equity in the meeting, and makes sure that all can be seen, heard, and considered. \n",
 				"date_published": "2020-04-23T08:30:54-04:00",
 				"url": "https://blog.grotenhuis.info/2020/04/23/when-one-is.html",
-				"tags": ["full posts"]
+				"tags": ["full posts","principle"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/04/21/good-reporting-from.html",
