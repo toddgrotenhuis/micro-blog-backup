@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/12/01/attending-wild-hope.html",
+				
+				"content_html": "<p>attending: <a href=\"https://www.wfyi.org/events/wild-hope-for-salamanders\">Wild Hope for Salamanders</a></p>\n<p>Wanna join?</p>\n",
+				"content_text": "attending: [Wild Hope for Salamanders](https://www.wfyi.org/events/wild-hope-for-salamanders)\n\nWanna join? \n",
+				"date_published": "2023-12-01T10:25:17-05:00",
+				"url": "https://blog.grotenhuis.info/2023/12/01/attending-wild-hope.html",
+				"tags": ["micro posts","Permaculture"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/11/30/finished-season-of.html",
+				
+				"content_html": "<p>📺 Finished Season 2 of <em>Yellowjackets</em>.</p>\n<p>Wow! This season had a little less of the “coming of age” story, but more of the “survival horror” story and the “Coen-noir” story. Terrible and incredible.</p>\n",
+				"content_text": "📺 Finished Season 2 of _Yellowjackets_.\n\nWow! This season had a little less of the “coming of age” story, but more of the “survival horror” story and the “Coen-noir” story. Terrible and incredible.\n",
+				"date_published": "2023-11-30T23:27:17-05:00",
+				"url": "https://blog.grotenhuis.info/2023/11/30/finished-season-of.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/11/30/id-really-like.html",
+				
+				"content_html": "<p>I&rsquo;d really like to use iAWriter but:</p>\n<ul>\n<li>iAWriter doesn&rsquo;t fully support non-iCloud storage on mobile</li>\n<li>work doesn&rsquo;t permit native iCloud drive</li>\n<li>CloudMounter doesn&rsquo;t support iCloud drive</li>\n</ul>\n",
+				"content_text": "I'd really like to use iAWriter but:\n\n* iAWriter doesn't fully support non-iCloud storage on mobile\n* work doesn't permit native iCloud drive\n* CloudMounter doesn't support iCloud drive\n",
+				"date_published": "2023-11-30T19:12:09-05:00",
+				"url": "https://blog.grotenhuis.info/2023/11/30/id-really-like.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/11/30/this-is-a.html",
+				
+				"content_html": "<p><a href=\"https://www.404media.co/a-massive-repair-lawsuit-against-john-deere-clears-a-major-hurdle/\">this is a positive development</a> #RightToRepair 🚜</p>\n",
+				"content_text": "[this is a positive development](https://www.404media.co/a-massive-repair-lawsuit-against-john-deere-clears-a-major-hurdle/) #RightToRepair 🚜\n",
+				"date_published": "2023-11-30T17:55:16-05:00",
+				"url": "https://blog.grotenhuis.info/2023/11/30/this-is-a.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/11/29/finally-getting-to.html",
+				
+				"content_html": "<p>Finally getting to the good stuff in duolingo ⚽️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Finally getting to the good stuff in duolingo ⚽️\n\n<img src=\"uploads/2023/75dd18ef96.jpg\" width=\"600\" height=\"557\" alt=\"“When is the soccer game?”\">\n",
+				"date_published": "2023-11-29T23:34:26-05:00",
+				"url": "https://blog.grotenhuis.info/2023/11/29/finally-getting-to.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/11/28/looking-for-some.html",
+				
+				"content_html": "<p>Looking for some #GivingTuesday options? Here are some ideas:</p>\n<ul>\n<li><a href=\"https://supporters.eff.org/donate/pu--DB\">Electronic Frontier Foundation</a></li>\n<li><a href=\"https://indyreads.org/get-involved/support-indy-reads/\">Indy Reads</a></li>\n<li><a href=\"https://innocenceproject.org/ways-to-give/\">Innocence Project</a></li>\n<li><a href=\"https://mcc.org/donate\">Mennonite Central Committee</a></li>\n<li><a href=\"https://mds.org/ways-to-donate/\">Mennonite Disaster Service</a></li>\n<li><a href=\"https://thewhiteriveralliance.org/donate/\">White River Alliance</a></li>\n</ul>\n",
+				"content_text": "Looking for some #GivingTuesday options? Here are some ideas:\n\n* [Electronic Frontier Foundation](https://supporters.eff.org/donate/pu--DB)\n* [Indy Reads](https://indyreads.org/get-involved/support-indy-reads/)\n* [Innocence Project](https://innocenceproject.org/ways-to-give/)\n* [Mennonite Central Committee](https://mcc.org/donate)\n* [Mennonite Disaster Service](https://mds.org/ways-to-donate/)\n* [White River Alliance](https://thewhiteriveralliance.org/donate/)\n",
+				"date_published": "2023-11-28T11:44:18-05:00",
+				"url": "https://blog.grotenhuis.info/2023/11/28/looking-for-some.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/11/28/the-readwise-core.html",
+				
+				"content_html": "<p>The <strong>Readwise</strong> core product is incredible. <em>Evidence: I&rsquo;m on a 1370-day streak</em></p>\n<p>Readwise <strong>Reader</strong> is a bloated, buggy product that is trying to be everything.</p>\n<p>I get Reader with my Readwise subscription, but I&rsquo;m still using other RSS readers and read-it-later services because Reader is such a hot mess.</p>\n",
+				"content_text": "The **Readwise** core product is incredible. _Evidence: I'm on a 1370-day streak_\n\nReadwise **Reader** is a bloated, buggy product that is trying to be everything.\n\nI get Reader with my Readwise subscription, but I'm still using other RSS readers and read-it-later services because Reader is such a hot mess.\n",
+				"date_published": "2023-11-28T08:51:51-05:00",
+				"url": "https://blog.grotenhuis.info/2023/11/28/the-readwise-core.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2023/11/27/psa-the-couple.html",
+				
+				"content_html": "<p>🤧 PSA: the couple weeks after a travel holiday are pretty nasty as far as sickness-sharing. It’s a good time to stay home or mask up, if you are able. 😷</p>\n<p>Example: my trainer had three people cancel today due to sickness, and more that should have.</p>\n",
+				"content_text": "🤧 PSA: the couple weeks after a travel holiday are pretty nasty as far as sickness-sharing. It’s a good time to stay home or mask up, if you are able. 😷\n\nExample: my trainer had three people cancel today due to sickness, and more that should have.\n",
+				"date_published": "2023-11-27T08:07:30-05:00",
+				"url": "https://blog.grotenhuis.info/2023/11/27/psa-the-couple.html",
+				"tags": ["micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/11/25/lets-go-nati.html",
 				
 				"content_html": "<p>⚽️ let’s go ‘Nati</p>\n",
@@ -46,7 +118,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2023/11/23/on-my-way.html",
 				
 				"content_html": "<p>On my way to becoming a basic Spanish speaker.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On my way to becoming a basic Spanish speaker.\n\n<img src=\"uploads/2023/07e432cf50.png\" width=\"600\" height=\"600\" alt=\"200 day streak\">\n",
+				"content_text": "On my way to becoming a basic Spanish speaker.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2023/07e432cf50.png\" width=\"600\" height=\"600\" alt=\"200 day streak\">\n",
 				"date_published": "2023-11-23T22:11:59-05:00",
 				"url": "https://blog.grotenhuis.info/2023/11/23/on-my-way.html",
 				"tags": ["micro posts"]
@@ -15738,15 +15810,6 @@
 				"date_published": "2019-11-30T15:44:47-05:00",
 				"url": "https://blog.grotenhuis.info/2019/11/30/alien-rpg-materials.html",
 				"tags": ["Games","Review","micro posts","RPG"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2019/11/29/did-you-or.html",
-				
-				"content_html": "<p>Did you (or are you planning to) engage in an alternative activity to Black Friday and Cyber Monday? <a href=\"https://resilient.substack.com/p/black-fridaycyber-monday-alternatives/\">Please share.</a> #OptOutside #BuyNothingDay</p>\n",
-				"content_text": "Did you (or are you planning to) engage in an alternative activity to Black Friday and Cyber Monday? [Please share.](https://resilient.substack.com/p/black-fridaycyber-monday-alternatives/) #OptOutside #BuyNothingDay\n",
-				"date_published": "2019-11-29T16:02:46-05:00",
-				"url": "https://blog.grotenhuis.info/2019/11/29/did-you-or.html",
-				"tags": ["Resilience","Ideas","Digital Minimalism","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/11/29/black-fridaycyber-monday.html",
