@@ -7,13 +7,58 @@
 	"items": [
 		
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2024/01/08/theres-a-tv.html",
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/14/beautiful-cold-morning.html",
 				
-				"content_html": "<p>There’s a tv showing the college football pre-show and I think I just lost all my brain cells.</p>\n",
-				"content_text": "There’s a tv showing the college football pre-show and I think I just lost all my brain cells. \n",
-				"date_published": "2024-01-08T17:50:31-05:00",
-				"url": "https://blog.grotenhuis.info/2024/01/08/theres-a-tv.html",
+				"content_html": "<p>Beautiful cold morning. Let’s play “<strong>guess who was stalking around my house last night?</strong>”. I’ll provide some track and some reference points. Bonus photo of mostly iced-over pond.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Beautiful cold morning. Let’s play “**guess who was stalking around my house last night?**”. I’ll provide some track and some reference points. Bonus photo of mostly iced-over pond.\n\n<img src=\"uploads/2024/d757d78513.jpg\" width=\"450\" height=\"600\" alt=\"Tracks\"><img src=\"uploads/2024/35723071e7.jpg\" width=\"600\" height=\"450\" alt=\"Common animal tracks in my state.\"><img src=\"uploads/2024/c73b3bb14e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-01-14T08:18:35-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/14/beautiful-cold-morning.html",
 				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/13/first-bald-eagle.html",
+				
+				"content_html": "<p>🔎 First bald eagle sighting at Heron Haven!</p>\n",
+				"content_text": "🔎 First bald eagle sighting at Heron Haven!\n",
+				"date_published": "2024-01-13T13:09:34-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/13/first-bald-eagle.html",
+				"tags": ["micro posts","Sightings"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/12/mr-guy-with.html",
+				
+				"content_html": "<p>Mr. guy with crisp pink dress shirt tucked into baggy grey sweat pants: I wonder what your life is like.</p>\n",
+				"content_text": "Mr. guy with crisp pink dress shirt tucked into baggy grey sweat pants: I wonder what your life is like.\n",
+				"date_published": "2024-01-12T11:54:24-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/12/mr-guy-with.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/10/three-directions-of.html",
+				"title": "Three Directions of Org Design",
+				"content_html": "<p><em>This is a post is in the <a href=\"https://blog.grotenhuis.info/useful-ideas/\">Useful Ideas</a> series.</em></p>\n<p>This is a framework to guide organizational design decisions, based on three directions: <em>inside-out</em>, <em>outside-in</em>, and <em>upwards</em>. Most of us tend to primarily consider one of these directions, so  this framework helps us to evaluate the <em>other</em> directions, as well.</p>\n<p>As you evaluate these factors, there will be tradeoffs to make, but considering each of these directions helps you to make <strong>informed</strong> tradeoffs and to <strong>mitigate</strong> the downsides of your approach.</p>\n<p>For each direction, I&rsquo;ll give a brief glimpse of an org design that highly prioritizes that perspective often at the expense of the other perspectives.</p>\n<p><em>Note: I believe these principles are relevant to many types of organizations. However, I chose to use consistent and simplified language where possible. So, when you see &ldquo;customers&rdquo;, for example, you may need to mentally substitute this with &ldquo;stakeholders&rdquo;, &ldquo;boundary partners&rdquo;, &ldquo;constituents&rdquo;, &ldquo;members&rdquo;, &ldquo;clients&rdquo; or whatever is the appropriate term for the type of organization you are designing. Do this for other terms, as well.</em></p>\n<h2 id=\"inside-out-delivery\">Inside-Out: Delivery</h2>\n<p>The inside-out direction focuses on how a team is aligned for delivery. It considers questions such as:</p>\n<ul>\n<li>Is it easy to get quality output &amp; results through the system?</li>\n<li>Have we limited dependencies so that there are reduced handoffs and waiting?</li>\n<li>Do we have all the needed skills and competencies within the team?</li>\n<li>Are roles and responsibilities clear?</li>\n</ul>\n<p><em>Extreme example: the team is fully self-contained and has a highly-structured production line.</em></p>\n<p>The inside-out direction is about creating a structure that supports the execution of the  strategy and the delivery of value to the customers.</p>\n<h2 id=\"outside-in-customers\">Outside-In: Customers</h2>\n<p>The outside-in direction focuses on how customers engage with the organization. It considers questions such as:</p>\n<ul>\n<li>Is it easy for customers to get support?</li>\n<li>Do customers know where to go for support, and are there limited places to go?</li>\n<li>Are we building rapport and trust with customers?</li>\n<li>Are we aligned to anticipate and respond to customer needs and expectations?</li>\n</ul>\n<p><em>Extreme example: each customer has a personal ambassador to the organization who is fully equipped and empowered to address the customer&rsquo;s needs.</em></p>\n<p>The outside-in direction is about creating a customer-centric culture and a customer-oriented structure.</p>\n<h2 id=\"upwards-expertise\">Upwards: Expertise</h2>\n<p>The upwards direction focuses on how team members gain domain knowledge, skill, and ability to troubleshoot. It considers questions such as:</p>\n<ul>\n<li>Do people responsible for delivery get significant exposure to problems?</li>\n<li>&hellip;and are they incentivized to understand and solve them?</li>\n<li>Do team members get practice &amp; timely feedback that hones their skill &amp; knowledge?</li>\n<li>Are we helping people become adept at their craft and greater in wisdom?</li>\n</ul>\n<p><em>Extreme example: for every offering, team member(s) are responsible for the complete lifecycle from initial design to ongoing support.</em></p>\n<p>The upwards direction is about creating a growth-oriented culture and a people-oriented structure.</p>\n<h2 id=\"summary\">Summary</h2>\n<p>Each direction represents a different perspective on how to align the structure, roles, and competencies of the organization with its strategy, culture, environment, customers, and people. The framework helps to evaluate the tradeoffs and benefits of each direction, and to create a balanced and effective organization.</p>\n",
+				"content_text": "*This is a post is in the [Useful Ideas](https://blog.grotenhuis.info/useful-ideas/) series.*\n\nThis is a framework to guide organizational design decisions, based on three directions: *inside-out*, *outside-in*, and *upwards*. Most of us tend to primarily consider one of these directions, so  this framework helps us to evaluate the *other* directions, as well.\n\nAs you evaluate these factors, there will be tradeoffs to make, but considering each of these directions helps you to make **informed** tradeoffs and to **mitigate** the downsides of your approach.\n\nFor each direction, I'll give a brief glimpse of an org design that highly prioritizes that perspective often at the expense of the other perspectives.\n\n*Note: I believe these principles are relevant to many types of organizations. However, I chose to use consistent and simplified language where possible. So, when you see \"customers\", for example, you may need to mentally substitute this with \"stakeholders\", \"boundary partners\", \"constituents\", \"members\", \"clients\" or whatever is the appropriate term for the type of organization you are designing. Do this for other terms, as well.*\n\n## Inside-Out: Delivery\n\nThe inside-out direction focuses on how a team is aligned for delivery. It considers questions such as:\n\n- Is it easy to get quality output & results through the system?\n- Have we limited dependencies so that there are reduced handoffs and waiting?\n- Do we have all the needed skills and competencies within the team?\n- Are roles and responsibilities clear?\n\n*Extreme example: the team is fully self-contained and has a highly-structured production line.*\n\nThe inside-out direction is about creating a structure that supports the execution of the  strategy and the delivery of value to the customers. \n\n## Outside-In: Customers\n\nThe outside-in direction focuses on how customers engage with the organization. It considers questions such as:\n\n- Is it easy for customers to get support?\n- Do customers know where to go for support, and are there limited places to go?\n- Are we building rapport and trust with customers?\n- Are we aligned to anticipate and respond to customer needs and expectations?\n\n*Extreme example: each customer has a personal ambassador to the organization who is fully equipped and empowered to address the customer's needs.*\n\nThe outside-in direction is about creating a customer-centric culture and a customer-oriented structure. \n\n## Upwards: Expertise\n\nThe upwards direction focuses on how team members gain domain knowledge, skill, and ability to troubleshoot. It considers questions such as:\n\n- Do people responsible for delivery get significant exposure to problems?\n- ...and are they incentivized to understand and solve them?\n- Do team members get practice & timely feedback that hones their skill & knowledge?\n- Are we helping people become adept at their craft and greater in wisdom?\n\n*Extreme example: for every offering, team member(s) are responsible for the complete lifecycle from initial design to ongoing support.*\n\nThe upwards direction is about creating a growth-oriented culture and a people-oriented structure.\n\n## Summary\n\nEach direction represents a different perspective on how to align the structure, roles, and competencies of the organization with its strategy, culture, environment, customers, and people. The framework helps to evaluate the tradeoffs and benefits of each direction, and to create a balanced and effective organization.\n",
+				"date_published": "2024-01-10T14:45:47-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/10/three-directions-of.html",
+				"tags": ["Ideas","full posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/09/new-book-from.html",
+				
+				"content_html": "<p>New book from the Weinersmiths: <a href=\"https://bookshop.org/a/10222/9781984881724\">A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?</a></p>\n<p>Or, as others have (roughly) said it:</p>\n<blockquote>\n<p>Want to settle space? First prove to me you can address climate change on earth, which is far easier.</p>\n</blockquote>\n",
+				"content_text": "New book from the Weinersmiths: [A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?](https://bookshop.org/a/10222/9781984881724)\n\nOr, as others have (roughly) said it:\n\n> Want to settle space? First prove to me you can address climate change on earth, which is far easier.\n",
+				"date_published": "2024-01-09T20:39:59-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/09/new-book-from.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/08/lets-say-somebody.html",
+				
+				"content_html": "<p>🎶 Let&rsquo;s say somebody listens to a lot of metal but finds most black metal tedious, with a few exceptions like:</p>\n<ul>\n<li><a href=\"https://yovel.bandcamp.com\">Yovel</a></li>\n<li><a href=\"https://aquilus.bandcamp.com\">Aquilus</a></li>\n<li><a href=\"https://whiteward.bandcamp.com/\">White Ward</a></li>\n<li><a href=\"https://thetruepanopticon.bandcamp.com\">Panopticon</a></li>\n</ul>\n<p>What would you recommend to them for more non-tedious black metal?</p>\n",
+				"content_text": "🎶 Let's say somebody listens to a lot of metal but finds most black metal tedious, with a few exceptions like:\n\n* [Yovel](https://yovel.bandcamp.com)\n* [Aquilus](https://aquilus.bandcamp.com)\n* [White Ward](https://whiteward.bandcamp.com/)\n* [Panopticon](https://thetruepanopticon.bandcamp.com)\n\nWhat would you recommend to them for more non-tedious black metal?\n",
+				"date_published": "2024-01-08T18:51:57-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/08/lets-say-somebody.html",
+				"tags": ["Music","micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/01/08/minimalism-errrless-maximalism.html",
@@ -28,7 +73,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2024/01/07/want-to-help.html",
 				
 				"content_html": "<p>Want to help with Circle City Mutual Aid? Come help make hats at Indy Menno on the 20th at 10:30. 🕊️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Want to help with Circle City Mutual Aid? Come help make hats at Indy Menno on the 20th at 10:30. 🕊️\n\n<img src=\"uploads/2024/72389dfd9e.png\" width=\"600\" height=\"600\" alt=\"Flyer for the mentioned event\">\n",
+				"content_text": "Want to help with Circle City Mutual Aid? Come help make hats at Indy Menno on the 20th at 10:30. 🕊️\n\n<img src=\"https://blog.grotenhuis.info/uploads/2024/72389dfd9e.png\" width=\"600\" height=\"600\" alt=\"Flyer for the mentioned event\">\n",
 				"date_published": "2024-01-07T16:55:42-05:00",
 				"url": "https://blog.grotenhuis.info/2024/01/07/want-to-help.html",
 				"tags": ["Anabaptism","micro posts"]
@@ -37,7 +82,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2024/01/06/plexamp-has-this.html",
 				
 				"content_html": "<p>🎶 PlexAmp has this concept of “artist moods” and I haven’t used it much. But tonight I was looking at Clubroot and decided to click on “Ominous” and maybe this is my musical vibe?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎶 PlexAmp has this concept of “artist moods” and I haven’t used it much. But tonight I was looking at Clubroot and decided to click on “Ominous” and maybe this is my musical vibe?\n\n<img src=\"uploads/2024/6ac0b1ddd1.jpg\" width=\"291\" height=\"600\" alt=\"Music I like across many genres, all “ominous”\">\n",
+				"content_text": "🎶 PlexAmp has this concept of “artist moods” and I haven’t used it much. But tonight I was looking at Clubroot and decided to click on “Ominous” and maybe this is my musical vibe?\n\n<img src=\"https://blog.grotenhuis.info/uploads/2024/6ac0b1ddd1.jpg\" width=\"291\" height=\"600\" alt=\"Music I like across many genres, all “ominous”\">\n",
 				"date_published": "2024-01-06T23:31:52-05:00",
 				"url": "https://blog.grotenhuis.info/2024/01/06/plexamp-has-this.html",
 				"tags": ["Music","micro posts"]
