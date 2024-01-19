@@ -7,10 +7,118 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/19/maybe-we-shouldnt.html",
+				
+				"content_html": "<p>Maybe we shouldn’t vote for entertainers?</p>\n<p>Maybe news shouldn’t be entertainment?</p>\n<p>Maybe news shouldn’t be ad-supported?</p>\n",
+				"content_text": "Maybe we shouldn’t vote for entertainers?\n\nMaybe news shouldn’t be entertainment?\n\nMaybe news shouldn’t be ad-supported?\n\n",
+				"date_published": "2024-01-19T08:50:20-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/19/maybe-we-shouldnt.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/18/tonights-ds-was.html",
+				
+				"content_html": "<p>🖖 Tonight’s DS9 was goblin <em>undoes</em> a crime!</p>\n",
+				"content_text": "🖖 Tonight’s DS9 was goblin _undoes_ a crime!\n",
+				"date_published": "2024-01-18T21:52:59-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/18/tonights-ds-was.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/17/year-of-the.html",
+				
+				"content_html": "<p><a href=\"https://moxie.org/stories/year-of-the-challenge/\">Year of the challenge (or, the tyranny of friendship)</a></p>\n<p>Moxie Marlinspike doesn’t disappoint.</p>\n",
+				"content_text": "[Year of the challenge (or, the tyranny of friendship)](https://moxie.org/stories/year-of-the-challenge/)\n\nMoxie Marlinspike doesn’t disappoint.\n",
+				"date_published": "2024-01-17T14:53:37-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/17/year-of-the.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/17/comics-against-genocide.html",
+				
+				"content_html": "<p><a href=\"https://inthesetimes.com/article/comics-genocide-gaza-israel-palestine\">comics against genocide</a></p>\n",
+				"content_text": "[comics against genocide](https://inthesetimes.com/article/comics-genocide-gaza-israel-palestine)\n",
+				"date_published": "2024-01-17T12:08:32-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/17/comics-against-genocide.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/17/code-written-with.html",
+				
+				"content_html": "<p>🔐 <a href=\"https://www.schneier.com/blog/archives/2024/01/code-written-with-ai-assistants-is-less-secure.html\">Code Written with AI Assistants Is Less Secure - Schneier on Security</a></p>\n<p>This part seems obvious. A better research project would be:</p>\n<blockquote>\n<p>is code written with help of an LLM that is only trained on vetted code and data more or less secure than the vetted code?</p>\n</blockquote>\n<p>(“Vetted code” meaning code that has gone through a mature appsec/prodsec process.)</p>\n",
+				"content_text": "🔐 [Code Written with AI Assistants Is Less Secure - Schneier on Security](https://www.schneier.com/blog/archives/2024/01/code-written-with-ai-assistants-is-less-secure.html)\n\nThis part seems obvious. A better research project would be:\n\n> is code written with help of an LLM that is only trained on vetted code and data more or less secure than the vetted code?\n\n (“Vetted code” meaning code that has gone through a mature appsec/prodsec process.)\n",
+				"date_published": "2024-01-17T08:58:50-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/17/code-written-with.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/16/proud-of-my.html",
+				
+				"content_html": "<p>🕊 Proud of my people.</p>\n<p><a href=\"https://www.washingtonpost.com/dc-md-va/2024/01/16/gaza-protest-cannon-building-mennonite-action/\">Around 130 Mennonites, calling for Gaza cease-fire, arrested on Capitol Hill</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "🕊 Proud of my people.\r\n\r\n[Around 130 Mennonites, calling for Gaza cease-fire, arrested on Capitol Hill](https://www.washingtonpost.com/dc-md-va/2024/01/16/gaza-protest-cannon-building-mennonite-action/)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2024/sitting.jpeg\" width=\"600\" height=\"451\" alt=\"Mennonites sitting and singing in a circle\"><img src=\"https://blog.grotenhuis.info/uploads/2024/sitting-overhead.jpg\" width=\"600\" height=\"399\" alt=\"overhead shot of Mennonites sitting and singing, with their quilted banners\"><img src=\"https://blog.grotenhuis.info/uploads/2024/send-food-not-missiles.jpeg\" width=\"600\" height=\"450\" alt=\"Mennonites outside with a banner that reads “send food not missiles”\"><img src=\"https://blog.grotenhuis.info/uploads/2024/nobodys-free-until-everybodys-free.jpeg\" width=\"450\" height=\"600\" alt=\"Mennonites outside with a banner with a Fannie Lou Hamer quote “Nobody’s Free Until Everybody’s Free”\">\n",
+				"date_published": "2024-01-16T22:06:29-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/16/proud-of-my.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/15/tracking-artist-by.html",
+				"title": "🎶 Tracking Artists by 5-Star Tracks",
+				"content_html": "<p>I usually use <a href=\"https://www.last.fm/user/screamsandreams\">last.fm</a> to look at my top artists by <strong>number of plays</strong>. Today, I decided to look at <strong>who have the most ⭐️⭐️⭐️⭐️⭐️ tracks</strong> in my library. It came out like this:</p>\n<ol>\n<li>Circle of Dust</li>\n<li>Between the Buried and Me</li>\n<li>August Burns Red</li>\n<li>Black Sun Empire</li>\n<li>Clubroot</li>\n<li>Underoath</li>\n<li>Living Sacrifice</li>\n<li>Kardashev</li>\n<li>Opeth</li>\n<li>Brainchild (tie)</li>\n<li>Front Line Assembly (tie)</li>\n</ol>\n<p>A couple of these are in my all-time top-listened artists (August Burns Red, Front Line Assembly) but many of them aren&rsquo;t. Some of that is because my top-listened artists have great <em>albums</em> that get a lot of plays. Others (like BtBaM and Opeth) might not be at the top because their songs are so long and account for fewer plays per time listened. Others (Kardashev) are newer to me.</p>\n<p>Also, as usual, Rhys Fulber and Klayton would rocket off the top of charts if each stuck to one project name. Klayton (already at #1, #10, and remixer of some of #7) would be even higher if I threw in Argyle Park, AP2, Celldweller, and early work with Klank. Rhys Fulber (#11) would be in second place if we included self-titled work, Fear Factory mixes &amp; remixes, and Noise Unit.</p>\n<p>I think I&rsquo;ll revisit this view again after I get more tracks in my library rated.</p>\n<p>Who hold the most 5-star tracks in your library?</p>\n",
+				"content_text": "I usually use [last.fm](https://www.last.fm/user/screamsandreams) to look at my top artists by **number of plays**. Today, I decided to look at **who have the most ⭐️⭐️⭐️⭐️⭐️ tracks** in my library. It came out like this:\n\n1. Circle of Dust\n2. Between the Buried and Me\n3. August Burns Red\n4. Black Sun Empire\n5. Clubroot\n6. Underoath\n7. Living Sacrifice\n8. Kardashev\n9. Opeth\n10. Brainchild (tie)\n11. Front Line Assembly (tie)\n\nA couple of these are in my all-time top-listened artists (August Burns Red, Front Line Assembly) but many of them aren't. Some of that is because my top-listened artists have great _albums_ that get a lot of plays. Others (like BtBaM and Opeth) might not be at the top because their songs are so long and account for fewer plays per time listened. Others (Kardashev) are newer to me.\n\nAlso, as usual, Rhys Fulber and Klayton would rocket off the top of charts if each stuck to one project name. Klayton (already at #1, #10, and remixer of some of #7) would be even higher if I threw in Argyle Park, AP2, Celldweller, and early work with Klank. Rhys Fulber (#11) would be in second place if we included self-titled work, Fear Factory mixes & remixes, and Noise Unit.\n\nI think I'll revisit this view again after I get more tracks in my library rated.\n\nWho hold the most 5-star tracks in your library?\n",
+				"date_published": "2024-01-15T16:50:57-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/15/tracking-artist-by.html",
+				"tags": ["Music","full posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/15/sad-to-hear.html",
+				
+				"content_html": "<p>🗳️ sad to hear Chris Christie is out. He wasn’t a good candidate but was the only Republican adult in the room.</p>\n",
+				"content_text": "🗳️ sad to hear Chris Christie is out. He wasn’t a good candidate but was the only Republican adult in the room.\n",
+				"date_published": "2024-01-15T08:47:21-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/15/sad-to-hear.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/14/i-feel-like.html",
+				
+				"content_html": "<p>🎶 I feel like I owe an explanation about my recent <a href=\"https://blog.grotenhuis.info/2024/01/08/lets-say-somebody.html\">black metal post</a>:</p>\n<p>I like a lot of strange music (see picture), but what I don&rsquo;t care for is the &ldquo;<strong>wall of fuzz</strong>&rdquo; sound that a lot of black metal makes. It&rsquo;s uninteresting and tiresome.</p>\n<p>The ones I do enjoy have a little something extra going on.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🎶 I feel like I owe an explanation about my recent [black metal post](https://blog.grotenhuis.info/2024/01/08/lets-say-somebody.html):\n\nI like a lot of strange music (see picture), but what I don't care for is the \"**wall of fuzz**\" sound that a lot of black metal makes. It's uninteresting and tiresome.\n\nThe ones I do enjoy have a little something extra going on.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2024/6b0d43ed42.jpg\" width=\"600\" height=\"297\" alt=\"chart showing I’m on the unique end of _even people who go out of their way to track what they listen to_ on last.fm\">\n",
+				"date_published": "2024-01-14T14:00:06-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/14/i-feel-like.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/14/about-this-time.html",
+				
+				"content_html": "<p><a href=\"https://blog.grotenhuis.info/2023/01/14/turtle-log-has.html\">About this time last year</a> was the last time we saw a muskrat.</p>\n<p>I guess the bullfrogs, coyotes, eagles, foxes, hawks, (green and blue) herons, largemouth bass, mink, otters, owls, raccoons, snakes, and snapping turtles are doing their jobs. 🤷‍♂️</p>\n",
+				"content_text": "[About this time last year](https://blog.grotenhuis.info/2023/01/14/turtle-log-has.html) was the last time we saw a muskrat. \n\nI guess the bullfrogs, coyotes, eagles, foxes, hawks, (green and blue) herons, largemouth bass, mink, otters, owls, raccoons, snakes, and snapping turtles are doing their jobs. 🤷‍♂️\n",
+				"date_published": "2024-01-14T13:34:56-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/14/about-this-time.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/14/ok-so-i.html",
+				
+				"content_html": "<p>Ok, so I went to a Dollar General and it was like <a href=\"https://youtu.be/p4QGOHahiVM?si=2zpRfQlYRSW4-jsh\">John Oliver says</a>.</p>\n",
+				"content_text": "Ok, so I went to a Dollar General and it was like [John Oliver says](https://youtu.be/p4QGOHahiVM?si=2zpRfQlYRSW4-jsh).\n",
+				"date_published": "2024-01-14T12:49:36-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/14/ok-so-i.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/14/birbs-are-out.html",
+				
+				"content_html": "<p>Birbs are out and extra <a href=\"https://www.audubon.org/news/whats-difference-between-borb-and-floof\">floofy and borby</a> in this -F weather.</p>\n",
+				"content_text": "Birbs are out and extra [floofy and borby](https://www.audubon.org/news/whats-difference-between-borb-and-floof) in this -F weather.\n",
+				"date_published": "2024-01-14T09:41:48-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/14/birbs-are-out.html",
+				"tags": ["micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/01/14/beautiful-cold-morning.html",
 				
-				"content_html": "<p>Beautiful cold morning. Let’s play “<strong>guess who was stalking around my house last night?</strong>”. I’ll provide some track and some reference points. Bonus photo of mostly iced-over pond.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Beautiful cold morning. Let’s play “**guess who was stalking around my house last night?**”. I’ll provide some track and some reference points. Bonus photo of mostly iced-over pond.\n\n<img src=\"uploads/2024/d757d78513.jpg\" width=\"450\" height=\"600\" alt=\"Tracks\"><img src=\"uploads/2024/35723071e7.jpg\" width=\"600\" height=\"450\" alt=\"Common animal tracks in my state.\"><img src=\"uploads/2024/c73b3bb14e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Beautiful cold morning. Let’s play “<strong>guess who was stalking around my house last night?</strong>” I’ll provide some tracks and some reference points. Bonus photo of mostly iced-over pond.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Beautiful cold morning. Let’s play “**guess who was stalking around my house last night?**” I’ll provide some tracks and some reference points. Bonus photo of mostly iced-over pond.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2024/d757d78513.jpg\" width=\"450\" height=\"600\" alt=\"Tracks\"><img src=\"https://blog.grotenhuis.info/uploads/2024/35723071e7.jpg\" width=\"600\" height=\"450\" alt=\"Common animal tracks in my state.\"><img src=\"https://blog.grotenhuis.info/uploads/2024/c73b3bb14e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-01-14T08:18:35-05:00",
 				"url": "https://blog.grotenhuis.info/2024/01/14/beautiful-cold-morning.html",
 				"tags": ["micro posts"]
