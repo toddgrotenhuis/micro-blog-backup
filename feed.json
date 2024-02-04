@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/04/has-anybody-tried.html",
+				
+				"content_html": "<p>Has anybody tried Readwise Reader and Kobo on the <a href=\"https://shop.boox.com/products/palma\">BOOX Palma</a>?</p>\n",
+				"content_text": "Has anybody tried Readwise Reader and Kobo on the [BOOX Palma](https://shop.boox.com/products/palma)?\n",
+				"date_published": "2024-02-04T09:39:16-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/04/has-anybody-tried.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/02/looks-like-my.html",
+				
+				"content_html": "<p>😷 Looks like my covid-free run is likely over. Had 3 team dinners and 3 days of small-room meetings with someone who tested positive when they arrived home from our leadership meeting this week.</p>\n",
+				"content_text": "😷 Looks like my covid-free run is likely over. Had 3 team dinners and 3 days of small-room meetings with someone who tested positive when they arrived home from our leadership meeting this week.\n",
+				"date_published": "2024-02-02T18:42:34-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/02/looks-like-my.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/02/good-criticism.html",
+				"title": "Good Criticism",
+				"content_html": "<p><em>This is a post is in the <a href=\"https://blog.grotenhuis.info/useful-ideas/\">Useful Ideas</a> series.</em></p>\n<p>People sometimes say &ldquo;it&rsquo;s easy to criticize&rdquo; but how easy is it to <strong>criticize well</strong>?</p>\n<p>Many of us often find ourselves in situations where we are called on to be critical. As a cybersecurity and product security leader, this is one of my core job duties! So, I thought I&rsquo;d share some of the lessons I&rsquo;ve learned (<em>often, the hard way!</em>) about criticism.</p>\n<h3 id=\"criticism-is-not-the-same-thing-as-feedback\">Criticism is not the same thing as feedback</h3>\n<p>While it&rsquo;s tempting to think all the same rules apply, there are some different aspects to consider. I&rsquo;ll write about giving useful feedback in <a href=\"https://blog.grotenhuis.info/useful-ideas/\">a different post</a>. <strong>If you&rsquo;re in a mindset of giving constructive feedback, consider reading that commentary instead.</strong></p>\n<h3 id=\"criticism-is-not-about-blaming\">Criticism is not about blaming</h3>\n<p>Finger-pointing is rarely helpful. Good criticism seeks to get to the heart of the matter, so it often involves considering the context of the situation, the processes/structures/systems that produced the outcome, and the variety of factors that contributed. <strong>If you find yourself wanting to blame someone, check your motivations.</strong></p>\n<h3 id=\"criticism-is-not-for-its-own-sake\">Criticism is not for it&rsquo;s own sake</h3>\n<p>If the criticism isn&rsquo;t leading to learning or change, then it is not valuable. If you are not prepared to help with that learning or change (<em>whether through recommendations, support, or addressing a problem</em>), it is not valuable. If it is not delivered to the people that are best positioned do something about it, then it is not valuable. If it is not delivered in a context and setting where the audience is receptive, then it is not valuable. <strong>If you are not trying to drive a good outcome, check your motivations.</strong></p>\n<p><em>Good criticism is difficult, and a lot more could be written here, but I hope these warnings will help you learn from some of my own experience giving it.</em></p>\n",
+				"content_text": "*This is a post is in the [Useful Ideas](https://blog.grotenhuis.info/useful-ideas/) series.*\n\nPeople sometimes say \"it's easy to criticize\" but how easy is it to **criticize well**?\n\nMany of us often find ourselves in situations where we are called on to be critical. As a cybersecurity and product security leader, this is one of my core job duties! So, I thought I'd share some of the lessons I've learned (*often, the hard way!*) about criticism.\n### Criticism is not the same thing as feedback\nWhile it's tempting to think all the same rules apply, there are some different aspects to consider. I'll write about giving useful feedback in [a different post](https://blog.grotenhuis.info/useful-ideas/). **If you're in a mindset of giving constructive feedback, consider reading that commentary instead.**\n### Criticism is not about blaming\nFinger-pointing is rarely helpful. Good criticism seeks to get to the heart of the matter, so it often involves considering the context of the situation, the processes/structures/systems that produced the outcome, and the variety of factors that contributed. **If you find yourself wanting to blame someone, check your motivations.**\n### Criticism is not for it's own sake\nIf the criticism isn't leading to learning or change, then it is not valuable. If you are not prepared to help with that learning or change (*whether through recommendations, support, or addressing a problem*), it is not valuable. If it is not delivered to the people that are best positioned do something about it, then it is not valuable. If it is not delivered in a context and setting where the audience is receptive, then it is not valuable. **If you are not trying to drive a good outcome, check your motivations.**\n\n*Good criticism is difficult, and a lot more could be written here, but I hope these warnings will help you learn from some of my own experience giving it.*\n",
+				"date_published": "2024-02-02T12:38:51-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/02/good-criticism.html",
+				"tags": ["Ideas","full posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/02/happy-new-kmfdm.html",
+				
+				"content_html": "<p>🎶 happy <a href=\"https://kmfdm.bandcamp.com/album/let-go\">new KMFDM day</a> to all who celebrate.</p>\n",
+				"content_text": "🎶 happy [new KMFDM day](https://kmfdm.bandcamp.com/album/let-go) to all who celebrate.\n",
+				"date_published": "2024-02-02T07:10:29-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/02/happy-new-kmfdm.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/31/two-peaceful-traditions.html",
+				
+				"content_html": "<p>🕊️ <a href=\"https://anabaptistworld.org/two-peaceful-traditions-build-an-interfaith-bridge/\">Two peaceful traditions build an interfaith bridge</a></p>\n",
+				"content_text": "🕊️ [Two peaceful traditions build an interfaith bridge](https://anabaptistworld.org/two-peaceful-traditions-build-an-interfaith-bridge/)\n",
+				"date_published": "2024-01-31T09:49:14-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/31/two-peaceful-traditions.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/30/if-you-live.html",
+				
+				"content_html": "<p>If you live in Indiana, can you help <a href=\"https://mailchi.mp/thewhiteriveralliance/thankful-for-your-water-17370429\">prevent this bad bill</a>?</p>\n",
+				"content_text": "If you live in Indiana, can you help [prevent this bad bill](https://mailchi.mp/thewhiteriveralliance/thankful-for-your-water-17370429)?\n",
+				"date_published": "2024-01-30T13:17:20-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/30/if-you-live.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/30/this-is-not.html",
+				
+				"content_html": "<p>🚍 <a href=\"https://mirrorindy.org/indiana-senate-republicans-target-indygo-blue-line-bus/\">‘This is not gonna be easy’: Blue Line supporters prep for House fight</a></p>\n",
+				"content_text": "🚍 [‘This is not gonna be easy’: Blue Line supporters prep for House fight](https://mirrorindy.org/indiana-senate-republicans-target-indygo-blue-line-bus/)\n",
+				"date_published": "2024-01-30T08:56:22-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/30/this-is-not.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/01/29/my-new-hobby.html",
+				
+				"content_html": "<p>My new hobby is cutting the rind off of 🍊 and trying to make my own sugar-free orangecello</p>\n",
+				"content_text": "My new hobby is cutting the rind off of 🍊 and trying to make my own sugar-free orangecello \n",
+				"date_published": "2024-01-29T20:47:39-05:00",
+				"url": "https://blog.grotenhuis.info/2024/01/29/my-new-hobby.html",
+				"tags": ["micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/01/29/numbers-were-expected.html",
 				
 				"content_html": "<p>Numbers were expected to go down this week, but went slightly up. #COVID19</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Numbers were expected to go down this week, but went slightly up. #COVID19\n\n<img src=\"uploads/2024/80f3af8101.png\" width=\"492\" height=\"462\" alt=\"chart showing transmission rate in top 85.7% (source: https://www.pmc19.com/data/index.php)\"><img src=\"uploads/2024/65f29f1ba2.png\" width=\"600\" height=\"359\" alt=\"risk profile based on number of persons (source: https://www.pmc19.com/data/index.php)\">\n",
+				"content_text": "Numbers were expected to go down this week, but went slightly up. #COVID19\n\n<img src=\"https://blog.grotenhuis.info/uploads/2024/80f3af8101.png\" width=\"492\" height=\"462\" alt=\"chart showing transmission rate in top 85.7% (source: https://www.pmc19.com/data/index.php)\"><img src=\"https://blog.grotenhuis.info/uploads/2024/65f29f1ba2.png\" width=\"600\" height=\"359\" alt=\"risk profile based on number of persons (source: https://www.pmc19.com/data/index.php)\">\n",
 				"date_published": "2024-01-29T16:31:00-05:00",
 				"url": "https://blog.grotenhuis.info/2024/01/29/numbers-were-expected.html",
 				"tags": ["micro posts"]
@@ -22,15 +94,6 @@
 				"content_text": "📺 TIL about [Walter Presents](https://www.pbs.org/franchise/walter-presents/). It’s like Masterpiece, but is the non-English-language (European?) collection.\n",
 				"date_published": "2024-01-28T20:21:38-05:00",
 				"url": "https://blog.grotenhuis.info/2024/01/28/til-about-walter.html",
-				"tags": ["micro posts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2024/01/28/i-dont-watch.html",
-				
-				"content_html": "<p>🏈 I don’t watch much gridiron.</p>\n<p>Was that a typical amount of errors or did they have a really bad day?</p>\n",
-				"content_text": "🏈 I don’t watch much gridiron.\n\nWas that a typical amount of errors or did they have a really bad day?\n",
-				"date_published": "2024-01-28T18:31:46-05:00",
-				"url": "https://blog.grotenhuis.info/2024/01/28/i-dont-watch.html",
 				"tags": ["micro posts"]
 			},
 			{
@@ -12591,8 +12654,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/02/02/i-spoke-with.html",
 				
-				"content_html": "<p>I spoke with a Rose-Hulman project team last night about their pentesting project for their cybersecurity course.</p>\n<p><a href=\"https://notes.multif.actor/sectest\">Here are some of the materials we covered as we discsssed types of testing, ways of testing, and tools for testing.</a></p>\n",
-				"content_text": "I spoke with a Rose-Hulman project team last night about their pentesting project for their cybersecurity course.\n\n[Here are some of the materials we covered as we discsssed types of testing, ways of testing, and tools for testing.](https://notes.multif.actor/sectest)\n",
+				"content_html": "<p>I spoke with a Rose-Hulman project team last night about their pentesting project for their cybersecurity course.</p>\n<p><a href=\"https://todd.craft.me/rhitpentest\">Here are some of the materials we covered as we discsssed types of testing, ways of testing, and tools for testing.</a></p>\n",
+				"content_text": "I spoke with a Rose-Hulman project team last night about their pentesting project for their cybersecurity course.\n\n[Here are some of the materials we covered as we discsssed types of testing, ways of testing, and tools for testing.](https://todd.craft.me/rhitpentest)\n",
 				"date_published": "2021-02-02T10:28:02-05:00",
 				"url": "https://blog.grotenhuis.info/2021/02/02/i-spoke-with.html",
 				"tags": ["micro posts"]
