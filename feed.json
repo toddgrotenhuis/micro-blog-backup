@@ -7,6 +7,123 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/09/turtle-sunbathing-season.html",
+				
+				"content_html": "<p>🐢 Turtle sunbathing season has already begun on <a href=\"https://blog.grotenhuis.info/2023/04/26/the-part-of.html\">Turtle Willow</a>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🐢 Turtle sunbathing season has already begun on [Turtle Willow](https://blog.grotenhuis.info/2023/04/26/the-part-of.html).\n\n<img src=\"uploads/2024/28de3f6ac1.jpg\" width=\"450\" height=\"600\" alt=\"A turtle sunning itself\">\n",
+				"date_published": "2024-02-09T11:45:09-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/09/turtle-sunbathing-season.html",
+				"tags": ["micro posts","Sightings"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/08/what-are-the.html",
+				
+				"content_html": "<p>🎶 What are the best 2-part songs? A couple I think of off the top of my head:</p>\n<ul>\n<li><a href=\"https://orbitalofficial.bandcamp.com/album/in-sides\">Orbital - The Box</a></li>\n<li><a href=\"https://junoreactor.bandcamp.com/album/labyrinth\">Juno Reactor - Conquistador</a></li>\n</ul>\n<p>I feel a new playlist coming&hellip;.</p>\n",
+				"content_text": "🎶 What are the best 2-part songs? A couple I think of off the top of my head:\r\n\r\n* [Orbital - The Box](https://orbitalofficial.bandcamp.com/album/in-sides)\r\n* [Juno Reactor - Conquistador](https://junoreactor.bandcamp.com/album/labyrinth)\r\n\r\n I feel a new playlist coming....\n",
+				"date_published": "2024-02-08T18:51:21-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/08/what-are-the.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/08/stop-looking-under.html",
+				"title": "Stop Looking Under the Streetlight",
+				"content_html": "<p><em>This is a post is in the <a href=\"https://blog.grotenhuis.info/useful-ideas/\">Useful Ideas</a> series.</em></p>\n<p>You&rsquo;ve likely heard some version of <a href=\"https://en.wikipedia.org/wiki/Streetlight_effect\">this joke/story</a>:</p>\n<blockquote>\n<p>A policeman sees a drunk man searching for something under a streetlight and asks what the drunk has lost. He says he lost his keys and they both look under the streetlight together. After a few minutes the policeman asks if he is sure he lost them here, and the drunk replies, no, and that he lost them in the park. The policeman asks why he is searching here, and the drunk replies, &ldquo;this is where the light is.&rdquo;</p>\n</blockquote>\n<p>This metaphor has intriguing applications in various domains, but I’ve repeatedly encountered this phenomenon in <strong>technology</strong> and <strong>cybersecurity</strong>. A common pattern I observe goes like this:</p>\n<p>A: &ldquo;I&rsquo;m deeply concerned about <em>X</em>&rdquo;</p>\n<p>B: &ldquo;<em>X</em> is indeed a problem, but is it our <strong>most significant problem</strong>?&rdquo;</p>\n<p>A: &ldquo;Yes, we encounter it all the time.&rdquo;</p>\n<p>B: &ldquo;<em>Y</em> is a similar problem to <em>X</em>, but we lack sufficient visibility into it.&rdquo;</p>\n<p>A: &ldquo;But we often see <em>X</em>.&rdquo;</p>\n<p>B: &ldquo;&hellip;&rdquo;</p>\n<p>I&rsquo;m not suggesting you shouldn&rsquo;t go after quick wins. (<em>Creating momentum is often important.</em>)</p>\n<p>I&rsquo;m also not suggesting you wait until you have complete knowledge before you take action. (<em>That can lead to analysis paralysis.</em>)</p>\n<p>But I am saying to <strong>check whether your perspective is being skewed by your current visibility</strong>.</p>\n",
+				"content_text": "\n*This is a post is in the [Useful Ideas](https://blog.grotenhuis.info/useful-ideas/) series.*\n\nYou've likely heard some version of [this joke/story](https://en.wikipedia.org/wiki/Streetlight_effect):\n\n> A policeman sees a drunk man searching for something under a streetlight and asks what the drunk has lost. He says he lost his keys and they both look under the streetlight together. After a few minutes the policeman asks if he is sure he lost them here, and the drunk replies, no, and that he lost them in the park. The policeman asks why he is searching here, and the drunk replies, \"this is where the light is.\"\n\nThis metaphor has intriguing applications in various domains, but I’ve repeatedly encountered this phenomenon in **technology** and **cybersecurity**. A common pattern I observe goes like this:\n\nA: \"I'm deeply concerned about *X*\"\n\nB: \"*X* is indeed a problem, but is it our **most significant problem**?\"\n\nA: \"Yes, we encounter it all the time.\"\n\nB: \"*Y* is a similar problem to *X*, but we lack sufficient visibility into it.\"\n\nA: \"But we often see *X*.\"\n\nB: \"...\"\n\nI'm not suggesting you shouldn't go after quick wins. (*Creating momentum is often important.*)\n\nI'm also not suggesting you wait until you have complete knowledge before you take action. (*That can lead to analysis paralysis.*)\n\nBut I am saying to **check whether your perspective is being skewed by your current visibility**.\n",
+				"date_published": "2024-02-08T10:02:29-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/08/stop-looking-under.html",
+				"tags": ["full posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/07/answering-my-own.html",
+				
+				"content_html": "<p>🕊️ <a href=\"https://blog.grotenhuis.info/2024/02/07/watcha-doin-for.html\">answering my own question</a>: I&rsquo;m playing with spreadsheets and thinking about 40-hour fasts.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🕊️ [answering my own question](https://blog.grotenhuis.info/2024/02/07/watcha-doin-for.html): I'm playing with spreadsheets and thinking about 40-hour fasts.\n\n<img src=\"uploads/2024/40hr-fasts.jpg\" width=\"600\" height=\"449\" alt=\"a spreadsheet showing two 40-hr fasts, Mon afternoon to Wednesday morning, and Wednesday evening through Friday midday\">\n",
+				"date_published": "2024-02-07T18:55:42-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/07/answering-my-own.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/07/watcha-doin-for.html",
+				
+				"content_html": "<p>🕊️ Watcha doin' for Lent this year?</p>\n",
+				"content_text": "🕊️ Watcha doin' for Lent this year?\n",
+				"date_published": "2024-02-07T18:19:15-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/07/watcha-doin-for.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/07/public-service-announcement.html",
+				
+				"content_html": "<p>🏉 public service announcement:</p>\n<p>Six Nations has started. Due to the size of the league, this is a great way to watch rugby if you don&rsquo;t want to commit a ton of time to it. In the USA, they&rsquo;re on Peacock. Protip: search for &ldquo;six nations&rdquo; because if you look other ways, they show the scores.</p>\n",
+				"content_text": "🏉 public service announcement:\r\n\r\nSix Nations has started. Due to the size of the league, this is a great way to watch rugby if you don't want to commit a ton of time to it. In the USA, they're on Peacock. Protip: search for \"six nations\" because if you look other ways, they show the scores.\n",
+				"date_published": "2024-02-07T12:19:18-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/07/public-service-announcement.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/07/indyarea-people-share.html",
+				
+				"content_html": "<p>Indy-area people:</p>\n<p>Share the locations of your best recent restaurant experiences.</p>\n",
+				"content_text": "Indy-area people:\r\n\r\nShare the locations of your best recent restaurant experiences.\n",
+				"date_published": "2024-02-07T10:22:08-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/07/indyarea-people-share.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/07/going-from-never.html",
+				
+				"content_html": "<p>Going from <a href=\"https://blog.grotenhuis.info/2024/02/04/not-a-great.html\">never seeing antlered bucks</a> all the way to seeing two <strong>locking antlers</strong> this morning!</p>\n",
+				"content_text": "Going from [never seeing antlered bucks](https://blog.grotenhuis.info/2024/02/04/not-a-great.html) all the way to seeing two **locking antlers** this morning!\n",
+				"date_published": "2024-02-07T08:40:34-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/07/going-from-never.html",
+				"tags": ["micro posts","Sightings"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/06/theres-a-big.html",
+				
+				"content_html": "<p>There&rsquo;s a big new micro.blog premium feature coming soon. I&rsquo;m hopeful, but the track record is poor:</p>\n<p><strong>Main product:</strong> great overall blogging systems, good interoperability among fediverse and cross-posting for other places, has a lot of long-running open issues (quality of life, etc.) that are not addressed</p>\n<p><em>Bookshelves:</em> search doesn&rsquo;t work well, system promotes micro.blog over user&rsquo;s own links (like affiliate links), and it&rsquo;s easier to use another app that implements books better</p>\n<p><strong>Premium features:</strong></p>\n<p><em>Email newsletters:</em> important, valuable, but arguably should not be a premium feature. Modern users need to be able to subscribe to posts a number of ways, and email should be one of them. I would argue this should be more native than cross-posting and fediverse-compatibility, for the majority of people. That said, this is the reason I pay for the upgrade, so it worked?</p>\n<p><em>Bookmarks, Podcasts, and Videos:</em> all of these are minimal products with more mature implementations elsewhere. It&rsquo;s not clear that it&rsquo;s useful to invest here. As some examples, the videos can only be very short, and the bookmarking service has distracted from fixing issues with linkblogging or quoting.</p>\n<p><em>Single-Page Websites</em>: also more mature implementations outside the blog, but in this case there is real value in having it native to the blog system, because you can apply some of the same things to it (like themes, etc.)</p>\n<p>I&rsquo;m hoping it&rsquo;s something awesome, but am ultimately concerned it&rsquo;s a distraction from addressing other core system issues.</p>\n",
+				"content_text": "There's a big new micro.blog premium feature coming soon. I'm hopeful, but the track record is poor:\n\n**Main product:** great overall blogging systems, good interoperability among fediverse and cross-posting for other places, has a lot of long-running open issues (quality of life, etc.) that are not addressed\n\n_Bookshelves:_ search doesn't work well, system promotes micro.blog over user's own links (like affiliate links), and it's easier to use another app that implements books better\n\n**Premium features:**\n\n_Email newsletters:_ important, valuable, but arguably should not be a premium feature. Modern users need to be able to subscribe to posts a number of ways, and email should be one of them. I would argue this should be more native than cross-posting and fediverse-compatibility, for the majority of people. That said, this is the reason I pay for the upgrade, so it worked?\n\n_Bookmarks, Podcasts, and Videos:_ all of these are minimal products with more mature implementations elsewhere. It's not clear that it's useful to invest here. As some examples, the videos can only be very short, and the bookmarking service has distracted from fixing issues with linkblogging or quoting.\n\n_Single-Page Websites_: also more mature implementations outside the blog, but in this case there is real value in having it native to the blog system, because you can apply some of the same things to it (like themes, etc.)\n\nI'm hoping it's something awesome, but am ultimately concerned it's a distraction from addressing other core system issues.\n",
+				"date_published": "2024-02-06T13:40:06-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/06/theres-a-big.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/06/finished-reading-the.html",
+				
+				"content_html": "<p>📚 <a href=\"https://blog.grotenhuis.info/read/\">Finished Reading</a>: <em>The Blacktongue Thief</em> (#1) by Christopher Buehlman</p>\n<p>The narration by the author made this much more special, as did the magic system, the low/intimate perspective for learning about the world, the dark humor, and the unexpected plot structure &amp; choices.</p>\n<p>All those things appreciated, I still can&rsquo;t really say I <em>liked</em> it.</p>\n",
+				"content_text": "📚 [Finished Reading](https://blog.grotenhuis.info/read/): _The Blacktongue Thief_ (#1) by Christopher Buehlman\n\nThe narration by the author made this much more special, as did the magic system, the low/intimate perspective for learning about the world, the dark humor, and the unexpected plot structure & choices.\n\nAll those things appreciated, I still can't really say I _liked_ it.\n",
+				"date_published": "2024-02-06T13:19:29-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/06/finished-reading-the.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/04/not-a-great.html",
+				
+				"content_html": "<p>Not a great photo, but I finally saw a buck with a rack at Heron Haven. (<em>Looked like a family of 6, as there was a big deer up front, 4 small ones, then the antlered buck.</em>)</p>\n<p>We see deer all the time, including herds of more than 15, but antlers are rare. (I suspect they get hunted pretty quickly.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not a great photo, but I finally saw a buck with a rack at Heron Haven. (_Looked like a family of 6, as there was a big deer up front, 4 small ones, then the antlered buck._)\n\nWe see deer all the time, including herds of more than 15, but antlers are rare. (I suspect they get hunted pretty quickly.)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2024/81dd3cafd2.jpg\" width=\"450\" height=\"600\" alt=\"Buck on a berm between a pond and creek.\">\n",
+				"date_published": "2024-02-04T18:22:10-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/04/not-a-great.html",
+				"tags": ["micro posts","Sightings"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/04/sunday-quote-unfortunately.html",
+				
+				"content_html": "<p>📑 Sunday Quote: unfortunately still holds up.</p>\n<!-- raw HTML omitted -->\n<p>Courtesy of <a href=\"https://micro.blog/benwerd\">@benwerd</a></p>\n",
+				"content_text": "📑 Sunday Quote: unfortunately still holds up.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2024/1bacea2d49.png\" width=\"600\" height=\"336\" alt=\"&quot;Every job will be automated until only five remain: a brain, an athlete, a basket case, a princess, and a criminal.&quot; (Ben Werdmüller)\">\n\nCourtesy of [@benwerd](https://micro.blog/benwerd)\n",
+				"date_published": "2024-02-04T13:21:21-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/04/sunday-quote-unfortunately.html",
+				"tags": ["Sunday Quotes","micro posts","Quotes"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/04/reminder-for-self.html",
+				
+				"content_html": "<p>🎲 Reminder for self: bundles (itch, drivethru, etc.) come with the cost of getting added to all those mailing lists, and while it is possible to unsubscribe from them, there is an attentional/time cost to unsubscribe to each.</p>\n",
+				"content_text": "🎲 Reminder for self: bundles (itch, drivethru, etc.) come with the cost of getting added to all those mailing lists, and while it is possible to unsubscribe from them, there is an attentional/time cost to unsubscribe to each.\n",
+				"date_published": "2024-02-04T11:59:20-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/04/reminder-for-self.html",
+				"tags": ["Games","micro posts","RPG"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/02/04/has-anybody-tried.html",
 				
 				"content_html": "<p>Has anybody tried Readwise Reader and Kobo on the <a href=\"https://shop.boox.com/products/palma\">BOOX Palma</a>?</p>\n",
