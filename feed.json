@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/23/lets-go-uswnt.html",
+				
+				"content_html": "<p>⚽️ Let’s go #USWNT</p>\n<p><em>(For posterity: 4-0 vs. Argentina to advance out of the group stage in the expanded Gold Cup.)</em></p>\n",
+				"content_text": "⚽️ Let’s go #USWNT\n\n_(For posterity: 4-0 vs. Argentina to advance out of the group stage in the expanded Gold Cup.)_\n",
+				"date_published": "2024-02-23T22:09:20-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/23/lets-go-uswnt.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/22/ive-been-stinge.html",
+				
+				"content_html": "<p>📚 I’ve been “stinge” reading <a href=\"https://bookshop.org/a/10222/9781598537000\">The Martian Chronicles</a> by Ray Bradbury, because it’s so excellent, with each entry being a different angle, a different poetry, a different voice, a different caution.</p>\n",
+				"content_text": "📚 I’ve been “stinge” reading [The Martian Chronicles](https://bookshop.org/a/10222/9781598537000) by Ray Bradbury, because it’s so excellent, with each entry being a different angle, a different poetry, a different voice, a different caution.\n",
+				"date_published": "2024-02-22T23:07:51-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/22/ive-been-stinge.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/20/sometimes-i-think.html",
+				
+				"content_html": "<p>🎶 Sometimes I think about how Quake II soundtrack is still one of the best (industrial) rock albums of all time and what that means for the stuff other bands are slinging at us.</p>\n",
+				"content_text": "🎶 Sometimes I think about how Quake II soundtrack is still one of the best (industrial) rock albums of all time and what that means for the stuff other bands are slinging at us.\n",
+				"date_published": "2024-02-20T22:12:22-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/20/sometimes-i-think.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/02/19/seems-like-lingua.html",
+				
+				"content_html": "<p>📚 Seems like <a href=\"https://linga.io/\">linga</a> plus <a href=\"https://standardebooks.org/\">standard ebooks</a> could be a good way to practice language?</p>\n",
+				"content_text": "📚 Seems like [linga](https://linga.io/) plus [standard ebooks](https://standardebooks.org/) could be a good way to practice language?\n",
+				"date_published": "2024-02-19T16:55:14-05:00",
+				"url": "https://blog.grotenhuis.info/2024/02/19/seems-like-lingua.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/02/19/seriously-considering-creating.html",
 				
 				"content_html": "<p>🕊️🎶🏆 Seriously considering creating an alternative to the Dove Awards called the &ldquo;Bloody Lamb&rdquo; awards, specifically for hard music. Non-commercial, grassroots, etc.</p>\n<p>Send thoughts to:</p>\n<p><a href=\"mailto:bloodylamb@metalmennonite.com\">bloodylamb@metalmennonite.com</a></p>\n",
@@ -46,7 +82,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2024/02/18/sunday-quote-via.html",
 				
 				"content_html": "<p>📑 Sunday Quote 🏴</p>\n<p>(<a href=\"https://harpers.org/archive/2022/12/between-chaos-and-the-man-the-dawn-of-everything-graeber-wengrow-the-dispossessed-ursula-k-le-guin/\">via</a> <a href=\"https://micro.blog/ayjay\">@ayjay</a> )</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📑 Sunday Quote 🏴\n\n([via](https://harpers.org/archive/2022/12/between-chaos-and-the-man-the-dawn-of-everything-graeber-wengrow-the-dispossessed-ursula-k-le-guin/) [@ayjay](https://micro.blog/ayjay) )\n\n<img src=\"uploads/2024/5dba0835c6.png\" width=\"600\" height=\"337\" alt=\"&quot;So this is what I have come around to, this is how I have made sense of my obsession with anarchism: the first target of anarchistic practice ought to be whatever it is *in me* that resists anarchy—what resists negotiation, the turning toward the Other as neighbor and potential collaborator.&quot; (Alan Jacobs, Between Chaos and the Man)\">\n",
+				"content_text": "📑 Sunday Quote 🏴\n\n([via](https://harpers.org/archive/2022/12/between-chaos-and-the-man-the-dawn-of-everything-graeber-wengrow-the-dispossessed-ursula-k-le-guin/) [@ayjay](https://micro.blog/ayjay) )\n\n<img src=\"https://blog.grotenhuis.info/uploads/2024/5dba0835c6.png\" width=\"600\" height=\"337\" alt=\"&quot;So this is what I have come around to, this is how I have made sense of my obsession with anarchism: the first target of anarchistic practice ought to be whatever it is *in me* that resists anarchy—what resists negotiation, the turning toward the Other as neighbor and potential collaborator.&quot; (Alan Jacobs, Between Chaos and the Man)\">\n",
 				"date_published": "2024-02-18T10:17:48-05:00",
 				"url": "https://blog.grotenhuis.info/2024/02/18/sunday-quote-via.html",
 				"tags": ["Sunday Quotes","micro posts","Quotes"]
@@ -9963,8 +9999,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2022/02/22/really-happy-for.html",
 				
-				"content_html": "<p>Really happy for Pulisic, today ⚽️</p>\n",
-				"content_text": "Really happy for Pulisic, today ⚽️\n",
+				"content_html": "<p>Really happy for Pulisic, today ⚽️</p>\n<p><a href=\"https://www.espn.com/soccer/report/_/gameId/622997\">context</a></p>\n",
+				"content_text": "Really happy for Pulisic, today ⚽️\n\n[context](https://www.espn.com/soccer/report/_/gameId/622997)\n",
 				"date_published": "2022-02-22T17:19:39-05:00",
 				"url": "https://blog.grotenhuis.info/2022/02/22/really-happy-for.html",
 				"tags": ["Soccer","micro posts"]
@@ -12609,8 +12645,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2021/04/02/i-recommend-readwise.html",
 				"title": "I recommend Readwise ",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"trix-content\">\n  <div>If you’re an avid reader like I am, I heartily recommend Readwise.io <br><br>  <figure class=\"attachment attachment--preview attachment--lightboxable attachment--png\">\n      <a download=\"IMG_0511.PNG\" title=\"Download IMG_0511.PNG\" data-click-proxy-target=\"lightbox_link_blob_341981964\" href=\"https://world.hey.com/toddg/1503e441/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQXc3WWhRPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7ea99dcd7abb8bc8058ea44ee4bd18c8aa94c91a/IMG_0511.PNG?disposition=attachment\">\n        <img src=\"https://world.hey.com/toddg/1503e441/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQXc3WWhRPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7ea99dcd7abb8bc8058ea44ee4bd18c8aa94c91a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBJZ2xxY0dWbk9oUnlaWE5wZW1WZmRHOWZiR2x0YVhSYkIya0NnQWRwQWdBRk9neHhkV0ZzYVhSNWFVczZDMnh2WVdSbGNuc0dPZ2x3WVdkbE1Eb05ZMjloYkdWelkyVlUiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--932a4d51dc94afaaa9b29e9b05b78ddd48c3117f/IMG_0511.PNG\" alt=\"IMG_0511.PNG\" srcset=\"https://world.hey.com/toddg/1503e441/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQXc3WWhRPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7ea99dcd7abb8bc8058ea44ee4bd18c8aa94c91a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBJZ2xxY0dWbk9oUnlaWE5wZW1WZmRHOWZiR2x0YVhSYkIya0NBQTlwQWdBS09neHhkV0ZzYVhSNWFVRTZDMnh2WVdSbGNuc0dPZ2x3WVdkbE1Eb05ZMjloYkdWelkyVlUiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--e20c261f0de2ab1b0574a4fabd3c713676d4153b/IMG_0511.PNG 2x, https://world.hey.com/toddg/1503e441/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQXc3WWhRPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7ea99dcd7abb8bc8058ea44ee4bd18c8aa94c91a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBJZ2xxY0dWbk9oUnlaWE5wZW1WZmRHOWZiR2x0YVhSYkIya0NnQlpwQWdBUE9neHhkV0ZzYVhSNWFUdzZDMnh2WVdSbGNuc0dPZ2x3WVdkbE1Eb05ZMjloYkdWelkyVlUiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--6c2e2e4eb7520058a48e77fedf34753accfc9223/IMG_0511.PNG 3x\" decoding=\"async\" loading=\"lazy\">\n</a>\n  </figure><br><br>Every day I read through 15 or more of the highlights (and associated notes) I’ve made from things I’ve read (books, articles, tweets). It’s a great way to <strong>retain the best information, reflect on lessons, </strong>and<strong> synthesize new ideas from different sources</strong>.<br><br>I also export my book highlights into my <a href=\"https://www.craft.do/s/HXt9LC1GL4O7LI\">books pages</a> (that’s where you will sometimes see a “exported notes and highlights” section on nonfiction). If I listened to the audiobook, I’ll hand jot some notes instead, <em>but I opt in for seeing other peoples top highlights in Readwise for those books. </em>Those stylized graphics I use for quotes? Also courtesy of Readwise!<br><br>For daily reviews, I’m <strong>#54</strong> on the leaderboard and determined to get to the top.</div>\n</div>\n<br><hr><i>Originally posted at <a href=\"https://world.hey.com/toddg/i-recommend-readwise-1503e441\">Hey World</a></i>\n",
+				"content_html": "<p>If you’re an avid reader like I am, I heartily recommend Readwise.io <!-- raw HTML omitted --><!-- raw HTML omitted -->Every day I read through 15 or more of the highlights (and associated notes) I’ve made from things I’ve read (books, articles, tweets). It’s a great way to <!-- raw HTML omitted -->retain the best information, reflect on lessons, <!-- raw HTML omitted -->and<!-- raw HTML omitted --> synthesize new ideas from different sources<!-- raw HTML omitted -->.<!-- raw HTML omitted --><!-- raw HTML omitted -->I also export my book highlights into my books pages (that’s where you will sometimes see a “exported notes and highlights” section on nonfiction). If I listened to the audiobook, I’ll hand jot some notes instead, <!-- raw HTML omitted -->but I opt in for seeing other peoples top highlights in Readwise for those books. <!-- raw HTML omitted -->Those stylized graphics I use for quotes? Also courtesy of Readwise!<!-- raw HTML omitted --><!-- raw HTML omitted -->For daily reviews, I’m <!-- raw HTML omitted -->#54<!-- raw HTML omitted --> on the leaderboard and determined to get to the top.<!-- raw HTML omitted --></p>\n",
+				"content_text": "If you’re an avid reader like I am, I heartily recommend Readwise.io <br><br>Every day I read through 15 or more of the highlights (and associated notes) I’ve made from things I’ve read (books, articles, tweets). It’s a great way to <strong>retain the best information, reflect on lessons, </strong>and<strong> synthesize new ideas from different sources</strong>.<br><br>I also export my book highlights into my books pages (that’s where you will sometimes see a “exported notes and highlights” section on nonfiction). If I listened to the audiobook, I’ll hand jot some notes instead, <em>but I opt in for seeing other peoples top highlights in Readwise for those books. </em>Those stylized graphics I use for quotes? Also courtesy of Readwise!<br><br>For daily reviews, I’m <strong>#54</strong> on the leaderboard and determined to get to the top.</div>\n",
 				"date_published": "2021-04-02T07:18:42-05:00",
 				"url": "https://blog.grotenhuis.info/2021/04/02/i-recommend-readwise.html",
 				"tags": ["full posts"]
