@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/05/20/were-entering-serious.html",
+				
+				"content_html": "<p>We&rsquo;re entering serious &ldquo;fizzy water&rdquo; season.</p>\n",
+				"content_text": "We're entering serious \"fizzy water\" season.\n",
+				"date_published": "2024-05-20T14:40:30-04:00",
+				"url": "https://blog.grotenhuis.info/2024/05/20/were-entering-serious.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/05/19/how-are-you.html",
+				
+				"content_html": "<p>🎲♟️ <strong>How are you carrying your print &amp; play / roll &amp; write games?</strong></p>\n<p>I&rsquo;ve been doing the <em>digital tablet</em> option, but want to try the <em>laminate &amp; erasable</em> or <em>sheet protector &amp; erasable</em> options.</p>\n<p><strong>What do you recommend?</strong></p>\n<p><em>Shares welcome!</em></p>\n",
+				"content_text": "🎲♟️ **How are you carrying your print & play / roll & write games?**\r\n\r\nI've been doing the _digital tablet_ option, but want to try the _laminate & erasable_ or _sheet protector & erasable_ options.\r\n\r\n**What do you recommend?**\r\n\r\n_Shares welcome!_\r\n",
+				"date_published": "2024-05-19T10:05:25-04:00",
+				"url": "https://blog.grotenhuis.info/2024/05/19/how-are-you.html",
+				"tags": ["Games","micro posts","RPG"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/05/15/theres-ratings-and.html",
 				
 				"content_html": "<p>🎶 There’s ⭐️⭐️⭐️⭐️⭐️ ratings, and then there’s “heck yes I’m so excited this came on”, so I started making a…like…six star playlist…for whenever that happens.</p>\n<!-- raw HTML omitted -->\n",
@@ -46,7 +64,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2024/05/14/got-a-neat.html",
 				
 				"content_html": "<p>🖋️ Got a neat email from Studio Neat today about refills for Mark One pen. Was about to write something snarky about how it needed to be a blog post, but <a href=\"https://www.studioneat.com/blogs/main/mark-one-refill-guide\">here is the blog post!</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🖋️ Got a neat email from Studio Neat today about refills for Mark One pen. Was about to write something snarky about how it needed to be a blog post, but [here is the blog post!](https://www.studioneat.com/blogs/main/mark-one-refill-guide)\n\n<img src=\"uploads/2024/6f149c679e.jpg\" width=\"552\" height=\"600\" alt=\"Studio Neat notebook paper showing how different Mark One pen refill writing looks \">\n",
+				"content_text": "🖋️ Got a neat email from Studio Neat today about refills for Mark One pen. Was about to write something snarky about how it needed to be a blog post, but [here is the blog post!](https://www.studioneat.com/blogs/main/mark-one-refill-guide)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2024/6f149c679e.jpg\" width=\"552\" height=\"600\" alt=\"Studio Neat notebook paper showing how different Mark One pen refill writing looks \">\n",
 				"date_published": "2024-05-14T11:24:49-04:00",
 				"url": "https://blog.grotenhuis.info/2024/05/14/got-a-neat.html",
 				"tags": ["micro posts"]
