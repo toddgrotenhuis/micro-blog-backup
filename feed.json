@@ -7,10 +7,37 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/07/19/its-industrial-rock.html",
+				
+				"content_html": "<p>🎶 it’s “industrial rock” not “noise rock”</p>\n<p>Get off my (rivet) lawn!</p>\n",
+				"content_text": "🎶 it’s “industrial rock” not “noise rock”\n\nGet off my (rivet) lawn!\n",
+				"date_published": "2024-07-19T12:29:11-04:00",
+				"url": "https://blog.grotenhuis.info/2024/07/19/its-industrial-rock.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/07/15/days-of-readwise.html",
+				
+				"content_html": "<p>📚🎉 1600 days of <a href=\"https://blog.grotenhuis.info/2022/04/09/being-wise-with.html\">Readwise</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📚🎉 1600 days of [Readwise](https://blog.grotenhuis.info/2022/04/09/being-wise-with.html)\n\n<img src=\"uploads/2024/55315d361e.jpg\" width=\"600\" height=\"222\" alt=\"1600 days of review and #34 on the leaderboard\">\n",
+				"date_published": "2024-07-15T09:30:12-04:00",
+				"url": "https://blog.grotenhuis.info/2024/07/15/days-of-readwise.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/07/15/still-mulling-over.html",
+				
+				"content_html": "<p>Still mulling over some of Postman&rsquo;s 📚 <em>Amusing Ourselves to Death</em> and this is my emerging theory of dystopias:</p>\n<ul>\n<li>the conservative failure mode is towards Orwellian dystopia</li>\n<li>the liberal failure mode is towards Huxleyan dystopia</li>\n</ul>\n",
+				"content_text": "Still mulling over some of Postman's 📚 _Amusing Ourselves to Death_ and this is my emerging theory of dystopias: \r\n\r\n* the conservative failure mode is towards Orwellian dystopia\r\n* the liberal failure mode is towards Huxleyan dystopia\r\n\r\n",
+				"date_published": "2024-07-15T09:11:32-04:00",
+				"url": "https://blog.grotenhuis.info/2024/07/15/still-mulling-over.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/07/14/congrats-to-the.html",
 				
-				"content_html": "<p>⚽️ Congrats to the winners, and thank you for not playing “VAR football” Spain!</p>\n",
-				"content_text": "⚽️ Congrats to the winners, and thank you for not playing “VAR football” Spain! \n",
+				"content_html": "<p>⚽️ Congrats to the winners, and thank you for not playing “VAR football”, Spain!</p>\n",
+				"content_text": "⚽️ Congrats to the winners, and thank you for not playing “VAR football”, Spain! \n",
 				"date_published": "2024-07-14T16:54:55-04:00",
 				"url": "https://blog.grotenhuis.info/2024/07/14/congrats-to-the.html",
 				"tags": ["Soccer","micro posts"]
@@ -729,8 +756,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/05/11/bird-talk.html",
 				"title": "Bird Talk",
-				"content_html": "<p>Bird Talk</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "Bird Talk\n\n<audio controls=\"controls\" src=\"https://blog.grotenhuis.info/uploads/2024/audio.mp3\" preload=\"metadata\"><p><a href=\"https://blog.grotenhuis.info/transcripts/2024/05/11/1101.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>Bird Talk</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Bird Talk\n\n<audio controls=\"controls\" src=\"https://blog.grotenhuis.info/uploads/2024/audio.mp3\" preload=\"metadata\">\n\n<a href=\"https://blog.grotenhuis.info/transcripts/2024/05/11/1101.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2024-05-11T18:13:19-04:00",
 				"url": "https://blog.grotenhuis.info/2024/05/11/bird-talk.html",
 				"tags": ["full posts"]
