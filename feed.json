@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/08/05/free-speech-advocacy.html",
+				
+				"content_html": "<p><a href=\"https://alexschroeder.ch/view/2024-08-05-free-speech-on-fedi\">Free Speech Advocacy on the Fediverse</a> from <a href=\"https://micro.blog/alex@social.alexschroeder.ch\">@alex@social.alexschroeder.ch</a></p>\n",
+				"content_text": "[Free Speech Advocacy on the Fediverse](https://alexschroeder.ch/view/2024-08-05-free-speech-on-fedi) from [@alex@social.alexschroeder.ch](https://micro.blog/alex@social.alexschroeder.ch)\n",
+				"date_published": "2024-08-05T17:34:21-04:00",
+				"url": "https://blog.grotenhuis.info/2024/08/05/free-speech-advocacy.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/08/04/people-more-familiar.html",
+				
+				"content_html": "<p>🕹️ People more familiar with Diablo IV seasons than me:</p>\n<p>**How do I keep my resplendent sparks? **</p>\n",
+				"content_text": "🕹️ People more familiar with Diablo IV seasons than me:\n\n**How do I keep my resplendent sparks? **\n",
+				"date_published": "2024-08-04T15:48:57-04:00",
+				"url": "https://blog.grotenhuis.info/2024/08/04/people-more-familiar.html",
+				"tags": ["Games","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/08/04/palestinian-people-were.html",
+				
+				"content_html": "<p>Palestinian people: &ldquo;we&rsquo;re enduring horrific suffering through ongoing occupation and attacks, and are desperate to meet basic needs.&rdquo;</p>\n<p>New York Times front page story: &ldquo;lawless thieves run markets&rdquo;</p>\n",
+				"content_text": "Palestinian people: \"we're enduring horrific suffering through ongoing occupation and attacks, and are desperate to meet basic needs.\"\r\n\r\nNew York Times front page story: \"lawless thieves run markets\"\n",
+				"date_published": "2024-08-04T09:41:47-04:00",
+				"url": "https://blog.grotenhuis.info/2024/08/04/palestinian-people-were.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/08/01/gencon-is-here.html",
+				
+				"content_html": "<p>🎲😷 GenCon is here! It&rsquo;s an awesome event! It will <a href=\"https://www.axios.com/2024/07/31/covid-summer-map\">bring a lot of covid</a> to Indy.</p>\n<p>If you live in Indy, it would be wise to take higher precautions through the next 2-3 weeks.</p>\n",
+				"content_text": "🎲😷 GenCon is here! It's an awesome event! It will [bring a lot of covid](https://www.axios.com/2024/07/31/covid-summer-map) to Indy.\n\nIf you live in Indy, it would be wise to take higher precautions through the next 2-3 weeks.\n\n",
+				"date_published": "2024-08-01T12:10:02-04:00",
+				"url": "https://blog.grotenhuis.info/2024/08/01/gencon-is-here.html",
+				"tags": ["Games","micro posts","RPG"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/07/31/did-you-know.html",
+				
+				"content_html": "<p>🖖 did you know?</p>\n<p>“Star Trek: Lower Decks” is pronounced “Silly Trek”</p>\n<p>(Also, it is a blast.)</p>\n",
+				"content_text": "🖖 did you know?\n\n“Star Trek: Lower Decks” is pronounced “Silly Trek”\n\n(Also, it is a blast.)\n",
+				"date_published": "2024-07-31T20:20:52-04:00",
+				"url": "https://blog.grotenhuis.info/2024/07/31/did-you-know.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/07/31/i-mean-trump.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<blockquote class=\"quoteback\" data-author=\"Popehat (@kenwhite.bsky.social)\" data-avatar=\"https://micro.blog/kenwhite.bsky.social/avatar.jpg\" cite=\"https://bsky.app/profile/kenwhite.bsky.social/post/3kym4hbpgjq2u\">I mean “Trump visits the National Association of Black Journalists” already sounds like an SNL skit, I don’t know what people are expected.<footer>Popehat (@kenwhite.bsky.social) <cite><a href=\"https://bsky.app/profile/kenwhite.bsky.social/post/3kym4hbpgjq2u\" class=\"u-in-reply-to\">https://bsky.app/profile/kenwhite.bsky.social/post/3kym4hbpgjq2u</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2024-07-31T17:28:01-04:00",
+				"url": "https://blog.grotenhuis.info/2024/07/31/i-mean-trump.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/07/31/the-world-cup.html",
+				
+				"content_html": "<p>⚽️ The World Cup has VAR, but it hasn&rsquo;t had quite the life-sucking force that it has in other leagues and competitions. What are they doing better? How can others learn from it?</p>\n",
+				"content_text": "⚽️ The World Cup has VAR, but it hasn't had quite the life-sucking force that it has in other leagues and competitions. What are they doing better? How can others learn from it?\n",
+				"date_published": "2024-07-31T16:00:51-04:00",
+				"url": "https://blog.grotenhuis.info/2024/07/31/the-world-cup.html",
+				"tags": ["Soccer","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/07/30/so-much-vnv.html",
 				
 				"content_html": "<p>🎶 So much VNV Nation has become blipty-bloopty that it makes it extra-satisfying when they do a <a href=\"https://vnvnation.bandcamp.com/album/noire-44khz-24bit-version?t=7\">proper 00ntz</a>.</p>\n<!-- raw HTML omitted -->\n",
