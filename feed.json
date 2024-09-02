@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/08/30/were-on-our.html",
+				
+				"content_html": "<p>📺 We’re on our third <a href=\"https://en.wikipedia.org/wiki/Walter_Presents\">Walter Presents</a> show, and each has been incredible.</p>\n<p>It’s like “Masterpiece Theatre” but non-English language.</p>\n<p>In the USA it’s available on PBS passport, but it varies for other regions:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📺 We’re on our third [Walter Presents](https://en.wikipedia.org/wiki/Walter_Presents) show, and each has been incredible.\n\nIt’s like “Masterpiece Theatre” but non-English language.\n\nIn the USA it’s available on PBS passport, but it varies for other regions:\n\n<img src=\"uploads/2024/95ae93a645.jpg\" width=\"555\" height=\"600\" alt=\"The image shows the logo for &quot;Walter Presents&quot; and lists its broadcast areas, including the United Kingdom, Ireland, Australia, United States, Sweden, Norway, Denmark, and Finland.\">\n",
+				"date_published": "2024-08-30T17:13:16-04:00",
+				"url": "https://blog.grotenhuis.info/2024/08/30/were-on-our.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/08/28/updated-my-recent.html",
+				
+				"content_html": "<p>📚 Updated my <a href=\"https://blog.grotenhuis.info/read/\">recent reads</a>.</p>\n",
+				"content_text": "📚 Updated my [recent reads](https://blog.grotenhuis.info/read/).\n",
+				"date_published": "2024-08-28T14:13:49-04:00",
+				"url": "https://blog.grotenhuis.info/2024/08/28/updated-my-recent.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/08/28/this-was-ridiculous.html",
+				
+				"content_html": "<p>🃏♟️ This was ridiculous.</p>\n<p>I had 59 victory points and approximately ♾️ gold.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🃏♟️ This was ridiculous.\n\nI had 59 victory points and approximately ♾️ gold.\n\n<img src=\"uploads/2024/addfbd930f.jpg\" width=\"600\" height=\"335\" alt=\"Dominion cards: tunnel, oasis, and cartographer. Two of them have a discard action included, and once gives you a gold when it’s discarded from a discard action.\">\n",
+				"date_published": "2024-08-28T12:33:31-04:00",
+				"url": "https://blog.grotenhuis.info/2024/08/28/this-was-ridiculous.html",
+				"tags": ["micro posts","RPG"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/08/28/being-an-independent.html",
+				
+				"content_html": "<p>🗳️ Being an independent, I can look at the US presidential race and notice things like:</p>\n<p>Wow, in the pre-manbaby era of the modern Republican Party, it seems like Harris represents the kind of platform that Republicans would select for a candidate.</p>\n",
+				"content_text": "🗳️ Being an independent, I can look at the US presidential race and notice things like:\n\nWow, in the pre-manbaby era of the modern Republican Party, it seems like Harris represents the kind of platform that Republicans would select for a candidate.\n",
+				"date_published": "2024-08-28T11:28:37-04:00",
+				"url": "https://blog.grotenhuis.info/2024/08/28/being-an-independent.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/08/28/observe-diligently-consider.html",
+				
+				"content_html": "<p>Observe diligently, consider the motivating factors, and reject requirements that are unnecessary. #WisdomWeave</p>\n",
+				"content_text": "Observe diligently, consider the motivating factors, and reject requirements that are unnecessary. #WisdomWeave\n",
+				"date_published": "2024-08-28T08:26:30-04:00",
+				"url": "https://blog.grotenhuis.info/2024/08/28/observe-diligently-consider.html",
+				"tags": ["micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/08/27/good-luck-ixi.html",
 				
 				"content_html": "<p>⚽️ Good luck #IXI</p>\n<p>See if you can beat those long odds against Sporting KC! #OpenCup #Cupset</p>\n",
@@ -37,7 +82,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2024/08/26/if-i-end.html",
 				
 				"content_html": "<p>If I end up in the hospital it’s from the acorn bombardment.</p>\n<p>Sounds like a warzone on the deck.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If I end up in the hospital it’s from the acorn bombardment. \n\nSounds like a warzone on the deck.\n\n<img src=\"uploads/2024/c9e4c06541.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "If I end up in the hospital it’s from the acorn bombardment. \n\nSounds like a warzone on the deck.\n\n<img src=\"https://blog.grotenhuis.info/uploads/2024/c9e4c06541.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-26T10:26:31-04:00",
 				"url": "https://blog.grotenhuis.info/2024/08/26/if-i-end.html",
 				"tags": ["micro posts"]
@@ -54,8 +99,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/08/23/finished-the-future.html",
 				
-				"content_html": "<p>Finished: <a href=\"https://micro.blog/books/9781668025703\">The Future</a> by Naomi Alderman 📚</p>\n<p><strong>highly recommended</strong></p>\n",
-				"content_text": "Finished: [The Future](https://micro.blog/books/9781668025703) by Naomi Alderman 📚\n\n**highly recommended**\n",
+				"content_html": "<p>Finished: <a href=\"https://blog.grotenhuis.info/read/\">The Future</a> by Naomi Alderman 📚</p>\n<p><strong>highly recommended</strong></p>\n<p>Humanity, criticism, apocalypses (in both senses of the word), and more!</p>\n",
+				"content_text": "Finished: [The Future](https://blog.grotenhuis.info/read/) by Naomi Alderman 📚\n\n**highly recommended**\n\nHumanity, criticism, apocalypses (in both senses of the word), and more!\n",
 				"date_published": "2024-08-23T16:34:19-04:00",
 				"url": "https://blog.grotenhuis.info/2024/08/23/finished-the-future.html",
 				"tags": ["Books","micro posts"]
