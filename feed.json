@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/23/book-recommendations-ive.html",
+				
+				"content_html": "<p>📚 book recommendations:</p>\n<p>I&rsquo;ve updated <a href=\"https://blog.grotenhuis.info/read/\">my reading page</a> with the latest few books I&rsquo;ve completed.</p>\n",
+				"content_text": "📚 book recommendations:\n\nI've updated [my reading page](https://blog.grotenhuis.info/read/) with the latest few books I've completed.\n",
+				"date_published": "2024-11-23T11:30:48-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/23/book-recommendations-ive.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/23/dopamine-nation.html",
+				"title": "📚 Dopamine Nation",
+				"content_html": "<p>Read: <em><a href=\"https://blog.grotenhuis.info/read/\">Dopamine Nation</a></em> by Anna Lemke</p>\n<p><strong>Recommended</strong></p>\n<p>There was not much here that was completely new to me, but the stories were well-told, and it was a useful collection of reminders.</p>\n<p>For example, I am reminded once again by the fact that having some self-directed misery in our lives helps us feel much better the rest of the time. Cold baths, ascetic practices, hard exercise, primitive camping, etc. can all help with our balance, perspective, and our physiological state of pain and pleasure.</p>\n<p>And also again: leaning into survivable, copeable challenges is often the best way through, and leads to the most growth.</p>\n<h1 id=\"my-reading-highlights-and-notes\">My Reading Highlights and Notes</h1>\n<p>From the Summary:</p>\n<ol>\n<li>The relentless pursuit of pleasure and avoidance of pain leads to pain</li>\n<li>Recovery begins with abstinence</li>\n<li>Abstinence resets the brain’s reward pathway, and with it our capacity to take joy in simpler pleasures</li>\n<li>Self-binding creates literal and metacognitive space between desire and consumption, a modern necessity in dopamine-overloaded world</li>\n<li>Medications can restore homeostasis, but consider what we lose by medicating away our pain</li>\n<li>Pressing on the pain side resets our balance to the side of pleasure</li>\n<li>Beware of getting addicted to pain</li>\n<li>Radical honesty promotes awareness, enhances intimacy, and fosters a “plenty” mindset</li>\n<li>Prosocial shame affirms that we belong to the human tribe</li>\n<li>Instead of running away from the world, we can find escape by immersing ourselves in it</li>\n</ol>\n",
+				"content_text": "Read: _[Dopamine Nation](https://blog.grotenhuis.info/read/)_ by Anna Lemke\n\n**Recommended**\n\nThere was not much here that was completely new to me, but the stories were well-told, and it was a useful collection of reminders.\n\nFor example, I am reminded once again by the fact that having some self-directed misery in our lives helps us feel much better the rest of the time. Cold baths, ascetic practices, hard exercise, primitive camping, etc. can all help with our balance, perspective, and our physiological state of pain and pleasure.\n\nAnd also again: leaning into survivable, copeable challenges is often the best way through, and leads to the most growth.\n\n# My Reading Highlights and Notes\n\nFrom the Summary:\n\n1. The relentless pursuit of pleasure and avoidance of pain leads to pain\n2. Recovery begins with abstinence\n3. Abstinence resets the brain’s reward pathway, and with it our capacity to take joy in simpler pleasures\n4. Self-binding creates literal and metacognitive space between desire and consumption, a modern necessity in dopamine-overloaded world\n5. Medications can restore homeostasis, but consider what we lose by medicating away our pain\n6. Pressing on the pain side resets our balance to the side of pleasure\n7. Beware of getting addicted to pain\n8. Radical honesty promotes awareness, enhances intimacy, and fosters a “plenty” mindset\n9. Prosocial shame affirms that we belong to the human tribe\n10. Instead of running away from the world, we can find escape by immersing ourselves in it\n",
+				"date_published": "2024-11-23T11:24:17-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/23/dopamine-nation.html",
+				"tags": ["Books","full posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/22/the-edition-of.html",
+				
+				"content_html": "<p>🔒 The 2024 edition of CWE Top 25 is published:</p>\n<p><a href=\"https://cwe.mitre.org/top25/archive/2024/2024_cwe_top25.html\">Most Dangerous Software Weaknesses</a></p>\n<p>&ldquo;But what about the OWASP Top 10?&rdquo; Think of the OWASP list as more of an engagement and learning tool.</p>\n<p>The CWE 25 can more effectively be used as a target list to build your evaluation, mitigation, and prevention.</p>\n",
+				"content_text": "🔒 The 2024 edition of CWE Top 25 is published:\n\n[Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/archive/2024/2024_cwe_top25.html)\n\n\"But what about the OWASP Top 10?\" Think of the OWASP list as more of an engagement and learning tool.\n\nThe CWE 25 can more effectively be used as a target list to build your evaluation, mitigation, and prevention.\n",
+				"date_published": "2024-11-22T10:35:13-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/22/the-edition-of.html",
+				"tags": ["Resilience","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/21/its-here-and.html",
+				
+				"content_html": "<p>🎲 It’s here and it’s incredible. <a href=\"https://www.kickstarter.com/projects/caesarink/doomsong\">Doomsong</a>. <a href=\"http://caesar-ink.bsky.social\">@caesar-ink.bsky.social</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "🎲 It’s here and it’s incredible. [Doomsong](https://www.kickstarter.com/projects/caesarink/doomsong). [@caesar-ink.bsky.social](http://caesar-ink.bsky.social)\n\n<img src=\"uploads/2024/34344c39b9.jpg\" width=\"600\" height=\"349\" alt=\"Partially unwrapped Doomsong components.\"><img src=\"uploads/2024/d394523614.jpg\" width=\"600\" height=\"558\" alt=\"More fully unwrapped Doomsong components \">\n",
+				"date_published": "2024-11-21T14:52:56-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/21/its-here-and.html",
+				"tags": ["Games","micro posts","RPG"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/19/incredible-new-track.html",
+				
+				"content_html": "<p>🎶 Incredible new track from Yovel - <a href=\"https://yovel.bandcamp.com/track/scroll-post-like-die-single-video-clip-2024\">Scroll. Post. Like. Die.</a>.</p>\n<p>From the forthcoming album.</p>\n",
+				"content_text": "🎶 Incredible new track from Yovel - [Scroll. Post. Like. Die.](https://yovel.bandcamp.com/track/scroll-post-like-die-single-video-clip-2024).\n\nFrom the forthcoming album.\n\n",
+				"date_published": "2024-11-19T13:13:18-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/19/incredible-new-track.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/18/a-friend-and.html",
+				
+				"content_html": "<p>🕊️🏴 A friend and Richard Beck (Experimental Theology) both pointed me to this <a href=\"https://www.youtube.com/live/Y3hMSZqatHI?t=1695\">Paul Kingsnorth lecture</a>, so, despite being mildly allergic to talk of &ldquo;the West&rdquo;<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, I watched and enjoyed it.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>See the first essay in Graeber&rsquo;s newest posthumous book, also archived here: <a href=\"https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west\">There Never Was a West</a>&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "🕊️🏴 A friend and Richard Beck (Experimental Theology) both pointed me to this [Paul Kingsnorth lecture](https://www.youtube.com/live/Y3hMSZqatHI?t=1695), so, despite being mildly allergic to talk of \"the West\"[^1], I watched and enjoyed it.\n\n\n[^1]: See the first essay in Graeber's newest posthumous book, also archived here: [There Never Was a West](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west)\n",
+				"date_published": "2024-11-18T16:00:18-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/18/a-friend-and.html",
+				"tags": ["Anabaptism","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/11/18/yes-tiktok-actually.html",
 				
 				"content_html": "<p>Yes, TikTok actually is a threat to America.\n&hellip;</p>\n<p>Oh but also so is X/Twitter, Instagram, Facebook, Threads, YouTube, and any algorithmic feeds.</p>\n<p>And they&rsquo;re threats everywhere.</p>\n",
