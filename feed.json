@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/28/happy-dog-show.html",
+				
+				"content_html": "<p>🐾 Happy Dog Show Day to all who celebrate.</p>\n",
+				"content_text": "🐾 Happy Dog Show Day to all who celebrate.\n",
+				"date_published": "2024-11-28T12:03:11-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/28/happy-dog-show.html",
+				"tags": ["micro posts","Dogs"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/26/still-waiting-on.html",
+				
+				"content_html": "<p>Still waiting on Premier Protein to release an Egg Nog flavor.</p>\n",
+				"content_text": "Still waiting on Premier Protein to release an Egg Nog flavor.\n",
+				"date_published": "2024-11-26T18:28:48-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/26/still-waiting-on.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/24/one-of-the.html",
+				
+				"content_html": "<p>🎶 One of the joys of re-ripping your CDs is going to back through gems you haven’t listened to in a while.</p>\n<p>In the late 90s, Rhys Fulber was creating remixes for Fear Factory.</p>\n<p>It’s some of his most interesting work amongst <a href=\"https://en.wikipedia.org/wiki/Rhys_Fulber\">a mountain of diverse projects</a>.</p>\n",
+				"content_text": "🎶 One of the joys of re-ripping your CDs is going to back through gems you haven’t listened to in a while.\n\nIn the late 90s, Rhys Fulber was creating remixes for Fear Factory. \n\nIt’s some of his most interesting work amongst [a mountain of diverse projects](https://en.wikipedia.org/wiki/Rhys_Fulber).\n",
+				"date_published": "2024-11-24T08:19:55-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/24/one-of-the.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/24/which-is-worse.html",
+				
+				"content_html": "<p>Which is worse?</p>\n<p>Apple “reaction” texts</p>\n<p>Google “reaction” emails</p>\n",
+				"content_text": "Which is worse?\n\nApple “reaction” texts\n\nGoogle “reaction” emails\n",
+				"date_published": "2024-11-24T00:13:44-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/24/which-is-worse.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/23/scene-on-radio.html",
+				
+				"content_html": "<p>🎙️<a href=\"https://overcast.fm/+ABI-ihOnbN4\">Scene On Radio all-stars</a> used the phrase “objective but not neutral” and I think that’s a pretty useful framing for how to speak about events.</p>\n",
+				"content_text": "🎙️[Scene On Radio all-stars](https://overcast.fm/+ABI-ihOnbN4) used the phrase “objective but not neutral” and I think that’s a pretty useful framing for how to speak about events.\n",
+				"date_published": "2024-11-23T22:42:23-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/23/scene-on-radio.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/23/the-ultimate-hidden.html",
+				"title": "📚 The Ultimate Hidden Truth of the World…",
+				"content_html": "<p>Read: <em><a href=\"https://blog.grotenhuis.info/read/\">The Ultimate Hidden Truth of the World…</a></em> by David Graeber (posthumously)</p>\n<p><strong>Recommended</strong></p>\n<p>This is a fine collection of Graeber&rsquo;s essays, covering a variety of periods and topics, but building a robust overview of his work.</p>\n<p>Though I have read some of these essays before, the quality of Graeber&rsquo;s analysis, storytelling, and writing means that I was happy to read them again, and gained additional insights.</p>\n<p>The essay &ldquo;Are You an Anarchist?&rdquo; reminds me of the &ldquo;everyday anarchism&rdquo; series I&rsquo;ve oft considered writing. E.g. &ldquo;When you do (thing), anarchism is among you.&rdquo; ( <em>Secret hint: you usually <strong>are</strong> an anarchist, or at least act like one.</em>)</p>\n<p><em>Note: I do not recommend the audiobook format.</em></p>\n",
+				"content_text": "Read: _[The Ultimate Hidden Truth of the World…](https://blog.grotenhuis.info/read/)_ by David Graeber (posthumously)\n\n**Recommended**\n\nThis is a fine collection of Graeber's essays, covering a variety of periods and topics, but building a robust overview of his work.\n\nThough I have read some of these essays before, the quality of Graeber's analysis, storytelling, and writing means that I was happy to read them again, and gained additional insights.\n\nThe essay \"Are You an Anarchist?\" reminds me of the \"everyday anarchism\" series I've oft considered writing. E.g. \"When you do (thing), anarchism is among you.\" ( _Secret hint: you usually **are** an anarchist, or at least act like one._)\n\n_Note: I do not recommend the audiobook format._\n",
+				"date_published": "2024-11-23T16:56:37-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/23/the-ultimate-hidden.html",
+				"tags": ["Books","full posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/11/23/book-recommendations-ive.html",
 				
 				"content_html": "<p>📚 book recommendations:</p>\n<p>I&rsquo;ve updated <a href=\"https://blog.grotenhuis.info/read/\">my reading page</a> with the latest few books I&rsquo;ve completed.</p>\n",
@@ -37,7 +91,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2024/11/21/its-here-and.html",
 				
 				"content_html": "<p>🎲 It’s here and it’s incredible. <a href=\"https://www.kickstarter.com/projects/caesarink/doomsong\">Doomsong</a>. <a href=\"http://caesar-ink.bsky.social\">@caesar-ink.bsky.social</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "🎲 It’s here and it’s incredible. [Doomsong](https://www.kickstarter.com/projects/caesarink/doomsong). [@caesar-ink.bsky.social](http://caesar-ink.bsky.social)\n\n<img src=\"uploads/2024/34344c39b9.jpg\" width=\"600\" height=\"349\" alt=\"Partially unwrapped Doomsong components.\"><img src=\"uploads/2024/d394523614.jpg\" width=\"600\" height=\"558\" alt=\"More fully unwrapped Doomsong components \">\n",
+				"content_text": "🎲 It’s here and it’s incredible. [Doomsong](https://www.kickstarter.com/projects/caesarink/doomsong). [@caesar-ink.bsky.social](http://caesar-ink.bsky.social)\n\n<img src=\"https://blog.grotenhuis.info/uploads/2024/34344c39b9.jpg\" width=\"600\" height=\"349\" alt=\"Partially unwrapped Doomsong components.\"><img src=\"https://blog.grotenhuis.info/uploads/2024/d394523614.jpg\" width=\"600\" height=\"558\" alt=\"More fully unwrapped Doomsong components \">\n",
 				"date_published": "2024-11-21T14:52:56-05:00",
 				"url": "https://blog.grotenhuis.info/2024/11/21/its-here-and.html",
 				"tags": ["Games","micro posts","RPG"]
