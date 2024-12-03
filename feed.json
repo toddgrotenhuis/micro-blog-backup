@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/12/03/silly-trek-aka.html",
+				
+				"content_html": "<p>🖖 Silly Trek (aka Lower Decks) is the best Star Trek.</p>\n<p>And yet, it can&rsquo;t be the best Star Trek, because it depends on other Star Treks.</p>\n<p>Discuss amongst yourselves.</p>\n",
+				"content_text": "🖖 Silly Trek (aka Lower Decks) is the best Star Trek.\n\nAnd yet, it can't be the best Star Trek, because it depends on other Star Treks.\n\nDiscuss amongst yourselves.\n",
+				"date_published": "2024-12-03T15:28:29-05:00",
+				"url": "https://blog.grotenhuis.info/2024/12/03/silly-trek-aka.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/12/03/whats-the-best.html",
+				
+				"content_html": "<p>What&rsquo;s the best &lt; $200 monitor?</p>\n",
+				"content_text": "What's the best < $200 monitor?\n",
+				"date_published": "2024-12-03T11:18:21-05:00",
+				"url": "https://blog.grotenhuis.info/2024/12/03/whats-the-best.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/12/01/learned-a-new.html",
+				
+				"content_html": "<p>Learned a new <a href=\"https://blog.grotenhuis.info/2023/01/15/secret-rule-parlor.html\">Secret Rule Parlor Game</a> from my nephew, who picked it up at Northern Tier camp:</p>\n<p><strong>How Many Bears?</strong></p>\n<p>Also:</p>\n<p><strong>Good Moon, Bad Moon</strong></p>\n",
+				"content_text": "Learned a new [Secret Rule Parlor Game](https://blog.grotenhuis.info/2023/01/15/secret-rule-parlor.html) from my nephew, who picked it up at Northern Tier camp:\n\n**How Many Bears?**\n\nAlso:\n\n**Good Moon, Bad Moon**\n",
+				"date_published": "2024-12-01T15:04:11-05:00",
+				"url": "https://blog.grotenhuis.info/2024/12/01/learned-a-new.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/12/01/bananas-for-when.html",
+				
+				"content_html": "<p>🍌 bananas: for when you really want some fruit flies</p>\n",
+				"content_text": "🍌 bananas: for when you really want some fruit flies\n",
+				"date_published": "2024-12-01T10:32:20-05:00",
+				"url": "https://blog.grotenhuis.info/2024/12/01/bananas-for-when.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/30/ran-some-isle.html",
+				
+				"content_html": "<p>🎲 Ran some <em>Isle of Ixx</em> again.</p>\n<p>3 for 3 parties have had things go sour with the Hermit Spire!</p>\n",
+				"content_text": "🎲 Ran some _Isle of Ixx_ again.\n\n3 for 3 parties have had things go sour with the Hermit Spire!\n",
+				"date_published": "2024-11-30T17:46:16-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/30/ran-some-isle.html",
+				"tags": ["Games","micro posts","RPG"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/30/the-shpongle-guys.html",
+				
+				"content_html": "<p>🎶 the Shpongle guys <a href=\"https://simonposford.bandcamp.com/album/improvisations-for-piano-flute\">made a chill piano &amp; flute album</a></p>\n",
+				"content_text": "🎶 the Shpongle guys [made a chill piano & flute album](https://simonposford.bandcamp.com/album/improvisations-for-piano-flute)\n",
+				"date_published": "2024-11-30T08:54:02-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/30/the-shpongle-guys.html",
+				"tags": ["Music","micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/29/following-lots-of.html",
+				
+				"content_html": "<p>🗞️ following lots of great people, comics, and feeds, but it&rsquo;s taking over a half an hour to read through it all each day.</p>\n<p>So I&rsquo;m culling, starting with:</p>\n<ul>\n<li>engagement farmers</li>\n<li>way-too-prolific posters</li>\n<li>shit-stirrers</li>\n<li>negativity drains</li>\n</ul>\n",
+				"content_text": "🗞️ following lots of great people, comics, and feeds, but it's taking over a half an hour to read through it all each day.\n\nSo I'm culling, starting with:\n\n* engagement farmers\n* way-too-prolific posters\n* shit-stirrers\n* negativity drains\n",
+				"date_published": "2024-11-29T23:13:02-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/29/following-lots-of.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/11/28/watching-xmen-with.html",
+				
+				"content_html": "<p>Watching X-men ‘92 with my nephew and dang I wish people would have learned something from X-men.</p>\n",
+				"content_text": "Watching X-men ‘92 with my nephew and dang I wish people would have learned something from X-men.\n",
+				"date_published": "2024-11-28T21:33:01-05:00",
+				"url": "https://blog.grotenhuis.info/2024/11/28/watching-xmen-with.html",
+				"tags": ["micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/11/28/happy-dog-show.html",
 				
 				"content_html": "<p>🐾 Happy Dog Show Day to all who celebrate.</p>\n",
@@ -9891,11 +9963,11 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/01/15/secret-rule-parlor.html",
 				
-				"content_html": "<p>Secret Rule Parlor Games:</p>\n<ul>\n<li>Black Magic</li>\n<li>Green Glass Door / Moon Pennies</li>\n<li>Bang Bang, Who&rsquo;s Dead? / Whose Triangle Is It?</li>\n<li>Grandma Doesn&rsquo;t Like Tea</li>\n<li>How Many Watermelons?</li>\n<li>Tommy Tommy</li>\n<li>The Moon is Round</li>\n<li>Umbrella</li>\n</ul>\n<p>Know of others? Tell me about them! (or better, let&rsquo;s play them!)</p>\n",
-				"content_text": "Secret Rule Parlor Games:\n\n- Black Magic\n- Green Glass Door / Moon Pennies\n- Bang Bang, Who's Dead? / Whose Triangle Is It?\n- Grandma Doesn't Like Tea\n- How Many Watermelons?\n- Tommy Tommy\n- The Moon is Round\n- Umbrella\n\nKnow of others? Tell me about them! (or better, let's play them!)\n",
+				"content_html": "<p>Secret Rule Parlor Games:</p>\n<ul>\n<li>Black Magic</li>\n<li>Green Glass Door / Moon Pennies</li>\n<li>Bang Bang, Who&rsquo;s Dead? / Whose Triangle Is It?</li>\n<li>Good Moon, Bad Moon</li>\n<li>Grandma Doesn&rsquo;t Like Tea</li>\n<li>How Many Watermelons?</li>\n<li>How Many Bears?</li>\n<li>Tommy Tommy</li>\n<li>The Moon is Round</li>\n<li>Umbrella</li>\n</ul>\n<p>Know of others? Tell me about them! (or better, let&rsquo;s play them!)</p>\n",
+				"content_text": "Secret Rule Parlor Games:\n\n- Black Magic\n- Green Glass Door / Moon Pennies\n- Bang Bang, Who's Dead? / Whose Triangle Is It?\n- Good Moon, Bad Moon\n- Grandma Doesn't Like Tea\n- How Many Watermelons?\n- How Many Bears?\n- Tommy Tommy\n- The Moon is Round\n- Umbrella\n\nKnow of others? Tell me about them! (or better, let's play them!)\n",
 				"date_published": "2023-01-15T11:17:43-05:00",
 				"url": "https://blog.grotenhuis.info/2023/01/15/secret-rule-parlor.html",
-				"tags": ["Games","micro posts"]
+				"tags": ["micro posts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/01/15/sunday-quote.html",
