@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/12/21/its-christmas-break.html",
+				
+				"content_html": "<p>🎮 It’s Christmas Break so I’ve powered up and am updating my Steam Deck.</p>\n<p>What turn-based or casual games do you recommend?</p>\n<p>On the list: Disgaeas, Caves of Qud</p>\n",
+				"content_text": "🎮 It’s Christmas Break so I’ve powered up and am updating my Steam Deck. \n\nWhat turn-based or casual games do you recommend?\n\nOn the list: Disgaeas, Caves of Qud\n",
+				"date_published": "2024-12-21T09:20:16-05:00",
+				"url": "https://blog.grotenhuis.info/2024/12/21/its-christmas-break.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/12/21/has-anybody-designed.html",
+				
+				"content_html": "<p>🎲♟️🃏 has anybody designed a case for the <a href=\"https://www.gamelibpocket.com/\">gamelib pocket</a>?</p>\n<p>Very cool little kit. Flimsy cardboard box.</p>\n<p>Looking for to an STL for the deck, tokens, dice.</p>\n",
+				"content_text": "🎲♟️🃏 has anybody designed a case for the [gamelib pocket](https://www.gamelibpocket.com/)?\n\nVery cool little kit. Flimsy cardboard box.\n\nLooking for to an STL for the deck, tokens, dice.\n",
+				"date_published": "2024-12-21T08:53:57-05:00",
+				"url": "https://blog.grotenhuis.info/2024/12/21/has-anybody-designed.html",
+				"tags": ["Games","micro posts","RPG"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/12/20/john-the-baptist.html",
 				
 				"content_html": "<p>John the Baptist and Jesus of Nazareth both call people a Brood of Vipers.</p>\n<p>I this essay, I will…</p>\n",
