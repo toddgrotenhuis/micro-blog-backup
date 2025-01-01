@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/12/30/feeling-like-someone-is-annoying.html",
+				
+				"content_html": "<p>Feeling like someone is annoying does not give you license to mistreat them.</p>\n",
+				"content_text": "Feeling like someone is annoying does not give you license to mistreat them.\n",
+				"date_published": "2024-12-30T23:23:29-05:00",
+				"url": "https://blog.grotenhuis.info/2024/12/30/feeling-like-someone-is-annoying.html",
+				"tags": ["micro posts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2024/12/27/this-is-a-better-way.html",
+				
+				"content_html": "<p>📚 This is a better way to do the 20 books thing: <a href=\"https://takeonrules.com/2024/12/27/twenty-books-that-have-stayed-with-me/\">takeonrules.com/2024/12/2&hellip;</a></p>\n",
+				"content_text": "📚 This is a better way to do the 20 books thing: [takeonrules.com/2024/12/2...](https://takeonrules.com/2024/12/27/twenty-books-that-have-stayed-with-me/)\n",
+				"date_published": "2024-12-27T14:19:52-05:00",
+				"url": "https://blog.grotenhuis.info/2024/12/27/this-is-a-better-way.html",
+				"tags": ["Books","micro posts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/12/21/its-christmas-break.html",
 				
 				"content_html": "<p>🎮 It’s Christmas Break so I’ve powered up and am updating my Steam Deck.</p>\n<p>What turn-based or casual games do you recommend?</p>\n<p>On the list: Disgaeas, Caves of Qud</p>\n",
