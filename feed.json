@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2025/03/19/since-im-hosting-a-microcon.html",
+				
+				"content_html": "<p>Since I’m <a href=\"https://blog.grotenhuis.info/2025/03/11/last-year-local-gamers-went.html\">hosting a micro-con this weekend</a> I had to get out the shirts. #ttrpg</p>\n<p>Left: <a href=\"https://www.accidentalcyclops.com/therealthingrpg/\">The Real Thing</a>\nRight: <a href=\"https://www.burningwheel.com/our-games/\">Monster Burner</a>\nNot pictured: <a href=\"https://eclipsephase.com/\">Eclipse Phase</a> faction shirt</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Since I’m [hosting a micro-con this weekend](https://blog.grotenhuis.info/2025/03/11/last-year-local-gamers-went.html) I had to get out the shirts. #ttrpg\n\nLeft: [The Real Thing](https://www.accidentalcyclops.com/therealthingrpg/)\nRight: [Monster Burner](https://www.burningwheel.com/our-games/)\nNot pictured: [Eclipse Phase](https://eclipsephase.com/) faction shirt\n\n<img src=\"https://cdn.uploads.micro.blog/2363/2025/bc624db18d.jpg\" width=\"600\" height=\"450\" alt=\"Two black t-shirts are laid out on a wooden surface, one with a hand design and the other with a detailed illustration.\">\n",
+				"date_published": "2025-03-19T13:36:27-04:00",
+				"url": "https://blog.grotenhuis.info/2025/03/19/since-im-hosting-a-microcon.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2025/03/17/via-ayjay.html",
+				
+				"content_html": "<p>📑 via <a href=\"https://micro.blog/ayjay\">@ayjay</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📑 via [@ayjay](https://micro.blog/ayjay) \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/2363/2025/170b219843.png\" width=\"600\" height=\"337\" alt=\"&quot;Try, in every way we can think of, to increase the number of situations in our lives in which we are neither dehumanized by an omnipotent state nor engaged in ceaseless competition with one another in an omnipotent marketplace.&quot; (ayjay, Anarchism as a Spiritual Discipline)\">\n",
+				"date_published": "2025-03-17T08:10:30-04:00",
+				"url": "https://blog.grotenhuis.info/2025/03/17/via-ayjay.html",
+				"tags": ["Quotes","Microposts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2025/03/15/what-lucas-stabilizer-gets-first.html",
+				
+				"content_html": "<p>What! Lucas Stabilizer gets first stadium racing win at Lucas Oil Stadium.</p>\n<p>Who could have predicted that! 😅</p>\n<p>(I never thought I would go to Monster Jam but when your nibbling wants to go, you go!)</p>\n",
+				"content_text": "What! Lucas Stabilizer gets first stadium racing win at Lucas Oil Stadium.\n\nWho could have predicted that! 😅\n\n(I never thought I would go to Monster Jam but when your nibbling wants to go, you go!)\n",
+				"date_published": "2025-03-15T17:44:58-04:00",
+				"url": "https://blog.grotenhuis.info/2025/03/15/what-lucas-stabilizer-gets-first.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2025/03/14/getting-unstuck-routine-postmortems.html",
+				"title": "Getting Unstuck: Routine Postmortems",
+				"content_html": "<p><em>This is a post is in the <a href=\"https://blog.grotenhuis.info/useful-ideas/\">Useful Ideas</a> series.</em></p>\n<h1 id=\"from-reactive-to-proactive\">From Reactive to Proactive</h1>\n<p>Cybersecurity often gets <strong>stuck</strong>:</p>\n<ul>\n<li>triaging the same types of alerts and events that came yesterday</li>\n<li>gathering the same kind of data to answer questions that were asked for last audit</li>\n<li>finding more of the same classes of security bugs in software</li>\n<li>playing whack-a-mole patching the worst vulnerabilities</li>\n<li>writing up risks similar to ones found during the last business initiative</li>\n</ul>\n<p>If you aren&rsquo;t in cybersecurity, you&rsquo;ve probably seen a similar predicament in your domain. When a team is constantly in <strong>reactive mode</strong>, it feels inescapable. <em>I can&rsquo;t drop any of these required activities. Where would I find the time to change things?&quot;</em> But finding a time to invest in <strong>doing less of these activities</strong> is the only way to break the cycle.</p>\n<p><a href=\"https://openandsecure.com/\">In my work with organizations</a>, I use a several methods to break this cycle, but I want to share one option with you here: <strong>routine postmortems</strong>.</p>\n<p>You&rsquo;re likely familiar with a variety of techniques for diagnosing how something went wrong. <em>Five Whys</em>, <em>Root Cause Analysis</em>, <em>Blameless Postmortems</em>, and more. If run well, these can be a very powerful tool for understanding the process, system, and even cultural problems that led to a breakdown. They also level up the organization through knowledge sharing and by implementing changes that stop the same type of problem from resurfacing.</p>\n<p>However, if your organization is in <strong>reactive mode</strong>, you probably don&rsquo;t feel like you have the bandwidth to perform these analyses for all but the very worst of events, and even when you do, you struggle to find time to implement any changes that would prevent the problem from reoccurring.</p>\n<p>Shifting from ineffective formal emergency retrospectives to ongoing proactive analysis requires a <strong>cultural shift</strong>.</p>\n<p><strong>Routine Postmortems</strong> allow you to start to build the change into the fabric of your organization.</p>\n<h1 id=\"implementing\">Implementing</h1>\n<p>Start small. Select a recurring time for the team to meet (somewhere between weekly and quarterly), or reserve some time in an existing meeting cadence. In preparation for the meeting, the team(s) should bring <strong>one</strong> reactive event from the last period for each functional area, along with an initial analysis. They should not spend much time on the analysis (less than the meeting itself is booked for). It&rsquo;s better if these are not full emergency incidents. For example, within cybersecurity, items could include:</p>\n<ul>\n<li>a SOC alert</li>\n<li>an audit or pentest finding</li>\n<li>a vulnerability</li>\n<li>a configuration error</li>\n<li>a design weakness</li>\n<li>an unmitigated risk</li>\n</ul>\n<p>Walk through a light version of your chosen diagnostic process, giving extra opportunity for team members to ask questions with nonjudgmental curiosity and to chime in with additional ideas on what upstream changes could have avoided the problem.</p>\n<p>Go through as many categories as you have time to go through, but it&rsquo;s ok if it&rsquo;s just one! (<em>Simply rotate the focus category next time.</em>)</p>\n<p>It&rsquo;s better if this isn&rsquo;t heavy with formality, but it&rsquo;s perfectly fine to jot down takeaways and decisions.</p>\n<h1 id=\"when-its-working\">When It&rsquo;s Working</h1>\n<ul>\n<li>preparing for the meeting, and <em>even knowing they will be preparing for the meeting</em>, gets people re-orienting their mindset towards problem prevention over firefighting</li>\n<li>silos of problem-responding are breaking down, people are learning from each other, and solutions (which often require cross-team collaboration) are emerging</li>\n<li>people are seeing that &ldquo;an ounce of prevention is worth a pound of cure&rdquo;, and that the effort invested is freeing up time for more strategic work</li>\n</ul>\n<h1 id=\"failure-modes\">Failure Modes</h1>\n<p><strong>Blamestorming</strong>: it&rsquo;s tempting to criticize an initial analysis or to focus on people instead of problems. Use your facilitation skills to align the conversation to the future, not to the past. Practicing this routine will help the team improve at both analysis and problem-solving.</p>\n<p><strong>Giving Up on Ops</strong>: routine postmortems aren&rsquo;t an excuse to stop responding entirely. Remember this is a method to carve out a slice of time to turn the ship.</p>\n<p><strong>Lack of Follow-Through</strong>: if people are having great ideas, but nothing is changing, then you likely have execution problems. That&rsquo;s another topic, but one thing you can try is picking the quickest win from each session and making sure the right person has ownership to drive that result.</p>\n<p><strong>Something Else?</strong>: If you&rsquo;ve tried this and run into other problems that you want to debug, <a href=\"https://openandsecure.com/\">I&rsquo;m happy to help!</a></p>\n",
+				"content_text": "_This is a post is in the [Useful Ideas](https://blog.grotenhuis.info/useful-ideas/) series._\n\n# From Reactive to Proactive\n\nCybersecurity often gets **stuck**:\n\n* triaging the same types of alerts and events that came yesterday\n* gathering the same kind of data to answer questions that were asked for last audit\n* finding more of the same classes of security bugs in software\n* playing whack-a-mole patching the worst vulnerabilities\n* writing up risks similar to ones found during the last business initiative\n\nIf you aren't in cybersecurity, you've probably seen a similar predicament in your domain. When a team is constantly in **reactive mode**, it feels inescapable. _I can't drop any of these required activities. Where would I find the time to change things?\"_ But finding a time to invest in **doing less of these activities** is the only way to break the cycle.\n\n[In my work with organizations](https://openandsecure.com/), I use a several methods to break this cycle, but I want to share one option with you here: **routine postmortems**.\n\nYou're likely familiar with a variety of techniques for diagnosing how something went wrong. _Five Whys_, _Root Cause Analysis_, _Blameless Postmortems_, and more. If run well, these can be a very powerful tool for understanding the process, system, and even cultural problems that led to a breakdown. They also level up the organization through knowledge sharing and by implementing changes that stop the same type of problem from resurfacing.\n\nHowever, if your organization is in **reactive mode**, you probably don't feel like you have the bandwidth to perform these analyses for all but the very worst of events, and even when you do, you struggle to find time to implement any changes that would prevent the problem from reoccurring.\n\nShifting from ineffective formal emergency retrospectives to ongoing proactive analysis requires a **cultural shift**.\n\n**Routine Postmortems** allow you to start to build the change into the fabric of your organization.\n\n# Implementing\n\nStart small. Select a recurring time for the team to meet (somewhere between weekly and quarterly), or reserve some time in an existing meeting cadence. In preparation for the meeting, the team(s) should bring **one** reactive event from the last period for each functional area, along with an initial analysis. They should not spend much time on the analysis (less than the meeting itself is booked for). It's better if these are not full emergency incidents. For example, within cybersecurity, items could include:\n\n* a SOC alert\n* an audit or pentest finding\n* a vulnerability\n* a configuration error\n* a design weakness\n* an unmitigated risk\n\nWalk through a light version of your chosen diagnostic process, giving extra opportunity for team members to ask questions with nonjudgmental curiosity and to chime in with additional ideas on what upstream changes could have avoided the problem.\n\nGo through as many categories as you have time to go through, but it's ok if it's just one! (_Simply rotate the focus category next time._)\n\nIt's better if this isn't heavy with formality, but it's perfectly fine to jot down takeaways and decisions.\n\n# When It's Working\n\n* preparing for the meeting, and _even knowing they will be preparing for the meeting_, gets people re-orienting their mindset towards problem prevention over firefighting\n* silos of problem-responding are breaking down, people are learning from each other, and solutions (which often require cross-team collaboration) are emerging\n* people are seeing that \"an ounce of prevention is worth a pound of cure\", and that the effort invested is freeing up time for more strategic work\n\n# Failure Modes\n\n**Blamestorming**: it's tempting to criticize an initial analysis or to focus on people instead of problems. Use your facilitation skills to align the conversation to the future, not to the past. Practicing this routine will help the team improve at both analysis and problem-solving.\n\n**Giving Up on Ops**: routine postmortems aren't an excuse to stop responding entirely. Remember this is a method to carve out a slice of time to turn the ship.\n\n**Lack of Follow-Through**: if people are having great ideas, but nothing is changing, then you likely have execution problems. That's another topic, but one thing you can try is picking the quickest win from each session and making sure the right person has ownership to drive that result.\n\n**Something Else?**: If you've tried this and run into other problems that you want to debug, [I'm happy to help!](https://openandsecure.com/)\n",
+				"date_published": "2025-03-14T12:04:16-04:00",
+				"url": "https://blog.grotenhuis.info/2025/03/14/getting-unstuck-routine-postmortems.html",
+				"tags": ["Ideas","Longform"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2025/03/14/its-supposed-to-reach-f.html",
+				
+				"content_html": "<p>☀️ It&rsquo;s supposed to reach 81F today!</p>\n",
+				"content_text": "☀️ It's supposed to reach 81F today!\n",
+				"date_published": "2025-03-14T09:57:34-04:00",
+				"url": "https://blog.grotenhuis.info/2025/03/14/its-supposed-to-reach-f.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2025/03/13/i-know-ive-mentioned-this.html",
+				
+				"content_html": "<p>🎶 I know I&rsquo;ve mentioned this before, but you can see exactly where they kill the sun.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🎶 I know I've mentioned this before, but you can see exactly where they kill the sun.\n\n<img src=\"https://cdn.uploads.micro.blog/2363/2025/347a0032a7.jpg\" width=\"382\" height=\"600\" alt=\"Spiritbox - Sun Killer. Arrow points to a spot in the track where music goes from quiet to loud.\">\n",
+				"date_published": "2025-03-13T15:04:54-04:00",
+				"url": "https://blog.grotenhuis.info/2025/03/13/i-know-ive-mentioned-this.html",
+				"tags": ["Music","Microposts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2025/03/13/first-ttrpg-you-ever-played.html",
+				
+				"content_html": "<ol>\n<li>First #ttrpg you ever played? AD&amp;D</li>\n<li>First you ever ran? WEG Star Wars</li>\n<li>Played the most? Burning Wheel</li>\n<li>Run the most? Burning Wheel</li>\n<li>Favorite? whatever is in front of us</li>\n<li>Most recently played? Legend of the Five Rings 5th ed.</li>\n<li>Most recently run? Whitehack 4th ed.</li>\n</ol>\n<p>🎲 via <a href=\"http://juddthelibrarian.bsky.social\">@juddthelibrarian.bsky.social</a></p>\n",
+				"content_text": "1. First #ttrpg you ever played? AD&D\r\n2. First you ever ran? WEG Star Wars\r\n3. Played the most? Burning Wheel\r\n4. Run the most? Burning Wheel\r\n5. Favorite? whatever is in front of us\r\n6. Most recently played? Legend of the Five Rings 5th ed.\r\n7. Most recently run? Whitehack 4th ed.\r\n\r\n🎲 via [@juddthelibrarian.bsky.social](http://juddthelibrarian.bsky.social) \n",
+				"date_published": "2025-03-13T11:19:45-04:00",
+				"url": "https://blog.grotenhuis.info/2025/03/13/first-ttrpg-you-ever-played.html",
+				"tags": ["Games","RPG","Microposts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2025/03/13/working-in-public.html",
+				"title": "Working in Public",
+				"content_html": "<p><em>This is a post is in the <a href=\"https://blog.grotenhuis.info/useful-ideas/\">Useful Ideas</a> series.</em></p>\n<p>&ldquo;Working in Public&rdquo; or &ldquo;Working with the Garage Door Open&rdquo; or &ldquo;Working with the Garage Door Up&rdquo; are related concepts that invoke the idea that for some work, it is better not to toil in secret.</p>\n<p><strong>Potential benefits to you:</strong> rapid &amp; diverse feedback, getting assistance, finding collaborators, finding people who would benefit from your work</p>\n<p><strong>Potential benefits to others:</strong> keeping collaborators updated, helping others learn from your mistakes, helping people &ldquo;<a href=\"https://blog.grotenhuis.info/2023/11/01/if-you-answer.html\">not in the room</a>&rdquo;</p>\n",
+				"content_text": "_This is a post is in the [Useful Ideas](https://blog.grotenhuis.info/useful-ideas/) series._\n\n\"Working in Public\" or \"Working with the Garage Door Open\" or \"Working with the Garage Door Up\" are related concepts that invoke the idea that for some work, it is better not to toil in secret.\n\n**Potential benefits to you:** rapid & diverse feedback, getting assistance, finding collaborators, finding people who would benefit from your work\n\n**Potential benefits to others:** keeping collaborators updated, helping others learn from your mistakes, helping people \"[not in the room](https://blog.grotenhuis.info/2023/11/01/if-you-answer.html)\"\n",
+				"date_published": "2025-03-13T11:14:57-04:00",
+				"url": "https://blog.grotenhuis.info/2025/03/13/working-in-public.html",
+				"tags": ["Ideas","Longform"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2025/03/13/after-months-of-renovation-my.html",
+				
+				"content_html": "<p>📚 after months of renovation, my neighborhood library is back open. Celebrating by working there today.</p>\n",
+				"content_text": "📚 after months of renovation, my neighborhood library is back open. Celebrating by working there today.\n",
+				"date_published": "2025-03-13T10:30:03-04:00",
+				"url": "https://blog.grotenhuis.info/2025/03/13/after-months-of-renovation-my.html",
+				"tags": ["Books","Microposts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2025/03/13/interesting-conversation-on-risky-biz.html",
 				
 				"content_html": "<p>🎙️🛡️ <a href=\"https://overcast.fm/+AA5Sl9q7PgA\">Interesting conversation on Risky Biz comparing TikTok and X</a>.</p>\n<p>I would disagree that there isn’t <strong>already</strong> influence in TikTok <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, but it is certainly less flagrant than you see on X.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>All algorithmically-controlled feeds reflect the biases of their creators, owners, and governors.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
@@ -55,7 +136,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2025/03/12/new-jeopardymeme-just-dropped.html",
 				
 				"content_html": "<p>New #JeopardyMeme just dropped.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New #JeopardyMeme just dropped.\n\n<img src=\"uploads/2025/f6e4832bc1.jpg\" width=\"600\" height=\"426\" alt=\"Final jeopardy question says “WHO IS THE OUTLANDER LADY?”\">\n",
+				"content_text": "New #JeopardyMeme just dropped.\n\n<img src=\"https://cdn.uploads.micro.blog/2363/2025/f6e4832bc1.jpg\" width=\"600\" height=\"426\" alt=\"Final jeopardy question says “WHO IS THE OUTLANDER LADY?”\">\n",
 				"date_published": "2025-03-12T09:01:00-04:00",
 				"url": "https://blog.grotenhuis.info/2025/03/12/new-jeopardymeme-just-dropped.html",
 				"tags": ["Microposts"]
@@ -187,15 +268,6 @@
 				"tags": ["Microposts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2025/02/26/i-wonder-if-fifa-told.html",
-				
-				"content_html": "<p>⚽️🗳️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "⚽️🗳️\r\n\r\n<blockquote class=\"quoteback\" data-author=\"John Bull\" data-avatar=\"https://micro.blog/garius.bsky.social/avatar.jpg\" cite=\"https://bsky.app/profile/garius.bsky.social/post/3lj2vaneslc2b\">I wonder if FIFA told the US it had to be a dictatorship with a poor human rights record before it was allowed to host the World Cup.<footer>John Bull <cite><a href=\"https://bsky.app/profile/garius.bsky.social/post/3lj2vaneslc2b\" class=\"u-in-reply-to\">https://bsky.app/profile/garius.bsky.social/post/3lj2vaneslc2b</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
-				"date_published": "2025-02-26T17:16:26-04:00",
-				"url": "https://blog.grotenhuis.info/2025/02/26/i-wonder-if-fifa-told.html",
-				"tags": ["Soccer","Microposts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2025/02/26/an-icloud-backdoor-would-make.html",
 				
 				"content_html": "<p>🛡️ <a href=\"https://www.schneier.com/blog/archives/2025/02/an-icloud-backdoor-would-make-our-phones-less-safe.html\">An iCloud Backdoor Would Make Our Phones Less Safe</a></p>\n<blockquote>\n<p>A technical means of access can’t be limited to only people with proper legal authority.</p>\n</blockquote>\n",
@@ -220,15 +292,6 @@
 				"content_text": "🚲\n\nTimes crossing the Monon and 86th street today: 2\n\nTimes a car turned in my path during a no-turn on red: 2\n\nA cop could sit at this intersection and fill their not-quota very quickly.\n\ncc: [@SafeStreetsIndy@hoosier.social](https://micro.blog/SafeStreetsIndy@hoosier.social)\n\n",
 				"date_published": "2025-02-25T16:23:05-04:00",
 				"url": "https://blog.grotenhuis.info/2025/02/25/times-crossing-the-monon-and.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2025/02/25/this-musk-stuff-is-working.html",
-				
-				"content_html": "<p>🗳️ This Musk stuff is working great for Trump.</p>\n<p>After things unravel, Trump will take credit\nfor anything people like and blame Musk for everything else.</p>\n<p>Yes, Musk is using Trump to get richer, but Trump is using Musk, too.</p>\n",
-				"content_text": "🗳️ This Musk stuff is working great for Trump.\n\nAfter things unravel, Trump will take credit\nfor anything people like and blame Musk for everything else.\n\nYes, Musk is using Trump to get richer, but Trump is using Musk, too.\n",
-				"date_published": "2025-02-25T09:03:03-04:00",
-				"url": "https://blog.grotenhuis.info/2025/02/25/this-musk-stuff-is-working.html",
 				"tags": ["Microposts"]
 			},
 			{
@@ -329,15 +392,6 @@
 				"date_published": "2025-02-17T17:08:32-04:00",
 				"url": "https://blog.grotenhuis.info/2025/02/17/in-case-you-needed-another.html",
 				"tags": ["Microposts","cybersecurity"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2025/02/17/yes-in-this-era-the.html",
-				
-				"content_html": "<p>🗳️ Yes, in this era the <a href=\"https://www.gocomics.com/ted-rall/2025/02/17\">Democrats are the conservative party</a>.</p>\n",
-				"content_text": "🗳️ Yes, in this era the [Democrats are the conservative party](https://www.gocomics.com/ted-rall/2025/02/17).\n",
-				"date_published": "2025-02-17T17:01:38-04:00",
-				"url": "https://blog.grotenhuis.info/2025/02/17/yes-in-this-era-the.html",
-				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2025/02/17/ebookscom-unlike-amazon-and-bookshop.html",
@@ -873,11 +927,11 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2025/01/06/reviews-collection.html",
 				"title": "2024 Reviews Collection",
-				"content_html": "<ul>\n<li>🎶 <a href=\"https://blog.grotenhuis.info/2025/01/06/music-review.html\">Music</a></li>\n<li>📚 <a href=\"https://blog.grotenhuis.info/2025/02/02/books-review.html\">Books</a></li>\n<li>🎲🃏🕹️♟️ Games (forthcoming)</li>\n<li>Meta-blogging (forthcoming)</li>\n<li>By the Numbers (a personal update) (forthcoming)</li>\n<li>TV/Film (forthcoming)</li>\n<li>Podcasts/Periodicals (forthcoming)</li>\n</ul>\n",
-				"content_text": "* 🎶 [Music](https://blog.grotenhuis.info/2025/01/06/music-review.html)\n* 📚 [Books](https://blog.grotenhuis.info/2025/02/02/books-review.html)\n* 🎲🃏🕹️♟️ Games (forthcoming)\n* Meta-blogging (forthcoming)\n* By the Numbers (a personal update) (forthcoming)\n* TV/Film (forthcoming)\n* Podcasts/Periodicals (forthcoming)\n",
+				"content_html": "<ul>\n<li>🎶 <a href=\"https://blog.grotenhuis.info/2025/01/06/music-review.html\">Music</a></li>\n<li>📚 <a href=\"https://blog.grotenhuis.info/2025/02/02/books-review.html\">Books</a></li>\n</ul>\n",
+				"content_text": "* 🎶 [Music](https://blog.grotenhuis.info/2025/01/06/music-review.html)\n* 📚 [Books](https://blog.grotenhuis.info/2025/02/02/books-review.html)\n",
 				"date_published": "2025-01-06T16:10:47-04:00",
 				"url": "https://blog.grotenhuis.info/2025/01/06/reviews-collection.html",
-				"tags": ["Games","Review","Books","Music","RPG","Longform"]
+				"tags": ["Review","Books","Music","Longform"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2025/01/06/music-review.html",
@@ -895,15 +949,6 @@
 				"content_text": "📝 I confess I have once again changed my writing tools:\n\n* Sharing and public documents are in craft.do\n* Working space is in obsidian.md\n* Handwritten (paper, digital) notes get improrted daily\n",
 				"date_published": "2025-01-06T14:26:38-04:00",
 				"url": "https://blog.grotenhuis.info/2025/01/06/i-confess-i-have-once.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2025/01/05/is-there-a-reputable-list.html",
-				
-				"content_html": "<p>🗳️ Is there a reputable list of all the major donors to the inauguration fund?</p>\n<p>(Also, let’s call them what they are: bribes)</p>\n",
-				"content_text": "🗳️ Is there a reputable list of all the major donors to the inauguration fund?\n\n(Also, let’s call them what they are: bribes)\n",
-				"date_published": "2025-01-05T23:37:48-04:00",
-				"url": "https://blog.grotenhuis.info/2025/01/05/is-there-a-reputable-list.html",
 				"tags": ["Microposts"]
 			},
 			{
@@ -1503,8 +1548,8 @@
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/11/05/reminder-long-voting.html",
 				
-				"content_html": "<p>🗳️ reminder: long voting lines are a symptom of voter suppression and anti-democratic sentiment.</p>\n<p>As you’re in line, remember that Republicans didn’t want people (especially in certain areas) to be able to easily vote (including early or mail-in).</p>\n",
-				"content_text": "🗳️ reminder: long voting lines are a symptom of voter suppression and anti-democratic sentiment.\n\nAs you’re in line, remember that Republicans didn’t want people (especially in certain areas) to be able to easily vote (including early or mail-in).\n",
+				"content_html": "<p>🗳️ reminder: long voting lines are a symptom of voter suppression.</p>\n<p>As you’re in line, remember that one of the parties didn’t want people (especially in certain areas) to be able to easily vote (including early or mail-in).</p>\n",
+				"content_text": "🗳️ reminder: long voting lines are a symptom of voter suppression.\n\nAs you’re in line, remember that one of the parties didn’t want people (especially in certain areas) to be able to easily vote (including early or mail-in).\n",
 				"date_published": "2024-11-05T10:50:56-04:00",
 				"url": "https://blog.grotenhuis.info/2024/11/05/reminder-long-voting.html",
 				"tags": ["Microposts"]
@@ -1552,15 +1597,6 @@
 				"content_text": "🪵 [Team Warbler](https://blog.grotenhuis.info/2024/05/11/bird-talk.html) did a little bit of light lumberjacking this morning.\n\nAlways more trees down. Just hope more are going up faster than the deer etc. can wreck them.\n",
 				"date_published": "2024-11-02T10:15:11-04:00",
 				"url": "https://blog.grotenhuis.info/2024/11/02/team-warbler-did.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2024/11/01/economist-the-newspaper.html",
-				
-				"content_html": "<p>🗳️ <em>Economist</em>, the newspaper of free markets and individual rights:</p>\n<p><strong>endorses Kamala Harris</strong></p>\n<p>They see too many “unacceptable risks” in Trump.</p>\n<p>Distinction is between a likely “mediocre president” (Harris) and a clearly “malignant president” (Trump).</p>\n",
-				"content_text": "🗳️ _Economist_, the newspaper of free markets and individual rights:\n\n**endorses Kamala Harris**\n\nThey see too many “unacceptable risks” in Trump.\n\nDistinction is between a likely “mediocre president” (Harris) and a clearly “malignant president” (Trump).\n",
-				"date_published": "2024-11-01T16:57:11-04:00",
-				"url": "https://blog.grotenhuis.info/2024/11/01/economist-the-newspaper.html",
 				"tags": ["Microposts"]
 			},
 			{
@@ -2518,15 +2554,6 @@
 				"tags": ["Books","Microposts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2024/09/10/penzeys-spices-not.html",
-				
-				"content_html": "<p>Penzey&rsquo;s spices. Not just delicious. Spicy. Read the whole thing!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Penzey's spices. Not just delicious. Spicy. Read the whole thing!\r\n\r\n<blockquote class=\"quoteback\" data-author=\"Chris Grayson\" data-avatar=\"https://micro.blog/cgrayson/avatar.jpg\" cite=\"https://chrisgrayson.net/2024/09/10/8486/\"><p>best spice shop page I’ve ever read: <a href=\"https://www.penzeys.com/shop/about-republicans/\">Penzeys</a></p>\r\n<blockquote><p>\r\n  From the environment, to racism, to health, to saving our democracy at home & growing it abroad, half the time Republicans are intentionally blocking the solution to the problems we face. The other half of the time they are the problem we face.\r\n</p></blockquote><footer>Chris Grayson <cite><a href=\"https://chrisgrayson.net/2024/09/10/8486/\" class=\"u-in-reply-to\">https://chrisgrayson.net/2024/09/10/8486/</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
-				"date_published": "2024-09-10T11:53:02-04:00",
-				"url": "https://blog.grotenhuis.info/2024/09/10/penzeys-spices-not.html",
-				"tags": ["Microposts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/09/09/if-i-said.html",
 				
 				"content_html": "<p>🎲🃏 if I said:</p>\n<p>“Post-apocalyptic but more Dark Sun than Gamma World” what would that evoke for you? #GameDev</p>\n",
@@ -2651,15 +2678,6 @@
 				"date_published": "2024-08-28T12:33:31-04:00",
 				"url": "https://blog.grotenhuis.info/2024/08/28/this-was-ridiculous.html",
 				"tags": ["RPG","Microposts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2024/08/28/being-an-independent.html",
-				
-				"content_html": "<p>🗳️ Being an independent, I can look at the US presidential race and notice things like:</p>\n<p>Wow, in the pre-manbaby era of the modern Republican Party, it seems like Harris represents the kind of platform that Republicans would select for a candidate.</p>\n",
-				"content_text": "🗳️ Being an independent, I can look at the US presidential race and notice things like:\n\nWow, in the pre-manbaby era of the modern Republican Party, it seems like Harris represents the kind of platform that Republicans would select for a candidate.\n",
-				"date_published": "2024-08-28T11:28:37-04:00",
-				"url": "https://blog.grotenhuis.info/2024/08/28/being-an-independent.html",
-				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/08/28/observe-diligently-consider.html",
@@ -2929,15 +2947,6 @@
 				"content_text": "🖖 did you know?\n\n“Star Trek: Lower Decks” is pronounced “Silly Trek”\n\n(Also, it is a blast.)\n",
 				"date_published": "2024-07-31T20:20:52-04:00",
 				"url": "https://blog.grotenhuis.info/2024/07/31/did-you-know.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2024/07/31/i-mean-trump.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<blockquote class=\"quoteback\" data-author=\"Popehat (@kenwhite.bsky.social)\" data-avatar=\"https://micro.blog/kenwhite.bsky.social/avatar.jpg\" cite=\"https://bsky.app/profile/kenwhite.bsky.social/post/3kym4hbpgjq2u\">I mean “Trump visits the National Association of Black Journalists” already sounds like an SNL skit, I don’t know what people are expected.<footer>Popehat (@kenwhite.bsky.social) <cite><a href=\"https://bsky.app/profile/kenwhite.bsky.social/post/3kym4hbpgjq2u\" class=\"u-in-reply-to\">https://bsky.app/profile/kenwhite.bsky.social/post/3kym4hbpgjq2u</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
-				"date_published": "2024-07-31T17:28:01-04:00",
-				"url": "https://blog.grotenhuis.info/2024/07/31/i-mean-trump.html",
 				"tags": ["Microposts"]
 			},
 			{
@@ -4147,15 +4156,6 @@
 				"tags": ["Music","Microposts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2024/04/18/axios-is-doing.html",
-				
-				"content_html": "<p>🗳️ Axios is doing interviews for Indiana gubernatorial candidates and so far, wow <a href=\"https://www.axios.com/local/indianapolis/2024/04/18/meet-brad-chambers-gubernatorial-candidate\">Brad Chambers</a> seems like an adult in the room, compared to <a href=\"https://www.axios.com/local/indianapolis/2024/04/17/indiana-gop-gubernatorial-candidate-mike-braun\">Mike Braun</a>.</p>\n<p><em>Edited to add: <a href=\"https://arc.net/folder/5373B860-DF7C-4D9C-9B5E-8E65E7C1494C\">here are all the republican profiles</a>. He still seems like the only adult. Most of them couldn&rsquo;t even take the easy win on some of these questions.</em></p>\n",
-				"content_text": "🗳️ Axios is doing interviews for Indiana gubernatorial candidates and so far, wow [Brad Chambers](https://www.axios.com/local/indianapolis/2024/04/18/meet-brad-chambers-gubernatorial-candidate) seems like an adult in the room, compared to [Mike Braun](https://www.axios.com/local/indianapolis/2024/04/17/indiana-gop-gubernatorial-candidate-mike-braun).\n\n_Edited to add: [here are all the republican profiles](https://arc.net/folder/5373B860-DF7C-4D9C-9B5E-8E65E7C1494C). He still seems like the only adult. Most of them couldn't even take the easy win on some of these questions._\n",
-				"date_published": "2024-04-18T09:11:47-04:00",
-				"url": "https://blog.grotenhuis.info/2024/04/18/axios-is-doing.html",
-				"tags": ["Microposts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/04/18/i-had-no.html",
 				
 				"content_html": "<p>🎶 I had no idea Einstürzende Neubauten had been working on a <a href=\"https://neubauten.bandcamp.com/album/rampen-apm-alien-pop-music\">new album</a>!</p>\n",
@@ -5056,15 +5056,6 @@
 				"tags": ["Anabaptism","Microposts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2024/02/14/ok-i-watched.html",
-				
-				"content_html": "<p>📺 ok, I watched the new Daily Show. Stewart was hilarious, but Jordan Klepper’s reply about cynical-both-sidesism was 💯</p>\n<p>The honest answer to “Clinton/Biden is a bad candidate” is “yes, but Trump is way way worse,” not “well they all kinda have their flaws and isn’t that funny?”</p>\n",
-				"content_text": "📺 ok, I watched the new Daily Show. Stewart was hilarious, but Jordan Klepper’s reply about cynical-both-sidesism was 💯\n\nThe honest answer to “Clinton/Biden is a bad candidate” is “yes, but Trump is way way worse,” not “well they all kinda have their flaws and isn’t that funny?”\n",
-				"date_published": "2024-02-14T08:46:24-04:00",
-				"url": "https://blog.grotenhuis.info/2024/02/14/ok-i-watched.html",
-				"tags": ["Microposts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/02/13/i-am-destroyed.html",
 				
 				"content_html": "<p>🎶 I am destroyed and ground to dust any time Silent Planet performs <em>Panic Room</em>.</p>\n",
@@ -5296,15 +5287,6 @@
 				"content_text": "If you live in Indiana, can you help [prevent this bad bill](https://mailchi.mp/thewhiteriveralliance/thankful-for-your-water-17370429)?\n",
 				"date_published": "2024-01-30T14:17:20-04:00",
 				"url": "https://blog.grotenhuis.info/2024/01/30/if-you-live.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2024/01/30/this-is-not.html",
-				
-				"content_html": "<p>🚍 <a href=\"https://mirrorindy.org/indiana-senate-republicans-target-indygo-blue-line-bus/\">‘This is not gonna be easy’: Blue Line supporters prep for House fight</a></p>\n",
-				"content_text": "🚍 [‘This is not gonna be easy’: Blue Line supporters prep for House fight](https://mirrorindy.org/indiana-senate-republicans-target-indygo-blue-line-bus/)\n",
-				"date_published": "2024-01-30T09:56:22-04:00",
-				"url": "https://blog.grotenhuis.info/2024/01/30/this-is-not.html",
 				"tags": ["Microposts"]
 			},
 			{
@@ -5576,15 +5558,6 @@
 				"date_published": "2024-01-15T17:50:57-04:00",
 				"url": "https://blog.grotenhuis.info/2024/01/15/tracking-artist-by.html",
 				"tags": ["Music","Longform"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2024/01/15/sad-to-hear.html",
-				
-				"content_html": "<p>🗳️ sad to hear Chris Christie is out. He wasn’t a good candidate but was the only Republican adult in the room.</p>\n",
-				"content_text": "🗳️ sad to hear Chris Christie is out. He wasn’t a good candidate but was the only Republican adult in the room.\n",
-				"date_published": "2024-01-15T09:47:21-04:00",
-				"url": "https://blog.grotenhuis.info/2024/01/15/sad-to-hear.html",
-				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2024/01/14/i-feel-like.html",
@@ -9032,15 +9005,6 @@
 				"date_published": "2023-05-24T10:28:13-04:00",
 				"url": "https://blog.grotenhuis.info/2023/05/24/ok-i-try.html",
 				"tags": ["Humor","Microposts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2023/05/23/interesting-data-from.html",
-				
-				"content_html": "<p>Interesting <a href=\"https://www.axios.com/2023/05/23/corporate-brands-reputation-america\">data from Axios &amp; Harris on 100 most visible &ldquo;brands&rdquo;</a>.</p>\n<p><em>Disclosure: my parent company owns Axios</em>.</p>\n",
-				"content_text": "Interesting [data from Axios & Harris on 100 most visible \"brands\"](https://www.axios.com/2023/05/23/corporate-brands-reputation-america).\r\n\r\n_Disclosure: my parent company owns Axios_.\n",
-				"date_published": "2023-05-23T19:05:39-04:00",
-				"url": "https://blog.grotenhuis.info/2023/05/23/interesting-data-from.html",
-				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2023/05/22/what-do-you.html",
@@ -18826,15 +18790,6 @@
 				"tags": ["Microposts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2020/11/18/krebs-covers-krebs.html",
-				
-				"content_html": "<p><a href=\"https://krebsonsecurity.com/2020/11/trump-fires-security-chief-christopher-krebs/\">Krebs covers Krebs</a></p>\n<p>Nobody is surprised, but it&rsquo;s still sad.</p>\n",
-				"content_text": "[Krebs covers Krebs](https://krebsonsecurity.com/2020/11/trump-fires-security-chief-christopher-krebs/)\n\nNobody is surprised, but it's still sad.\n",
-				"date_published": "2020-11-18T15:12:12-04:00",
-				"url": "https://blog.grotenhuis.info/2020/11/18/krebs-covers-krebs.html",
-				"tags": ["Resilience","Microposts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/11/17/experts-gobble-all.html",
 				
 				"content_html": "<p><a href=\"https://text.npr.org/935342378\">Experts: Gobble All You Like, But Do It With The Turkeys In Your Own Household</a>)</p>\n<p>And if you <strong>are</strong> getting together:</p>\n<blockquote>\n<p>“do pickup of groceries, rather than going grocery shopping in the store”</p>\n</blockquote>\n<blockquote>\n<p>“Making sure you&rsquo;re practicing really good hand hygiene”</p>\n</blockquote>\n<blockquote>\n<p>“if you can get tested, you should”</p>\n</blockquote>\n<blockquote>\n<p>“A 14-day quarantine period could prevent transmission — especially for asymptomatic cases.”</p>\n</blockquote>\n",
@@ -18907,15 +18862,6 @@
 				"tags": ["Microposts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2020/11/09/as-trumps-creditors.html",
-				
-				"content_html": "<p>As Trump’s creditors hope to salvage more from his outstanding obligations, these last months of the presidency could be even more swampy than the rest.</p>\n<p>So: let&rsquo;s help each other endure the death throes of this administration. Practice compassion. Engage in mutual aid. Offer sanctuary and healing. Make plans and build support systems for a freer, healthier, brighter future.</p>\n",
-				"content_text": "As Trump’s creditors hope to salvage more from his outstanding obligations, these last months of the presidency could be even more swampy than the rest.\n\nSo: let's help each other endure the death throes of this administration. Practice compassion. Engage in mutual aid. Offer sanctuary and healing. Make plans and build support systems for a freer, healthier, brighter future.\n",
-				"date_published": "2020-11-09T09:17:13-04:00",
-				"url": "https://blog.grotenhuis.info/2020/11/09/as-trumps-creditors.html",
-				"tags": ["Resilience","Microposts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/11/08/finished-reading-battle.html",
 				
 				"content_html": "<p>📚 <a href=\"https://blog.grotenhuis.info/reading/\">Finished Reading</a>: <em><a href=\"https://bookshop.org/books/battle-ground-9780593199305/9780593199305\">Battle Ground</a></em> by Jim Butcher ⭐️⭐️⭐️⭐️</p>\n<p>Gets an extra star because River Shoulders and Butters.</p>\n<!-- raw HTML omitted -->\n",
@@ -18940,15 +18886,6 @@
 				"content_text": "Like many, I had to bring my office home during #COVID-19. I got my first office shelf setup today, and we now have bookshelves in 5 rooms.\n\n<img src=\"https://cdn.uploads.micro.blog/2363/2020/6768a5f178.jpg\" width=\"488\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-11-07T13:55:58-04:00",
 				"url": "https://blog.grotenhuis.info/2020/11/07/like-many-i.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2020/11/06/as-i-watch.html",
-				
-				"content_html": "<p>As I watch coverage of different Trump supporter crowds chant “stop the count&quot; or “count the vote” depending on their state and how he is doing there, it&rsquo;s another painful reminder of how effective targeted, scaled advertising/manipulation/influence has become in our modern age.</p>\n",
-				"content_text": "As I watch coverage of different Trump supporter crowds chant “stop the count\" or “count the vote” depending on their state and how he is doing there, it's another painful reminder of how effective targeted, scaled advertising/manipulation/influence has become in our modern age.\n",
-				"date_published": "2020-11-06T10:13:00-04:00",
-				"url": "https://blog.grotenhuis.info/2020/11/06/as-i-watch.html",
 				"tags": ["Microposts"]
 			},
 			{
@@ -19030,15 +18967,6 @@
 				"content_text": "Slower news is often higher-quality news. Thanks, [Guardian](https://www.theguardian.com/us)!\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/2363/2020/a71972cc33.jpg\" width=\"600\" height=\"333\" alt=\"\" />\n",
 				"date_published": "2020-11-03T12:11:07-04:00",
 				"url": "https://blog.grotenhuis.info/2020/11/03/slower-news-is.html",
-				"tags": ["Microposts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2020/11/03/conservatives-if-youre.html",
-				
-				"content_html": "<p>Conservatives: if you’re going to vote, please vote Libertarian, American Solidarity, or Constitution.</p>\n<p>Republicans have repeatedly shown that they are willing to trash the Republic for personal gain. They haven’t earned your support. 3rd parties need it so we can fix the system.</p>\n",
-				"content_text": "Conservatives: if you’re going to vote, please vote Libertarian, American Solidarity, or Constitution.\n\nRepublicans have repeatedly shown that they are willing to trash the Republic for personal gain. They haven’t earned your support. 3rd parties need it so we can fix the system.\n",
-				"date_published": "2020-11-03T09:18:30-04:00",
-				"url": "https://blog.grotenhuis.info/2020/11/03/conservatives-if-youre.html",
 				"tags": ["Microposts"]
 			},
 			{
@@ -19195,15 +19123,6 @@
 				"tags": ["Inktober","Microposts"]
 			},
 			{
-				"id": "http://toddgrotenhuis.micro.blog/2020/10/17/are-you-a.html",
-				
-				"content_html": "<p>Are you a Republican or conservative who is understandably disgusted with the Trump presidency?</p>\n<p>Have you considered voting Libertarian, American Solidarity, or Constitution?</p>\n",
-				"content_text": "Are you a Republican or conservative who is understandably disgusted with the Trump presidency?\n\nHave you considered voting Libertarian, American Solidarity, or Constitution?\n",
-				"date_published": "2020-10-17T12:25:21-04:00",
-				"url": "https://blog.grotenhuis.info/2020/10/17/are-you-a.html",
-				"tags": ["Microposts"]
-			},
-			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/10/16/day-inktober-inktober.html",
 				
 				"content_html": "<p>Day 16: <a href=\"https://blog.grotenhuis.info/categories/inktober/\">#Inktober2020</a> <a href=\"https://blog.grotenhuis.info/categories/inktober/\">#Inktober</a></p>\n<!-- raw HTML omitted -->\n",
@@ -19220,15 +19139,6 @@
 				"date_published": "2020-10-15T12:58:27-04:00",
 				"url": "https://blog.grotenhuis.info/2020/10/15/days-i-made.html",
 				"tags": ["Inktober","Microposts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2020/10/15/i-appreciated-this.html",
-				
-				"content_html": "<p>I appreciated this opinion from Sarah Smarsh in The Guardian:</p>\n<p><a href=\"https://www.theguardian.com/us-news/2020/sep/17/how-is-arguing-with-trump-voters-working-out-for-you\">How is arguing with Trump voters working out for you?</a></p>\n",
-				"content_text": "I appreciated this opinion from Sarah Smarsh in The Guardian:\n\n[How is arguing with Trump voters working out for you?](https://www.theguardian.com/us-news/2020/sep/17/how-is-arguing-with-trump-voters-working-out-for-you)\n",
-				"date_published": "2020-10-15T09:52:21-04:00",
-				"url": "https://blog.grotenhuis.info/2020/10/15/i-appreciated-this.html",
-				"tags": ["Resilience","Microposts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/10/12/now-reading-lotek.html",
@@ -19526,15 +19436,6 @@
 				"date_published": "2020-09-26T14:26:48-04:00",
 				"url": "https://blog.grotenhuis.info/2020/09/26/what-a-wild.html",
 				"tags": ["Soccer","Microposts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2020/09/26/the-hallucinatory-world.html",
-				
-				"content_html": "<blockquote>\n<p>&ldquo;The hallucinatory world of anticommunism-without-communism is dangerous and violent. Its partisans believe they face an existential threat, which in principle licenses almost any level of violence&rdquo;</p>\n</blockquote>\n<p>From: <a href=\"https://www.theguardian.com/commentisfree/2020/sep/26/communist-enemy-nationalist-right-trump-us-bolsonaro-brazil\">Why is the nationalist right hallucinating a ‘communist enemy’?</a></p>\n",
-				"content_text": "> \"The hallucinatory world of anticommunism-without-communism is dangerous and violent. Its partisans believe they face an existential threat, which in principle licenses almost any level of violence\"\n\nFrom: [Why is the nationalist right hallucinating a ‘communist enemy’?](https://www.theguardian.com/commentisfree/2020/sep/26/communist-enemy-nationalist-right-trump-us-bolsonaro-brazil)\n",
-				"date_published": "2020-09-26T13:09:59-04:00",
-				"url": "https://blog.grotenhuis.info/2020/09/26/the-hallucinatory-world.html",
-				"tags": ["Northern Fires","Microposts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2020/09/25/finally-watched-knives.html",
@@ -21686,15 +21587,6 @@
 				"date_published": "2019-12-25T13:19:23-04:00",
 				"url": "https://blog.grotenhuis.info/2019/12/25/happy-first-day.html",
 				"tags": ["Anabaptism","Microposts"]
-			},
-			{
-				"id": "http://toddgrotenhuis.micro.blog/2019/12/24/i-just-read.html",
-				
-				"content_html": "<p>I just read this out loud to the gathered family. 🤣 <a href=\"https://www.theguardian.com/technology/2019/dec/22/zuckerbot-mark-zuckerberg-facebook-botnik\">&lsquo;I am going to say quiet words in your face just like I did with Trump&rsquo;: a conversation with the Zuckerbot - Technology - The Guardian</a></p>\n",
-				"content_text": "I just read this out loud to the gathered family. 🤣 ['I am going to say quiet words in your face just like I did with Trump': a conversation with the Zuckerbot - Technology - The Guardian](https://www.theguardian.com/technology/2019/dec/22/zuckerbot-mark-zuckerberg-facebook-botnik)\n",
-				"date_published": "2019-12-24T22:30:24-04:00",
-				"url": "https://blog.grotenhuis.info/2019/12/24/i-just-read.html",
-				"tags": ["Humor","Microposts"]
 			},
 			{
 				"id": "http://toddgrotenhuis.micro.blog/2019/12/24/with-all-the.html",
