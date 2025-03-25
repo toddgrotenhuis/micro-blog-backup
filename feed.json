@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://toddgrotenhuis.micro.blog/2025/03/24/highly-anticipated-by-me-against.html",
+				
+				"content_html": "<p>📚 Highly anticipated (by me): <a href=\"https://bookshop.org/a/10222/9780593850633\">Against the Machine</a> by Paul Kingsnorth</p>\n",
+				"content_text": "📚 Highly anticipated (by me): [Against the Machine](https://bookshop.org/a/10222/9780593850633) by Paul Kingsnorth\n",
+				"date_published": "2025-03-24T14:13:37-04:00",
+				"url": "https://blog.grotenhuis.info/2025/03/24/highly-anticipated-by-me-against.html",
+				"tags": ["Books","Microposts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2025/03/24/the-world-found-out-shortly.html",
+				
+				"content_html": "<p>🔗🛡️</p>\n<blockquote>\n<p>The world found out shortly before 2 p.m. eastern time on March 15 that the United States was bombing Houthi targets across Yemen.\nI, however, knew two hours before the first bombs exploded that the attack might be coming. The reason I knew this is that Pete Hegseth, the secretary of defense, had texted me the war plan at 11:44 a.m. The plan included precise information about weapons packages, targets, and timing.\nThis is going to require some explaining.</p>\n</blockquote>\n<p><a href=\"https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/?gift=kPTlqn0J1iP9IBZcsdI5IVJpB2t9BYyxpzU4sooa69M&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share\">OpSec in the modern era</a></p>\n",
+				"content_text": "🔗🛡️\r\n\r\n> The world found out shortly before 2 p.m. eastern time on March 15 that the United States was bombing Houthi targets across Yemen.\r\n> I, however, knew two hours before the first bombs exploded that the attack might be coming. The reason I knew this is that Pete Hegseth, the secretary of defense, had texted me the war plan at 11:44 a.m. The plan included precise information about weapons packages, targets, and timing.\r\n> This is going to require some explaining.\r\n\r\n[OpSec in the modern era](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/?gift=kPTlqn0J1iP9IBZcsdI5IVJpB2t9BYyxpzU4sooa69M&utm_source=copy-link&utm_medium=social&utm_campaign=share)\n",
+				"date_published": "2025-03-24T13:55:48-04:00",
+				"url": "https://blog.grotenhuis.info/2025/03/24/the-world-found-out-shortly.html",
+				"tags": ["Microposts","cybersecurity"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2025/03/24/the-final-big-project-at.html",
+				
+				"content_html": "<p>🛡️ The final big project at my last org was a Wiz implementation for 1k+ cloud accounts.</p>\n<p>It was an excellent solution, especially at our scale.</p>\n<p>Yet, I&rsquo;m still slightly-stunned by <a href=\"https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/\">the $32B purchase price</a>.</p>\n<p>I do wonder what it means for ongoing support for non-GCP clouds.</p>\n",
+				"content_text": "🛡️ The final big project at my last org was a Wiz implementation for 1k+ cloud accounts. \r\n\r\nIt was an excellent solution, especially at our scale.\r\n\r\nYet, I'm still slightly-stunned by [the $32B purchase price](https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/).\r\n\r\nI do wonder what it means for ongoing support for non-GCP clouds.\n",
+				"date_published": "2025-03-24T13:19:50-04:00",
+				"url": "https://blog.grotenhuis.info/2025/03/24/the-final-big-project-at.html",
+				"tags": ["Microposts","cybersecurity"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2025/03/24/this-weekend-of-us-had.html",
+				
+				"content_html": "<p>🎲 This weekend 9 of us had the inaugural #HeronCon.</p>\n<p>We played 7 games and had a great time!</p>\n<p>I got to playtest a very-early version of the &ldquo;<a href=\"https://blog.grotenhuis.info/games-in-development/\">Enclave</a>-creation&rdquo; process which I used to spawn a Undying Sands/Vaults of Vaarn session.</p>\n<p>If you&rsquo;ve met me and want to attend next year, drop me a line!</p>\n",
+				"content_text": "🎲 This weekend 9 of us had the inaugural #HeronCon.\r\n\r\nWe played 7 games and had a great time!\r\n\r\nI got to playtest a very-early version of the \"[Enclave](https://blog.grotenhuis.info/games-in-development/)-creation\" process which I used to spawn a Undying Sands/Vaults of Vaarn session.\r\n\r\nIf you've met me and want to attend next year, drop me a line!\n",
+				"date_published": "2025-03-24T12:37:04-04:00",
+				"url": "https://blog.grotenhuis.info/2025/03/24/this-weekend-of-us-had.html",
+				"tags": ["Games","RPG","Microposts"]
+			},
+			{
+				"id": "http://toddgrotenhuis.micro.blog/2025/03/20/best-alternate-pastas-ranked-spaghetti.html",
+				
+				"content_html": "<p>Best alternate pastas, ranked:</p>\n<ul>\n<li>spaghetti squash</li>\n<li>hearts of palm</li>\n<li>zucchini</li>\n</ul>\n<p>(Except that the palm pasta from Aldi is super convenient)</p>\n",
+				"content_text": "Best alternate pastas, ranked:\n\n* spaghetti squash\n* hearts of palm\n* zucchini\n\n(Except that the palm pasta from Aldi is super convenient)\n",
+				"date_published": "2025-03-20T17:59:22-04:00",
+				"url": "https://blog.grotenhuis.info/2025/03/20/best-alternate-pastas-ranked-spaghetti.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://toddgrotenhuis.micro.blog/2025/03/20/via-alexander-clapp-in-the.html",
 				
 				"content_html": "<p>🔗 via Alexander Clapp in the Guardian, excerpted from <a href=\"https://bookshop.org/a/10222/9780316459020\">Waste Wars.</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🔗 via Alexander Clapp in the Guardian, excerpted from [Waste Wars.](https://bookshop.org/a/10222/9780316459020) \n\n<img src=\"uploads/2025/260c631fd8.jpg\" width=\"600\" height=\"162\" alt=\"But a lot of the plastic that headed to south-eastern Turkey was too dirty to convert into a bathmat or incinerate as fuel. Its fate would be that of the garbage izzettin Akman observed getting set alight on the edge of his farm: to get covertly dumped somewhere in the countryside and spend the next tens of thousands of years breaking down into billions of minuscule plastic pieces that would enter the sea and devastate croplands.\">\n",
+				"content_text": "🔗 via Alexander Clapp in the Guardian, excerpted from [Waste Wars.](https://bookshop.org/a/10222/9780316459020) \n\n<img src=\"https://cdn.uploads.micro.blog/2363/2025/260c631fd8.jpg\" width=\"600\" height=\"162\" alt=\"But a lot of the plastic that headed to south-eastern Turkey was too dirty to convert into a bathmat or incinerate as fuel. Its fate would be that of the garbage izzettin Akman observed getting set alight on the edge of his farm: to get covertly dumped somewhere in the countryside and spend the next tens of thousands of years breaking down into billions of minuscule plastic pieces that would enter the sea and devastate croplands.\">\n",
 				"date_published": "2025-03-20T13:11:34-04:00",
 				"url": "https://blog.grotenhuis.info/2025/03/20/via-alexander-clapp-in-the.html",
 				"tags": ["Microposts"]
@@ -19,7 +64,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2025/03/19/urgent-request-from-the-white.html",
 				
 				"content_html": "<p>Urgent request from the White River Alliance. (<a href=\"https://thewhiteriveralliance.org/about-the-alliance/bill-watch/\">Bill Watch</a>)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Urgent request from the White River Alliance. ([Bill Watch](https://thewhiteriveralliance.org/about-the-alliance/bill-watch/))\r\n\r\n<img src=\"uploads/2025/1597112a1f.png\" alt=\"\">\n",
+				"content_text": "Urgent request from the White River Alliance. ([Bill Watch](https://thewhiteriveralliance.org/about-the-alliance/bill-watch/))\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/2363/2025/1597112a1f.png\" alt=\"\">\n",
 				"date_published": "2025-03-19T16:12:19-04:00",
 				"url": "https://blog.grotenhuis.info/2025/03/19/urgent-request-from-the-white.html",
 				"tags": ["Microposts"]
@@ -28,7 +73,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2025/03/19/since-im-hosting-a-microcon.html",
 				
 				"content_html": "<p>🎲 Since I’m <a href=\"https://blog.grotenhuis.info/2025/03/11/last-year-local-gamers-went.html\">hosting a micro-con this weekend</a> I had to get out the shirts. #ttrpg</p>\n<p>Left: <a href=\"https://www.accidentalcyclops.com/therealthingrpg/\">The Real Thing</a>\nRight: <a href=\"https://www.burningwheel.com/our-games/\">Monster Burner</a>\nNot pictured: <a href=\"https://eclipsephase.com/\">Eclipse Phase</a> faction shirt</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎲 Since I’m [hosting a micro-con this weekend](https://blog.grotenhuis.info/2025/03/11/last-year-local-gamers-went.html) I had to get out the shirts. #ttrpg\n\nLeft: [The Real Thing](https://www.accidentalcyclops.com/therealthingrpg/)\nRight: [Monster Burner](https://www.burningwheel.com/our-games/)\nNot pictured: [Eclipse Phase](https://eclipsephase.com/) faction shirt\n\n<img src=\"uploads/2025/bc624db18d.jpg\" width=\"600\" height=\"450\" alt=\"Two black t-shirts are laid out on a wooden surface, one with a hand design and the other with a detailed illustration.\">\n",
+				"content_text": "🎲 Since I’m [hosting a micro-con this weekend](https://blog.grotenhuis.info/2025/03/11/last-year-local-gamers-went.html) I had to get out the shirts. #ttrpg\n\nLeft: [The Real Thing](https://www.accidentalcyclops.com/therealthingrpg/)\nRight: [Monster Burner](https://www.burningwheel.com/our-games/)\nNot pictured: [Eclipse Phase](https://eclipsephase.com/) faction shirt\n\n<img src=\"https://cdn.uploads.micro.blog/2363/2025/bc624db18d.jpg\" width=\"600\" height=\"450\" alt=\"Two black t-shirts are laid out on a wooden surface, one with a hand design and the other with a detailed illustration.\">\n",
 				"date_published": "2025-03-19T13:36:27-04:00",
 				"url": "https://blog.grotenhuis.info/2025/03/19/since-im-hosting-a-microcon.html",
 				"tags": ["Games","RPG","Microposts"]
@@ -37,7 +82,7 @@
 				"id": "http://toddgrotenhuis.micro.blog/2025/03/17/via-ayjay.html",
 				
 				"content_html": "<p>📑 via <a href=\"https://micro.blog/ayjay\">@ayjay</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📑 via [@ayjay](https://micro.blog/ayjay) \n\n\n\n<img src=\"uploads/2025/170b219843.png\" width=\"600\" height=\"337\" alt=\"&quot;Try, in every way we can think of, to increase the number of situations in our lives in which we are neither dehumanized by an omnipotent state nor engaged in ceaseless competition with one another in an omnipotent marketplace.&quot; (ayjay, Anarchism as a Spiritual Discipline)\">\n",
+				"content_text": "📑 via [@ayjay](https://micro.blog/ayjay) \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/2363/2025/170b219843.png\" width=\"600\" height=\"337\" alt=\"&quot;Try, in every way we can think of, to increase the number of situations in our lives in which we are neither dehumanized by an omnipotent state nor engaged in ceaseless competition with one another in an omnipotent marketplace.&quot; (ayjay, Anarchism as a Spiritual Discipline)\">\n",
 				"date_published": "2025-03-17T08:10:30-04:00",
 				"url": "https://blog.grotenhuis.info/2025/03/17/via-ayjay.html",
 				"tags": ["Quotes","Microposts"]
